@@ -65,7 +65,7 @@ async function render() {
   const { path, params } = parseHash();
   const page = PAGES.find((p) => p.path === path) || PAGES[0];
   document.body.classList.toggle('embed', params.get('embed') === '1');
-  document.title = `${page.title} ― 企業分析`;
+  document.title = `${page.title} ― 有報ナビ`;
   renderNav(page, params);
   const keepScroll = lastPath === page.path;
   const y = window.scrollY;
