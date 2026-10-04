@@ -1,6 +1,6 @@
 // データの読み込みと、会社×期の表の組み立て。画面に依存しない（fetch の基準 URL だけ渡す）。
-import { isNum } from './fields.js?v=0063ac2e1d';
-import { classifyCF } from './cf.js?v=0063ac2e1d';
+import { isNum } from './fields.js?v=121b795056';
+import { classifyCF } from './cf.js?v=121b795056';
 
 const GROUP_ORDER = { 商社: 0, 石油: 1 };
 

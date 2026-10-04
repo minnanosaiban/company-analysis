@@ -1,8 +1,8 @@
 // 財務の推移: 会社ごとの時系列。1社は指標ごとの小さなグラフ、複数社（最大5社）は重ねて比べる。
-import { esc, splitCsv, isNum } from '../lib/fields.js?v=0063ac2e1d';
-import { renderPicker, optionsHtml } from '../lib/ui_common.js?v=0063ac2e1d';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=0063ac2e1d';
-import { TREND_METRICS, TREND_GROUPS, trendData, indexSeries, hasValues, standardChange } from '../lib/chartdata.js?v=0063ac2e1d';
+import { esc, splitCsv, isNum } from '../lib/fields.js?v=121b795056';
+import { renderPicker, optionsHtml } from '../lib/ui_common.js?v=121b795056';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=121b795056';
+import { TREND_METRICS, TREND_GROUPS, trendData, indexSeries, hasValues, standardChange } from '../lib/chartdata.js?v=121b795056';
 
 const DEFAULT_COMPANY = 'E02529';   // 三菱商事（初期表示）
 const MAX_COMPANIES = 5;

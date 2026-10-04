@@ -1,11 +1,11 @@
 // バリュエーション散布図: 財務指標を2軸でプロット。業種などで色分け、中央値の十字線、外れ値の除外、強調表示。
-import { FIELD, esc, fmtValue, isNum, splitCsv } from '../lib/fields.js?v=0063ac2e1d';
-import { periodRows } from '../lib/data.js?v=0063ac2e1d';
-import { applyFilters } from '../lib/filters.js?v=0063ac2e1d';
-import { renderSelector } from '../lib/selector_ui.js?v=0063ac2e1d';
-import { renderPicker, renderFilterBanner, optionsHtml } from '../lib/ui_common.js?v=0063ac2e1d';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=0063ac2e1d';
-import { clipBounds, markerSizes, categoryPalette, quantile } from '../lib/chartdata.js?v=0063ac2e1d';
+import { FIELD, esc, fmtValue, isNum, splitCsv } from '../lib/fields.js?v=121b795056';
+import { periodRows } from '../lib/data.js?v=121b795056';
+import { applyFilters } from '../lib/filters.js?v=121b795056';
+import { renderSelector } from '../lib/selector_ui.js?v=121b795056';
+import { renderPicker, renderFilterBanner, optionsHtml } from '../lib/ui_common.js?v=121b795056';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=121b795056';
+import { clipBounds, markerSizes, categoryPalette, quantile } from '../lib/chartdata.js?v=121b795056';
 
 const AXIS_KEYS = ['roe', 'per', 'equity_ratio', 'eps', 'dps', 'bps', 'net_sales', 'net_income', 'gross_profit', 'total_assets', 'net_assets', 'operating_cf'];
 const SIZE_KEYS = ['none', 'net_sales', 'net_income', 'total_assets', 'gross_profit'];
@@ -36,6 +36,7 @@ export async function render(root, ctx) {
     <details class="panel" open><summary>表示設定</summary><div class="panel-body" id="ctl"></div></details>
     <div id="chart" class="chart"></div>
     <div id="notes"></div>
+    <div id="next"></div>
     <details class="panel"><summary>データテーブル</summary><div class="panel-body" id="table"></div></details>`;
 
   // ── 対象
@@ -152,6 +153,19 @@ export async function render(root, ctx) {
     const nc = pts.filter((r) => !r.cons).length;
     if (nc) notes.push(`個別財務諸表のみの会社が ${nc}社含まれます（連結の会社とは基準が異なります）`);
     root.querySelector('#notes').innerHTML = notes.map((n) => `<p class="tag-note">⚠ ${esc(n)}</p>`).join('');
+  }
+
+  // ── 強調した会社を、比較ページで開く
+  const marked = [...hl].filter((e) => data.byE.has(e));
+  if (marked.length) {
+    const used = marked.slice(0, 5);
+    // 1社だけのときは、同じ業種の会社を2社足す（比較ページが1列だけにならないように）
+    if (used.length === 1) {
+      const ind = data.byE.get(used[0]).i;
+      used.push(...data.companies.filter((c) => c.i === ind && c.e !== used[0]).sort((x, y) => x.s.localeCompare(y.s)).slice(0, 2).map((c) => c.e));
+    }
+    root.querySelector('#next').innerHTML = `<p style="margin:1rem 0"><a class="btn" href="${ctx.link('compare', { cc: used.join(',') })}">${marked.length > 5
+      ? `強調した${marked.length}社のうち、先頭の5社を比べる →` : (marked.length === 1 ? '強調した会社を、同じ業種の会社と比べる →' : `強調した${marked.length}社を比べる →`)}</a></p>`;
   }
 
   // ── 表

@@ -1,6 +1,6 @@
 // 「対象の会社」の選び方（おすすめ／業種／会社／全社）。画面に依存しない部分。
-import { splitCsv } from './fields.js?v=0063ac2e1d';
-import { groupRank } from './data.js?v=0063ac2e1d';
+import { splitCsv } from './fields.js?v=121b795056';
+import { groupRank } from './data.js?v=121b795056';
 
 export const MODES = [
   { id: 'preset', label: 'おすすめ：商社・石油（13社）' },
