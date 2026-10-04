@@ -1,6 +1,6 @@
 // スクリーニングの条件（URL のパラメータ）から、行を絞り込む。画面に依存しない。
-import { FIELD, RANGE_KEYS, parseRange, splitCsv, isNum } from './fields.js?v=00492caca6';
-import { PATTERN_NAMES } from './cf.js?v=00492caca6';
+import { FIELD, RANGE_KEYS, parseRange, splitCsv, isNum } from './fields.js?v=60a1ba03e6';
+import { PATTERN_NAMES } from './cf.js?v=60a1ba03e6';
 
 export const STANDARDS = ['JP', 'IFRS', 'US'];
 export const STANDARD_LABEL = { JP: '日本基準', IFRS: 'IFRS', US: '米国基準' };

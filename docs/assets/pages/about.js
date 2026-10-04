@@ -1,5 +1,5 @@
 // データと注意（出典・加工・制約）。
-import { esc } from '../lib/fields.js?v=00492caca6';
+import { esc } from '../lib/fields.js?v=60a1ba03e6';
 
 export async function render(root, ctx) {
   const { meta, companies } = ctx.data;

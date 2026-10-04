@@ -1,5 +1,7 @@
 // ECharts の読み込みと、図の作成・片付け。ライブラリは docs/assets/vendor/ に同梱（外部の CDN には依存しない）。
 
+import { mergeChartOption } from './chartdata.js?v=60a1ba03e6';
+
 let loading = null;
 const instances = new Set();
 
@@ -30,6 +32,8 @@ export function baseOption() {
   return {
     textStyle: { fontFamily: '"Noto Sans JP", system-ui, sans-serif', color: c.fg },
     tooltip: { confine: true, backgroundColor: c.surface, borderColor: c.line, textStyle: { color: c.fg, fontSize: 12 } },
+    // 凡例が長くてページ送りになるときの、矢印・ページ番号の色
+    legend: { pageTextStyle: { color: c.muted }, pageIconColor: c.fg, pageIconInactiveColor: c.line },
     animation: false,
   };
 }
@@ -38,7 +42,7 @@ export function baseOption() {
 export function mountChart(el, option, { height = 420 } = {}) {
   el.style.height = `${height}px`;
   const chart = window.echarts.init(el, null, { renderer: 'canvas' });
-  chart.setOption({ ...baseOption(), ...option });
+  chart.setOption(mergeChartOption(baseOption(), option));
   instances.add(chart);
   return chart;
 }

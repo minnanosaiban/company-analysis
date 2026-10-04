@@ -1,6 +1,6 @@
 // 図に渡すデータの組み立て（画面・ECharts に依存しない。テストできる部分）。
 // tests/make_expected_charts.py の Python の基準実装と同じ計算にそろえる（tests/charts.test.mjs で照合）。
-import { isNum } from './fields.js?v=00492caca6';
+import { isNum } from './fields.js?v=60a1ba03e6';
 
 /** 昇順にした配列の q 分位点（線形補間）。 */
 export function quantile(sorted, q) {
@@ -212,6 +212,24 @@ export function contrastRatio(a, b) {
 /** 背景色の上で読みやすい文字色（白か濃い灰色の、コントラストが高い方） */
 export function readableText(bg) {
   return contrastRatio(bg, '#ffffff') >= contrastRatio(bg, '#111111') ? '#ffffff' : '#111111';
+}
+
+/**
+ * 図の共通設定 base に、ページごとの設定 option を重ねる。
+ * tooltip と legend は、ページが一部（trigger・formatter・type など）だけ指定しても、
+ * 共通の色（テーマに合わせた背景・文字・ページ送りの色）が消えないように、項目ごとに重ねる。
+ */
+export function mergeChartOption(base, option) {
+  const merged = { ...base, ...option };
+  const tip = option.tooltip || {};
+  merged.tooltip = { ...base.tooltip, ...tip, textStyle: { ...(base.tooltip && base.tooltip.textStyle), ...tip.textStyle } };
+  if (option.legend) {   // 凡例のないページに、凡例を作らない
+    const lg = option.legend;
+    merged.legend = { ...base.legend, ...lg, pageTextStyle: { ...(base.legend && base.legend.pageTextStyle), ...lg.pageTextStyle } };
+  } else {
+    delete merged.legend;
+  }
+  return merged;
 }
 
 export function trendData(rows, n = null) {

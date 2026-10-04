@@ -7,7 +7,7 @@ import path from 'node:path';
 
 import {
   portfolioItem, segmentSeries, clipBounds, markerSizes, availableMetrics, fmtAmount,
-  trendData, indexSeries, hasValues, standardChange, compareValues, bestIndexes, TREEMAP_COLORS, readableText, contrastRatio,
+  trendData, indexSeries, hasValues, standardChange, compareValues, bestIndexes, TREEMAP_COLORS, readableText, contrastRatio, mergeChartOption,
 } from '../docs/assets/lib/chartdata.js';
 import { periodRows, buildData } from '../docs/assets/lib/data.js';
 
@@ -95,6 +95,14 @@ check('bestIndexes', [bestIndexes([1, 3, null, 3], 'high'), bestIndexes([5], 'hi
 check('Treemap 文字色 全タイルで4.5:1以上', TREEMAP_COLORS.map((c) => contrastRatio(c, readableText(c)) >= 4.5), TREEMAP_COLORS.map(() => true));
 check('readableText 薄い色は濃い文字・濃い色は白', [readableText('#fac858'), readableText('#5470c6'), readableText('#ffffff'), readableText('#000000')], ['#111111', '#ffffff', '#111111', '#ffffff']);
 check('contrastRatio 白黒は21', Math.round(contrastRatio('#ffffff', '#000000')), 21);
+// 図の設定の重ね方: ページが tooltip・legend の一部だけ指定しても、共通の色が残る
+const baseOpt = { tooltip: { confine: true, backgroundColor: '#222', textStyle: { color: '#eee', fontSize: 12 } }, legend: { pageTextStyle: { color: '#aaa' }, pageIconColor: '#fff' }, animation: false };
+const mo = mergeChartOption(baseOpt, { tooltip: { trigger: 'axis', formatter: 'f' }, legend: { type: 'scroll', top: 0 }, series: [] });
+check('mergeChartOption tooltip', [mo.tooltip.trigger, mo.tooltip.backgroundColor, mo.tooltip.textStyle.color, mo.tooltip.confine], ['axis', '#222', '#eee', true]);
+check('mergeChartOption legend', [mo.legend.type, mo.legend.pageTextStyle.color, mo.legend.pageIconColor], ['scroll', '#aaa', '#fff']);
+const mo2 = mergeChartOption(baseOpt, { tooltip: { textStyle: { color: '#f00' } }, legend: { pageTextStyle: { color: '#0f0' } } });
+check('mergeChartOption ページ側の指定が優先', [mo2.tooltip.textStyle.color, mo2.tooltip.textStyle.fontSize, mo2.legend.pageTextStyle.color], ['#f00', 12, '#0f0']);
+check('mergeChartOption ページに legend がなければ、凡例を作らない', mergeChartOption(baseOpt, { series: [] }).legend, undefined);
 check('markerSizes 一定', markerSizes([5, 5, 5]), [10, 10, 10]);
 check('markerSizes 範囲', markerSizes([1, 2, 3], 6, 40), [6, 23, 40]);
 check('markerSizes 欠損は中央値', markerSizes([1, null, 3], 6, 40)[1], 23);
