@@ -5,7 +5,10 @@ import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
-import { portfolioItem, segmentSeries, clipBounds, markerSizes, availableMetrics, fmtAmount } from '../docs/assets/lib/chartdata.js';
+import {
+  portfolioItem, segmentSeries, clipBounds, markerSizes, availableMetrics, fmtAmount,
+  trendData, indexSeries, hasValues, standardChange,
+} from '../docs/assets/lib/chartdata.js';
 import { periodRows, buildData } from '../docs/assets/lib/data.js';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
@@ -55,7 +58,32 @@ for (const [col, want] of Object.entries(expected.clip)) {
   n++; if (!close) { failed++; console.log(`FAIL 範囲 ${col}`, got, want); } else console.log(`OK   外れ値の範囲 ${col}: [${got.map((v) => v.toFixed(2))}]`);
 }
 
+// 財務の推移（会社ごとの時系列）。浮動小数点は、相対 1e-6 までの誤差を許す（JSON の丸めのため）
+const closeNum = (a, b) => (a === null || b === null ? a === b : Math.abs(a - b) <= 1e-6 * Math.max(1, Math.abs(b)));
+let tOk = 0;
+for (const [k, want] of Object.entries(expected.trend)) {
+  const [ed, nn] = k.split(':');
+  const got = trendData(data.byCompany.get(ed), nn === 'null' || nn === 'None' ? null : Number(nn));
+  const problems = [];
+  if (JSON.stringify(got.fys) !== JSON.stringify(want.fys)) problems.push('fys');
+  if (JSON.stringify(got.std) !== JSON.stringify(want.std)) problems.push('std');
+  if (JSON.stringify(got.revSrc) !== JSON.stringify(want.revSrc)) problems.push('revSrc');
+  for (const [m, vals] of Object.entries(want.series)) {
+    const g = got.series[m];
+    if (!g || g.length !== vals.length || !vals.every((v, i) => closeNum(g[i], v))) problems.push(m);
+  }
+  n++;
+  if (problems.length) { failed++; console.log(`FAIL 推移 ${k}: ${problems.join(',')}`); } else tOk++;
+}
+console.log(`財務の推移: ${tOk}/${Object.keys(expected.trend).length} 件が一致`);
+
 // 単体
+check('indexSeries', indexSeries([null, 50, 100, 25]), [null, 100, 200, 50]);
+check('indexSeries 最初が負（赤字）でも、改善すれば100を上回る', indexSeries([-10, -5, -20]), [100, 150, 0]);
+check('indexSeries 最初が0', indexSeries([0, 5]), [null, null]);
+check('hasValues', [hasValues([null, null]), hasValues([null, 0])], [false, true]);
+check('standardChange', standardChange(['2020-03-31', '2021-03-31', '2022-03-31'], ['JP', 'JP', 'IFRS']), 'JP → IFRS（2022/03 から）');
+check('standardChange なし', standardChange(['2020-03-31', '2021-03-31'], ['JP', 'JP']), null);
 check('markerSizes 一定', markerSizes([5, 5, 5]), [10, 10, 10]);
 check('markerSizes 範囲', markerSizes([1, 2, 3], 6, 40), [6, 23, 40]);
 check('markerSizes 欠損は中央値', markerSizes([1, null, 3], 6, 40)[1], 23);

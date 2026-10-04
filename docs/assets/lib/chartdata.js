@@ -112,6 +112,79 @@ export function segmentSeries(segData, metric, n = 5, sortBy = 'latest') {
   return { fys, series };
 }
 
+// ── 財務の推移（会社ごとの時系列） ──────────────────────────────────────
+
+// kind: bar=金額（棒）/ line=比率・1株指標（折れ線）。scale: 表示値 = 生の値 × scale
+export const TREND_METRICS = {
+  rev:              { label: '売上・収益',            unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+  total_assets:     { label: '総資産',                unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+  net_assets:       { label: '純資産',                unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+  operating_income: { label: '営業利益',              unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+  ordinary_income:  { label: '経常利益',              unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+  net_income:       { label: '純利益（親会社帰属）',  unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+  roe:              { label: 'ROE',                   unit: '%',    scale: 100,  digits: 1, kind: 'line' },
+  equity_ratio:     { label: '自己資本比率',          unit: '%',    scale: 100,  digits: 1, kind: 'line' },
+  eps:              { label: 'EPS',                   unit: '円',   scale: 1,    digits: 1, kind: 'line' },
+  dps:              { label: 'DPS（配当）',           unit: '円',   scale: 1,    digits: 1, kind: 'line' },
+  bps:              { label: 'BPS',                   unit: '円',   scale: 1,    digits: 0, kind: 'line' },
+  per:              { label: 'PER（有報の値）',       unit: '倍',   scale: 1,    digits: 1, kind: 'line' },
+  operating_cf:     { label: '営業CF',                unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+  investing_cf:     { label: '投資CF',                unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+  financing_cf:     { label: '財務CF',                unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+  fcf:              { label: 'FCF（営業CF＋投資CF）', unit: '億円', scale: 1e-8, digits: 0, kind: 'bar'  },
+};
+export const TREND_GROUPS = [
+  { id: 'scale',    title: '規模',                 metrics: ['rev', 'total_assets', 'net_assets'] },
+  { id: 'profit',   title: '利益',                 metrics: ['operating_income', 'ordinary_income', 'net_income'] },
+  { id: 'quality',  title: '収益性・健全性',       metrics: ['roe', 'equity_ratio'] },
+  { id: 'pershare', title: '1株あたり・株価指標',  metrics: ['eps', 'dps', 'bps', 'per'] },
+  { id: 'cf',       title: 'キャッシュフロー',     metrics: ['operating_cf', 'investing_cf', 'financing_cf', 'fcf'] },
+];
+// 「売上」の呼び名は会社ごとに違う。売上高 → 経常収益（金融）→ 純収益（証券）の順で、最初に値があるもの
+const REV_SOURCES = [['net_sales', '売上'], ['ordinary_revenue', '経常収益'], ['net_revenue', '純収益']];
+
+/**
+ * 1社の時系列。rows は新しい期から（data.byCompany の形）。n を指定すると、直近 n 期。
+ * 戻り値: { fys:[古い期から], std:[会計基準], series:{指標キー:[値|null]}, revSrc:[売上の呼び名|null] }
+ * 導出: rev（売上・収益）、fcf（営業CF＋投資CF。どちらかが欠ければ null）
+ */
+export function trendData(rows, n = null) {
+  const asc = [...rows].reverse();
+  const use = n ? asc.slice(-n) : asc;
+  const num = (v) => (isNum(v) ? v : null);
+  const series = {};
+  Object.keys(TREND_METRICS).forEach((k) => {
+    if (k === 'rev' || k === 'fcf') return;
+    series[k] = use.map((r) => num(r[k]));
+  });
+  const revSrc = use.map((r) => { const s = REV_SOURCES.find(([k]) => isNum(r[k])); return s ? s[1] : null; });
+  series.rev = use.map((r) => { const s = REV_SOURCES.find(([k]) => isNum(r[k])); return s ? r[s[0]] : null; });
+  series.fcf = use.map((r) => (isNum(r.operating_cf) && isNum(r.investing_cf) ? r.operating_cf + r.investing_cf : null));
+  return { fys: use.map((r) => r.fy), std: use.map((r) => r.std), series, revSrc };
+}
+
+/**
+ * 最初に値がある期を 100 とした指数（比べるため）。指数 = 100 + (値 − 最初の値) ÷ |最初の値| × 100。
+ * 最初の値が正なら 値 ÷ 最初の値 × 100 と同じ。負（赤字）でも、改善すれば 100 を上回る。最初の値が 0 や欠損のときは、すべて null。
+ */
+export function indexSeries(values) {
+  const first = values.find((v) => isNum(v));
+  if (!isNum(first) || first === 0) return values.map(() => null);
+  return values.map((v) => (isNum(v) ? 100 + ((v - first) / Math.abs(first)) * 100 : null));
+}
+
+/** 値が1つでもあるか（グラフを出すかの判断）。 */
+export const hasValues = (values) => values.some((v) => isNum(v));
+
+/** 会計基準が途中で変わっていれば、その経緯の文字列（例: 「JP → IFRS（2021/03 から）」）。なければ null。 */
+export function standardChange(fys, stds) {
+  const parts = [];
+  for (let i = 1; i < stds.length; i++) {
+    if (stds[i] && stds[i - 1] && stds[i] !== stds[i - 1]) parts.push(`${stds[i - 1]} → ${stds[i]}（${fys[i].slice(0, 4)}/${fys[i].slice(5, 7)} から）`);
+  }
+  return parts.length ? parts.join('、') : null;
+}
+
 /** 金額（円）を「億円」「兆円」の文字列にする。 */
 export function fmtAmount(yen) {
   const oku = yen / 1e8;

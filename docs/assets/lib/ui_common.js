@@ -7,9 +7,11 @@ import { searchCompanies } from './selection.js';
  * 会社を検索して、複数選べる欄（URL の param に EDINET コードをカンマ区切りで保存）。
  * pool: 選べる会社の配列（省略時は全社）
  */
-export function renderPicker(el, ctx, { param = 'hl', label = '強調表示する会社', pool = null } = {}) {
+export function renderPicker(el, ctx, { param = 'hl', label = '強調表示する会社', pool = null, max = null, fallback = [], noneText = 'なし' } = {}) {
   const { data } = ctx;
-  const chosen = splitCsv(ctx.params.get(param));
+  // param が空のときは fallback（既定の会社）を、選ばれているものとして扱う
+  const fromUrl = splitCsv(ctx.params.get(param));
+  const chosen = fromUrl.length ? fromUrl : fallback;
   const poolSet = pool ? new Set(pool.map((c) => c.e)) : null;
   const chips = chosen.map((e) => data.byE.get(e)).filter(Boolean).map((c) =>
     `<span class="chip">${esc(c.n)}<button type="button" data-rm="${esc(c.e)}" aria-label="${esc(c.n)}を外す">×</button></span>`).join('');
@@ -17,10 +19,12 @@ export function renderPicker(el, ctx, { param = 'hl', label = '強調表示す�
     <label for="pk-${param}">${esc(label)}</label>
     <input id="pk-${param}" type="search" placeholder="会社名・証券コードで検索" autocomplete="off" style="width:min(22rem,100%)">
     <ul class="suggest" hidden></ul>
-    <div class="chips">${chips || '<span class="muted small">なし</span>'}</div>`;
+    <div class="chips">${chips || `<span class="muted small">${esc(noneText)}</span>`}</div>`;
   const input = el.querySelector('input');
   const box = el.querySelector('.suggest');
   const set = (list) => ctx.update({ [param]: list.join(',') });
+  const full = max !== null && chosen.length >= max;
+  if (full) { input.disabled = true; input.placeholder = `最大${max}社まで（外してから追加）`; }
   input.addEventListener('input', () => {
     const hits = searchCompanies(data, input.value, 30).filter((c) => !chosen.includes(c.e) && (!poolSet || poolSet.has(c.e))).slice(0, 10);
     box.innerHTML = hits.map((c) => `<li><button type="button" data-add="${esc(c.e)}">${esc(c.n)}<span class="muted small">　${esc(c.s)}・${esc(c.i)}</span></button></li>`).join('');

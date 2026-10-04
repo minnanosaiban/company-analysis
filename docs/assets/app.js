@@ -12,6 +12,7 @@ const FILTER_PARAMS = ['std', 'cons', 'pat', 'p', ...RANGE_KEYS, ...CF_SIGN_KEYS
 
 const PAGES = [
   { path: '',          title: '企業を探す',             load: () => import('./pages/screen.js') },
+  { path: 'trend',     title: '財務の推移',             load: () => import('./pages/trend.js') },
   { path: 'valuation', title: 'バリュエーション散布図', load: () => import('./pages/valuation.js') },
   { path: 'cashflow',  title: 'CFパターン',             load: () => import('./pages/cashflow.js') },
   { path: 'portfolio', title: '業界ポートフォリオ',     load: () => import('./pages/portfolio.js') },

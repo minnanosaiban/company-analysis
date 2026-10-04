@@ -139,6 +139,34 @@ for col, scale in (("roe", 100), ("per", 1), ("equity_ratio", 100), ("net_sales"
     pad = (hi - lo) * 0.06
     clip[col] = [lo - pad, hi + pad]
 
-out = {"sample": [str(e) for e in sample], "portfolio": portfolio, "segment_series": segment_series, "clip": clip}
+# ── 財務の推移（会社ごとの時系列）。docs/assets/lib/chartdata.js の trendData の基準実装
+TREND_KEYS = ["operating_income", "ordinary_income", "net_income", "total_assets", "net_assets", "roe", "equity_ratio",
+              "eps", "dps", "bps", "per", "operating_cf", "investing_cf", "financing_cf"]
+REV_SOURCES = [("net_sales", "売上"), ("ordinary_revenue", "経常収益"), ("net_revenue", "純収益")]
+
+
+def _num(v):
+    return None if v is None or (isinstance(v, float) and np.isnan(v)) else float(v)
+
+
+def trend_for(ed: str, n):
+    d = fin[fin["edinet_code"] == ed].sort_values("fy")
+    d = d.tail(n) if n else d
+    series = {k: [_num(v) for v in (d[k] if k in d.columns else [None] * len(d))] for k in TREND_KEYS}
+    rev, src = [], []
+    for _, r in d.iterrows():
+        pick = next(((c, label) for c, label in REV_SOURCES if c in d.columns and _num(r[c]) is not None), None)
+        rev.append(_num(r[pick[0]]) if pick else None)
+        src.append(pick[1] if pick else None)
+    series["rev"] = rev
+    op, inv = series["operating_cf"], series["investing_cf"]
+    series["fcf"] = [a + b if a is not None and b is not None else None for a, b in zip(op, inv)]
+    return {"fys": d["fy"].tolist(), "std": d["std"].tolist(), "series": series, "revSrc": src}
+
+
+trend_eds = list(dict.fromkeys(sample[:10] + ["E03606", "E02144", "E05714", "E04762"]))   # 金融・IFRS・米国基準を含める
+trend = {f"{ed}:{n}": trend_for(ed, n) for ed in trend_eds for n in (None, 5)}
+
+out = {"sample": [str(e) for e in sample], "portfolio": portfolio, "segment_series": segment_series, "clip": clip, "trend": trend}
 (ROOT / "tests" / "expected_charts.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
 print("expected_charts.json:", len(sample), "社,", sum(1 for v in portfolio.values() for x in v.values() if x), "Treemap,", len(segment_series), "系列セット")
