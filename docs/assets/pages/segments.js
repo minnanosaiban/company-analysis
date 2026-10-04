@@ -1,10 +1,10 @@
 // セグメント推移: 1社を選び、セグメントごとの推移を小さなグラフで並べる。
-import { esc } from '../lib/fields.js?v=9af2442f53';
-import { loadSegments } from '../lib/data.js?v=9af2442f53';
-import { optionsHtml } from '../lib/ui_common.js?v=9af2442f53';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=9af2442f53';
-import { availableMetrics, segmentSeries, METRIC_LABEL } from '../lib/chartdata.js?v=9af2442f53';
-import { searchCompanies } from '../lib/selection.js?v=9af2442f53';
+import { esc } from '../lib/fields.js?v=0063ac2e1d';
+import { loadSegments } from '../lib/data.js?v=0063ac2e1d';
+import { optionsHtml } from '../lib/ui_common.js?v=0063ac2e1d';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=0063ac2e1d';
+import { availableMetrics, segmentSeries, METRIC_LABEL } from '../lib/chartdata.js?v=0063ac2e1d';
+import { searchCompanies } from '../lib/selection.js?v=0063ac2e1d';
 
 const DEFAULT_COMPANY = 'E02529';   // 三菱商事（初期表示）
 
@@ -114,4 +114,14 @@ export async function render(root, ctx) {
         : { type: 'line', data: oku, symbolSize: 7, itemStyle: { color: base }, lineStyle: { color: base, width: 2 }, markLine: { silent: true, symbol: 'none', lineStyle: { color: tc.muted, opacity: 0.4, width: 0.7 }, label: { show: false }, data: [{ yAxis: 0 }] } }],
     }, { height: 200 });
   });
+
+  // ── 次に見る
+  const peers = pool.filter((c) => c.i === company.i && c.e !== ed).sort((a, b) => a.s.localeCompare(b.s)).slice(0, 2).map((c) => c.e);
+  const next = document.createElement('section');
+  next.innerHTML = `<h3 class="bar-title" style="margin-top:2rem">次に見る</h3>
+    <ul>
+      <li><a href="${ctx.link('trend', { tc: ed })}">${esc(company.n)}の財務（売上・利益・CF など）の推移を見る →</a></li>
+      <li><a href="${ctx.link('compare', { cc: [ed, ...peers].join(',') })}">${esc(company.n)}を、${peers.length ? '同じ業種の会社と' : '他の会社と'}比べる →</a></li>
+    </ul>`;
+  out.appendChild(next);
 }

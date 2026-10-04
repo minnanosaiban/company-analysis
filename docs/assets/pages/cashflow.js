@@ -1,12 +1,12 @@
 // CFパターン分類: 営業CF・投資CF・財務CF の符号で、経営フェーズを8パターンに分ける。
-import { esc, fmtValue, isNum, splitCsv } from '../lib/fields.js?v=9af2442f53';
-import { periodRows } from '../lib/data.js?v=9af2442f53';
-import { applyFilters } from '../lib/filters.js?v=9af2442f53';
-import { PATTERNS, PATTERN_NAMES, PATTERN_COLOR } from '../lib/cf.js?v=9af2442f53';
-import { renderSelector } from '../lib/selector_ui.js?v=9af2442f53';
-import { renderPicker, renderFilterBanner } from '../lib/ui_common.js?v=9af2442f53';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=9af2442f53';
-import { clipBounds } from '../lib/chartdata.js?v=9af2442f53';
+import { esc, fmtValue, isNum, splitCsv } from '../lib/fields.js?v=0063ac2e1d';
+import { periodRows } from '../lib/data.js?v=0063ac2e1d';
+import { applyFilters } from '../lib/filters.js?v=0063ac2e1d';
+import { PATTERNS, PATTERN_NAMES, PATTERN_COLOR } from '../lib/cf.js?v=0063ac2e1d';
+import { renderSelector } from '../lib/selector_ui.js?v=0063ac2e1d';
+import { renderPicker, renderFilterBanner } from '../lib/ui_common.js?v=0063ac2e1d';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=0063ac2e1d';
+import { clipBounds } from '../lib/chartdata.js?v=0063ac2e1d';
 
 const TRAIL_MAX = 30;   // 軌跡（過去期の線）を出す会社数の上限
 const LABEL_MAX = 40;   // 会社名ラベルを出す会社数の上限

@@ -1,9 +1,9 @@
 // 企業を探す（スクリーニング）: 条件で絞り込み、結果を表で見る。
-import { FIELD, RANGE_KEYS, esc, fmtValue, isNum, parseRange, splitCsv } from '../lib/fields.js?v=9af2442f53';
-import { periodRows } from '../lib/data.js?v=9af2442f53';
-import { applyFilters, sortRows, hasActiveFilters, STANDARDS, STANDARD_LABEL, CF_SIGN_KEYS } from '../lib/filters.js?v=9af2442f53';
-import { PATTERNS, PATTERN_COLOR } from '../lib/cf.js?v=9af2442f53';
-import { renderSelector } from '../lib/selector_ui.js?v=9af2442f53';
+import { FIELD, RANGE_KEYS, esc, fmtValue, isNum, parseRange, splitCsv } from '../lib/fields.js?v=0063ac2e1d';
+import { periodRows } from '../lib/data.js?v=0063ac2e1d';
+import { applyFilters, sortRows, hasActiveFilters, STANDARDS, STANDARD_LABEL, CF_SIGN_KEYS } from '../lib/filters.js?v=0063ac2e1d';
+import { PATTERNS, PATTERN_COLOR } from '../lib/cf.js?v=0063ac2e1d';
+import { renderSelector } from '../lib/selector_ui.js?v=0063ac2e1d';
 
 const PAGE_SIZE = 50;
 const PERIOD_LABELS = ['最新期', '1期前', '2期前', '3期前', '4期前'];
@@ -171,10 +171,11 @@ function renderResults(el, ctx, filtered, targetCount, offset) {
       ${isNum(mPer) ? `<span class="muted small">PER 中央値 ${fmtValue('per', mPer)}倍</span>` : ''}
       <span style="flex:1"></span>
       ${filtered.length ? `<span class="muted small">この結果を図で見る：</span>
-        <a class="btn" href="${ctx.link('valuation', {}, { withFilters: true })}">散布図</a>
-        <a class="btn" href="${ctx.link('cashflow', {}, { withFilters: true })}">CFパターン</a>
-        <a class="btn" href="${ctx.link('portfolio', {}, { withFilters: true })}">ポートフォリオ</a>` : ''}
-      <button class="btn" id="csv" type="button" ${filtered.length ? '' : 'disabled'}>CSV で保存</button>
+        <a class="btn" href="${ctx.link('valuation', {}, { withFilters: true })}">散布図で見る →</a>
+        <a class="btn" href="${ctx.link('cashflow', {}, { withFilters: true })}">CFパターンで見る →</a>
+        <a class="btn" href="${ctx.link('portfolio', {}, { withFilters: true })}">セグメント構成で見る →</a>
+        <a class="btn" href="${ctx.link('compare', { cc: sorted.slice(0, 5).map((r) => r.e).join(',') })}">${sorted.length > 5 ? '先頭の5社' : '表示中の会社'}を比べる →</a>` : ''}
+      <button class="btn" id="csv" type="button" ${filtered.length ? '' : 'disabled'}>この結果を CSV で保存</button>
     </div>
     ${filtered.length ? `
       <div class="table-wrap"><table class="data"><thead>${head}</thead><tbody>${body}</tbody></table></div>
@@ -185,7 +186,7 @@ function renderResults(el, ctx, filtered, targetCount, offset) {
       </div>
       <p class="muted small">「売上」は、売上高・売上収益・営業収益のいずれかです。売上を持たない業種（銀行・保険・証券など）では空欄です。「個別」は、連結財務諸表を作らない会社で、連結の会社とは基準が異なります。
         見出しをクリックすると並べ替えられます。</p>`
-      : '<div class="empty">条件に合う会社がありません。条件をゆるめるか、対象の会社を広げてください。</div>'}`;
+      : '<div class="empty">条件に合う会社がありません。数値の範囲をゆるめるか、上の「条件をクリア」で、最初からやり直してください。</div>'}`;
 
   el.querySelectorAll('[data-sort]').forEach((h) => h.addEventListener('click', () => {
     const k = h.dataset.sort;

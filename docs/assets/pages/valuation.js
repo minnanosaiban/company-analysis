@@ -1,11 +1,11 @@
 // バリュエーション散布図: 財務指標を2軸でプロット。業種などで色分け、中央値の十字線、外れ値の除外、強調表示。
-import { FIELD, esc, fmtValue, isNum, splitCsv } from '../lib/fields.js?v=9af2442f53';
-import { periodRows } from '../lib/data.js?v=9af2442f53';
-import { applyFilters } from '../lib/filters.js?v=9af2442f53';
-import { renderSelector } from '../lib/selector_ui.js?v=9af2442f53';
-import { renderPicker, renderFilterBanner, optionsHtml } from '../lib/ui_common.js?v=9af2442f53';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=9af2442f53';
-import { clipBounds, markerSizes, categoryPalette, quantile } from '../lib/chartdata.js?v=9af2442f53';
+import { FIELD, esc, fmtValue, isNum, splitCsv } from '../lib/fields.js?v=0063ac2e1d';
+import { periodRows } from '../lib/data.js?v=0063ac2e1d';
+import { applyFilters } from '../lib/filters.js?v=0063ac2e1d';
+import { renderSelector } from '../lib/selector_ui.js?v=0063ac2e1d';
+import { renderPicker, renderFilterBanner, optionsHtml } from '../lib/ui_common.js?v=0063ac2e1d';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=0063ac2e1d';
+import { clipBounds, markerSizes, categoryPalette, quantile } from '../lib/chartdata.js?v=0063ac2e1d';
 
 const AXIS_KEYS = ['roe', 'per', 'equity_ratio', 'eps', 'dps', 'bps', 'net_sales', 'net_income', 'gross_profit', 'total_assets', 'net_assets', 'operating_cf'];
 const SIZE_KEYS = ['none', 'net_sales', 'net_income', 'total_assets', 'gross_profit'];

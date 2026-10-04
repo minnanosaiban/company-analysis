@@ -1,8 +1,8 @@
 // 財務の推移: 会社ごとの時系列。1社は指標ごとの小さなグラフ、複数社（最大5社）は重ねて比べる。
-import { esc, splitCsv, isNum } from '../lib/fields.js?v=9af2442f53';
-import { renderPicker, optionsHtml } from '../lib/ui_common.js?v=9af2442f53';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=9af2442f53';
-import { TREND_METRICS, TREND_GROUPS, trendData, indexSeries, hasValues, standardChange } from '../lib/chartdata.js?v=9af2442f53';
+import { esc, splitCsv, isNum } from '../lib/fields.js?v=0063ac2e1d';
+import { renderPicker, optionsHtml } from '../lib/ui_common.js?v=0063ac2e1d';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=0063ac2e1d';
+import { TREND_METRICS, TREND_GROUPS, trendData, indexSeries, hasValues, standardChange } from '../lib/chartdata.js?v=0063ac2e1d';
 
 const DEFAULT_COMPANY = 'E02529';   // 三菱商事（初期表示）
 const MAX_COMPANIES = 5;
@@ -154,6 +154,14 @@ export async function render(root, ctx) {
     out.insertBefore(legend, out.children[1]);
   }
   if (!anyChart) out.innerHTML += '<div class="empty">表示できる財務の値がありません。</div>';
+
+  // ── 次に見る
+  const peers = multi ? [] : data.companies.filter((c) => c.i === companies[0].i && c.e !== codes[0]).sort((x, y) => x.s.localeCompare(y.s)).slice(0, 2).map((c) => c.e);
+  const nextLinks = [`<li><a href="${ctx.link('compare', { cc: [...codes, ...peers].join(',') })}">${multi ? `この${codes.length}社の最新期を、表で並べて比べる` : `${esc(companies[0].n)}を、${peers.length ? '同じ業種の会社と' : '他の会社と'}比べる`} →</a></li>`];
+  if (!multi && companies[0].g) nextLinks.push(`<li><a href="${ctx.link('segments', { sc: codes[0] })}">${esc(companies[0].n)}の事業セグメント別の推移を見る →</a></li>`);
+  const next = document.createElement('section');
+  next.innerHTML = `<h3 class="bar-title" style="margin-top:2rem">次に見る</h3><ul>${nextLinks.join('')}</ul>`;
+  out.appendChild(next);
 
   // ── 数値の表（会社ごと）
   root.querySelector('#table').innerHTML = companies.map((c, i) => {

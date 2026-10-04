@@ -1,11 +1,11 @@
 // 業界ポートフォリオ: 会社ごとの、事業セグメント別の利益を Treemap で一覧する。
-import { esc } from '../lib/fields.js?v=9af2442f53';
-import { periodRows, loadSegments } from '../lib/data.js?v=9af2442f53';
-import { applyFilters } from '../lib/filters.js?v=9af2442f53';
-import { renderSelector } from '../lib/selector_ui.js?v=9af2442f53';
-import { renderFilterBanner, optionsHtml } from '../lib/ui_common.js?v=9af2442f53';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=9af2442f53';
-import { portfolioItem, METRIC_LABEL, SEGMENT_METRICS, PROFIT_PRIORITY, fmtAmount } from '../lib/chartdata.js?v=9af2442f53';
+import { esc } from '../lib/fields.js?v=0063ac2e1d';
+import { periodRows, loadSegments } from '../lib/data.js?v=0063ac2e1d';
+import { applyFilters } from '../lib/filters.js?v=0063ac2e1d';
+import { renderSelector } from '../lib/selector_ui.js?v=0063ac2e1d';
+import { renderFilterBanner, optionsHtml } from '../lib/ui_common.js?v=0063ac2e1d';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=0063ac2e1d';
+import { portfolioItem, METRIC_LABEL, SEGMENT_METRICS, PROFIT_PRIORITY, fmtAmount } from '../lib/chartdata.js?v=0063ac2e1d';
 
 const PAGE_SIZE = 12;
 const PERIODS = ['最新期', '1期前', '2期前', '3期前', '4期前'];
