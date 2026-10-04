@@ -148,6 +148,56 @@ const REV_SOURCES = [['net_sales', '売上'], ['ordinary_revenue', '経常収益
  * 戻り値: { fys:[古い期から], std:[会計基準], series:{指標キー:[値|null]}, revSrc:[売上の呼び名|null] }
  * 導出: rev（売上・収益）、fcf（営業CF＋投資CF。どちらかが欠ければ null）
  */
+// ── 会社の比較（最新期どうしを並べる）
+// better: 'high' は大きいほど良い（強調する）。null は良し悪しを決めない（規模・PER・CFなど）
+export const COMPARE_ROWS = [
+  { group: '規模', key: 'rev', label: '売上・収益', unit: '億円', scale: 1e-8, digits: 0, better: null },
+  { group: '規模', key: 'total_assets', label: '総資産', unit: '億円', scale: 1e-8, digits: 0, better: null },
+  { group: '規模', key: 'net_assets', label: '純資産', unit: '億円', scale: 1e-8, digits: 0, better: null },
+  { group: '収益性', key: 'op_margin', label: '営業利益率', unit: '%', scale: 100, digits: 1, better: 'high' },
+  { group: '収益性', key: 'net_margin', label: '純利益率', unit: '%', scale: 100, digits: 1, better: 'high' },
+  { group: '収益性', key: 'roe', label: 'ROE', unit: '%', scale: 100, digits: 1, better: 'high' },
+  { group: '成長', key: 'rev_growth', label: '売上の前期比', unit: '%', scale: 100, digits: 1, better: 'high' },
+  { group: '安全性', key: 'equity_ratio', label: '自己資本比率', unit: '%', scale: 100, digits: 1, better: 'high' },
+  { group: '株式', key: 'per', label: 'PER', unit: '倍', scale: 1, digits: 1, better: null },
+  { group: '株式', key: 'eps', label: 'EPS', unit: '円', scale: 1, digits: 1, better: null },
+  { group: '株式', key: 'dps', label: 'DPS（1株配当）', unit: '円', scale: 1, digits: 1, better: null },
+  { group: '株式', key: 'bps', label: 'BPS', unit: '円', scale: 1, digits: 0, better: null },
+  { group: 'キャッシュフロー', key: 'operating_cf', label: '営業CF', unit: '億円', scale: 1e-8, digits: 0, better: null },
+  { group: 'キャッシュフロー', key: 'investing_cf', label: '投資CF', unit: '億円', scale: 1e-8, digits: 0, better: null },
+  { group: 'キャッシュフロー', key: 'financing_cf', label: '財務CF', unit: '億円', scale: 1e-8, digits: 0, better: null },
+  { group: 'キャッシュフロー', key: 'fcf', label: 'FCF（営業CF＋投資CF）', unit: '億円', scale: 1e-8, digits: 0, better: null },
+];
+
+/** 1社の最新期の値と、そこから計算する比率。rows は新しい期から。前期がなければ、前期比は null。 */
+export function compareValues(rows) {
+  const cur = rows[0]; const prev = rows[1];
+  const num = (v) => (isNum(v) ? v : null);
+  const src = REV_SOURCES.find(([k]) => isNum(cur[k]));
+  const rev = src ? cur[src[0]] : null;
+  const prevRev = src && prev && isNum(prev[src[0]]) ? prev[src[0]] : null;
+  const ratio = (a, b) => (isNum(a) && isNum(b) && b > 0 ? a / b : null);
+  const values = {
+    rev,
+    total_assets: num(cur.total_assets), net_assets: num(cur.net_assets),
+    op_margin: ratio(cur.operating_income, rev), net_margin: ratio(cur.net_income, rev),
+    roe: num(cur.roe), rev_growth: prevRev !== null && prevRev > 0 && rev !== null ? rev / prevRev - 1 : null,
+    equity_ratio: num(cur.equity_ratio), per: num(cur.per), eps: num(cur.eps), dps: num(cur.dps), bps: num(cur.bps),
+    operating_cf: num(cur.operating_cf), investing_cf: num(cur.investing_cf), financing_cf: num(cur.financing_cf),
+    fcf: isNum(cur.operating_cf) && isNum(cur.investing_cf) ? cur.operating_cf + cur.investing_cf : null,
+  };
+  return { fy: cur.fy, std: cur.std, cons: cur.cons, pattern: cur.pattern || '', revSrc: src ? src[1] : null, values };
+}
+
+/** 最も良い値の位置（2社以上に値があるときだけ。同点は全員）。better が null なら空。 */
+export function bestIndexes(values, better) {
+  if (better !== 'high') return [];
+  const nums = values.filter((v) => isNum(v));
+  if (nums.length < 2) return [];
+  const top = Math.max(...nums);
+  return values.map((v, i) => (v === top ? i : -1)).filter((i) => i >= 0);
+}
+
 export function trendData(rows, n = null) {
   const asc = [...rows].reverse();
   const use = n ? asc.slice(-n) : asc;

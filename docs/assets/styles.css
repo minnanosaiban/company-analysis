@@ -136,6 +136,10 @@ table.data tbody tr:nth-child(even) .sticky-col { background: color-mix(in srgb,
 .pill { display: inline-block; font-size: .78rem; padding: 0 .5rem; border-radius: 999px; background: var(--surface-2); color: var(--muted); }
 .empty { padding: 2rem; text-align: center; color: var(--muted); background: var(--surface); border-radius: var(--radius); margin-top: 1rem; }
 .neg { color: var(--warn); }
+table.compare td.best { font-weight: 700; background: color-mix(in srgb, var(--accent) 14%, transparent); }
+table.compare tr.group-row th { background: var(--surface); font-size: .8rem; color: var(--muted); text-align: left; }
+table.compare thead th { min-width: 8.5rem; vertical-align: top; }
+table.compare thead th .sec { display: block; font-weight: 400; }
 
 /* フッタ（出典・加工） */
 #site-footer { max-width: 1120px; margin: 3rem auto 0; padding: 1.4rem 1.2rem 3rem; font-size: .82rem; color: var(--muted); background: var(--surface); border-radius: var(--radius) var(--radius) 0 0; }

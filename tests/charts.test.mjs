@@ -7,7 +7,7 @@ import path from 'node:path';
 
 import {
   portfolioItem, segmentSeries, clipBounds, markerSizes, availableMetrics, fmtAmount,
-  trendData, indexSeries, hasValues, standardChange,
+  trendData, indexSeries, hasValues, standardChange, compareValues, bestIndexes,
 } from '../docs/assets/lib/chartdata.js';
 import { periodRows, buildData } from '../docs/assets/lib/data.js';
 
@@ -84,6 +84,13 @@ check('indexSeries 最初が0', indexSeries([0, 5]), [null, null]);
 check('hasValues', [hasValues([null, null]), hasValues([null, 0])], [false, true]);
 check('standardChange', standardChange(['2020-03-31', '2021-03-31', '2022-03-31'], ['JP', 'JP', 'IFRS']), 'JP → IFRS（2022/03 から）');
 check('standardChange なし', standardChange(['2020-03-31', '2021-03-31'], ['JP', 'JP']), null);
+// 会社の比較
+const cv = compareValues([{ fy: '2025-03-31', std: 'JP', cons: true, pattern: 'X', net_sales: 200, operating_income: 20, net_income: 10, operating_cf: 5, investing_cf: -8, roe: 0.1 }, { fy: '2024-03-31', net_sales: 100 }]);
+check('compare 比率', [cv.values.rev, cv.values.op_margin, cv.values.net_margin, cv.values.rev_growth, cv.values.fcf, cv.values.per], [200, 0.1, 0.05, 1, -3, null]);
+check('compare 前期なし', compareValues([{ fy: '2025-03-31', net_sales: 200 }]).values.rev_growth, null);
+check('compare 前期の収益区分が違うと前期比なし', compareValues([{ fy: '2025-03-31', net_sales: 200 }, { fy: '2024-03-31', ordinary_revenue: 100 }]).values.rev_growth, null);
+check('compare 金融は経常収益', compareValues([{ fy: '2025-03-31', ordinary_revenue: 50, operating_income: 5 }]).revSrc, '経常収益');
+check('bestIndexes', [bestIndexes([1, 3, null, 3], 'high'), bestIndexes([5], 'high'), bestIndexes([1, 2], null)], [[1, 3], [], []]);
 check('markerSizes 一定', markerSizes([5, 5, 5]), [10, 10, 10]);
 check('markerSizes 範囲', markerSizes([1, 2, 3], 6, 40), [6, 23, 40]);
 check('markerSizes 欠損は中央値', markerSizes([1, null, 3], 6, 40)[1], 23);
