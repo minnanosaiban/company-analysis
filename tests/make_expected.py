@@ -1,6 +1,6 @@
 """tests/expected.json を作る。
 
-静的サイト版（JavaScript）の絞り込み・CFパターンの期待値を、Streamlit 版が使うデータ
+静的サイト版（JavaScript）の絞り込み・CFパターンの期待値を、データ
 （data/financials.csv.gz・data/companies.csv）から、pandas で**別に実装して**計算する。
 JS 側の実装（docs/assets/lib/*.js）と一致するかを、tests/logic.test.mjs で確認する。
 

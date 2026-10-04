@@ -1,0 +1,3 @@
+﻿# tests/make_expected*.py（期待値の作成）に必要なもの。JavaScript のテスト（node tests/*.test.mjs）は、node だけで動く
+pandas>=2.0
+numpy>=1.24

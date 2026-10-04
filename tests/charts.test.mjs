@@ -1,6 +1,6 @@
 // 図のデータ処理（Treemap・セグメント推移・外れ値の範囲）のテスト。
 //   node tests/charts.test.mjs
-// 期待値 tests/expected_charts.json は、Streamlit 版（Python）の実装から作る（tests/make_expected_charts.py）。
+// 期待値 tests/expected_charts.json は、Python の基準実装から作る（tests/make_expected_charts.py）。
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';

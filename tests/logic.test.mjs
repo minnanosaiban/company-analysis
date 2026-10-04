@@ -1,6 +1,6 @@
 // 静的サイト版のロジック（絞り込み・CFパターン・選択・検索）のテスト。
 //   node tests/logic.test.mjs
-// 期待値は、tests/expected.json（Python/pandas で、Streamlit 版と同じデータから別実装で計算したもの）。
+// 期待値は、tests/expected.json（Python/pandas で、同じデータから別実装で計算したもの。tests/make_expected.py）。
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';

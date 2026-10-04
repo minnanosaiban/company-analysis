@@ -1,5 +1,5 @@
 // CFパターン分類（営業CF・投資CF・財務CF の符号で、経営フェーズを8パターンに分ける）。
-// Streamlit 版（views/03_cf_pattern.py）の PATTERN_TABLE と同じ定義。変えるときは両方そろえる。
+// tests/make_expected.py の PATTERN（Python の基準実装）と同じ定義。変えるときは両方そろえる。
 
 export const PATTERNS = [
   { key: '1,-1,-1',  name: '優良安定型', desc: '営業＋・投資拡大・借入返済。最も健全な姿',           color: '#2ca02c' },

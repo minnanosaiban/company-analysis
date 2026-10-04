@@ -1,5 +1,5 @@
 // 図に渡すデータの組み立て（画面・ECharts に依存しない。テストできる部分）。
-// Streamlit 版（lib/portfolio_helper.py・views/04_segment_trend.py）と同じ計算にそろえる。
+// tests/make_expected_charts.py の Python の基準実装と同じ計算にそろえる（tests/charts.test.mjs で照合）。
 import { isNum } from './fields.js';
 
 /** 昇順にした配列の q 分位点（線形補間）。 */
@@ -105,7 +105,7 @@ export function segmentSeries(segData, metric, n = 5, sortBy = 'latest') {
     }),
   })).filter((s) => s.values.some((v) => v !== null));
   const latest = (s) => { for (let i = s.values.length - 1; i >= 0; i--) if (s.values[i] !== null) return s.values[i]; return 0; };
-  // 名前順は、ロケールに依存しないコード順（Streamlit 版と同じ。環境が違っても並びが変わらない）
+  // 名前順は、ロケールに依存しないコード順（Python の基準実装と同じ。環境が違っても並びが変わらない）
   series = sortBy === 'name'
     ? series.sort((a, b) => (a.name < b.name ? -1 : a.name > b.name ? 1 : 0))
     : series.sort((a, b) => latest(b) - latest(a));

@@ -1,58 +1,87 @@
 """tests/expected_charts.json を作る。
 
-図のデータ（Treemap・セグメント推移・外れ値の範囲）の期待値を、Streamlit 版の実装
-（lib/portfolio_helper.py の collect_portfolio / segments_5yr、views/04_segment_trend.py の集計）で計算する。
-静的サイト版（docs/assets/lib/chartdata.js）と一致するかを、tests/charts.test.mjs で確認する。
+図のデータ（Treemap・セグメント推移・外れ値の範囲）の期待値を、**この Python の基準実装**で計算する。
+静的サイト版（docs/assets/lib/chartdata.js）の JavaScript と一致するかを、tests/charts.test.mjs で確認する。
+入力は、data/yuho/（有報 JSON）・data/companies.csv・data/financials.csv.gz。
 
-    python tests/make_expected_charts.py
+    python tests/make_expected_charts.py        （pandas・numpy が必要: pip install -r tests/requirements.txt）
 """
 import json
-import sys
+import re
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(ROOT))
+YUHO = ROOT / "data" / "yuho"
 
-from lib.companies import load_companies  # noqa: E402
-from lib.portfolio_helper import collect_portfolio, segments_5yr  # noqa: E402
-
-comp = load_companies()
-with_seg = comp[comp["has_segments"]]
-featured = comp[comp["group"] != ""].index.tolist()
-rng = np.random.default_rng(7)
-others = [e for e in with_seg.index if e not in featured]
-sample = featured[:6] + list(rng.choice(others, 8, replace=False))
-
-# ── Treemap
-portfolio = {}
-for ed in sample:
-    portfolio[ed] = {}
-    for offset in (0, 1):
-        for pref in (None, "operating_income"):
-            item = collect_portfolio([ed], offset=offset, preferred_metric=pref)[0]
-            if item.get("missing"):
-                portfolio[ed][f"{offset}:{pref}"] = None
-                continue
-            portfolio[ed][f"{offset}:{pref}"] = {
-                "fy": item["fy"], "metric": item["metric"],
-                "rows": [[r["label"], r["value"]] for r in item["rows"]],
-                "negatives": [[r["label"], r["value"]] for r in item["negatives"]],
-            }
+PROFIT_PRIORITY = ["profit_attributable_to_owners", "operating_income", "ordinary_income", "equity_method_income"]
 
 
-# ── セグメント推移（views/04_segment_trend.py の集計と同じ）
+# ── 基準実装（有報 JSON を、年度別ファイルのまま読む）──────────────────────
+def period_files(ed: str) -> list[Path]:
+    d = YUHO / ed
+    return sorted(d.glob(f"{ed}_*.json")) if d.exists() else []
+
+
+def load_json(p: Path) -> dict:
+    return json.loads(p.read_text(encoding="utf-8"))
+
+
+def segment_name(seg: dict) -> str:
+    """日本語ラベル。なければ、英字のキーを読みやすく区切る。"""
+    return seg.get("label") or re.sub(r"(?<=[a-z0-9])(?=[A-Z])", " ", seg.get("key") or "?")
+
+
+def segment_value(seg: dict, preferred):
+    if preferred:
+        v = seg.get(preferred)
+        return (preferred, float(v)) if v is not None else None
+    for k in PROFIT_PRIORITY:
+        v = seg.get(k)
+        if v is not None:
+            return k, float(v)
+    return None
+
+
+def collect_portfolio(ed: str, offset: int, preferred):
+    """offset=0 が最新期。ファイルがなければ None。"""
+    files = period_files(ed)
+    if not files or offset >= len(files):
+        return None
+    obj = load_json(files[-(1 + offset)])
+    rows_pos, rows_neg, used = [], [], None
+    for s in obj.get("segments") or []:
+        r = segment_value(s, preferred)
+        if r is None:
+            continue
+        used = r[0]
+        (rows_pos if r[1] > 0 else rows_neg).append((segment_name(s), r[1]))
+    return {
+        "fy": obj["metadata"]["fiscal_year_end"], "metric": used,
+        "rows": [[n, v] for n, v in sorted(rows_pos, key=lambda x: x[1], reverse=True)],
+        "negatives": [[n, v] for n, v in sorted(rows_neg, key=lambda x: x[1])],
+    }
+
+
+def segments_last_n(ed: str, n: int):
+    """直近 n 期（古い順）の (fy, segments)。"""
+    out = []
+    for f in period_files(ed)[-n:]:
+        d = load_json(f)
+        out.append((d["metadata"]["fiscal_year_end"], d.get("segments") or []))
+    return out
+
+
 def series_for(ed: str, metric: str, n: int, sort_by: str):
-    data = segments_5yr(ed, n=n)
+    data = segments_last_n(ed, n)
     labels, order = {}, []
-    from lib.portfolio_helper import segment_display_name
-    for fy, segs in reversed(data):
+    for fy, segs in reversed(data):            # 新しい期から見て、名前は新しい方を優先
         for s in segs:
             key = s.get("key")
             if key and key not in labels:
-                labels[key] = segment_display_name(s)
+                labels[key] = segment_name(s)
                 order.append(key)
     series = {}
     for k in order:
@@ -74,6 +103,24 @@ def series_for(ed: str, metric: str, n: int, sort_by: str):
     return {"fys": [fy for fy, _ in data], "series": [[labels[k], series[k]] for k in keys]}
 
 
+# ── サンプルの選び方 ────────────────────────────────────────────────
+comp = pd.read_csv(ROOT / "data" / "companies.csv", dtype={"edinet_code": str, "sec_code": str}).set_index("edinet_code", drop=False)
+comp["group"] = comp["group"].fillna("")
+with_seg = comp[comp["has_segments"]]
+featured = comp[comp["group"] != ""].index.tolist()
+rng = np.random.default_rng(7)
+others = [e for e in with_seg.index if e not in featured]
+sample = featured[:6] + list(rng.choice(others, 8, replace=False))
+
+# ── Treemap
+portfolio = {}
+for ed in sample:
+    portfolio[ed] = {}
+    for offset in (0, 1):
+        for pref in (None, "operating_income"):
+            portfolio[ed][f"{offset}:{pref}"] = collect_portfolio(ed, offset, pref)
+
+# ── セグメント推移
 segment_series = {}
 for ed in sample[:8]:
     for metric in ("operating_income", "profit_attributable_to_owners"):

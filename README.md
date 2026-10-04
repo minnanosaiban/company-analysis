@@ -1,16 +1,14 @@
 # 企業分析
 
-東証の主要企業（約500社）の**有価証券報告書**（EDINET）をもとに、企業を探し、セグメント・財務指標・キャッシュフローを比べられるアプリです。
-ブログ連載「[株価分析](https://minnanosaiban.github.io/tomo/blog/)」の関連アプリです。
+東証の主要企業（約500社）の**有価証券報告書**（EDINET）をもとに、企業を探し、セグメント・財務指標・キャッシュフローを比べられるサイトです。
+ブログ連載「[株価分析](https://minnanosaiban.github.io/tomo/blog/)」の関連サイトです。
 
-次の2つの版があり、**同じデータ**を使います。
+**公開サイト：https://minnanosaiban.github.io/company-analysis/**
 
-| 版 | 場所 | 特徴 |
-|---|---|---|
-| **静的サイト版**（主） | `docs/` | サーバー不要。ブラウザだけで動き、スリープしない。スマホ対応、ダーク対応。条件を URL で共有でき、ブログに埋め込める |
-| Python（Streamlit）版 | `app.py`・`views/`・`lib/` | 手元で動かしたい人向け |
+サーバーのない**静的サイト**で、ブラウザだけで動きます。スリープせず、スマホ・ダークモードにも対応しています。
+条件を URL で共有でき、ブログなどに埋め込めます。
 
-## 静的サイト版の画面
+## 画面
 
 | ページ | ルート | 内容 |
 |---|---|---|
@@ -25,7 +23,7 @@
 選んだ内容と条件は URL に入るので、そのまま共有できます（例：`#/valuation?m=ind&ind=卸売業&x=roe&y=per`）。
 `?embed=1` を付けると、ヘッダを省いた埋め込み用の表示になります（出典の表示は残ります）。
 
-### 手元で動かす
+## 手元で動かす
 
 ビルドは不要です。`docs/` を、どの Web サーバーでも配信できます。
 
@@ -33,15 +31,6 @@
 cd docs
 python -m http.server 8000
 # → http://localhost:8000/ を開く
-```
-
-## Python（Streamlit）版
-
-Python 3.10 以上が必要です。
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
 ```
 
 ## データについて
@@ -58,27 +47,28 @@ streamlit run app.py
 ## 構成
 
 ```
-docs/                  静的サイト版（GitHub Pages の公開ルート）
+docs/                  サイト（GitHub Pages の公開ルート）
+  index.html
   assets/lib/          データ読み込み・絞り込み・CFパターン・図のデータ処理（画面に依存しない部分）
   assets/pages/        各ページ
   assets/vendor/       Apache ECharts（同梱）
   data/                会社一覧・財務指標・会社別セグメントの JSON
-app.py / views/ / lib/ Python（Streamlit）版（フォルダ名を pages/ にしないこと。直接リンクで出典の表示が抜けるため）
-data/                  同梱データ（有報 JSON 497社、会社一覧、財務指標）
-tests/                 静的サイト版のテスト
-DESIGN.md              静的サイト版の設計書
+data/                  元データ（有報 JSON 497社）と、会社一覧・財務指標の集計
+tests/                 テスト
+DESIGN.md              設計書
 ```
 
 ### テスト
 
-絞り込み・CFパターン・選択・検索・図のデータ処理を、Python 側（pandas、Streamlit 版の実装）で別に計算した期待値と照合します。
+絞り込み・CFパターン・選択・検索・図のデータ処理を、Python（pandas）の**基準実装**で別に計算した期待値と照合します。
 
 ```bash
 node tests/logic.test.mjs     # 絞り込み・CFパターン・選択・検索
 node tests/charts.test.mjs    # Treemap・セグメント推移・外れ値の範囲
 ```
 
-期待値の作り直し：`python tests/make_expected.py`、`python tests/make_expected_charts.py`
+期待値の作り直し（`pip install -r tests/requirements.txt` が必要）：
+`python tests/make_expected.py`、`python tests/make_expected_charts.py`
 
 ## 出典・ライセンス
 
@@ -93,4 +83,4 @@ node tests/charts.test.mjs    # Treemap・セグメント推移・外れ値の�
 ## 注意
 
 - 投資の助言ではありません。投資判断はご自身の責任でお願いします。
-- このアプリは株価データを使いません。
+- このサイトは株価データを使っていません。

@@ -1,7 +1,7 @@
 # 静的サイト版 設計書
 
 企業分析アプリを、サーバーなしの**静的サイト**として公開するための設計。
-Streamlit 版（`app.py`・`views/`）は残し、静的版は `docs/` に作る（GitHub Pages の公開ルート）。
+静的版は `docs/` に作る（GitHub Pages の公開ルート）。当初は Python（Streamlit）版も同居させたが、静的版に一本化し、Streamlit 版は削除した（git の履歴に残っている）。
 
 ## 1. 目的と方針
 
@@ -19,7 +19,7 @@ Streamlit 版（`app.py`・`views/`）は残し、静的版は `docs/` に作る
 | 図 | **Apache ECharts**（`docs/assets/` に同梱） | Treemap・散布図・棒グラフを標準で持ち、軽い（約1MB）。スマホ向き。CDN に依存しない |
 | ルーティング | **ハッシュ**（`#/valuation?...`） | GitHub Pages はサーバー設定ができないため。直接リンクが効く |
 | 状態 | **URL のクエリ**に保存 | 条件ごと共有できる。ブラウザの戻る・進むが効く |
-| データ | JSON（`docs/data/`）。Python の同期スクリプトで生成 | 元データは今の Streamlit 版と同じ有報 JSON |
+| データ | JSON（`docs/data/`）。Python の同期スクリプトで生成 | 元データは有報 JSON（`data/yuho/`） |
 | フォント | Noto Sans JP（ブログと同じ） | 見た目をそろえる |
 
 ## 3. データ出力（Python → JSON）
@@ -91,13 +91,14 @@ docs/                  静的サイト（GitHub Pages の公開ルート）
   index.html
   assets/              app.js、router.js、state.js、pages/*.js、charts/*.js、styles.css、echarts.min.js
   data/                meta.json、companies.json、financials.json、segments/
-app.py / views/ / lib/ / data/   Streamlit 版（そのまま残す。手元・Python で使いたい人向け）
+data/                  元データ（有報 JSON）と、会社一覧・財務指標の集計
+tests/                 テスト
 DESIGN.md              この設計書
 ```
 
 ## 9. 品質の確認
 
-- **数値の一致**：同じ会社・同じ指標で、Streamlit 版（Python）と静的版（JS）の値が一致すること（自動比較）。
+- **数値の一致**：同じ会社・同じ指標で、Python（pandas）の基準実装と静的版（JS）の値が一致すること（自動比較）。
 - **CFパターンの判定**：Python と JS で、同じ入力に同じ分類になること（テストデータで比較）。
 - **実ブラウザ**での表示確認（PC・スマホ幅・ダーク）。
 - **出典の表示**が、全ページ・直接リンク・埋め込みで出ること。
@@ -113,8 +114,8 @@ DESIGN.md              この設計書
 
 ## 11. 未決・リスク
 
-- 図のライブラリ：ECharts（推奨）か、Streamlit 版と同じ Plotly.js（約3.5MB、重い）か。
+- 図のライブラリ：ECharts を採用（Plotly.js は約3.5MB で重い）。
 - セグメント名の日本語ラベルが整備されていない会社が多い（英字のキーを区切って表示）。
 - 金融（銀行・保険・証券）は売上の定義が違い、「売上」が空になる。
 - 数千社に増えた場合は、データの分割が必要。
-- Streamlit 版との計算ロジックの二重管理（CFパターンの分類など）。テストで担保する。
+- Python（手元の分析）と JavaScript（公開サイト）で、計算ロジックが二重になる（CFパターンの分類など）。基準実装との照合テストで担保する。
