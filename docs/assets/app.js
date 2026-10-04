@@ -1,9 +1,9 @@
 // 入口。データを読み込み、ハッシュに応じてページを描画する。
-import { loadData } from './lib/data.js?v=121b795056';
-import { parseHash, buildHash, patched } from './lib/router.js?v=121b795056';
-import { disposeAll } from './lib/charts.js?v=121b795056';
-import { RANGE_KEYS } from './lib/fields.js?v=121b795056';
-import { CF_SIGN_KEYS } from './lib/filters.js?v=121b795056';
+import { loadData } from './lib/data.js?v=87b5bdf733';
+import { parseHash, buildHash, patched } from './lib/router.js?v=87b5bdf733';
+import { disposeAll } from './lib/charts.js?v=87b5bdf733';
+import { RANGE_KEYS } from './lib/fields.js?v=87b5bdf733';
+import { CF_SIGN_KEYS } from './lib/filters.js?v=87b5bdf733';
 
 // ページを移っても引き継ぐパラメータ（対象の会社の選び方、埋め込み表示）
 const SHARED = ['m', 'ind', 'co', 'embed'];
@@ -11,14 +11,14 @@ const SHARED = ['m', 'ind', 'co', 'embed'];
 const FILTER_PARAMS = ['std', 'cons', 'pat', 'p', ...RANGE_KEYS, ...CF_SIGN_KEYS.map((s) => s.param)];
 
 const PAGES = [
-  { path: '',          title: '企業を探す',             load: () => import('./pages/screen.js?v=121b795056') },
-  { path: 'trend',     title: '財務の推移',             load: () => import('./pages/trend.js?v=121b795056') },
-  { path: 'compare',   title: '会社を比べる',           load: () => import('./pages/compare.js?v=121b795056') },
-  { path: 'valuation', title: 'バリュエーション散布図', load: () => import('./pages/valuation.js?v=121b795056') },
-  { path: 'cashflow',  title: 'CFパターン',             load: () => import('./pages/cashflow.js?v=121b795056') },
-  { path: 'portfolio', title: '業界ポートフォリオ',     load: () => import('./pages/portfolio.js?v=121b795056') },
-  { path: 'segments',  title: 'セグメント推移',         load: () => import('./pages/segments.js?v=121b795056') },
-  { path: 'about',     title: 'データと注意',           load: () => import('./pages/about.js?v=121b795056') },
+  { path: '',          title: '企業を探す',             load: () => import('./pages/screen.js?v=87b5bdf733') },
+  { path: 'trend',     title: '財務の推移',             load: () => import('./pages/trend.js?v=87b5bdf733') },
+  { path: 'compare',   title: '会社を比べる',           load: () => import('./pages/compare.js?v=87b5bdf733') },
+  { path: 'valuation', title: 'バリュエーション散布図', load: () => import('./pages/valuation.js?v=87b5bdf733') },
+  { path: 'cashflow',  title: 'CFパターン',             load: () => import('./pages/cashflow.js?v=87b5bdf733') },
+  { path: 'portfolio', title: '業界ポートフォリオ',     load: () => import('./pages/portfolio.js?v=87b5bdf733') },
+  { path: 'segments',  title: 'セグメント推移',         load: () => import('./pages/segments.js?v=87b5bdf733') },
+  { path: 'about',     title: 'データと注意',           load: () => import('./pages/about.js?v=87b5bdf733') },
 ];
 
 let data = null;
@@ -36,6 +36,9 @@ function renderNav(current, params) {
   const shared = sharedOf(params);
   nav.innerHTML = PAGES.map((p) =>
     `<a href="${buildHash(p.path, shared)}" ${p.path === current.path ? 'aria-current="page"' : ''}>${p.title}</a>`).join('');
+  // 狭い画面ではナビが横スクロールになるので、いまのページが見える位置にそろえる
+  const cur = nav.querySelector('[aria-current="page"]');
+  if (cur) nav.scrollLeft += cur.getBoundingClientRect().left - nav.getBoundingClientRect().left - (nav.clientWidth - cur.offsetWidth) / 2;
 }
 
 function makeCtx(params, page) {
