@@ -103,9 +103,9 @@ export async function render(root, ctx) {
   const BLOG = 'https://minnanosaiban.github.io/tomo/blog/posts/';
   const articles = [
     ['01-03_xbrl_to_json', '決算 XBRL を JSON に変換', '有報の数値を JSON にして、元売3社を比べた回（ROE・自己資本比率）'],
+    ['02-01_garp_peg_roe', '4象限で GARP を見る', 'ROE と PER で、成長と割安の両立を探す回'],
     ['02-02_multifactor_scoreboard', 'マルチファクタースコア', '7軸で「全方位の優等生」を探す回（財務の軸）'],
     ['02-03_accrual_analysis', 'アクルーアル分析', '利益にキャッシュの裏付けがあるかを見る回（純利益率と営業CF）'],
-    ['02-01_garp_peg_roe', '4象限で GARP を見る', 'ROE と PER で、成長と割安の両立を探す回'],
     ['02-05_segment_analysis', 'セグメント分析', '連結に埋もれた強い事業を、セグメントで探す回'],
     ['02-06_segment_core_stocks', 'コングロマリット・ディスカウント', '総合商社・ＥＮＥＯＳを、セグメントで読み解く回'],
     ['02-08_enterprise_value', 'EVで見る「会社の値段」', '株価に借金を足した会社の値段を、営業CF・FCFと見比べる回'],
