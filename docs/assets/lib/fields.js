@@ -10,6 +10,7 @@ export const FIELDS = [
   { key: 'bps',          label: 'BPS',          unit: '円',  scale: 1,    digits: 0 },
   { key: 'net_sales',    label: '売上',         unit: '億円', scale: 1e-8, digits: 0 },
   { key: 'net_income',   label: '純利益',       unit: '億円', scale: 1e-8, digits: 0 },
+  { key: 'gross_profit', label: '売上総利益',   unit: '億円', scale: 1e-8, digits: 0 },
   { key: 'total_assets', label: '総資産',       unit: '億円', scale: 1e-8, digits: 0 },
   { key: 'net_assets',   label: '純資産',       unit: '億円', scale: 1e-8, digits: 0 },
   { key: 'operating_cf', label: '営業CF',       unit: '億円', scale: 1e-8, digits: 0 },

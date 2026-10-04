@@ -154,3 +154,19 @@ body.embed #app { padding-top: 1rem; }
   .panel { padding: .8rem .9rem; }
   table.data { font-size: .85rem; }
 }
+
+/* 図 */
+.chart { width: 100%; margin-top: 1rem; }
+.chart-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem 1.4rem; margin-top: 1.4rem; }
+.chart-card h3 { font-size: 1rem; margin: 0 0 .1rem; }
+.chart-card .sub { color: var(--muted); font-size: .82rem; margin: 0 0 .3rem; }
+.chart-card .neg-note { color: var(--warn); font-size: .82rem; margin: .2rem 0 0; }
+.chart-sm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1.4rem 1.2rem; margin-top: 1.4rem; }
+.banner { background: var(--surface); border-radius: var(--radius); padding: .6rem 1rem; margin: 1.2rem 0 0; font-size: .92rem; }
+.ctl-row { display: flex; flex-wrap: wrap; gap: .8rem 1.4rem; align-items: flex-end; }
+.ctl-row > div { min-width: 9rem; }
+.tag-note { font-size: .82rem; color: var(--muted); margin-top: .5rem; }
+
+/* 長い選択肢（会社名など）で、画面の幅を超えないようにする */
+select { max-width: 100%; }
+.ctl-row > div { max-width: 100%; }

@@ -1,14 +1,22 @@
 // 入口。データを読み込み、ハッシュに応じてページを描画する。
 import { loadData } from './lib/data.js';
 import { parseHash, buildHash, patched } from './lib/router.js';
+import { disposeAll } from './lib/charts.js';
+import { RANGE_KEYS } from './lib/fields.js';
+import { CF_SIGN_KEYS } from './lib/filters.js';
 
 // ページを移っても引き継ぐパラメータ（対象の会社の選び方、埋め込み表示）
 const SHARED = ['m', 'ind', 'co', 'embed'];
+// 「企業を探す」の絞り込み条件（図のページへ「この結果を図で見る」ときに引き継ぐ）
+const FILTER_PARAMS = ['std', 'cons', 'pat', 'p', ...RANGE_KEYS, ...CF_SIGN_KEYS.map((s) => s.param)];
 
-// 作ったページだけを並べる。図のページは、作り次第ここに足す。
 const PAGES = [
-  { path: '',      title: '企業を探す',   load: () => import('./pages/screen.js') },
-  { path: 'about', title: 'データと注意', load: () => import('./pages/about.js') },
+  { path: '',          title: '企業を探す',             load: () => import('./pages/screen.js') },
+  { path: 'valuation', title: 'バリュエーション散布図', load: () => import('./pages/valuation.js') },
+  { path: 'cashflow',  title: 'CFパターン',             load: () => import('./pages/cashflow.js') },
+  { path: 'portfolio', title: '業界ポートフォリオ',     load: () => import('./pages/portfolio.js') },
+  { path: 'segments',  title: 'セグメント推移',         load: () => import('./pages/segments.js') },
+  { path: 'about',     title: 'データと注意',           load: () => import('./pages/about.js') },
 ];
 
 let data = null;
@@ -37,9 +45,17 @@ function makeCtx(params, page) {
       history.replaceState(null, '', buildHash(page.path, patched(ctx.params, patch)));
       render();
     },
-    // 別ページへのリンク（対象の会社の選び方を引き継ぎ、patch で上書き）
-    link(path, patch = {}) {
-      return buildHash(path, patched(sharedOf(ctx.params), patch));
+    // 別ページへのリンク（対象の会社の選び方を引き継ぎ、patch で上書き）。withFilters: 絞り込み条件も引き継ぐ
+    link(path, patch = {}, { withFilters = false } = {}) {
+      const base = sharedOf(ctx.params);
+      if (withFilters) FILTER_PARAMS.forEach((k) => { if (ctx.params.get(k)) base.set(k, ctx.params.get(k)); });
+      return buildHash(path, patched(base, patch));
+    },
+    // 絞り込み条件を外す（対象の会社の選び方は残す）
+    clearFilters() {
+      const patch = {};
+      FILTER_PARAMS.forEach((k) => { patch[k] = ''; });
+      ctx.update(patch);
     },
   };
   return ctx;
@@ -55,6 +71,7 @@ async function render() {
   const y = window.scrollY;
   try {
     const mod = await page.load();
+    disposeAll();           // 前のページの図を片付ける
     app.replaceChildren();
     await mod.render(app, makeCtx(params, page));
   } catch (e) {

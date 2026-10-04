@@ -170,6 +170,10 @@ function renderResults(el, ctx, filtered, targetCount, offset) {
       ${isNum(mRoe) ? `<span class="muted small">ROE 中央値 ${fmtValue('roe', mRoe)}%</span>` : ''}
       ${isNum(mPer) ? `<span class="muted small">PER 中央値 ${fmtValue('per', mPer)}倍</span>` : ''}
       <span style="flex:1"></span>
+      ${filtered.length ? `<span class="muted small">この結果を図で見る：</span>
+        <a class="btn" href="${ctx.link('valuation', {}, { withFilters: true })}">散布図</a>
+        <a class="btn" href="${ctx.link('cashflow', {}, { withFilters: true })}">CFパターン</a>
+        <a class="btn" href="${ctx.link('portfolio', {}, { withFilters: true })}">ポートフォリオ</a>` : ''}
       <button class="btn" id="csv" type="button" ${filtered.length ? '' : 'disabled'}>CSV で保存</button>
     </div>
     ${filtered.length ? `
