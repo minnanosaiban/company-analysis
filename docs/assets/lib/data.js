@@ -1,12 +1,16 @@
 // データの読み込みと、会社×期の表の組み立て。画面に依存しない（fetch の基準 URL だけ渡す）。
-import { isNum } from './fields.js';
-import { classifyCF } from './cf.js';
+import { isNum } from './fields.js?v=9af2442f53';
+import { classifyCF } from './cf.js?v=9af2442f53';
 
 const GROUP_ORDER = { 商社: 0, 石油: 1 };
 
+// 更新番号（tools/stamp_version.py が、この .js の URL に ?v= を付ける）を、データの URL にも引き継ぐ
+const VERSION = new URL(import.meta.url).searchParams.get('v');
+const withVersion = (url) => (VERSION ? `${url}?v=${VERSION}` : url);
+
 export async function loadData(base = 'data/') {
   const get = async (name) => {
-    const r = await fetch(base + name);
+    const r = await fetch(withVersion(base + name));
     if (!r.ok) throw new Error(`${name} を読み込めませんでした（${r.status}）`);
     return r.json();
   };
@@ -56,7 +60,7 @@ export async function loadSegments(data, edinet) {
   const c = data.byE.get(edinet);
   if (c && c.g) {
     try {
-      const r = await fetch(`${data.base}segments/${edinet}.json`);
+      const r = await fetch(withVersion(`${data.base}segments/${edinet}.json`));
       if (r.ok) res = await r.json();
     } catch { /* 読み込めない場合は null のまま */ }
   }

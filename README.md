@@ -72,6 +72,18 @@ node tests/charts.test.mjs    # Treemap・セグメント推移・外れ値の�
 期待値の作り直し（`pip install -r tests/requirements.txt` が必要）：
 `python tests/make_expected.py`、`python tests/make_expected_charts.py`
 
+### 公開前に（キャッシュ対策）
+
+CSS・JS・データの URL には、内容から作る更新番号（`?v=...`）を付けています。読者のブラウザが、古いファイルを使い続けないようにするためです。
+**CSS・JS・データを変えたら、公開（push）の前に**：
+
+```bash
+python tools/stamp_version.py           # 番号を付け直す（内容が同じなら、何も変わらない）
+python tools/stamp_version.py --check   # 番号が最新かだけ調べる
+```
+
+データの同期（`tools/sync_public_company_data.py`）は、終わりにこれを自動で実行します。
+
 ## 出典・ライセンス
 
 - **出典**：[EDINET閲覧（提出）サイト](https://disclosure2.edinet-fsa.go.jp/)、

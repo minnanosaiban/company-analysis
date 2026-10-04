@@ -1,10 +1,10 @@
 // セグメント推移: 1社を選び、セグメントごとの推移を小さなグラフで並べる。
-import { esc } from '../lib/fields.js';
-import { loadSegments } from '../lib/data.js';
-import { optionsHtml } from '../lib/ui_common.js';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js';
-import { availableMetrics, segmentSeries, METRIC_LABEL } from '../lib/chartdata.js';
-import { searchCompanies } from '../lib/selection.js';
+import { esc } from '../lib/fields.js?v=9af2442f53';
+import { loadSegments } from '../lib/data.js?v=9af2442f53';
+import { optionsHtml } from '../lib/ui_common.js?v=9af2442f53';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=9af2442f53';
+import { availableMetrics, segmentSeries, METRIC_LABEL } from '../lib/chartdata.js?v=9af2442f53';
+import { searchCompanies } from '../lib/selection.js?v=9af2442f53';
 
 const DEFAULT_COMPANY = 'E02529';   // 三菱商事（初期表示）
 

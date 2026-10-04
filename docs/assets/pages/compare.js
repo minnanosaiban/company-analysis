@@ -1,8 +1,8 @@
 // 会社の比較: 最大5社の最新期を、並べた表と棒グラフで比べる。
-import { esc, splitCsv, isNum } from '../lib/fields.js';
-import { renderPicker } from '../lib/ui_common.js';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js';
-import { COMPARE_ROWS, compareValues, bestIndexes, standardChange } from '../lib/chartdata.js';
+import { esc, splitCsv, isNum } from '../lib/fields.js?v=9af2442f53';
+import { renderPicker } from '../lib/ui_common.js?v=9af2442f53';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=9af2442f53';
+import { COMPARE_ROWS, compareValues, bestIndexes, standardChange } from '../lib/chartdata.js?v=9af2442f53';
 
 const DEFAULT_COMPANIES = ['E02529', 'E02513'];   // 三菱商事・三井物産（初期表示）
 const MAX_COMPANIES = 5;

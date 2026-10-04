@@ -1,7 +1,7 @@
 // 「対象の会社」の選択部品（全ページ共通）。選んだ内容は URL に入る。
-import { esc } from './fields.js';
-import { MODES, selectedCompanies, searchCompanies } from './selection.js';
-import { splitCsv } from './fields.js';
+import { esc } from './fields.js?v=9af2442f53';
+import { MODES, selectedCompanies, searchCompanies } from './selection.js?v=9af2442f53';
+import { splitCsv } from './fields.js?v=9af2442f53';
 
 /**
  * el に選択欄を描き、選ばれた会社のリストを返す。

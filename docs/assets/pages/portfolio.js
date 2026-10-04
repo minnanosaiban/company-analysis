@@ -1,11 +1,11 @@
 // 業界ポートフォリオ: 会社ごとの、事業セグメント別の利益を Treemap で一覧する。
-import { esc } from '../lib/fields.js';
-import { periodRows, loadSegments } from '../lib/data.js';
-import { applyFilters } from '../lib/filters.js';
-import { renderSelector } from '../lib/selector_ui.js';
-import { renderFilterBanner, optionsHtml } from '../lib/ui_common.js';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js';
-import { portfolioItem, METRIC_LABEL, SEGMENT_METRICS, PROFIT_PRIORITY, fmtAmount } from '../lib/chartdata.js';
+import { esc } from '../lib/fields.js?v=9af2442f53';
+import { periodRows, loadSegments } from '../lib/data.js?v=9af2442f53';
+import { applyFilters } from '../lib/filters.js?v=9af2442f53';
+import { renderSelector } from '../lib/selector_ui.js?v=9af2442f53';
+import { renderFilterBanner, optionsHtml } from '../lib/ui_common.js?v=9af2442f53';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=9af2442f53';
+import { portfolioItem, METRIC_LABEL, SEGMENT_METRICS, PROFIT_PRIORITY, fmtAmount } from '../lib/chartdata.js?v=9af2442f53';
 
 const PAGE_SIZE = 12;
 const PERIODS = ['最新期', '1期前', '2期前', '3期前', '4期前'];

@@ -1,9 +1,9 @@
 // 入口。データを読み込み、ハッシュに応じてページを描画する。
-import { loadData } from './lib/data.js';
-import { parseHash, buildHash, patched } from './lib/router.js';
-import { disposeAll } from './lib/charts.js';
-import { RANGE_KEYS } from './lib/fields.js';
-import { CF_SIGN_KEYS } from './lib/filters.js';
+import { loadData } from './lib/data.js?v=9af2442f53';
+import { parseHash, buildHash, patched } from './lib/router.js?v=9af2442f53';
+import { disposeAll } from './lib/charts.js?v=9af2442f53';
+import { RANGE_KEYS } from './lib/fields.js?v=9af2442f53';
+import { CF_SIGN_KEYS } from './lib/filters.js?v=9af2442f53';
 
 // ページを移っても引き継ぐパラメータ（対象の会社の選び方、埋め込み表示）
 const SHARED = ['m', 'ind', 'co', 'embed'];
@@ -11,14 +11,14 @@ const SHARED = ['m', 'ind', 'co', 'embed'];
 const FILTER_PARAMS = ['std', 'cons', 'pat', 'p', ...RANGE_KEYS, ...CF_SIGN_KEYS.map((s) => s.param)];
 
 const PAGES = [
-  { path: '',          title: '企業を探す',             load: () => import('./pages/screen.js') },
-  { path: 'trend',     title: '財務の推移',             load: () => import('./pages/trend.js') },
-  { path: 'compare',   title: '会社を比べる',           load: () => import('./pages/compare.js') },
-  { path: 'valuation', title: 'バリュエーション散布図', load: () => import('./pages/valuation.js') },
-  { path: 'cashflow',  title: 'CFパターン',             load: () => import('./pages/cashflow.js') },
-  { path: 'portfolio', title: '業界ポートフォリオ',     load: () => import('./pages/portfolio.js') },
-  { path: 'segments',  title: 'セグメント推移',         load: () => import('./pages/segments.js') },
-  { path: 'about',     title: 'データと注意',           load: () => import('./pages/about.js') },
+  { path: '',          title: '企業を探す',             load: () => import('./pages/screen.js?v=9af2442f53') },
+  { path: 'trend',     title: '財務の推移',             load: () => import('./pages/trend.js?v=9af2442f53') },
+  { path: 'compare',   title: '会社を比べる',           load: () => import('./pages/compare.js?v=9af2442f53') },
+  { path: 'valuation', title: 'バリュエーション散布図', load: () => import('./pages/valuation.js?v=9af2442f53') },
+  { path: 'cashflow',  title: 'CFパターン',             load: () => import('./pages/cashflow.js?v=9af2442f53') },
+  { path: 'portfolio', title: '業界ポートフォリオ',     load: () => import('./pages/portfolio.js?v=9af2442f53') },
+  { path: 'segments',  title: 'セグメント推移',         load: () => import('./pages/segments.js?v=9af2442f53') },
+  { path: 'about',     title: 'データと注意',           load: () => import('./pages/about.js?v=9af2442f53') },
 ];
 
 let data = null;

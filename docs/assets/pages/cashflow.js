@@ -1,12 +1,12 @@
 // CFパターン分類: 営業CF・投資CF・財務CF の符号で、経営フェーズを8パターンに分ける。
-import { esc, fmtValue, isNum, splitCsv } from '../lib/fields.js';
-import { periodRows } from '../lib/data.js';
-import { applyFilters } from '../lib/filters.js';
-import { PATTERNS, PATTERN_NAMES, PATTERN_COLOR } from '../lib/cf.js';
-import { renderSelector } from '../lib/selector_ui.js';
-import { renderPicker, renderFilterBanner } from '../lib/ui_common.js';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js';
-import { clipBounds } from '../lib/chartdata.js';
+import { esc, fmtValue, isNum, splitCsv } from '../lib/fields.js?v=9af2442f53';
+import { periodRows } from '../lib/data.js?v=9af2442f53';
+import { applyFilters } from '../lib/filters.js?v=9af2442f53';
+import { PATTERNS, PATTERN_NAMES, PATTERN_COLOR } from '../lib/cf.js?v=9af2442f53';
+import { renderSelector } from '../lib/selector_ui.js?v=9af2442f53';
+import { renderPicker, renderFilterBanner } from '../lib/ui_common.js?v=9af2442f53';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=9af2442f53';
+import { clipBounds } from '../lib/chartdata.js?v=9af2442f53';
 
 const TRAIL_MAX = 30;   // 軌跡（過去期の線）を出す会社数の上限
 const LABEL_MAX = 40;   // 会社名ラベルを出す会社数の上限
