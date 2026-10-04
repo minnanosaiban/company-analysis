@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00768",
+    "sec_code": "4043",
+    "company_name": "株式会社トクヤマ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R1FN"
+  },
+  "financials": {
+    "net_sales": 316096000000,
+    "ordinary_income": 32837000000,
+    "net_income": 19937000000,
+    "comprehensive_income": 21293000000,
+    "eps": 287.05,
+    "dps": 70,
+    "operating_cf": 52364000000,
+    "investing_cf": -20548000000,
+    "financing_cf": -18348000000,
+    "net_assets": 180429000000,
+    "total_assets": 383447000000,
+    "bps": 2431.21,
+    "cash_end": 80918000000,
+    "equity_ratio": 0.44,
+    "roe": 0.124,
+    "per": 7.29
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00768-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

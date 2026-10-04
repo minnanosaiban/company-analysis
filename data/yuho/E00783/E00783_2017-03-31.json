@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00783",
+    "sec_code": "4091",
+    "company_name": "日本酸素ホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QUTD"
+  },
+  "financials": {
+    "net_sales": 585778000000,
+    "ordinary_income": 44717000000,
+    "net_income": 28409000000,
+    "comprehensive_income": 36677000000,
+    "eps": 65.65,
+    "dps": 20,
+    "operating_cf": 75265000000,
+    "investing_cf": -147083000000,
+    "financing_cf": 80133000000,
+    "net_assets": 364839000000,
+    "total_assets": 914241000000,
+    "bps": 784.38,
+    "cash_end": 52945000000,
+    "equity_ratio": 0.371,
+    "roe": 0.087,
+    "per": 19.83
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00783-000_2021-03-31_02_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

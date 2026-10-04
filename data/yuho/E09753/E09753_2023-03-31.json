@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "edinet_code": "E09753",
+    "sec_code": "7164",
+    "company_name": "全国保証株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZJA"
+  },
+  "financials": {
+    "net_sales": 50272000000,
+    "ordinary_income": 41456000000,
+    "net_income": 28584000000,
+    "comprehensive_income": 28447000000,
+    "eps": 415.97,
+    "dps": 148,
+    "operating_cf": 28700000000,
+    "investing_cf": -36042000000,
+    "financing_cf": -9159000000,
+    "net_assets": 205619000000,
+    "total_assets": 442945000000,
+    "bps": 2992.01,
+    "cash_end": 112659000000,
+    "equity_ratio": 0.464,
+    "roe": 0.146,
+    "per": 12,
+    "operating_income": 39884000000,
+    "income_tax_expense": 12155000000,
+    "interest_bearing_debt_noncurrent": 30000000000,
+    "depreciation": 359000000,
+    "capex_ppe": -360000000,
+    "capex_intangible": -775000000,
+    "current_assets": 183180000000,
+    "current_liabilities": 32194000000,
+    "noncurrent_assets": 259765000000,
+    "noncurrent_liabilities": 205131000000,
+    "ppe": 564000000,
+    "intangible_assets": 1236000000,
+    "investment_securities": 227200000000,
+    "treasury_stock": -619000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E09753-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E31167",
+    "sec_code": "3132",
+    "company_name": "マクニカホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R63Z"
+  },
+  "financials": {
+    "net_sales": 761823000000,
+    "ordinary_income": 35487000000,
+    "net_income": 25798000000,
+    "comprehensive_income": 35584000000,
+    "eps": 414.89,
+    "dps": 100,
+    "operating_cf": -15534000000,
+    "investing_cf": -1653000000,
+    "financing_cf": 14368000000,
+    "net_assets": 179764000000,
+    "total_assets": 362584000000,
+    "bps": 2734.55,
+    "cash_end": 25099000000,
+    "equity_ratio": 0.469,
+    "roe": 0.165,
+    "per": 6.4,
+    "gross_profit": 90718000000,
+    "operating_income": 36707000000,
+    "income_tax_expense": 9404000000,
+    "interest_bearing_debt_current": 44119000000,
+    "interest_bearing_debt_noncurrent": 13835000000,
+    "lease_liabilities_current": 576000000,
+    "lease_liabilities_noncurrent": 628000000,
+    "depreciation": 2804000000,
+    "capex_ppe": -936000000,
+    "capex_intangible": -2620000000,
+    "current_assets": 335032000000,
+    "current_liabilities": 161249000000,
+    "noncurrent_assets": 27551000000,
+    "noncurrent_liabilities": 21570000000,
+    "trade_payables": 57692000000,
+    "ppe": 7951000000,
+    "goodwill": 2107000000,
+    "intangible_assets": 9145000000,
+    "investment_securities": 4872000000,
+    "treasury_stock": -1389000000,
+    "noncontrolling_interests": 9632000000
+  },
+  "segments": [
+    {
+      "key": "IntegratedCircuitElectronicDeviceAndOther",
+      "label": null,
+      "external_revenue": 678602000000,
+      "operating_income": 27499000000
+    },
+    {
+      "key": "Network",
+      "label": null,
+      "external_revenue": 83220000000,
+      "intersegment_revenue": 112000000,
+      "operating_income": 9082000000,
+      "equity_method_income": -808000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31167-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

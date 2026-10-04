@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "edinet_code": "E03040",
+    "sec_code": "8252",
+    "company_name": "株式会社丸井グループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R5Z5"
+  },
+  "financials": {
+    "ordinary_income": 35547000000,
+    "net_income": 17791000000,
+    "comprehensive_income": 13423000000,
+    "eps": 85.81,
+    "dps": 52,
+    "operating_cf": 11519000000,
+    "investing_cf": -13760000000,
+    "financing_cf": 770000000,
+    "net_assets": 262052000000,
+    "total_assets": 920026000000,
+    "bps": 1307.04,
+    "cash_end": 39708000000,
+    "equity_ratio": 0.284,
+    "roe": 0.065,
+    "per": 26.2,
+    "gross_profit": 181073000000,
+    "operating_income": 36784000000,
+    "income_tax_expense": 8337000000,
+    "interest_bearing_debt_current": 111156000000,
+    "interest_bearing_debt_noncurrent": 301700000000,
+    "bonds_payable": 61300000000,
+    "commercial_papers": 33000000000,
+    "current_portion_of_bonds": 20000000000,
+    "depreciation": 11221000000,
+    "current_assets": 648029000000,
+    "current_liabilities": 266068000000,
+    "noncurrent_assets": 271997000000,
+    "noncurrent_liabilities": 391905000000,
+    "trade_receivables": 4746000000,
+    "ppe": 169273000000,
+    "intangible_assets": 8911000000,
+    "investment_securities": 36031000000,
+    "treasury_stock": -18269000000,
+    "noncontrolling_interests": 438000000
+  },
+  "segments": [
+    {
+      "key": "FinTech",
+      "label": null,
+      "operating_income": 41220000000
+    },
+    {
+      "key": "Retail",
+      "label": null,
+      "operating_income": 1963000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03040-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

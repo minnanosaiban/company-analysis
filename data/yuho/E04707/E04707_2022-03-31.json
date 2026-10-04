@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E04707",
+    "sec_code": "4661",
+    "company_name": "株式会社オリエンタルランド",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8C8"
+  },
+  "financials": {
+    "net_sales": 275728000000,
+    "ordinary_income": 11278000000,
+    "net_income": 8067000000,
+    "comprehensive_income": 6144000000,
+    "eps": 4.93,
+    "eps_diluted": 4.92,
+    "dps": 28,
+    "operating_cf": 54602000000,
+    "investing_cf": -138984000000,
+    "financing_cf": 48933000000,
+    "net_assets": 756317000000,
+    "total_assets": 1086884000000,
+    "bps": 461.82,
+    "cash_end": 129868000000,
+    "equity_ratio": 0.696,
+    "roe": 0.011,
+    "per": 954.5,
+    "gross_profit": 65744000000,
+    "operating_income": 7733000000,
+    "income_tax_expense": 1804000000,
+    "interest_bearing_debt_noncurrent": 7401000000,
+    "bonds_payable": 230000000000,
+    "current_portion_lt_loans": 5246000000,
+    "depreciation": 44103000000,
+    "capex_ppe": -98838000000,
+    "capex_intangible": -6363000000,
+    "current_assets": 271410000000,
+    "current_liabilities": 85247000000,
+    "noncurrent_assets": 815474000000,
+    "noncurrent_liabilities": 245320000000,
+    "trade_payables": 12164000000,
+    "ppe": 720241000000,
+    "intangible_assets": 18329000000,
+    "investment_securities": 46334000000,
+    "treasury_stock": -113257000000
+  },
+  "segments": [
+    {
+      "key": "HotelBusiness",
+      "label": "ホテル",
+      "external_revenue": 47437000000,
+      "intersegment_revenue": 551000000,
+      "operating_income": 6202000000
+    },
+    {
+      "key": "ThemeParks",
+      "label": "テーマパーク",
+      "external_revenue": 218564000000,
+      "intersegment_revenue": 6248000000,
+      "operating_income": 2512000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04707-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

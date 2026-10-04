@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E00393",
+    "sec_code": "2501",
+    "company_name": "サッポロホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-25",
+    "doc_id": "S100XTM0"
+  },
+  "financials": {
+    "dps": 90,
+    "net_sales": 506861000000,
+    "net_income": 19498000000,
+    "comprehensive_income": 26731000000,
+    "net_assets": 218862000000,
+    "total_assets": 653690000000,
+    "equity_ratio": 0.335,
+    "bps": 561.41,
+    "eps": 50.02,
+    "eps_diluted": 49.99,
+    "roe": 0.094,
+    "per": 33.7,
+    "operating_cf": 44592000000,
+    "investing_cf": -2972000000,
+    "financing_cf": -42274000000,
+    "cash_end": 22360000000,
+    "operating_income": 24437000000,
+    "gross_profit": 167046000000,
+    "income_tax_expense": 7612000000,
+    "interest_bearing_debt_current": 51389000000,
+    "interest_bearing_debt_noncurrent": 119199000000,
+    "lease_liabilities_current": 3561000000,
+    "lease_liabilities_noncurrent": 24396000000,
+    "sga_expense": 142038000000,
+    "profit_before_tax": 22704000000,
+    "depreciation": 22768000000,
+    "capex_ppe": -11941000000,
+    "capex_intangible": -1405000000,
+    "current_assets": 340461000000,
+    "current_liabilities": 217757000000,
+    "noncurrent_assets": 313229000000,
+    "trade_receivables": 94523000000,
+    "inventories": 45687000000,
+    "trade_payables": 36423000000,
+    "ppe": 144970000000,
+    "goodwill": 22509000000,
+    "intangible_assets": 5820000000,
+    "equity_method_investments": 86000000,
+    "treasury_stock": -1633000000,
+    "noncontrolling_interests": 1256000000
+  },
+  "segments": [
+    {
+      "key": "AlcoholicBeverages",
+      "label": null,
+      "external_revenue": 400244000000,
+      "intersegment_revenue": 8819000000,
+      "revenue": 409064000000,
+      "operating_income": 30318000000,
+      "equity_method_income": 16000000
+    },
+    {
+      "key": "FoodAndSoftDrinks",
+      "label": null,
+      "external_revenue": 106609000000,
+      "intersegment_revenue": 241000000,
+      "revenue": 106849000000,
+      "operating_income": 1886000000,
+      "equity_method_income": -1000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00393-000_2025-12-31_01_2026-03-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

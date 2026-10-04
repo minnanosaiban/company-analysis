@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E04237",
+    "sec_code": "9107",
+    "company_name": "川崎汽船株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TMYK"
+  },
+  "financials": {
+    "net_sales": 962300000000,
+    "ordinary_income": 135796000000,
+    "net_income": 104776000000,
+    "comprehensive_income": 254973000000,
+    "eps": 145.24,
+    "dps": 250,
+    "operating_cf": 203095000000,
+    "investing_cf": -66911000000,
+    "financing_cf": -223727000000,
+    "net_assets": 1624600000000,
+    "total_assets": 2109432000000,
+    "bps": 2251.81,
+    "cash_end": 269474000000,
+    "equity_ratio": 0.7547,
+    "roe": 0.0674,
+    "per": 13.93,
+    "gross_profit": 161174000000,
+    "operating_income": 84763000000,
+    "income_tax_expense": 15640000000,
+    "interest_bearing_debt_current": 49135000000,
+    "interest_bearing_debt_noncurrent": 206107000000,
+    "bonds_payable": 8000000000,
+    "lease_liabilities_current": 11958000000,
+    "lease_liabilities_noncurrent": 12580000000,
+    "depreciation": 45360000000,
+    "capex_ppe": -82635000000,
+    "capex_intangible": -2227000000,
+    "current_assets": 488278000000,
+    "current_liabilities": 209908000000,
+    "noncurrent_assets": 1621154000000,
+    "noncurrent_liabilities": 274924000000,
+    "ppe": 410318000000,
+    "intangible_assets": 6036000000,
+    "investment_securities": 1139971000000,
+    "treasury_stock": -7648000000,
+    "noncontrolling_interests": 32674000000
+  },
+  "segments": [
+    {
+      "key": "DryBulk",
+      "label": "ドライバルク",
+      "external_revenue": 295057000000,
+      "intersegment_revenue": 99000000,
+      "ordinary_income": 3606000000,
+      "equity_method_income": 62000000
+    },
+    {
+      "key": "EnergyResourceTransport",
+      "label": "エネルギー資源",
+      "external_revenue": 106985000000,
+      "intersegment_revenue": 16000000,
+      "ordinary_income": 7954000000,
+      "equity_method_income": 3305000000
+    },
+    {
+      "key": "ProductLogistics",
+      "label": "製品物流",
+      "external_revenue": 550154000000,
+      "intersegment_revenue": 4363000000,
+      "ordinary_income": 131130000000,
+      "equity_method_income": 47991000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04237-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E01740",
+    "sec_code": "6504",
+    "company_name": "富士電機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4BH"
+  },
+  "financials": {
+    "net_sales": 1009447000000,
+    "ordinary_income": 87811000000,
+    "net_income": 61348000000,
+    "comprehensive_income": 67117000000,
+    "eps": 429.5,
+    "dps": 115,
+    "operating_cf": 116163000000,
+    "investing_cf": -49498000000,
+    "financing_cf": -77193000000,
+    "net_assets": 572068000000,
+    "total_assets": 1181552000000,
+    "bps": 3620.23,
+    "cash_end": 84165000000,
+    "equity_ratio": 0.438,
+    "roe": 0.124,
+    "per": 12.1,
+    "gross_profit": 276918000000,
+    "operating_income": 88882000000,
+    "income_tax_expense": 26317000000,
+    "interest_bearing_debt_current": 46875000000,
+    "interest_bearing_debt_noncurrent": 28600000000,
+    "bonds_payable": 20000000000,
+    "current_portion_of_bonds": 15000000000,
+    "lease_liabilities_current": 23261000000,
+    "lease_liabilities_noncurrent": 46895000000,
+    "depreciation": 45938000000,
+    "capex_ppe": -61080000000,
+    "current_assets": 713553000000,
+    "current_liabilities": 446826000000,
+    "noncurrent_assets": 467946000000,
+    "noncurrent_liabilities": 162657000000,
+    "trade_payables": 201593000000,
+    "ppe": 283912000000,
+    "goodwill": 5180000000,
+    "intangible_assets": 24032000000,
+    "investment_securities": 108460000000,
+    "treasury_stock": -7370000000,
+    "noncontrolling_interests": 54976000000
+  },
+  "segments": [
+    {
+      "key": "FoodAndBeverageDistribution",
+      "label": "食品流通",
+      "external_revenue": 94274000000,
+      "intersegment_revenue": 982000000,
+      "operating_income": 4350000000
+    },
+    {
+      "key": "PowerElectronicsEnergy",
+      "label": null,
+      "external_revenue": 258936000000,
+      "intersegment_revenue": 5141000000,
+      "operating_income": 26884000000
+    },
+    {
+      "key": "PowerElectronicsIndustry",
+      "label": null,
+      "external_revenue": 333704000000,
+      "intersegment_revenue": 19744000000,
+      "operating_income": 24882000000
+    },
+    {
+      "key": "PowerGeneration",
+      "label": null,
+      "external_revenue": 87169000000,
+      "intersegment_revenue": 167000000,
+      "operating_income": 3550000000
+    },
+    {
+      "key": "Semiconductors",
+      "label": "半導体",
+      "external_revenue": 201581000000,
+      "intersegment_revenue": 4647000000,
+      "operating_income": 32186000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01740-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

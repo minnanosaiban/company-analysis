@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "edinet_code": "E01239",
+    "sec_code": "5471",
+    "company_name": "大同特殊鋼株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-23",
+    "doc_id": "S100W28E"
+  },
+  "financials": {
+    "dps": 47,
+    "net_sales": 574945000000,
+    "net_income": 28314000000,
+    "comprehensive_income": 29128000000,
+    "net_assets": 429278000000,
+    "total_assets": 782974000000,
+    "equity_ratio": 0.548,
+    "bps": 2085.61,
+    "eps": 134.57,
+    "eps_diluted": 134.53,
+    "roe": 0.067,
+    "per": 8.8,
+    "operating_cf": 53516000000,
+    "investing_cf": -15586000000,
+    "financing_cf": -22715000000,
+    "cash_end": 61218000000,
+    "operating_income": 39408000000,
+    "gross_profit": 104187000000,
+    "income_tax_expense": 12092000000,
+    "interest_bearing_debt_current": 72203000000,
+    "interest_bearing_debt_noncurrent": 98633000000,
+    "lease_liabilities_current": 1933000000,
+    "lease_liabilities_noncurrent": 4077000000,
+    "sga_expense": 61335000000,
+    "profit_before_tax": 42653000000,
+    "depreciation": 30265000000,
+    "current_assets": 416999000000,
+    "current_liabilities": 182259000000,
+    "noncurrent_assets": 365975000000,
+    "trade_receivables": 147433000000,
+    "inventories": 195483000000,
+    "trade_payables": 67998000000,
+    "ppe": 234469000000,
+    "intangible_assets": 6559000000,
+    "equity_method_investments": 21154000000,
+    "treasury_stock": -12078000000,
+    "noncontrolling_interests": 39865000000
+  },
+  "segments": [
+    {
+      "key": "AutomobilePartsAndIndustrialMachineParts",
+      "label": null,
+      "external_revenue": 113031000000,
+      "intersegment_revenue": 33931000000,
+      "revenue": 146963000000,
+      "operating_income": 11337000000,
+      "assets": 185540000000
+    },
+    {
+      "key": "Engineering",
+      "label": null,
+      "external_revenue": 24067000000,
+      "intersegment_revenue": 585000000,
+      "revenue": 24653000000,
+      "operating_income": 2201000000,
+      "assets": 25176000000
+    },
+    {
+      "key": "FunctionalMaterialAndMagneticMaterial",
+      "label": null,
+      "external_revenue": 200863000000,
+      "intersegment_revenue": 18927000000,
+      "revenue": 219791000000,
+      "operating_income": 11028000000,
+      "assets": 291561000000
+    },
+    {
+      "key": "LogisticsAndService",
+      "label": null,
+      "external_revenue": 26820000000,
+      "intersegment_revenue": 20078000000,
+      "revenue": 46898000000,
+      "operating_income": 2770000000,
+      "assets": 29499000000
+    },
+    {
+      "key": "SpecialtySteel",
+      "label": null,
+      "external_revenue": 210162000000,
+      "intersegment_revenue": 70616000000,
+      "revenue": 280778000000,
+      "operating_income": 12088000000,
+      "assets": 221287000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01239-000_2025-03-31_01_2025-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

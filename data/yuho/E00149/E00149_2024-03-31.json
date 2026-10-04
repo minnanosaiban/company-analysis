@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E00149",
+    "sec_code": "1969",
+    "company_name": "高砂熱学工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-19",
+    "doc_id": "S100TNK2"
+  },
+  "financials": {
+    "net_sales": 363366000000,
+    "ordinary_income": 26150000000,
+    "net_income": 19612000000,
+    "comprehensive_income": 29212000000,
+    "eps": 295.68,
+    "dps": 129,
+    "operating_cf": -13100000000,
+    "investing_cf": -8103000000,
+    "financing_cf": -491000000,
+    "net_assets": 167231000000,
+    "total_assets": 340106000000,
+    "bps": 2476.38,
+    "cash_end": 49064000000,
+    "equity_ratio": 0.483,
+    "roe": 0.128,
+    "per": 16.5,
+    "gross_profit": 59947000000,
+    "operating_income": 24192000000,
+    "income_tax_expense": 8356000000,
+    "interest_bearing_debt_current": 14133000000,
+    "bonds_payable": 20000000000,
+    "current_portion_of_bonds": 5000000000,
+    "depreciation": 2505000000,
+    "current_assets": 248386000000,
+    "current_liabilities": 146750000000,
+    "noncurrent_assets": 91720000000,
+    "noncurrent_liabilities": 26125000000,
+    "inventories": 4057000000,
+    "ppe": 23483000000,
+    "goodwill": 1703000000,
+    "intangible_assets": 9173000000,
+    "investment_securities": 46530000000,
+    "treasury_stock": -7307000000,
+    "noncontrolling_interests": 2875000000
+  },
+  "segments": [
+    {
+      "key": "EquipmentManufacturingAndSales",
+      "label": null,
+      "external_revenue": 7782000000,
+      "intersegment_revenue": 484000000,
+      "operating_income": 405000000
+    },
+    {
+      "key": "EquipmentWork",
+      "label": null,
+      "external_revenue": 355493000000,
+      "operating_income": 23745000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00149-000_2024-03-31_01_2024-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

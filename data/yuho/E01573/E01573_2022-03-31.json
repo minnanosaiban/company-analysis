@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E01573",
+    "sec_code": "6370",
+    "company_name": "栗田工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R83Z"
+  },
+  "financials": {
+    "dps": 72,
+    "net_sales": 288207000000,
+    "net_income": 18471000000,
+    "comprehensive_income": 27501000000,
+    "net_assets": 271914000000,
+    "total_assets": 469981000000,
+    "equity_ratio": 0.579,
+    "bps": 2419.58,
+    "eps": 164.38,
+    "roe": 0.07,
+    "per": 27.6,
+    "operating_cf": 28737000000,
+    "investing_cf": -39929000000,
+    "financing_cf": -7927000000,
+    "cash_end": 45730000000,
+    "operating_income": 35734000000,
+    "gross_profit": 104278000000,
+    "income_tax_expense": 10454000000,
+    "interest_bearing_debt_current": 8180000000,
+    "interest_bearing_debt_noncurrent": 30953000000,
+    "lease_liabilities_current": 4683000000,
+    "lease_liabilities_noncurrent": 14862000000,
+    "sga_expense": 71334000000,
+    "profit_before_tax": 30079000000,
+    "depreciation": 23412000000,
+    "capex_ppe": -55096000000,
+    "capex_intangible": -2038000000,
+    "current_assets": 178396000000,
+    "current_liabilities": 113927000000,
+    "noncurrent_assets": 291585000000,
+    "trade_receivables": 108892000000,
+    "inventories": 13132000000,
+    "trade_payables": 57967000000,
+    "ppe": 161034000000,
+    "goodwill": 62992000000,
+    "intangible_assets": 18092000000,
+    "equity_method_investments": 1191000000,
+    "treasury_stock": -10694000000,
+    "noncontrolling_interests": 5948000000
+  },
+  "segments": [
+    {
+      "key": "WaterTreatmentChemicals",
+      "label": null,
+      "external_revenue": 117672000000,
+      "intersegment_revenue": 518000000,
+      "revenue": 118191000000,
+      "operating_income": 14560000000,
+      "assets": 148267000000
+    },
+    {
+      "key": "WaterTreatmentFacilities",
+      "label": null,
+      "external_revenue": 170534000000,
+      "intersegment_revenue": 561000000,
+      "revenue": 171095000000,
+      "operating_income": 21169000000,
+      "assets": 274119000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01573-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

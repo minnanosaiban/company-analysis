@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E03847",
+    "sec_code": "8766",
+    "company_name": "東京海上ホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-26",
+    "doc_id": "S100YLS8"
+  },
+  "financials": {
+    "ordinary_income": 1348630000000,
+    "net_income": 980428000000,
+    "comprehensive_income": 962135000000,
+    "eps": 515.55,
+    "dps": 218,
+    "operating_cf": 584259000000,
+    "investing_cf": 639725000000,
+    "financing_cf": -624251000000,
+    "net_assets": 5457571000000,
+    "total_assets": 31961940000000,
+    "bps": 2885.44,
+    "cash_end": 2085069000000,
+    "equity_ratio": 0.1696,
+    "roe": 0.1868,
+    "per": 14.18,
+    "eps_diluted": 279.15,
+    "income_tax_expense": 178506000000,
+    "profit_before_tax": 750700000000,
+    "depreciation": 176186000000,
+    "capex_ppe": -42577000000,
+    "capex_intangible": -116155000000,
+    "ppe": 318913000000,
+    "goodwill": 591541000000,
+    "intangible_assets": 1579868000000,
+    "equity_method_investments": 145693000000,
+    "treasury_stock": -304160000000,
+    "noncontrolling_interests": 96816000000,
+    "ordinary_revenue": 8872277000000
+  },
+  "segments": [
+    {
+      "key": "InternationalBusiness",
+      "label": null,
+      "equity_method_income": 9066000000,
+      "profit_before_tax": 686309000000,
+      "profit_attributable_to_owners": 502750000000
+    },
+    {
+      "key": "JapanLifeBusiness",
+      "label": null,
+      "profit_before_tax": -282137000000,
+      "profit_attributable_to_owners": -204860000000
+    },
+    {
+      "key": "JapanPCBusiness",
+      "label": null,
+      "equity_method_income": 535000000,
+      "profit_before_tax": 325173000000,
+      "profit_attributable_to_owners": 237541000000
+    },
+    {
+      "key": "SolutionAndOtherBusiness",
+      "label": null,
+      "equity_method_income": -1291000000,
+      "profit_before_tax": 20466000000,
+      "profit_attributable_to_owners": 14515000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03847-000_2026-03-31_01_2026-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

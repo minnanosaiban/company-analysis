@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E04272",
+    "sec_code": "9201",
+    "company_name": "日本航空株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-23",
+    "doc_id": "S100W1KL"
+  },
+  "financials": {
+    "dps": 86,
+    "net_sales": 1844095000000,
+    "net_income": 107038000000,
+    "net_assets": 975057000000,
+    "total_assets": 2794913000000,
+    "equity_ratio": 0.349,
+    "bps": 2233.52,
+    "eps": 245.09,
+    "roe": 0.114,
+    "per": 10.4,
+    "operating_cf": 381527000000,
+    "investing_cf": -281107000000,
+    "financing_cf": -64910000000,
+    "cash_end": 749030000000,
+    "operating_income": 168605000000,
+    "income_tax_expense": 46264000000,
+    "profit_before_tax": 158900000000,
+    "current_assets": 1095366000000,
+    "current_liabilities": 838306000000,
+    "noncurrent_assets": 1699547000000,
+    "trade_receivables": 210211000000,
+    "inventories": 49723000000,
+    "trade_payables": 179207000000,
+    "ppe": 1214014000000,
+    "goodwill": 3990000000,
+    "equity_method_investments": 24333000000,
+    "treasury_stock": -1473000000,
+    "noncontrolling_interests": 41615000000
+  },
+  "segments": [
+    {
+      "key": "FullServiceCarrier",
+      "label": "フルサービスキャリア事業",
+      "external_revenue": 1396294000000,
+      "intersegment_revenue": 55515000000,
+      "revenue": 1451810000000,
+      "equity_method_income": 1636000000
+    },
+    {
+      "key": "LCC",
+      "label": "LCC事業",
+      "external_revenue": 91895000000,
+      "intersegment_revenue": 12235000000,
+      "revenue": 104131000000,
+      "equity_method_income": -1129000000
+    },
+    {
+      "key": "MileageFinanceAndCommerce",
+      "label": "マイル／金融・コマース事業",
+      "external_revenue": 131779000000,
+      "intersegment_revenue": 68575000000,
+      "revenue": 200355000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04272-000_2025-03-31_01_2025-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

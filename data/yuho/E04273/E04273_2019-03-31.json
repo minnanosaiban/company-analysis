@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04273",
+    "sec_code": "9202",
+    "company_name": "ＡＮＡホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R7LB"
+  },
+  "financials": {
+    "net_sales": 2058312000000,
+    "ordinary_income": 156681000000,
+    "net_income": 110777000000,
+    "comprehensive_income": 141630000000,
+    "eps": 331.04,
+    "dps": 75,
+    "operating_cf": 296148000000,
+    "investing_cf": -308671000000,
+    "financing_cf": -46480000000,
+    "net_assets": 1109313000000,
+    "total_assets": 2687122000000,
+    "bps": 3285.46,
+    "cash_end": 211838000000,
+    "equity_ratio": 0.409,
+    "roe": 0.106,
+    "per": 12.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04273-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E02126",
+    "sec_code": "7011",
+    "company_name": "三菱重工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YHZG"
+  },
+  "financials": {
+    "dps": 25,
+    "net_sales": 4974168000000,
+    "net_income": 332129000000,
+    "comprehensive_income": 815370000000,
+    "net_assets": 3088566000000,
+    "total_assets": 8269711000000,
+    "equity_ratio": 0.3735,
+    "bps": 919.16,
+    "eps": 98.86,
+    "eps_diluted": 98.84,
+    "roe": 0.1222,
+    "per": 42.72,
+    "operating_cf": 942619000000,
+    "investing_cf": -49175000000,
+    "financing_cf": -274553000000,
+    "cash_end": 1334874000000,
+    "gross_profit": 1082674000000,
+    "income_tax_expense": 116306000000,
+    "sga_expense": 632810000000,
+    "profit_before_tax": 474694000000,
+    "depreciation": 121488000000,
+    "current_assets": 5440426000000,
+    "current_liabilities": 4261212000000,
+    "noncurrent_assets": 2829285000000,
+    "trade_receivables": 1108557000000,
+    "inventories": 1041899000000,
+    "trade_payables": 1000863000000,
+    "ppe": 794467000000,
+    "goodwill": 106394000000,
+    "intangible_assets": 77471000000,
+    "equity_method_investments": 326932000000,
+    "treasury_stock": -12915000000,
+    "noncontrolling_interests": 139834000000
+  },
+  "segments": [
+    {
+      "key": "AircraftDefenseAndSpace",
+      "label": null,
+      "external_revenue": 1392898000000,
+      "intersegment_revenue": 960000000,
+      "revenue": 1393858000000,
+      "equity_method_income": 27000000
+    },
+    {
+      "key": "EnergySystems",
+      "label": null,
+      "external_revenue": 2053956000000,
+      "intersegment_revenue": 8644000000,
+      "revenue": 2062600000000,
+      "equity_method_income": 12922000000
+    },
+    {
+      "key": "LogisticsThermalAndDriveSystems",
+      "label": null,
+      "external_revenue": 624860000000,
+      "intersegment_revenue": 5966000000,
+      "revenue": 630826000000,
+      "equity_method_income": -628000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 74467000000,
+      "intersegment_revenue": 1527000000,
+      "revenue": 75994000000,
+      "equity_method_income": 313000000
+    },
+    {
+      "key": "PlantsAndInfrastructureSystems",
+      "label": null,
+      "external_revenue": 814757000000,
+      "intersegment_revenue": 66135000000,
+      "revenue": 880893000000,
+      "equity_method_income": 1519000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02126-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

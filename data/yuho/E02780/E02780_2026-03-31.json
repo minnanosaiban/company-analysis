@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E02780",
+    "sec_code": "9987",
+    "company_name": "株式会社スズケン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YFRU"
+  },
+  "financials": {
+    "net_sales": 2486647000000,
+    "ordinary_income": 39744000000,
+    "net_income": 38136000000,
+    "comprehensive_income": 41371000000,
+    "eps": 545.54,
+    "dps": 100,
+    "operating_cf": 33566000000,
+    "investing_cf": 12817000000,
+    "financing_cf": -33336000000,
+    "net_assets": 416012000000,
+    "total_assets": 1155766000000,
+    "bps": 6148.58,
+    "cash_end": 131604000000,
+    "equity_ratio": 0.36,
+    "roe": 0.093,
+    "per": 10.9,
+    "gross_profit": 192524000000,
+    "operating_income": 36374000000,
+    "income_tax_expense": 17014000000,
+    "depreciation": 12341000000,
+    "capex_ppe": -15064000000,
+    "capex_intangible": -2784000000,
+    "current_assets": 876172000000,
+    "current_liabilities": 713052000000,
+    "noncurrent_assets": 279593000000,
+    "noncurrent_liabilities": 26701000000,
+    "trade_receivables": 554190000000,
+    "trade_payables": 665757000000,
+    "ppe": 139563000000,
+    "goodwill": 3523000000,
+    "intangible_assets": 15673000000,
+    "investment_securities": 79212000000,
+    "treasury_stock": -26344000000,
+    "noncontrolling_interests": 135000000
+  },
+  "segments": [
+    {
+      "key": "TheCommunityHealthcareAndNursingCareSupportBusiness",
+      "label": null,
+      "external_revenue": 93922000000,
+      "intersegment_revenue": 14000000,
+      "operating_income": 1549000000
+    },
+    {
+      "key": "TheHealthcareProductDevelopmentBusiness",
+      "label": null,
+      "external_revenue": 11933000000,
+      "intersegment_revenue": 39702000000,
+      "operating_income": 830000000
+    },
+    {
+      "key": "TheHealthcareRelatedServicesBusiness",
+      "label": null,
+      "external_revenue": 24629000000,
+      "intersegment_revenue": 18335000000,
+      "operating_income": 1276000000
+    },
+    {
+      "key": "ThePharmaceuticalDistributionBusiness",
+      "label": null,
+      "external_revenue": 2349386000000,
+      "intersegment_revenue": 51626000000,
+      "operating_income": 31467000000
+    },
+    {
+      "key": "TheSpecialtyDrugContractDistributionBusiness",
+      "label": null,
+      "external_revenue": 6775000000,
+      "intersegment_revenue": 429325000000,
+      "operating_income": 1155000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02780-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E04426",
+    "sec_code": "9434",
+    "company_name": "ソフトバンク株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R04O"
+  },
+  "financials": {
+    "dps": 86,
+    "net_income": 531366000000,
+    "comprehensive_income": 654503000000,
+    "net_assets": 2224945000000,
+    "total_assets": 14682181000000,
+    "equity_ratio": 0.152,
+    "bps": 470.24,
+    "eps": 112.53,
+    "eps_diluted": 111,
+    "roe": 0.254,
+    "per": 13.6,
+    "operating_cf": 1155750000000,
+    "investing_cf": -154773000000,
+    "financing_cf": -495260000000,
+    "cash_end": 2059167000000,
+    "operating_income": 1060168000000,
+    "gross_profit": 2717914000000,
+    "income_tax_expense": 208743000000,
+    "sga_expense": 1964580000000,
+    "profit_before_tax": 862868000000,
+    "depreciation": 764210000000,
+    "current_assets": 4948095000000,
+    "current_liabilities": 6372638000000,
+    "noncurrent_assets": 9734086000000,
+    "trade_receivables": 2389731000000,
+    "inventories": 159139000000,
+    "trade_payables": 2317402000000,
+    "ppe": 1673705000000,
+    "goodwill": 1994298000000,
+    "intangible_assets": 2529116000000,
+    "equity_method_investments": 218170000000,
+    "treasury_stock": -74131000000,
+    "noncontrolling_interests": 1458122000000
+  },
+  "segments": [
+    {
+      "key": "Consumer",
+      "label": null,
+      "external_revenue": 2872423000000,
+      "intersegment_revenue": 10660000000,
+      "revenue": 2883083000000,
+      "operating_income": 462432000000
+    },
+    {
+      "key": "Distribution",
+      "label": null,
+      "external_revenue": 516636000000,
+      "intersegment_revenue": 73401000000,
+      "revenue": 590037000000,
+      "operating_income": 24274000000
+    },
+    {
+      "key": "Enterprise",
+      "label": null,
+      "external_revenue": 732644000000,
+      "intersegment_revenue": 17680000000,
+      "revenue": 750324000000,
+      "operating_income": 135089000000
+    },
+    {
+      "key": "FinancialBusiness",
+      "label": null,
+      "external_revenue": 125816000000,
+      "intersegment_revenue": 16503000000,
+      "revenue": 142319000000,
+      "operating_income": -12363000000
+    },
+    {
+      "key": "YahooJAPANLINE",
+      "label": null,
+      "external_revenue": 1532998000000,
+      "intersegment_revenue": 28689000000,
+      "revenue": 1561687000000,
+      "operating_income": 159748000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04426-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

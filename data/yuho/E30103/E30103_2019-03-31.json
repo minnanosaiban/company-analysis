@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E30103",
+    "sec_code": "7167",
+    "company_name": "株式会社めぶきフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R0IA"
+  },
+  "financials": {
+    "ordinary_income": 69533000000,
+    "net_income": 46338000000,
+    "comprehensive_income": 46335000000,
+    "eps": 39.47,
+    "eps_diluted": 39.45,
+    "dps": 11,
+    "operating_cf": 6087000000,
+    "investing_cf": -211514000000,
+    "financing_cf": -54944000000,
+    "net_assets": 919547000000,
+    "total_assets": 17372575000000,
+    "bps": 783.67,
+    "cash_end": 1434627000000,
+    "equity_ratio": 0.0529,
+    "roe": 0.0512,
+    "per": 7.17,
+    "ordinary_revenue": 288139000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E30103-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

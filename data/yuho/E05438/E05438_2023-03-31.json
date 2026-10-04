@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E05438",
+    "sec_code": "8424",
+    "company_name": "芙蓉総合リース株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4HV"
+  },
+  "financials": {
+    "net_sales": 688655000000,
+    "ordinary_income": 59699000000,
+    "net_income": 38939000000,
+    "comprehensive_income": 50314000000,
+    "eps": 1299.27,
+    "eps_diluted": 1292.42,
+    "dps": 343,
+    "operating_cf": -24149000000,
+    "investing_cf": -12393000000,
+    "financing_cf": 84042000000,
+    "net_assets": 409437000000,
+    "total_assets": 3149740000000,
+    "bps": 12227.88,
+    "cash_end": 121192000000,
+    "equity_ratio": 0.116,
+    "roe": 0.111,
+    "per": 6.9,
+    "gross_profit": 97316000000,
+    "operating_income": 51561000000,
+    "income_tax_expense": 16658000000,
+    "interest_bearing_debt_current": 584811000000,
+    "interest_bearing_debt_noncurrent": 829614000000,
+    "bonds_payable": 316397000000,
+    "commercial_papers": 306000000000,
+    "current_portion_of_bonds": 45000000000,
+    "current_portion_lt_loans": 393529000000,
+    "lease_liabilities_current": 7500000000,
+    "lease_liabilities_noncurrent": 272000000,
+    "depreciation": 2739000000,
+    "current_assets": 2097123000000,
+    "current_liabilities": 1479030000000,
+    "noncurrent_assets": 1051968000000,
+    "noncurrent_liabilities": 1261272000000,
+    "trade_payables": 33916000000,
+    "ppe": 842070000000,
+    "goodwill": 27986000000,
+    "intangible_assets": 39241000000,
+    "investment_securities": 125286000000,
+    "treasury_stock": -2067000000,
+    "noncontrolling_interests": 42253000000
+  },
+  "segments": [
+    {
+      "key": "Finance",
+      "label": null,
+      "external_revenue": 26208000000,
+      "intersegment_revenue": 3584000000,
+      "operating_income": 18605000000
+    },
+    {
+      "key": "LeaseAndInstallmentSales",
+      "label": null,
+      "external_revenue": 611863000000,
+      "intersegment_revenue": 741000000,
+      "operating_income": 36679000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 50583000000,
+      "intersegment_revenue": 2742000000,
+      "operating_income": 10106000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05438-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

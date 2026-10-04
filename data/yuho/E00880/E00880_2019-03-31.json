@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00880",
+    "sec_code": "4403",
+    "company_name": "日油株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R2TO"
+  },
+  "financials": {
+    "net_sales": 189152000000,
+    "ordinary_income": 30099000000,
+    "net_income": 22034000000,
+    "comprehensive_income": 19226000000,
+    "eps": 259.29,
+    "dps": 78,
+    "operating_cf": 19864000000,
+    "investing_cf": -5540000000,
+    "financing_cf": -10814000000,
+    "net_assets": 178285000000,
+    "total_assets": 244533000000,
+    "bps": 2108.77,
+    "cash_end": 39357000000,
+    "equity_ratio": 0.7259,
+    "roe": 0.1273,
+    "per": 14.54
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00880-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

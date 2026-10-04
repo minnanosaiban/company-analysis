@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "edinet_code": "E04503",
+    "sec_code": "9505",
+    "company_name": "北陸電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R6NI"
+  },
+  "financials": {
+    "net_sales": 817601000000,
+    "ordinary_income": -93737000000,
+    "net_income": -88446000000,
+    "comprehensive_income": -90861000000,
+    "eps": -423.69,
+    "operating_cf": -97045000000,
+    "investing_cf": -88845000000,
+    "financing_cf": 245752000000,
+    "net_assets": 252285000000,
+    "total_assets": 1805318000000,
+    "bps": 1118.51,
+    "cash_end": 164863000000,
+    "equity_ratio": 0.129,
+    "roe": -0.317,
+    "operating_income": -73791000000,
+    "income_tax_expense": 2006000000,
+    "interest_bearing_debt_current": 1372000000,
+    "interest_bearing_debt_noncurrent": 491520000000,
+    "bonds_payable": 674900000000,
+    "commercial_papers": 30000000000,
+    "depreciation": 58403000000,
+    "current_assets": 370655000000,
+    "current_liabilities": 249279000000,
+    "noncurrent_assets": 1434662000000,
+    "noncurrent_liabilities": 1300759000000,
+    "inventories": 62380000000,
+    "trade_payables": 45966000000,
+    "goodwill": 6333000000,
+    "treasury_stock": -3373000000,
+    "noncontrolling_interests": 18798000000
+  },
+  "segments": [
+    {
+      "key": "PowerGenerationSales",
+      "label": "発電・販売事業",
+      "external_revenue": 671565000000,
+      "intersegment_revenue": 77172000000,
+      "ordinary_income": -94244000000
+    },
+    {
+      "key": "TransmissionAndDistribution",
+      "label": "送配電事業",
+      "external_revenue": 68657000000,
+      "intersegment_revenue": 163007000000,
+      "ordinary_income": 36000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04503-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

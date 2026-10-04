@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E03969",
+    "sec_code": "4681",
+    "company_name": "リゾートトラスト株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R6N2"
+  },
+  "financials": {
+    "net_sales": 169830000000,
+    "ordinary_income": 13247000000,
+    "net_income": 16906000000,
+    "comprehensive_income": 20124000000,
+    "eps": 158.97,
+    "dps": 45,
+    "operating_cf": 24285000000,
+    "investing_cf": 6314000000,
+    "financing_cf": -30995000000,
+    "net_assets": 123889000000,
+    "total_assets": 439999000000,
+    "bps": 1107.35,
+    "cash_end": 28926000000,
+    "equity_ratio": 0.268,
+    "roe": 0.1542,
+    "per": 13.27,
+    "gross_profit": 151012000000,
+    "operating_income": 12270000000,
+    "income_tax_expense": 6850000000,
+    "interest_bearing_debt_current": 1308000000,
+    "interest_bearing_debt_noncurrent": 13487000000,
+    "current_portion_lt_loans": 11300000000,
+    "lease_liabilities_current": 1470000000,
+    "lease_liabilities_noncurrent": 20985000000,
+    "depreciation": 9264000000,
+    "capex_ppe": -9344000000,
+    "capex_intangible": -959000000,
+    "current_assets": 187964000000,
+    "current_liabilities": 156695000000,
+    "noncurrent_assets": 252035000000,
+    "noncurrent_liabilities": 159414000000,
+    "trade_payables": 1738000000,
+    "ppe": 176133000000,
+    "goodwill": 1265000000,
+    "intangible_assets": 6157000000,
+    "investment_securities": 22915000000,
+    "treasury_stock": -3064000000,
+    "noncontrolling_interests": 6014000000
+  },
+  "segments": [
+    {
+      "key": "HotelRestaurantsAndOthers",
+      "label": null,
+      "external_revenue": 89747000000,
+      "intersegment_revenue": 3019000000,
+      "operating_income": 4167000000
+    },
+    {
+      "key": "Medical",
+      "label": null,
+      "external_revenue": 44422000000,
+      "intersegment_revenue": 395000000,
+      "operating_income": 6053000000
+    },
+    {
+      "key": "MembershipFee",
+      "label": null,
+      "external_revenue": 34945000000,
+      "intersegment_revenue": 39000000,
+      "operating_income": 11182000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03969-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

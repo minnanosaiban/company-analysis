@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E04284",
+    "sec_code": "9302",
+    "company_name": "三井倉庫ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TRNA"
+  },
+  "financials": {
+    "ordinary_income": 21010000000,
+    "net_income": 12107000000,
+    "comprehensive_income": 23782000000,
+    "eps": 486.21,
+    "dps": 146,
+    "operating_cf": 23176000000,
+    "investing_cf": -10477000000,
+    "financing_cf": -17068000000,
+    "net_assets": 120828000000,
+    "total_assets": 263543000000,
+    "bps": 4412.1,
+    "cash_end": 30876000000,
+    "equity_ratio": 0.417,
+    "roe": 0.119,
+    "per": 9.7,
+    "operating_income": 20754000000,
+    "income_tax_expense": 5768000000,
+    "interest_bearing_debt_current": 716000000,
+    "interest_bearing_debt_noncurrent": 45929000000,
+    "bonds_payable": 11000000000,
+    "current_portion_of_bonds": 14000000000,
+    "current_portion_lt_loans": 5091000000,
+    "lease_liabilities_current": 1467000000,
+    "lease_liabilities_noncurrent": 5059000000,
+    "depreciation": 9707000000,
+    "capex_ppe": -7950000000,
+    "capex_intangible": -3516000000,
+    "current_assets": 73560000000,
+    "current_liabilities": 61152000000,
+    "noncurrent_assets": 189983000000,
+    "noncurrent_liabilities": 81562000000,
+    "inventories": 1987000000,
+    "ppe": 138785000000,
+    "goodwill": 1587000000,
+    "intangible_assets": 12411000000,
+    "investment_securities": 15393000000,
+    "treasury_stock": -104000000,
+    "noncontrolling_interests": 10920000000
+  },
+  "segments": [
+    {
+      "key": "LogisticsSegment",
+      "label": null,
+      "external_revenue": 251817000000,
+      "operating_income": 19422000000
+    },
+    {
+      "key": "RealEstateSegment",
+      "label": null,
+      "external_revenue": 8776000000,
+      "intersegment_revenue": 816000000,
+      "operating_income": 5942000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04284-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

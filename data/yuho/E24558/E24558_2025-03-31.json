@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "edinet_code": "E24558",
+    "sec_code": "1417",
+    "company_name": "株式会社ミライト・ワン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-23",
+    "doc_id": "S100VZQA"
+  },
+  "financials": {
+    "net_sales": 578599000000,
+    "ordinary_income": 27470000000,
+    "net_income": 17179000000,
+    "comprehensive_income": 21475000000,
+    "eps": 189.4,
+    "dps": 75,
+    "operating_cf": 18049000000,
+    "investing_cf": -9370000000,
+    "financing_cf": -6412000000,
+    "net_assets": 269877000000,
+    "total_assets": 537739000000,
+    "bps": 2914.94,
+    "cash_end": 51350000000,
+    "equity_ratio": 0.486,
+    "roe": 0.067,
+    "per": 11.37,
+    "gross_profit": 84851000000,
+    "operating_income": 27985000000,
+    "income_tax_expense": 10707000000,
+    "interest_bearing_debt_current": 42596000000,
+    "interest_bearing_debt_noncurrent": 40495000000,
+    "bonds_payable": 30000000000,
+    "lease_liabilities_current": 4463000000,
+    "lease_liabilities_noncurrent": 9937000000,
+    "depreciation": 11264000000,
+    "capex_ppe": -5694000000,
+    "capex_intangible": -2070000000,
+    "current_assets": 321194000000,
+    "current_liabilities": 160983000000,
+    "noncurrent_assets": 216544000000,
+    "noncurrent_liabilities": 106879000000,
+    "ppe": 101109000000,
+    "goodwill": 37585000000,
+    "intangible_assets": 76582000000,
+    "investment_securities": 19397000000,
+    "treasury_stock": -2934000000,
+    "noncontrolling_interests": 8375000000
+  },
+  "segments": [
+    {
+      "key": "KokusaiKogyoCoLtd",
+      "label": null,
+      "external_revenue": 49522000000,
+      "intersegment_revenue": 6000000,
+      "operating_income": 1541000000
+    },
+    {
+      "key": "Lantrovision",
+      "label": null,
+      "external_revenue": 34317000000,
+      "operating_income": 1411000000
+    },
+    {
+      "key": "MIRAITONE",
+      "label": null,
+      "external_revenue": 302152000000,
+      "intersegment_revenue": 2961000000,
+      "operating_income": 15260000000
+    },
+    {
+      "key": "MIRAITONESYSTEMS",
+      "label": null,
+      "external_revenue": 25325000000,
+      "intersegment_revenue": 4664000000,
+      "operating_income": 2033000000
+    },
+    {
+      "key": "SOLCOM",
+      "label": null,
+      "external_revenue": 33340000000,
+      "intersegment_revenue": 57000000,
+      "operating_income": 1407000000
+    },
+    {
+      "key": "SeibuConstruction",
+      "label": null,
+      "external_revenue": 71203000000,
+      "intersegment_revenue": 380000000,
+      "operating_income": 1323000000
+    },
+    {
+      "key": "Shikokutsuken",
+      "label": null,
+      "external_revenue": 25079000000,
+      "intersegment_revenue": 17000000,
+      "operating_income": 3039000000
+    },
+    {
+      "key": "TTK",
+      "label": null,
+      "external_revenue": 37657000000,
+      "intersegment_revenue": 276000000,
+      "operating_income": 2416000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24558-000_2025-03-31_01_2025-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

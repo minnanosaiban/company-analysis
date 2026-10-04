@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04430",
+    "sec_code": "9432",
+    "company_name": "日本電信電話株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R2ZO"
+  },
+  "financials": {
+    "dps": 95,
+    "net_sales": 11899415000000,
+    "net_income": 855306000000,
+    "comprehensive_income": 743451000000,
+    "net_assets": 9061103000000,
+    "total_assets": 23014133000000,
+    "equity_ratio": 0.394,
+    "bps": 2492.6,
+    "eps": 231.21,
+    "roe": 0.093,
+    "per": 11.1,
+    "operating_cf": 2995211000000,
+    "investing_cf": -1852727000000,
+    "financing_cf": -1041261000000,
+    "cash_end": 1033574000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04430-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

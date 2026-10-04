@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E03153",
+    "sec_code": "9861",
+    "company_name": "株式会社　吉野家ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-26",
+    "doc_id": "S100QTWV"
+  },
+  "financials": {
+    "net_sales": 202385000000,
+    "ordinary_income": 349000000,
+    "net_income": -6000000000,
+    "comprehensive_income": -6584000000,
+    "eps": -92.94,
+    "dps": 20,
+    "operating_cf": 2830000000,
+    "investing_cf": -9034000000,
+    "financing_cf": 2461000000,
+    "net_assets": 50025000000,
+    "total_assets": 112685000000,
+    "bps": 765.73,
+    "cash_end": 15660000000,
+    "equity_ratio": 0.439,
+    "roe": -0.112
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03153-000_2023-02-28_01_2023-05-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

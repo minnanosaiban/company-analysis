@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E32292",
+    "sec_code": "9143",
+    "company_name": "ＳＧホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R4RK"
+  },
+  "financials": {
+    "ordinary_income": 103666000000,
+    "net_income": 74342000000,
+    "comprehensive_income": 92981000000,
+    "eps": 117.03,
+    "dps": 53,
+    "operating_cf": 121294000000,
+    "investing_cf": 504000000,
+    "financing_cf": -121931000000,
+    "net_assets": 404845000000,
+    "total_assets": 790259000000,
+    "bps": 627.09,
+    "cash_end": 69165000000,
+    "equity_ratio": 0.504,
+    "roe": 0.19,
+    "per": 21.68
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E32292-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

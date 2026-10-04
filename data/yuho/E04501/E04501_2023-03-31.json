@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E04501",
+    "sec_code": "9506",
+    "company_name": "東北電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R42K"
+  },
+  "financials": {
+    "net_sales": 3007204000000,
+    "ordinary_income": -199277000000,
+    "net_income": -127562000000,
+    "comprehensive_income": -138823000000,
+    "eps": -255.14,
+    "operating_cf": -93776000000,
+    "investing_cf": -275797000000,
+    "financing_cf": 598465000000,
+    "net_assets": 631099000000,
+    "total_assets": 5211914000000,
+    "bps": 1097.95,
+    "cash_end": 507896000000,
+    "equity_ratio": 0.105,
+    "roe": -0.204,
+    "operating_income": -180054000000,
+    "income_tax_expense": 6629000000,
+    "interest_bearing_debt_noncurrent": 1499437000000,
+    "bonds_payable": 1575700000000,
+    "depreciation": 193452000000,
+    "current_assets": 1206742000000,
+    "current_liabilities": 1113424000000,
+    "noncurrent_assets": 4005171000000,
+    "noncurrent_liabilities": 3467390000000,
+    "trade_receivables": 263578000000,
+    "inventories": 136823000000,
+    "trade_payables": 254947000000,
+    "treasury_stock": -4512000000,
+    "noncontrolling_interests": 82111000000
+  },
+  "segments": [
+    {
+      "key": "Construction",
+      "label": null,
+      "external_revenue": 155481000000,
+      "intersegment_revenue": 148083000000,
+      "ordinary_income": 13173000000
+    },
+    {
+      "key": "PowerGenerationSales",
+      "label": "発電・販売事業",
+      "external_revenue": 2100247000000,
+      "intersegment_revenue": 214021000000,
+      "ordinary_income": -218478000000,
+      "equity_method_income": 289000000
+    },
+    {
+      "key": "PowerTransmissionAndDistribution",
+      "label": "送配電事業",
+      "external_revenue": 617661000000,
+      "intersegment_revenue": 507223000000,
+      "ordinary_income": 11388000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04501-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00444",
+    "sec_code": "2811",
+    "company_name": "カゴメ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2015-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-15",
+    "doc_id": "S100QOOX"
+  },
+  "financials": {
+    "net_sales": 195619000000,
+    "ordinary_income": 7015000000,
+    "net_income": 3441000000,
+    "comprehensive_income": 706000000,
+    "eps": 34.64,
+    "eps_diluted": 34.63,
+    "dps": 22,
+    "operating_cf": 12039000000,
+    "investing_cf": -11023000000,
+    "financing_cf": 1555000000,
+    "net_assets": 126344000000,
+    "total_assets": 208885000000,
+    "bps": 1201.96,
+    "cash_end": 21075000000,
+    "equity_ratio": 0.572,
+    "roe": 0.029,
+    "per": 61.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00444-000_2019-12-31_02_2023-05-15.csv",
+    "parser_version": "0.1.3"
+  }
+}

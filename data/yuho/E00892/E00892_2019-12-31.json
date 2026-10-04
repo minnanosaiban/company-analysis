@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00892",
+    "sec_code": "4612",
+    "company_name": "日本ペイントホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T58G"
+  },
+  "financials": {
+    "dps": 45,
+    "net_sales": 692009000000,
+    "net_income": 36717000000,
+    "comprehensive_income": 14929000000,
+    "net_assets": 552922000000,
+    "total_assets": 1478646000000,
+    "equity_ratio": 0.374,
+    "bps": 344.75,
+    "eps": 22.9,
+    "eps_diluted": 22.89,
+    "roe": 0.068,
+    "per": 49.3,
+    "operating_cf": 92076000000,
+    "investing_cf": -352769000000,
+    "financing_cf": 254018000000,
+    "cash_end": 123300000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00892-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E06141",
+    "sec_code": "8750",
+    "company_name": "第一生命ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TQJ1"
+  },
+  "financials": {
+    "ordinary_income": 539006000000,
+    "net_income": 320765000000,
+    "comprehensive_income": 1425209000000,
+    "eps": 329.68,
+    "eps_diluted": 329.6,
+    "dps": 113,
+    "operating_cf": 997377000000,
+    "investing_cf": -601649000000,
+    "financing_cf": -145763000000,
+    "net_assets": 3882157000000,
+    "total_assets": 67540309000000,
+    "bps": 4107.03,
+    "cash_end": 2772370000000,
+    "equity_ratio": 0.057,
+    "roe": 0.098,
+    "per": 11.7,
+    "bonds_payable": 922198000000,
+    "depreciation": 75392000000,
+    "capex_ppe": -51139000000,
+    "capex_intangible": -42012000000,
+    "ppe": 1224456000000,
+    "goodwill": 115206000000,
+    "intangible_assets": 708383000000,
+    "treasury_stock": -17258000000
+  },
+  "segments": [
+    {
+      "key": "DomesticInsuranceBusiness",
+      "label": null,
+      "external_revenue": 8471714000000,
+      "intersegment_revenue": 311213000000,
+      "ordinary_income": 407033000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 10945000000,
+      "intersegment_revenue": 215936000000,
+      "ordinary_income": 199229000000,
+      "equity_method_income": 6458000000
+    },
+    {
+      "key": "OverseasInsuranceBusiness",
+      "label": null,
+      "external_revenue": 3092703000000,
+      "intersegment_revenue": 57100000000,
+      "ordinary_income": 127382000000,
+      "equity_method_income": 3072000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E06141-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

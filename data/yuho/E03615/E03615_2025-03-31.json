@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E03615",
+    "sec_code": "8411",
+    "company_name": "株式会社みずほフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-17",
+    "doc_id": "S100VYQX"
+  },
+  "financials": {
+    "ordinary_income": 1168141000000,
+    "net_income": 885433000000,
+    "comprehensive_income": 618184000000,
+    "eps": 350.2,
+    "eps_diluted": 350.2,
+    "dps": 140,
+    "operating_cf": -3820800000000,
+    "investing_cf": 3793092000000,
+    "financing_cf": -299030000000,
+    "net_assets": 10523753000000,
+    "total_assets": 283320404000000,
+    "bps": 4161.03,
+    "cash_end": 70723361000000,
+    "equity_ratio": 0.0368,
+    "roe": 0.0856,
+    "per": 11.56,
+    "income_tax_expense": 301525000000,
+    "bonds_payable": 12877794000000,
+    "commercial_papers": 2138133000000,
+    "depreciation": 198607000000,
+    "capex_ppe": -94936000000,
+    "capex_intangible": -250009000000,
+    "ppe": 1122592000000,
+    "goodwill": 108029000000,
+    "intangible_assets": 808897000000,
+    "treasury_stock": -9462000000,
+    "noncontrolling_interests": 81536000000,
+    "ordinary_revenue": 9030374000000
+  },
+  "segments": [
+    {
+      "key": "AMC",
+      "label": null,
+      "equity_method_income": -3301000000
+    },
+    {
+      "key": "CIBC",
+      "label": null,
+      "equity_method_income": 9693000000
+    },
+    {
+      "key": "GCIBC",
+      "label": null,
+      "equity_method_income": 25004000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "equity_method_income": 4930000000
+    },
+    {
+      "key": "RBC",
+      "label": null,
+      "equity_method_income": 10456000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03615-000_2025-03-31_01_2025-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

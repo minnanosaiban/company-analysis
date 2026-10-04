@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E03468",
+    "sec_code": "3397",
+    "company_name": "株式会社　トリドールホールディングス",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7CF"
+  },
+  "financials": {
+    "dps": 7.5,
+    "net_sales": 153355000000,
+    "net_income": 8979000000,
+    "comprehensive_income": 13599000000,
+    "net_assets": 62024000000,
+    "total_assets": 240840000000,
+    "equity_ratio": 0.258,
+    "bps": 714.46,
+    "eps": 99.25,
+    "eps_diluted": 98.46,
+    "roe": 0.177,
+    "per": 25.6,
+    "operating_cf": 35118000000,
+    "investing_cf": -5659000000,
+    "financing_cf": -2903000000,
+    "cash_end": 53463000000,
+    "operating_income": 14243000000,
+    "gross_profit": 115174000000,
+    "income_tax_expense": 4694000000,
+    "lease_liabilities_current": 14936000000,
+    "lease_liabilities_noncurrent": 68435000000,
+    "sga_expense": 109743000000,
+    "profit_before_tax": 13935000000,
+    "depreciation": 21926000000,
+    "capex_ppe": -6898000000,
+    "capex_intangible": -69000000,
+    "current_assets": 61087000000,
+    "current_liabilities": 50713000000,
+    "noncurrent_assets": 179752000000,
+    "trade_receivables": 5518000000,
+    "inventories": 502000000,
+    "trade_payables": 10773000000,
+    "ppe": 31783000000,
+    "goodwill": 31551000000,
+    "equity_method_investments": 3819000000,
+    "treasury_stock": -1020000000,
+    "noncontrolling_interests": 7954000000
+  },
+  "segments": [
+    {
+      "key": "MarugameSeimenSegment",
+      "label": null,
+      "external_revenue": 92129000000,
+      "revenue": 92129000000,
+      "operating_income": 10586000000
+    },
+    {
+      "key": "OverseasSegment",
+      "label": null,
+      "external_revenue": 41069000000,
+      "revenue": 41069000000,
+      "operating_income": 1448000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03468-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

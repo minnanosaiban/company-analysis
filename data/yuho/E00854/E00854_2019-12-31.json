@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00854",
+    "sec_code": "4186",
+    "company_name": "東京応化工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5DY"
+  },
+  "financials": {
+    "net_sales": 102820000000,
+    "ordinary_income": 9707000000,
+    "net_income": 5410000000,
+    "comprehensive_income": 8117000000,
+    "eps": 43.34,
+    "eps_diluted": 43.21,
+    "dps": 120,
+    "operating_cf": 12743000000,
+    "investing_cf": -17286000000,
+    "financing_cf": -5789000000,
+    "net_assets": 151733000000,
+    "total_assets": 186486000000,
+    "bps": 1163.74,
+    "cash_end": 29229000000,
+    "equity_ratio": 0.775,
+    "roe": 0.037,
+    "per": 32.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00854-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E02163",
+    "sec_code": "7261",
+    "company_name": "マツダ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YDZ1"
+  },
+  "financials": {
+    "net_sales": 4918172000000,
+    "ordinary_income": 131835000000,
+    "net_income": 35086000000,
+    "comprehensive_income": 149915000000,
+    "eps": 55.64,
+    "eps_diluted": 55.6,
+    "dps": 55,
+    "operating_cf": 223000000,
+    "investing_cf": -868000000,
+    "financing_cf": 104969000000,
+    "net_assets": 1924950000000,
+    "total_assets": 4479493000000,
+    "bps": 3020.96,
+    "cash_end": 1293162000000,
+    "equity_ratio": 0.425,
+    "roe": 0.019,
+    "per": 18.7,
+    "gross_profit": 886399000000,
+    "operating_income": 51579000000,
+    "income_tax_expense": 65415000000,
+    "interest_bearing_debt_current": 31059000000,
+    "interest_bearing_debt_noncurrent": 622300000000,
+    "bonds_payable": 105000000000,
+    "current_portion_of_bonds": 20000000000,
+    "current_portion_lt_loans": 55386000000,
+    "lease_liabilities_current": 8434000000,
+    "lease_liabilities_noncurrent": 27350000000,
+    "depreciation": 121056000000,
+    "capex_ppe": -89332000000,
+    "capex_intangible": -21754000000,
+    "current_assets": 2449350000000,
+    "current_liabilities": 1613616000000,
+    "noncurrent_assets": 2030143000000,
+    "noncurrent_liabilities": 940927000000,
+    "trade_receivables": 183829000000,
+    "inventories": 696071000000,
+    "trade_payables": 528679000000,
+    "ppe": 1234119000000,
+    "intangible_assets": 74070000000,
+    "investment_securities": 316060000000,
+    "treasury_stock": -1109000000,
+    "noncontrolling_interests": 19051000000
+  },
+  "segments": [
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 859557000000,
+      "intersegment_revenue": 29364000000,
+      "operating_income": 18026000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 900173000000,
+      "intersegment_revenue": 2457705000000,
+      "operating_income": -161820000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 2561746000000,
+      "intersegment_revenue": 391703000000,
+      "operating_income": 167536000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 596696000000,
+      "intersegment_revenue": 64373000000,
+      "operating_income": 32712000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02163-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

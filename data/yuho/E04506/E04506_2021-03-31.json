@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04506",
+    "sec_code": "9508",
+    "company_name": "九州電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7AV"
+  },
+  "financials": {
+    "ordinary_income": 55179000000,
+    "net_income": 31835000000,
+    "comprehensive_income": 62430000000,
+    "eps": 62.86,
+    "eps_diluted": 56.39,
+    "dps": 35,
+    "operating_cf": 253459000000,
+    "investing_cf": -330587000000,
+    "financing_cf": 95549000000,
+    "net_assets": 681470000000,
+    "total_assets": 5128563000000,
+    "bps": 1165.39,
+    "cash_end": 223901000000,
+    "equity_ratio": 0.127,
+    "roe": 0.05,
+    "per": 17.37
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04506-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

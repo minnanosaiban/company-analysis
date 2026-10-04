@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "edinet_code": "E05062",
+    "sec_code": "4307",
+    "company_name": "株式会社野村総合研究所",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R4IT"
+  },
+  "financials": {
+    "dps": 45,
+    "net_sales": 692165000000,
+    "net_income": 76307000000,
+    "comprehensive_income": 80508000000,
+    "net_assets": 399006000000,
+    "total_assets": 838224000000,
+    "equity_ratio": 0.476,
+    "bps": 674.35,
+    "eps": 128.92,
+    "eps_diluted": 128.88,
+    "roe": 0.207,
+    "per": 23.8,
+    "operating_cf": 118899000000,
+    "investing_cf": -61190000000,
+    "financing_cf": -44921000000,
+    "cash_end": 129257000000,
+    "operating_income": 111832000000,
+    "gross_profit": 239829000000,
+    "income_tax_expense": 32002000000,
+    "interest_bearing_debt_current": 20235000000,
+    "interest_bearing_debt_noncurrent": 182725000000,
+    "lease_liabilities_current": 9364000000,
+    "lease_liabilities_noncurrent": 25420000000,
+    "sga_expense": 131580000000,
+    "profit_before_tax": 108499000000,
+    "depreciation": 45092000000,
+    "capex_ppe": -12061000000,
+    "capex_intangible": -42640000000,
+    "current_assets": 349102000000,
+    "current_liabilities": 198247000000,
+    "noncurrent_assets": 489122000000,
+    "trade_receivables": 131592000000,
+    "trade_payables": 55681000000,
+    "ppe": 42114000000,
+    "goodwill": 101850000000,
+    "intangible_assets": 135433000000,
+    "equity_method_investments": 9527000000,
+    "treasury_stock": -6277000000,
+    "noncontrolling_interests": 3399000000
+  },
+  "segments": [
+    {
+      "key": "Consulting",
+      "label": "コンサルティング",
+      "external_revenue": 46100000000,
+      "intersegment_revenue": 1720000000,
+      "revenue": 47821000000,
+      "operating_income": 12329000000,
+      "equity_method_income": -36000000
+    },
+    {
+      "key": "FinancialITSolutions",
+      "label": "金融ＩＴソリューション",
+      "external_revenue": 328576000000,
+      "intersegment_revenue": 5565000000,
+      "revenue": 334141000000,
+      "operating_income": 49710000000,
+      "equity_method_income": -135000000
+    },
+    {
+      "key": "ITPlatformServices",
+      "label": "ＩＴ基盤サービス",
+      "external_revenue": 50298000000,
+      "intersegment_revenue": 119542000000,
+      "revenue": 169840000000,
+      "operating_income": 23346000000,
+      "equity_method_income": -71000000
+    },
+    {
+      "key": "IndustrialITSolutions",
+      "label": "産業ＩＴソリューション",
+      "external_revenue": 267190000000,
+      "intersegment_revenue": 8840000000,
+      "revenue": 276031000000,
+      "operating_income": 24429000000,
+      "equity_method_income": 607000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05062-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

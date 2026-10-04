@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E00872",
+    "sec_code": "3401",
+    "company_name": "帝人株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZX0"
+  },
+  "financials": {
+    "net_sales": 926054000000,
+    "ordinary_income": 49692000000,
+    "net_income": 23158000000,
+    "comprehensive_income": 45979000000,
+    "eps": 120.58,
+    "eps_diluted": 115.72,
+    "dps": 55,
+    "operating_cf": 89656000000,
+    "investing_cf": -198375000000,
+    "financing_cf": 71113000000,
+    "net_assets": 464811000000,
+    "total_assets": 1207583000000,
+    "bps": 2288.05,
+    "cash_end": 130696000000,
+    "equity_ratio": 0.364,
+    "roe": 0.055,
+    "per": 11.3,
+    "gross_profit": 271022000000,
+    "operating_income": 44208000000,
+    "income_tax_expense": 14797000000,
+    "interest_bearing_debt_current": 110524000000,
+    "interest_bearing_debt_noncurrent": 215972000000,
+    "bonds_payable": 105000000000,
+    "current_portion_lt_loans": 39185000000,
+    "lease_liabilities_noncurrent": 12963000000,
+    "capex_ppe": -60593000000,
+    "capex_intangible": -139883000000,
+    "current_assets": 571996000000,
+    "current_liabilities": 351756000000,
+    "noncurrent_assets": 635586000000,
+    "noncurrent_liabilities": 391016000000,
+    "trade_payables": 101183000000,
+    "ppe": 315514000000,
+    "goodwill": 29920000000,
+    "intangible_assets": 190752000000,
+    "investment_securities": 85014000000,
+    "treasury_stock": -12729000000,
+    "noncontrolling_interests": 24429000000
+  },
+  "segments": [
+    {
+      "key": "Healthcare",
+      "label": null,
+      "external_revenue": 175095000000,
+      "intersegment_revenue": 15000000,
+      "operating_income": 43280000000
+    },
+    {
+      "key": "Material",
+      "label": null,
+      "external_revenue": 385106000000,
+      "intersegment_revenue": 12430000000,
+      "operating_income": -5708000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00872-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

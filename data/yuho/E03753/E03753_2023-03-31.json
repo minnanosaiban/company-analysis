@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E03753",
+    "sec_code": "8601",
+    "company_name": "株式会社大和証券グループ本社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8NC"
+  },
+  "financials": {
+    "ordinary_income": 86930000000,
+    "net_income": 63875000000,
+    "comprehensive_income": 103094000000,
+    "eps": 43.53,
+    "eps_diluted": 43.31,
+    "dps": 23,
+    "operating_cf": -183745000000,
+    "investing_cf": 7457000000,
+    "financing_cf": -565878000000,
+    "net_assets": 1675489000000,
+    "total_assets": 26413248000000,
+    "bps": 968.93,
+    "cash_end": 3835559000000,
+    "equity_ratio": 0.053,
+    "roe": 0.046,
+    "per": 14.3,
+    "operating_income": 66273000000,
+    "income_tax_expense": 19980000000,
+    "interest_bearing_debt_current": 1292848000000,
+    "interest_bearing_debt_noncurrent": 1706985000000,
+    "bonds_payable": 1304543000000,
+    "commercial_papers": 261300000000,
+    "current_portion_of_bonds": 485029000000,
+    "depreciation": 43954000000,
+    "capex_ppe": -47702000000,
+    "capex_intangible": -33546000000,
+    "current_assets": 24872860000000,
+    "current_liabilities": 21581275000000,
+    "noncurrent_assets": 1540388000000,
+    "noncurrent_liabilities": 3152195000000,
+    "trade_payables": 8120000000,
+    "ppe": 916873000000,
+    "goodwill": 18526000000,
+    "intangible_assets": 125571000000,
+    "investment_securities": 455317000000,
+    "treasury_stock": -71522000000,
+    "noncontrolling_interests": 258855000000
+  },
+  "segments": [
+    {
+      "key": "AssetManagement",
+      "label": "アセットマネジメント部門",
+      "external_revenue": 82746000000,
+      "intersegment_revenue": -12352000000,
+      "ordinary_income": 44526000000,
+      "equity_method_income": 5348000000
+    },
+    {
+      "key": "Investment",
+      "label": null,
+      "external_revenue": 19392000000,
+      "intersegment_revenue": -2946000000,
+      "ordinary_income": 13068000000,
+      "equity_method_income": 495000000
+    },
+    {
+      "key": "Retail",
+      "label": null,
+      "external_revenue": 140526000000,
+      "intersegment_revenue": 23809000000,
+      "ordinary_income": 25886000000
+    },
+    {
+      "key": "Wholesale",
+      "label": null,
+      "external_revenue": 160535000000,
+      "intersegment_revenue": 356000000,
+      "ordinary_income": 2822000000,
+      "equity_method_income": 3100000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03753-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

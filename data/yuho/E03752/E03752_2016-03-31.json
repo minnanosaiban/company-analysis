@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "edinet_code": "E03752",
+    "sec_code": "8604",
+    "company_name": "野村ホールディングス株式会社",
+    "accounting_standard": "US",
+    "is_consolidated": true,
+    "fiscal_year_end": "2016-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TNKV"
+  },
+  "financials": {
+    "dps": 13,
+    "net_sales": 1723096000000,
+    "profit_before_tax": 165158000000,
+    "net_income": 131550000000,
+    "comprehensive_income": 32791000000,
+    "net_assets": 2743015000000,
+    "total_assets": 40934217000000,
+    "bps": 748.32,
+    "eps": 36.53,
+    "eps_diluted": 35.52,
+    "equity_ratio": 0.066,
+    "roe": 0.0487,
+    "per": 13.77,
+    "operating_cf": 1237987000000,
+    "investing_cf": -23711000000,
+    "financing_cf": 986387000000,
+    "cash_end": 3476517000000,
+    "net_revenue": 1395681000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03752-000_2019-03-31_02_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

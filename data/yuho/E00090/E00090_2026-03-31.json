@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E00090",
+    "sec_code": "1808",
+    "company_name": "株式会社長谷工コーポレーション",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YJVQ"
+  },
+  "financials": {
+    "net_sales": 1273136000000,
+    "ordinary_income": 94051000000,
+    "net_income": 54839000000,
+    "comprehensive_income": 74953000000,
+    "eps": 204.54,
+    "dps": 95,
+    "operating_cf": 157414000000,
+    "investing_cf": -53225000000,
+    "financing_cf": -53373000000,
+    "net_assets": 563451000000,
+    "total_assets": 1417724000000,
+    "bps": 2126.38,
+    "cash_end": 288134000000,
+    "equity_ratio": 0.397,
+    "roe": 0.1,
+    "per": 14.11,
+    "gross_profit": 189841000000,
+    "operating_income": 98743000000,
+    "income_tax_expense": 36440000000,
+    "interest_bearing_debt_noncurrent": 335000000000,
+    "bonds_payable": 80000000000,
+    "current_portion_lt_loans": 10000000000,
+    "depreciation": 8777000000,
+    "current_assets": 1051966000000,
+    "current_liabilities": 398291000000,
+    "noncurrent_assets": 365758000000,
+    "noncurrent_liabilities": 455983000000,
+    "ppe": 142768000000,
+    "goodwill": 1574000000,
+    "intangible_assets": 13523000000,
+    "investment_securities": 146313000000,
+    "treasury_stock": -43882000000,
+    "noncontrolling_interests": 716000000
+  },
+  "segments": [
+    {
+      "key": "CondominiumManagementAndOperationBusiness",
+      "label": null,
+      "external_revenue": 158525000000,
+      "intersegment_revenue": 6900000000,
+      "operating_income": 8214000000
+    },
+    {
+      "key": "ConstructionRelatedBusiness",
+      "label": null,
+      "external_revenue": 820088000000,
+      "intersegment_revenue": 80780000000,
+      "operating_income": 68536000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": null,
+      "external_revenue": 4314000000,
+      "operating_income": -6081000000
+    },
+    {
+      "key": "RealEstateRelatedBusiness",
+      "label": null,
+      "external_revenue": 290209000000,
+      "intersegment_revenue": 2995000000,
+      "operating_income": 35579000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00090-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

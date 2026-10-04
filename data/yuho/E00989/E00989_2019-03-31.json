@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00989",
+    "sec_code": "4902",
+    "company_name": "コニカミノルタ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZSF"
+  },
+  "financials": {
+    "dps": 30,
+    "net_sales": 1059120000000,
+    "net_income": 41705000000,
+    "comprehensive_income": 42311000000,
+    "net_assets": 555689000000,
+    "total_assets": 1218986000000,
+    "equity_ratio": 0.456,
+    "bps": 1123.39,
+    "eps": 84.33,
+    "eps_diluted": 84.03,
+    "roe": 0.077,
+    "per": 12.9,
+    "operating_cf": 57166000000,
+    "investing_cf": -41480000000,
+    "financing_cf": -40246000000,
+    "cash_end": 124830000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00989-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

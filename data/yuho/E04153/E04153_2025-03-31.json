@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E04153",
+    "sec_code": "9023",
+    "company_name": "東京地下鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W3LV"
+  },
+  "financials": {
+    "ordinary_income": 77008000000,
+    "net_income": 53748000000,
+    "comprehensive_income": 66725000000,
+    "eps": 92.51,
+    "dps": 40,
+    "operating_cf": 123544000000,
+    "investing_cf": -89504000000,
+    "financing_cf": -50943000000,
+    "net_assets": 716529000000,
+    "total_assets": 2029745000000,
+    "bps": 1233.27,
+    "cash_end": 73762000000,
+    "equity_ratio": 0.353,
+    "roe": 0.078,
+    "per": 19.6,
+    "operating_income": 86942000000,
+    "income_tax_expense": 10874000000,
+    "interest_bearing_debt_noncurrent": 277379000000,
+    "bonds_payable": 577000000000,
+    "current_portion_lt_loans": 40312000000,
+    "depreciation": 72099000000,
+    "current_assets": 316446000000,
+    "current_liabilities": 169814000000,
+    "noncurrent_assets": 1713298000000,
+    "noncurrent_liabilities": 1143401000000,
+    "trade_payables": 1002000000,
+    "ppe": 1543577000000,
+    "intangible_assets": 101200000000,
+    "investment_securities": 5240000000
+  },
+  "segments": [
+    {
+      "key": "LogisticsAndAdvertising",
+      "label": null,
+      "external_revenue": 22308000000,
+      "intersegment_revenue": 2708000000,
+      "operating_income": 8406000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産",
+      "external_revenue": 14429000000,
+      "intersegment_revenue": 234000000,
+      "operating_income": 4200000000
+    },
+    {
+      "key": "Transportation",
+      "label": "運輸",
+      "external_revenue": 370539000000,
+      "intersegment_revenue": 2378000000,
+      "operating_income": 74161000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04153-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

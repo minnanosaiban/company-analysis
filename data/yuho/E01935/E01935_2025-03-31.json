@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E01935",
+    "sec_code": "6952",
+    "company_name": "カシオ計算機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W670"
+  },
+  "financials": {
+    "net_sales": 261757000000,
+    "ordinary_income": 14131000000,
+    "net_income": 8064000000,
+    "comprehensive_income": 2487000000,
+    "eps": 35.22,
+    "dps": 45,
+    "operating_cf": 16144000000,
+    "investing_cf": 4674000000,
+    "financing_cf": -24788000000,
+    "net_assets": 218927000000,
+    "total_assets": 331644000000,
+    "bps": 959.79,
+    "cash_end": 140370000000,
+    "equity_ratio": 0.66,
+    "roe": 0.036,
+    "per": 34.7,
+    "gross_profit": 113396000000,
+    "operating_income": 14236000000,
+    "income_tax_expense": 4315000000,
+    "interest_bearing_debt_current": 301000000,
+    "interest_bearing_debt_noncurrent": 42000000000,
+    "bonds_payable": 48000000,
+    "lease_liabilities_noncurrent": 4412000000,
+    "depreciation": 10710000000,
+    "capex_ppe": -3510000000,
+    "capex_intangible": -4865000000,
+    "current_assets": 235883000000,
+    "current_liabilities": 61403000000,
+    "noncurrent_assets": 95761000000,
+    "noncurrent_liabilities": 51314000000,
+    "trade_payables": 16711000000,
+    "ppe": 54282000000,
+    "intangible_assets": 10265000000,
+    "investment_securities": 4866000000,
+    "treasury_stock": -12684000000,
+    "noncontrolling_interests": 51000000
+  },
+  "segments": [
+    {
+      "key": "Consumer",
+      "label": null,
+      "external_revenue": 82097000000,
+      "operating_income": 2164000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 7140000000,
+      "intersegment_revenue": 5457000000,
+      "operating_income": -1627000000
+    },
+    {
+      "key": "System",
+      "label": null,
+      "external_revenue": 6393000000,
+      "intersegment_revenue": 46000000,
+      "operating_income": -394000000
+    },
+    {
+      "key": "Watch",
+      "label": null,
+      "external_revenue": 166127000000,
+      "operating_income": 20269000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01935-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

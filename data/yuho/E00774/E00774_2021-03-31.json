@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00774",
+    "sec_code": "4061",
+    "company_name": "デンカ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R0XG"
+  },
+  "financials": {
+    "net_sales": 354391000000,
+    "ordinary_income": 32143000000,
+    "net_income": 22785000000,
+    "comprehensive_income": 26855000000,
+    "eps": 264.24,
+    "dps": 125,
+    "operating_cf": 40610000000,
+    "investing_cf": -36976000000,
+    "financing_cf": -6706000000,
+    "net_assets": 270036000000,
+    "total_assets": 526035000000,
+    "bps": 3101.92,
+    "cash_end": 25909000000,
+    "equity_ratio": 0.508,
+    "roe": 0.088,
+    "per": 16.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00774-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

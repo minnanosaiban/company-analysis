@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E02419",
+    "sec_code": "6417",
+    "company_name": "株式会社ＳＡＮＫＹＯ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R9UK"
+  },
+  "financials": {
+    "net_sales": 84857000000,
+    "ordinary_income": 22257000000,
+    "net_income": 18466000000,
+    "comprehensive_income": 17951000000,
+    "eps": 305.06,
+    "eps_diluted": 302.11,
+    "dps": 100,
+    "operating_cf": 22707000000,
+    "investing_cf": 8877000000,
+    "financing_cf": -16890000000,
+    "net_assets": 270120000000,
+    "total_assets": 309213000000,
+    "bps": 4609.23,
+    "cash_end": 218012000000,
+    "equity_ratio": 0.868,
+    "roe": 0.069,
+    "per": 11.1,
+    "gross_profit": 47819000000,
+    "operating_income": 21357000000,
+    "income_tax_expense": 5406000000,
+    "depreciation": 2113000000,
+    "current_assets": 264859000000,
+    "current_liabilities": 30946000000,
+    "noncurrent_assets": 44353000000,
+    "noncurrent_liabilities": 8147000000,
+    "trade_payables": 8539000000,
+    "ppe": 25980000000,
+    "intangible_assets": 164000000,
+    "investment_securities": 13288000000,
+    "treasury_stock": -40558000000
+  },
+  "segments": [
+    {
+      "key": "BallBearingSupplySystemsBusiness",
+      "label": null,
+      "external_revenue": 3895000000,
+      "operating_income": 115000000
+    },
+    {
+      "key": "PachinkoMachinesBusiness",
+      "label": null,
+      "external_revenue": 71860000000,
+      "operating_income": 24142000000
+    },
+    {
+      "key": "PachislotMachinesBusiness",
+      "label": null,
+      "external_revenue": 8891000000,
+      "operating_income": 1185000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02419-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

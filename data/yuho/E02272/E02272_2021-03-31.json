@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02272",
+    "sec_code": "7733",
+    "company_name": "オリンパス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZRG"
+  },
+  "financials": {
+    "dps": 12,
+    "net_sales": 730544000000,
+    "net_income": 12918000000,
+    "comprehensive_income": 36670000000,
+    "net_assets": 394326000000,
+    "total_assets": 1183453000000,
+    "equity_ratio": 0.333,
+    "bps": 306.72,
+    "eps": 10.05,
+    "eps_diluted": 10.04,
+    "roe": 0.034,
+    "per": 227.96,
+    "operating_cf": 124122000000,
+    "investing_cf": -118918000000,
+    "financing_cf": 40800000000,
+    "cash_end": 217478000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02272-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

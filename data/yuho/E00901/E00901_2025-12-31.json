@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E00901",
+    "sec_code": "4631",
+    "company_name": "ＤＩＣ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XS2N"
+  },
+  "financials": {
+    "net_sales": 1052194000000,
+    "ordinary_income": 44250000000,
+    "net_income": 32353000000,
+    "comprehensive_income": 80117000000,
+    "eps": 341.71,
+    "dps": 200,
+    "operating_cf": 72971000000,
+    "investing_cf": -20588000000,
+    "financing_cf": -45389000000,
+    "net_assets": 490844000000,
+    "total_assets": 1274091000000,
+    "bps": 4973.39,
+    "cash_end": 67310000000,
+    "equity_ratio": 0.37,
+    "roe": 0.074,
+    "per": 10.7,
+    "gross_profit": 227967000000,
+    "operating_income": 52192000000,
+    "income_tax_expense": 15099000000,
+    "interest_bearing_debt_current": 6663000000,
+    "interest_bearing_debt_noncurrent": 198909000000,
+    "bonds_payable": 95000000000,
+    "commercial_papers": 15000000000,
+    "current_portion_of_bonds": 5000000000,
+    "current_portion_lt_loans": 119584000000,
+    "lease_liabilities_current": 5113000000,
+    "lease_liabilities_noncurrent": 13004000000,
+    "depreciation": 53837000000,
+    "capex_ppe": -41647000000,
+    "capex_intangible": -309000000,
+    "current_assets": 627550000000,
+    "current_liabilities": 386545000000,
+    "noncurrent_assets": 646541000000,
+    "noncurrent_liabilities": 396702000000,
+    "trade_receivables": 231445000000,
+    "trade_payables": 127763000000,
+    "ppe": 371094000000,
+    "goodwill": 17140000000,
+    "intangible_assets": 62140000000,
+    "investment_securities": 63320000000,
+    "treasury_stock": -1505000000,
+    "noncontrolling_interests": 19963000000
+  },
+  "segments": [
+    {
+      "key": "ColorAndDisplay",
+      "label": null,
+      "external_revenue": 215192000000,
+      "intersegment_revenue": 32280000000,
+      "operating_income": 4991000000
+    },
+    {
+      "key": "FunctionalProducts",
+      "label": null,
+      "external_revenue": 286802000000,
+      "intersegment_revenue": 4049000000,
+      "operating_income": 23107000000
+    },
+    {
+      "key": "PackagingAndGraphic",
+      "label": null,
+      "external_revenue": 549677000000,
+      "operating_income": 31076000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00901-000_2025-12-31_01_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

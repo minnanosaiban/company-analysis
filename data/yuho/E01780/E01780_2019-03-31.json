@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01780",
+    "sec_code": "6762",
+    "company_name": "ＴＤＫ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R0PF"
+  },
+  "financials": {
+    "dps": 160,
+    "net_sales": 1381806000000,
+    "profit_before_tax": 115554000000,
+    "net_income": 82205000000,
+    "comprehensive_income": 80335000000,
+    "net_assets": 877290000000,
+    "total_assets": 1992480000000,
+    "bps": 2315.57,
+    "eps": 217.01,
+    "eps_diluted": 216.48,
+    "equity_ratio": 0.44,
+    "roe": 0.097,
+    "per": 13.3,
+    "operating_cf": 140274000000,
+    "investing_cf": -140179000000,
+    "financing_cf": 9435000000,
+    "cash_end": 289175000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01780-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

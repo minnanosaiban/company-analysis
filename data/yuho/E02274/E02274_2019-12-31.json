@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02274",
+    "sec_code": "7751",
+    "company_name": "キヤノン株式会社",
+    "accounting_standard": "US",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T58N"
+  },
+  "financials": {
+    "dps": 160,
+    "net_sales": 3593299000000,
+    "profit_before_tax": 195493000000,
+    "net_income": 124964000000,
+    "net_assets": 2685496000000,
+    "total_assets": 4771918000000,
+    "bps": 2524.36,
+    "eps": 116.79,
+    "eps_diluted": 116.77,
+    "equity_ratio": 0.563,
+    "roe": 0.045,
+    "per": 25.6,
+    "operating_cf": 358461000000,
+    "investing_cf": -228568000000,
+    "financing_cf": -232590000000,
+    "cash_end": 412814000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02274-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

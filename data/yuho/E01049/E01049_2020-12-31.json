@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01049",
+    "sec_code": "4922",
+    "company_name": "株式会社コーセー",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T4ZN"
+  },
+  "financials": {
+    "net_sales": 279389000000,
+    "ordinary_income": 18745000000,
+    "net_income": 11986000000,
+    "comprehensive_income": 15228000000,
+    "eps": 210.11,
+    "dps": 120,
+    "operating_cf": 23280000000,
+    "investing_cf": -5850000000,
+    "financing_cf": -7363000000,
+    "net_assets": 241299000000,
+    "total_assets": 308386000000,
+    "bps": 3952.94,
+    "cash_end": 80051000000,
+    "equity_ratio": 0.731,
+    "roe": 0.053,
+    "per": 74.53
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01049-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

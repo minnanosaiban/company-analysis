@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E04375",
+    "sec_code": "9401",
+    "company_name": "株式会社ＴＢＳホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YI1U"
+  },
+  "financials": {
+    "net_sales": 424850000000,
+    "ordinary_income": 37373000000,
+    "net_income": 52228000000,
+    "comprehensive_income": 234950000000,
+    "eps": 331.42,
+    "dps": 84,
+    "operating_cf": 10125000000,
+    "investing_cf": 30101000000,
+    "financing_cf": 9088000000,
+    "net_assets": 1135390000000,
+    "total_assets": 1628220000000,
+    "bps": 7192.17,
+    "cash_end": 123897000000,
+    "equity_ratio": 0.693,
+    "roe": 0.051,
+    "per": 16.9,
+    "gross_profit": 141300000000,
+    "operating_income": 24750000000,
+    "income_tax_expense": 27437000000,
+    "interest_bearing_debt_noncurrent": 71852000000,
+    "current_portion_lt_loans": 1810000000,
+    "lease_liabilities_noncurrent": 443000000,
+    "depreciation": 15053000000,
+    "capex_ppe": -13042000000,
+    "capex_intangible": -3605000000,
+    "current_assets": 270188000000,
+    "current_liabilities": 111216000000,
+    "noncurrent_assets": 1358032000000,
+    "noncurrent_liabilities": 381613000000,
+    "trade_payables": 50534000000,
+    "ppe": 279120000000,
+    "goodwill": 20991000000,
+    "intangible_assets": 48883000000,
+    "investment_securities": 1016285000000,
+    "treasury_stock": -30843000000,
+    "noncontrolling_interests": 7672000000
+  },
+  "segments": [
+    {
+      "key": "Lifestyle",
+      "label": null,
+      "external_revenue": 95724000000,
+      "intersegment_revenue": 17000000,
+      "operating_income": 2866000000,
+      "equity_method_income": -8000000
+    },
+    {
+      "key": "MediaAndContents",
+      "label": null,
+      "external_revenue": 312237000000,
+      "intersegment_revenue": 636000000,
+      "operating_income": 14612000000,
+      "equity_method_income": 248000000
+    },
+    {
+      "key": "RealEstateAndOthers",
+      "label": null,
+      "external_revenue": 16888000000,
+      "intersegment_revenue": 3920000000,
+      "operating_income": 7271000000,
+      "equity_method_income": 15000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04375-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

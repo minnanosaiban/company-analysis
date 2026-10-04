@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E00811",
+    "sec_code": "4114",
+    "company_name": "株式会社日本触媒",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YBP7"
+  },
+  "financials": {
+    "dps": 113,
+    "net_sales": 399898000000,
+    "net_income": 16764000000,
+    "comprehensive_income": 37109000000,
+    "net_assets": 396649000000,
+    "total_assets": 580209000000,
+    "equity_ratio": 0.684,
+    "bps": 2684.47,
+    "eps": 112.15,
+    "eps_diluted": 112.14,
+    "roe": 0.043,
+    "per": 20.2,
+    "operating_cf": 53544000000,
+    "investing_cf": -48319000000,
+    "financing_cf": -9837000000,
+    "cash_end": 51819000000,
+    "operating_income": 17530000000,
+    "gross_profit": 74806000000,
+    "income_tax_expense": 3997000000,
+    "sga_expense": 57635000000,
+    "profit_before_tax": 21493000000,
+    "depreciation": 32243000000,
+    "capex_ppe": -49013000000,
+    "capex_intangible": -722000000,
+    "current_assets": 247243000000,
+    "current_liabilities": 103867000000,
+    "noncurrent_assets": 332966000000,
+    "inventories": 85758000000,
+    "ppe": 223128000000,
+    "goodwill": 3539000000,
+    "intangible_assets": 6015000000,
+    "equity_method_investments": 30004000000,
+    "treasury_stock": -3854000000,
+    "noncontrolling_interests": 9939000000
+  },
+  "segments": [
+    {
+      "key": "Materials",
+      "label": null,
+      "external_revenue": 278810000000,
+      "intersegment_revenue": 15577000000,
+      "revenue": 294387000000,
+      "operating_income": 10234000000,
+      "equity_method_income": 1709000000,
+      "assets": 363527000000
+    },
+    {
+      "key": "Solutions",
+      "label": null,
+      "external_revenue": 121088000000,
+      "intersegment_revenue": 2747000000,
+      "revenue": 123835000000,
+      "operating_income": 6503000000,
+      "equity_method_income": -507000000,
+      "assets": 171355000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00811-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

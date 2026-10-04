@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E02962",
+    "sec_code": "2784",
+    "company_name": "アルフレッサ ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YH29"
+  },
+  "financials": {
+    "net_sales": 3104064000000,
+    "ordinary_income": 38634000000,
+    "net_income": 41746000000,
+    "comprehensive_income": 39264000000,
+    "eps": 229.64,
+    "dps": 68,
+    "operating_cf": 38566000000,
+    "investing_cf": -8721000000,
+    "financing_cf": -14047000000,
+    "net_assets": 507903000000,
+    "total_assets": 1507016000000,
+    "bps": 2792.01,
+    "cash_end": 190684000000,
+    "equity_ratio": 0.337,
+    "roe": 0.084,
+    "per": 11,
+    "gross_profit": 217880000000,
+    "operating_income": 36164000000,
+    "income_tax_expense": 18855000000,
+    "interest_bearing_debt_noncurrent": 10000000000,
+    "bonds_payable": 20000000000,
+    "lease_liabilities_current": 1687000000,
+    "lease_liabilities_noncurrent": 3933000000,
+    "depreciation": 14647000000,
+    "capex_ppe": -22457000000,
+    "capex_intangible": -6068000000,
+    "current_assets": 1159314000000,
+    "current_liabilities": 938474000000,
+    "noncurrent_assets": 347701000000,
+    "noncurrent_liabilities": 60639000000,
+    "trade_payables": 882025000000,
+    "ppe": 201609000000,
+    "goodwill": 1000000000,
+    "intangible_assets": 13127000000,
+    "investment_securities": 106363000000,
+    "treasury_stock": -21550000000,
+    "noncontrolling_interests": 545000000
+  },
+  "segments": [
+    {
+      "key": "DispensingPharmacyAndRelatedBusinesses",
+      "label": null,
+      "external_revenue": 37174000000,
+      "operating_income": 499000000
+    },
+    {
+      "key": "EthicalPharmaceuticalsWholesalingBusiness",
+      "label": null,
+      "external_revenue": 2763082000000,
+      "intersegment_revenue": 19502000000,
+      "operating_income": 33297000000
+    },
+    {
+      "key": "ManufacturingBusiness",
+      "label": null,
+      "external_revenue": 37181000000,
+      "intersegment_revenue": 14998000000,
+      "operating_income": 1203000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "operating_income": -1099000000
+    },
+    {
+      "key": "SelfMedicationProductsWholesalingBusiness",
+      "label": null,
+      "external_revenue": 266626000000,
+      "intersegment_revenue": 447000000,
+      "operating_income": 3012000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02962-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

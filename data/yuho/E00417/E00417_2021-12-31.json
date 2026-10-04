@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E00417",
+    "sec_code": "2579",
+    "company_name": "コカ・コーラ ボトラーズジャパンホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T5HG"
+  },
+  "financials": {
+    "dps": 50,
+    "net_sales": 785837000000,
+    "net_income": -2503000000,
+    "comprehensive_income": 780000000,
+    "net_assets": 492320000000,
+    "total_assets": 867111000000,
+    "equity_ratio": 0.568,
+    "bps": 2745.12,
+    "eps": -13.96,
+    "roe": -0.005,
+    "per": -94.6,
+    "operating_cf": 35982000000,
+    "investing_cf": 15271000000,
+    "financing_cf": -67134000000,
+    "cash_end": 110497000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00417-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

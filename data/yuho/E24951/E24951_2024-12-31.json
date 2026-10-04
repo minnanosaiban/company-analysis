@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E24951",
+    "sec_code": "4927",
+    "company_name": "株式会社ポーラ・オルビスホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-27",
+    "doc_id": "S100VG9G"
+  },
+  "financials": {
+    "net_sales": 170359000000,
+    "ordinary_income": 16083000000,
+    "net_income": 9286000000,
+    "comprehensive_income": 9011000000,
+    "eps": 41.97,
+    "eps_diluted": 41.93,
+    "dps": 52,
+    "operating_cf": 26185000000,
+    "investing_cf": -12104000000,
+    "financing_cf": -13376000000,
+    "net_assets": 164916000000,
+    "total_assets": 200320000000,
+    "bps": 744.16,
+    "cash_end": 47305000000,
+    "equity_ratio": 0.822,
+    "roe": 0.056,
+    "per": 34,
+    "gross_profit": 138513000000,
+    "operating_income": 13810000000,
+    "income_tax_expense": 4306000000,
+    "interest_bearing_debt_noncurrent": 40000000,
+    "current_portion_lt_loans": 6000000,
+    "lease_liabilities_current": 774000000,
+    "lease_liabilities_noncurrent": 1295000000,
+    "depreciation": 8352000000,
+    "capex_ppe": -8172000000,
+    "capex_intangible": -3983000000,
+    "current_assets": 106120000000,
+    "current_liabilities": 27351000000,
+    "noncurrent_assets": 94200000000,
+    "noncurrent_liabilities": 8053000000,
+    "trade_receivables": 17465000000,
+    "trade_payables": 2264000000,
+    "ppe": 57530000000,
+    "intangible_assets": 11700000000,
+    "investment_securities": 15407000000,
+    "treasury_stock": -2922000000,
+    "noncontrolling_interests": 23000000
+  },
+  "segments": [
+    {
+      "key": "BeautyCare",
+      "label": null,
+      "external_revenue": 165060000000,
+      "intersegment_revenue": 124000000,
+      "operating_income": 14926000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 2214000000,
+      "intersegment_revenue": 478000000,
+      "operating_income": 76000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24951-000_2024-12-31_01_2025-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

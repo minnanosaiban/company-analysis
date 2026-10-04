@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E04514",
+    "sec_code": "9531",
+    "company_name": "東京瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YH8W"
+  },
+  "financials": {
+    "net_sales": 2834749000000,
+    "ordinary_income": 193701000000,
+    "net_income": 226857000000,
+    "comprehensive_income": 229621000000,
+    "eps": 654.76,
+    "dps": 110,
+    "operating_cf": 451837000000,
+    "investing_cf": -206934000000,
+    "financing_cf": -296337000000,
+    "net_assets": 1796567000000,
+    "total_assets": 3892268000000,
+    "bps": 5151.08,
+    "cash_end": 187043000000,
+    "equity_ratio": 0.441,
+    "roe": 0.132,
+    "per": 11.3,
+    "gross_profit": 507255000000,
+    "operating_income": 197677000000,
+    "income_tax_expense": 53759000000,
+    "interest_bearing_debt_current": 10244000000,
+    "interest_bearing_debt_noncurrent": 494413000000,
+    "bonds_payable": 641062000000,
+    "current_portion_of_bonds": 10017000000,
+    "current_portion_lt_loans": 53933000000,
+    "depreciation": 264299000000,
+    "capex_ppe": -160909000000,
+    "capex_intangible": -134738000000,
+    "current_assets": 1034789000000,
+    "current_liabilities": 703225000000,
+    "noncurrent_assets": 2857478000000,
+    "noncurrent_liabilities": 1392475000000,
+    "trade_payables": 105153000000,
+    "ppe": 1422919000000,
+    "goodwill": 5163000000,
+    "intangible_assets": 740292000000,
+    "investment_securities": 429702000000,
+    "treasury_stock": -204626000000,
+    "noncontrolling_interests": 79095000000
+  },
+  "segments": [
+    {
+      "key": "EnergySolution",
+      "label": "エネルギー・ソリューション",
+      "external_revenue": 2444496000000,
+      "intersegment_revenue": 41611000000,
+      "operating_income": 149746000000
+    },
+    {
+      "key": "GlobalBusiness",
+      "label": "海外",
+      "external_revenue": 241082000000,
+      "intersegment_revenue": 377000000,
+      "operating_income": 70730000000
+    },
+    {
+      "key": "Network",
+      "label": "ネットワーク",
+      "external_revenue": 103127000000,
+      "intersegment_revenue": 231295000000,
+      "operating_income": 4103000000
+    },
+    {
+      "key": "UrbanDevelopmentBusiness",
+      "label": "都市ビジネス",
+      "external_revenue": 46042000000,
+      "intersegment_revenue": 27394000000,
+      "operating_income": 9848000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04514-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

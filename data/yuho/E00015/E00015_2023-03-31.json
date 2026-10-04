@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E00015",
+    "sec_code": "1333",
+    "company_name": "マルハニチロ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R5V0"
+  },
+  "financials": {
+    "net_sales": 1020456000000,
+    "ordinary_income": 33500000000,
+    "net_income": 18596000000,
+    "comprehensive_income": 34788000000,
+    "eps": 363.68,
+    "dps": 65,
+    "operating_cf": -24000000,
+    "investing_cf": -23860000000,
+    "financing_cf": 30288000000,
+    "net_assets": 212522000000,
+    "total_assets": 637227000000,
+    "bps": 3534.39,
+    "cash_end": 33360000000,
+    "equity_ratio": 0.28,
+    "roe": 0.11,
+    "per": 6.53,
+    "gross_profit": 135254000000,
+    "operating_income": 29575000000,
+    "income_tax_expense": 7597000000,
+    "interest_bearing_debt_current": 174228000000,
+    "interest_bearing_debt_noncurrent": 121910000000,
+    "bonds_payable": 5000000000,
+    "depreciation": 15083000000,
+    "capex_ppe": -20359000000,
+    "capex_intangible": -9384000000,
+    "current_assets": 392639000000,
+    "current_liabilities": 265448000000,
+    "noncurrent_assets": 244587000000,
+    "noncurrent_liabilities": 159255000000,
+    "inventories": 216698000000,
+    "trade_payables": 41701000000,
+    "ppe": 148995000000,
+    "goodwill": 8868000000,
+    "intangible_assets": 31728000000,
+    "investment_securities": 39029000000,
+    "treasury_stock": -308000000,
+    "noncontrolling_interests": 34210000000
+  },
+  "segments": [
+    {
+      "key": "FoodstuffDistributionBusiness",
+      "label": null,
+      "external_revenue": 297316000000,
+      "intersegment_revenue": 9026000000,
+      "operating_income": 3087000000
+    },
+    {
+      "key": "Logistics",
+      "label": null,
+      "external_revenue": 17620000000,
+      "intersegment_revenue": 7294000000,
+      "operating_income": 1583000000
+    },
+    {
+      "key": "MarineProductsBusiness",
+      "label": null,
+      "external_revenue": 598481000000,
+      "intersegment_revenue": 58584000000,
+      "operating_income": 21376000000
+    },
+    {
+      "key": "ProcessedFoodsBusiness",
+      "label": null,
+      "external_revenue": 106637000000,
+      "intersegment_revenue": 3436000000,
+      "operating_income": 3115000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00015-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

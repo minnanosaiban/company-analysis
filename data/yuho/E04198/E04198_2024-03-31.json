@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E04198",
+    "sec_code": "9076",
+    "company_name": "セイノーホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TWCC"
+  },
+  "financials": {
+    "net_sales": 642811000000,
+    "ordinary_income": 24496000000,
+    "net_income": 14561000000,
+    "comprehensive_income": 29991000000,
+    "eps": 83.72,
+    "eps_diluted": 78.16,
+    "dps": 100,
+    "operating_cf": 48441000000,
+    "investing_cf": -25509000000,
+    "financing_cf": -48646000000,
+    "net_assets": 435577000000,
+    "total_assets": 689525000000,
+    "bps": 2560.24,
+    "cash_end": 75378000000,
+    "equity_ratio": 0.624,
+    "roe": 0.033,
+    "per": 25.3,
+    "gross_profit": 73597000000,
+    "operating_income": 23403000000,
+    "income_tax_expense": 10942000000,
+    "interest_bearing_debt_current": 3748000000,
+    "interest_bearing_debt_noncurrent": 6927000000,
+    "current_portion_lt_loans": 1565000000,
+    "depreciation": 21690000000,
+    "current_assets": 230369000000,
+    "current_liabilities": 119838000000,
+    "noncurrent_assets": 459155000000,
+    "noncurrent_liabilities": 134109000000,
+    "inventories": 20614000000,
+    "ppe": 345654000000,
+    "goodwill": 9467000000,
+    "intangible_assets": 15328000000,
+    "investment_securities": 81531000000,
+    "treasury_stock": -37586000000,
+    "noncontrolling_interests": 5194000000
+  },
+  "segments": [
+    {
+      "key": "LeasingForRealEstateServices",
+      "label": null,
+      "external_revenue": 2246000000,
+      "operating_income": 1648000000
+    },
+    {
+      "key": "MerchandiseSales",
+      "label": null,
+      "external_revenue": 35747000000,
+      "intersegment_revenue": 15195000000,
+      "operating_income": 948000000
+    },
+    {
+      "key": "TransportationServices",
+      "label": null,
+      "external_revenue": 470237000000,
+      "intersegment_revenue": 2237000000,
+      "operating_income": 15273000000
+    },
+    {
+      "key": "VehicleSales",
+      "label": null,
+      "external_revenue": 108663000000,
+      "intersegment_revenue": 8979000000,
+      "operating_income": 5808000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04198-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

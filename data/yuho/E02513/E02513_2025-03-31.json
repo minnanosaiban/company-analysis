@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "edinet_code": "E02513",
+    "sec_code": "8031",
+    "company_name": "三井物産株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-17",
+    "doc_id": "S100VYNR"
+  },
+  "financials": {
+    "dps": 100,
+    "net_sales": 14662620000000,
+    "net_income": 900342000000,
+    "comprehensive_income": 660715000000,
+    "net_assets": 7546615000000,
+    "total_assets": 16811509000000,
+    "equity_ratio": 0.4489,
+    "bps": 2626.04,
+    "eps": 306.73,
+    "eps_diluted": 306.47,
+    "roe": 0.1193,
+    "per": 9.13,
+    "operating_cf": 1017518000000,
+    "investing_cf": -161988000000,
+    "financing_cf": -749602000000,
+    "cash_end": 977356000000,
+    "gross_profit": 1288366000000,
+    "income_tax_expense": 213675000000,
+    "interest_bearing_debt_noncurrent": 4047663000000,
+    "sga_expense": 887712000000,
+    "profit_before_tax": 1135231000000,
+    "depreciation": 313730000000,
+    "capex_ppe": -346147000000,
+    "current_assets": 5686941000000,
+    "current_liabilities": 3654185000000,
+    "noncurrent_assets": 11124568000000,
+    "trade_receivables": 2224953000000,
+    "inventories": 960459000000,
+    "trade_payables": 1675665000000,
+    "ppe": 2469558000000,
+    "goodwill": 226683000000,
+    "intangible_assets": 505448000000,
+    "investment_securities": 2191116000000,
+    "equity_method_investments": 4972959000000,
+    "treasury_stock": -79234000000,
+    "noncontrolling_interests": 216017000000,
+    "interest_bearing_debt_current": 163909000000,
+    "current_portion_lt_debt": 629688000000
+  },
+  "segments": [
+    {
+      "key": "Chemicals",
+      "label": "化学品",
+      "gross_profit": 256439000000,
+      "equity_method_income": 23057000000,
+      "profit_attributable_to_owners": 75892000000,
+      "assets": 2062516000000
+    },
+    {
+      "key": "Energy",
+      "label": "エネルギー",
+      "gross_profit": 189990000000,
+      "equity_method_income": 57144000000,
+      "profit_attributable_to_owners": 173499000000,
+      "assets": 3425109000000
+    },
+    {
+      "key": "InnovationAndCorporateDevelopment",
+      "label": "次世代・機能推進",
+      "gross_profit": 134399000000,
+      "equity_method_income": 25116000000,
+      "profit_attributable_to_owners": 87284000000,
+      "assets": 1899430000000
+    },
+    {
+      "key": "IronAndSteelProducts",
+      "label": "鉄鋼製品",
+      "gross_profit": 47771000000,
+      "equity_method_income": 21174000000,
+      "profit_attributable_to_owners": 13153000000,
+      "assets": 777289000000
+    },
+    {
+      "key": "Lifestyle",
+      "label": "生活産業",
+      "gross_profit": 192420000000,
+      "equity_method_income": 59357000000,
+      "profit_attributable_to_owners": 53665000000,
+      "assets": 3013688000000
+    },
+    {
+      "key": "MachineryAndInfrastructure",
+      "label": "機械・インフラ",
+      "gross_profit": 200055000000,
+      "equity_method_income": 225639000000,
+      "profit_attributable_to_owners": 232858000000,
+      "assets": 3735893000000
+    },
+    {
+      "key": "MineralAndMetalResources",
+      "label": "金属資源",
+      "gross_profit": 263867000000,
+      "equity_method_income": 82026000000,
+      "profit_attributable_to_owners": 285366000000,
+      "assets": 2986681000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02513-000_2025-03-31_01_2025-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

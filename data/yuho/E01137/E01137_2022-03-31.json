@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E01137",
+    "sec_code": "5333",
+    "company_name": "日本碍子株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2OP"
+  },
+  "financials": {
+    "net_sales": 510439000000,
+    "ordinary_income": 86248000000,
+    "net_income": 70851000000,
+    "comprehensive_income": 98684000000,
+    "eps": 226.56,
+    "eps_diluted": 226.17,
+    "dps": 63,
+    "operating_cf": 94831000000,
+    "investing_cf": -46291000000,
+    "financing_cf": -45263000000,
+    "net_assets": 589594000000,
+    "total_assets": 982833000000,
+    "bps": 1871.22,
+    "cash_end": 154855000000,
+    "equity_ratio": 0.593,
+    "roe": 0.129,
+    "per": 7.7,
+    "gross_profit": 162691000000,
+    "operating_income": 83527000000,
+    "income_tax_expense": 25551000000,
+    "interest_bearing_debt_current": 6198000000,
+    "interest_bearing_debt_noncurrent": 178888000000,
+    "bonds_payable": 35000000000,
+    "current_portion_lt_loans": 32263000000,
+    "depreciation": 49270000000,
+    "capex_ppe": -35226000000,
+    "capex_intangible": -2202000000,
+    "current_assets": 527394000000,
+    "current_liabilities": 151790000000,
+    "noncurrent_assets": 455438000000,
+    "noncurrent_liabilities": 241448000000,
+    "inventories": 188336000000,
+    "trade_payables": 44328000000,
+    "ppe": 375312000000,
+    "intangible_assets": 6196000000,
+    "investment_securities": 59052000000,
+    "treasury_stock": -10944000000,
+    "noncontrolling_interests": 5505000000
+  },
+  "segments": [
+    {
+      "key": "DigitalSociety",
+      "label": "デジタルソサエティ事業",
+      "external_revenue": 150311000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 19865000000
+    },
+    {
+      "key": "EnergyAndIndustryBusiness",
+      "label": "エネルギー＆インダストリー事業",
+      "external_revenue": 67457000000,
+      "intersegment_revenue": 2429000000,
+      "operating_income": -1406000000
+    },
+    {
+      "key": "Environment",
+      "label": "エンバイロメント事業",
+      "external_revenue": 292670000000,
+      "intersegment_revenue": 17000000,
+      "operating_income": 65060000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01137-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00014",
+    "sec_code": "1332",
+    "company_name": "株式会社ニッスイ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R66L"
+  },
+  "financials": {
+    "net_sales": 615044000000,
+    "ordinary_income": 22670000000,
+    "net_income": 14391000000,
+    "comprehensive_income": 19948000000,
+    "eps": 46.25,
+    "dps": 9.5,
+    "operating_cf": 45910000000,
+    "investing_cf": -18023000000,
+    "financing_cf": -44786000000,
+    "net_assets": 187779000000,
+    "total_assets": 475468000000,
+    "bps": 544.55,
+    "cash_end": 14760000000,
+    "equity_ratio": 0.3563,
+    "roe": 0.0892,
+    "per": 11.45
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00014-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

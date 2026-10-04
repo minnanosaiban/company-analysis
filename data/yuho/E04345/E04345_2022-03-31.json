@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "edinet_code": "E04345",
+    "sec_code": "9364",
+    "company_name": "株式会社上組",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R341"
+  },
+  "financials": {
+    "ordinary_income": 30875000000,
+    "net_income": 20861000000,
+    "comprehensive_income": 25089000000,
+    "eps": 180.14,
+    "dps": 73,
+    "operating_cf": 37036000000,
+    "investing_cf": -3804000000,
+    "financing_cf": -9779000000,
+    "net_assets": 367917000000,
+    "total_assets": 434734000000,
+    "bps": 3193.03,
+    "cash_end": 46364000000,
+    "equity_ratio": 0.842,
+    "roe": 0.058,
+    "per": 12.2,
+    "operating_income": 28524000000,
+    "income_tax_expense": 9792000000,
+    "depreciation": 13082000000,
+    "current_assets": 111904000000,
+    "current_liabilities": 46631000000,
+    "noncurrent_assets": 322829000000,
+    "noncurrent_liabilities": 20185000000,
+    "inventories": 764000000,
+    "ppe": 232086000000,
+    "intangible_assets": 6649000000,
+    "investment_securities": 75101000000,
+    "treasury_stock": -25034000000,
+    "noncontrolling_interests": 1776000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04345-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

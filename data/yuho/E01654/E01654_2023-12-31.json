@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E01654",
+    "sec_code": "6465",
+    "company_name": "ホシザキ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4W3"
+  },
+  "financials": {
+    "net_sales": 373563000000,
+    "ordinary_income": 50322000000,
+    "net_income": 32835000000,
+    "comprehensive_income": 50642000000,
+    "eps": 226.66,
+    "dps": 95,
+    "operating_cf": 37698000000,
+    "investing_cf": 3286000000,
+    "financing_cf": -10355000000,
+    "net_assets": 332937000000,
+    "total_assets": 465361000000,
+    "bps": 2267.49,
+    "cash_end": 227072000000,
+    "equity_ratio": 0.706,
+    "roe": 0.1064,
+    "per": 22.77,
+    "gross_profit": 136062000000,
+    "operating_income": 43520000000,
+    "income_tax_expense": 15720000000,
+    "depreciation": 6874000000,
+    "capex_ppe": -6132000000,
+    "capex_intangible": -916000000,
+    "current_assets": 364145000000,
+    "current_liabilities": 104638000000,
+    "noncurrent_assets": 101215000000,
+    "noncurrent_liabilities": 27785000000,
+    "trade_payables": 30308000000,
+    "ppe": 53034000000,
+    "goodwill": 9382000000,
+    "intangible_assets": 18357000000,
+    "investment_securities": 17067000000,
+    "treasury_stock": -8000000,
+    "noncontrolling_interests": 4439000000
+  },
+  "segments": [
+    {
+      "key": "AmericanStates",
+      "label": null,
+      "external_revenue": 96892000000,
+      "intersegment_revenue": 907000000,
+      "operating_income": 10156000000
+    },
+    {
+      "key": "EuropeAsia",
+      "label": null,
+      "external_revenue": 74658000000,
+      "intersegment_revenue": 1218000000,
+      "operating_income": 11210000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 202011000000,
+      "intersegment_revenue": 6566000000,
+      "operating_income": 23832000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01654-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

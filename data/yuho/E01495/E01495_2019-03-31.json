@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01495",
+    "sec_code": "6134",
+    "company_name": "株式会社ＦＵＪＩ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R5T4"
+  },
+  "financials": {
+    "net_sales": 129104000000,
+    "ordinary_income": 23454000000,
+    "net_income": 16855000000,
+    "comprehensive_income": 14323000000,
+    "eps": 184.52,
+    "eps_diluted": 174.98,
+    "dps": 50,
+    "operating_cf": 4186000000,
+    "investing_cf": -28458000000,
+    "financing_cf": -4111000000,
+    "net_assets": 161624000000,
+    "total_assets": 194366000000,
+    "bps": 1767.3,
+    "cash_end": 30852000000,
+    "equity_ratio": 0.831,
+    "roe": 0.108,
+    "per": 8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01495-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

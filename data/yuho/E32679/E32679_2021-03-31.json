@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E32679",
+    "sec_code": "9142",
+    "company_name": "九州旅客鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100QZ5D"
+  },
+  "financials": {
+    "ordinary_income": -19323000000,
+    "net_income": -18984000000,
+    "comprehensive_income": -15423000000,
+    "eps": -120.83,
+    "dps": 93,
+    "operating_cf": -10361000000,
+    "investing_cf": -53912000000,
+    "financing_cf": 105870000000,
+    "net_assets": 395408000000,
+    "total_assets": 891379000000,
+    "bps": 2483.43,
+    "cash_end": 65019000000,
+    "equity_ratio": 0.438,
+    "roe": -0.047
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E32679-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

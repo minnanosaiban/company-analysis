@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E34064",
+    "sec_code": "4385",
+    "company_name": "株式会社メルカリ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-09-28",
+    "doc_id": "S100RX8V"
+  },
+  "financials": {
+    "net_sales": 106115000000,
+    "ordinary_income": 4975000000,
+    "net_income": 5720000000,
+    "comprehensive_income": 1699000000,
+    "eps": 36.43,
+    "eps_diluted": 35.15,
+    "operating_cf": 3367000000,
+    "investing_cf": 6907000000,
+    "financing_cf": 19773000000,
+    "net_assets": 40013000000,
+    "total_assets": 262529000000,
+    "bps": 247.52,
+    "cash_end": 171463000000,
+    "equity_ratio": 0.149,
+    "roe": 0.155,
+    "per": 161.95
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E34064-000_2023-06-30_01_2023-09-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

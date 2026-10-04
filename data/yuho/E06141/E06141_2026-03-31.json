@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E06141",
+    "sec_code": "8750",
+    "company_name": "株式会社第一ライフグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-16",
+    "doc_id": "S100YC7A"
+  },
+  "financials": {
+    "ordinary_income": 753688000000,
+    "net_income": 436597000000,
+    "comprehensive_income": 817590000000,
+    "eps": 119.83,
+    "eps_diluted": 119.82,
+    "dps": 54.5,
+    "operating_cf": 792158000000,
+    "investing_cf": -926255000000,
+    "financing_cf": -127230000000,
+    "net_assets": 4254212000000,
+    "total_assets": 74159096000000,
+    "bps": 1181.36,
+    "cash_end": 2087588000000,
+    "equity_ratio": 0.057,
+    "roe": 0.111,
+    "per": 11.9,
+    "bonds_payable": 1337337000000,
+    "depreciation": 98095000000,
+    "capex_ppe": -77168000000,
+    "capex_intangible": -42618000000,
+    "ppe": 1239280000000,
+    "goodwill": 302276000000,
+    "intangible_assets": 963435000000,
+    "treasury_stock": -16949000000
+  },
+  "segments": [
+    {
+      "key": "DomesticInsuranceBusiness",
+      "label": null,
+      "external_revenue": 8155625000000,
+      "intersegment_revenue": 514005000000,
+      "ordinary_income": 676269000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 79050000000,
+      "intersegment_revenue": 392427000000,
+      "ordinary_income": 340204000000,
+      "equity_method_income": 11911000000
+    },
+    {
+      "key": "OverseasInsuranceBusiness",
+      "label": null,
+      "external_revenue": 3523786000000,
+      "intersegment_revenue": 35578000000,
+      "ordinary_income": 112629000000,
+      "equity_method_income": 11144000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E06141-000_2026-03-31_01_2026-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

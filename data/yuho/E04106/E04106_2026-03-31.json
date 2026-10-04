@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "edinet_code": "E04106",
+    "sec_code": "9044",
+    "company_name": "株式会社ＮＡＮＫＡＩ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-15",
+    "doc_id": "S100YBA0"
+  },
+  "financials": {
+    "ordinary_income": 37763000000,
+    "net_income": 25135000000,
+    "comprehensive_income": 41750000000,
+    "eps": 227.51,
+    "dps": 50,
+    "operating_cf": 47535000000,
+    "investing_cf": -56825000000,
+    "financing_cf": 5976000000,
+    "net_assets": 354085000000,
+    "total_assets": 1065100000000,
+    "bps": 3082.42,
+    "cash_end": 38827000000,
+    "equity_ratio": 0.313,
+    "roe": 0.078,
+    "per": 13.5,
+    "operating_income": 39945000000,
+    "income_tax_expense": 11558000000,
+    "interest_bearing_debt_current": 76903000000,
+    "interest_bearing_debt_noncurrent": 250546000000,
+    "bonds_payable": 130000000000,
+    "depreciation": 28387000000,
+    "current_assets": 132987000000,
+    "current_liabilities": 195690000000,
+    "noncurrent_assets": 932112000000,
+    "noncurrent_liabilities": 515325000000,
+    "trade_payables": 20077000000,
+    "ppe": 809642000000,
+    "goodwill": 3082000000,
+    "intangible_assets": 9948000000,
+    "investment_securities": 88776000000,
+    "treasury_stock": -715000000,
+    "noncontrolling_interests": 20568000000
+  },
+  "segments": [
+    {
+      "key": "Construction",
+      "label": "建設業",
+      "external_revenue": 30418000000,
+      "intersegment_revenue": 16567000000,
+      "operating_income": 2901000000
+    },
+    {
+      "key": "LeisureAndServices",
+      "label": "レジャー・サービス業",
+      "external_revenue": 36884000000,
+      "intersegment_revenue": 15924000000,
+      "operating_income": 4716000000
+    },
+    {
+      "key": "MerchandisingRetail",
+      "label": "流通業",
+      "external_revenue": 29690000000,
+      "intersegment_revenue": 774000000,
+      "operating_income": 3935000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 131000000,
+      "intersegment_revenue": 4258000000,
+      "operating_income": 86000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産業",
+      "external_revenue": 51636000000,
+      "intersegment_revenue": 1649000000,
+      "operating_income": 14347000000
+    },
+    {
+      "key": "UrbanTransportation",
+      "label": "運輸業",
+      "external_revenue": 115953000000,
+      "intersegment_revenue": 1375000000,
+      "operating_income": 14908000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04106-000_2026-03-31_01_2026-06-15.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E04149",
+    "sec_code": "9022",
+    "company_name": "東海旅客鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R0WN"
+  },
+  "financials": {
+    "ordinary_income": 307485000000,
+    "net_income": 219417000000,
+    "comprehensive_income": 223631000000,
+    "eps": 1114.93,
+    "dps": 135,
+    "operating_cf": 486706000000,
+    "investing_cf": -175036000000,
+    "financing_cf": -220604000000,
+    "net_assets": 3807110000000,
+    "total_assets": 9514409000000,
+    "bps": 19101.99,
+    "cash_end": 710526000000,
+    "equity_ratio": 0.395,
+    "roe": 0.06,
+    "per": 14.18,
+    "operating_income": 374503000000,
+    "income_tax_expense": 41003000000,
+    "interest_bearing_debt_current": 27341000000,
+    "interest_bearing_debt_noncurrent": 473390000000,
+    "bonds_payable": 769801000000,
+    "current_portion_of_bonds": 139002000000,
+    "current_portion_lt_loans": 47692000000,
+    "depreciation": 219614000000,
+    "capex_ppe": -427192000000,
+    "capex_intangible": -26875000000,
+    "current_assets": 2712285000000,
+    "current_liabilities": 729452000000,
+    "noncurrent_assets": 6802124000000,
+    "noncurrent_liabilities": 4977846000000,
+    "inventories": 37337000000,
+    "trade_payables": 79533000000,
+    "ppe": 5612601000000,
+    "intangible_assets": 159401000000,
+    "investment_securities": 630801000000,
+    "treasury_stock": -103159000000,
+    "noncontrolling_interests": 47855000000
+  },
+  "segments": [
+    {
+      "key": "MerchandiseAndOther",
+      "label": "流通業",
+      "external_revenue": 131456000000,
+      "intersegment_revenue": 7294000000,
+      "operating_income": 8316000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産業",
+      "external_revenue": 45398000000,
+      "intersegment_revenue": 31999000000,
+      "operating_income": 17361000000
+    },
+    {
+      "key": "Transportation",
+      "label": "運輸業",
+      "external_revenue": 1123437000000,
+      "intersegment_revenue": 10578000000,
+      "operating_income": 338502000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04149-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

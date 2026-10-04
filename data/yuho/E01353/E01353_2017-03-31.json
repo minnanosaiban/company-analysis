@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01353",
+    "sec_code": "5901",
+    "company_name": "東洋製罐グループホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2025-09-30",
+    "doc_id": "S100WSA0"
+  },
+  "financials": {
+    "net_sales": 779469000000,
+    "ordinary_income": 36098000000,
+    "net_income": 12183000000,
+    "comprehensive_income": 28959000000,
+    "eps": 60.06,
+    "dps": 19,
+    "operating_cf": 79941000000,
+    "investing_cf": -47600000000,
+    "financing_cf": -29545000000,
+    "net_assets": 725838000000,
+    "total_assets": 1140003000000,
+    "bps": 3234.69,
+    "cash_end": 168744000000,
+    "equity_ratio": 0.576,
+    "roe": 0.0189,
+    "per": 30.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01353-000_2021-03-31_02_2025-09-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

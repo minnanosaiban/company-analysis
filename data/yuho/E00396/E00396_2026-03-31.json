@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E00396",
+    "sec_code": "2531",
+    "company_name": "宝ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YINV"
+  },
+  "financials": {
+    "net_sales": 394316000000,
+    "ordinary_income": 16861000000,
+    "net_income": 11696000000,
+    "comprehensive_income": 19976000000,
+    "eps": 60.52,
+    "dps": 31,
+    "operating_cf": 17318000000,
+    "investing_cf": -15341000000,
+    "financing_cf": -9307000000,
+    "net_assets": 310937000000,
+    "total_assets": 513801000000,
+    "bps": 1344.61,
+    "cash_end": 69125000000,
+    "equity_ratio": 0.505,
+    "roe": 0.046,
+    "per": 25.5,
+    "gross_profit": 127696000000,
+    "operating_income": 17076000000,
+    "income_tax_expense": 10148000000,
+    "interest_bearing_debt_current": 6414000000,
+    "interest_bearing_debt_noncurrent": 40431000000,
+    "bonds_payable": 10000000000,
+    "current_portion_of_bonds": 5000000000,
+    "lease_liabilities_noncurrent": 9296000000,
+    "depreciation": 12225000000,
+    "current_assets": 249314000000,
+    "current_liabilities": 82037000000,
+    "noncurrent_assets": 264486000000,
+    "noncurrent_liabilities": 120826000000,
+    "trade_receivables": 66621000000,
+    "trade_payables": 26779000000,
+    "ppe": 133068000000,
+    "goodwill": 30457000000,
+    "intangible_assets": 60369000000,
+    "investment_securities": 39591000000,
+    "treasury_stock": -5103000000,
+    "noncontrolling_interests": 51597000000
+  },
+  "segments": [
+    {
+      "key": "TakaraBioGroup",
+      "label": null,
+      "external_revenue": 40317000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": -4688000000
+    },
+    {
+      "key": "TakaraShuzo",
+      "label": null,
+      "external_revenue": 118032000000,
+      "intersegment_revenue": 1090000000,
+      "operating_income": 5729000000
+    },
+    {
+      "key": "TakaraShuzoInternationalGroup",
+      "label": null,
+      "external_revenue": 221549000000,
+      "intersegment_revenue": 339000000,
+      "operating_income": 14201000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00396-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

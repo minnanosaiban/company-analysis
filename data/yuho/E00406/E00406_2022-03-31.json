@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E00406",
+    "sec_code": "2267",
+    "company_name": "株式会社ヤクルト本社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100QXAM"
+  },
+  "financials": {
+    "net_sales": 415116000000,
+    "ordinary_income": 68549000000,
+    "net_income": 44917000000,
+    "comprehensive_income": 69441000000,
+    "eps": 280.36,
+    "dps": 72,
+    "operating_cf": 73390000000,
+    "investing_cf": -11875000000,
+    "financing_cf": -45156000000,
+    "net_assets": 484935000000,
+    "total_assets": 672855000000,
+    "bps": 2812.63,
+    "cash_end": 150725000000,
+    "equity_ratio": 0.663,
+    "roe": 0.106,
+    "per": 23.3,
+    "gross_profit": 248416000000,
+    "operating_income": 53202000000,
+    "income_tax_expense": 14925000000,
+    "interest_bearing_debt_current": 4822000000,
+    "interest_bearing_debt_noncurrent": 60298000000,
+    "current_portion_lt_loans": 5417000000,
+    "lease_liabilities_current": 3359000000,
+    "lease_liabilities_noncurrent": 6748000000,
+    "depreciation": 23769000000,
+    "current_assets": 300398000000,
+    "current_liabilities": 89281000000,
+    "noncurrent_assets": 372456000000,
+    "noncurrent_liabilities": 98639000000,
+    "trade_receivables": 52581000000,
+    "trade_payables": 26039000000,
+    "ppe": 211156000000,
+    "intangible_assets": 5386000000,
+    "investment_securities": 67628000000,
+    "treasury_stock": -64395000000,
+    "noncontrolling_interests": 38867000000
+  },
+  "segments": [
+    {
+      "key": "AsiaAndOceaniaFoodAndBeverages",
+      "label": null,
+      "external_revenue": 128199000000,
+      "operating_income": 24808000000
+    },
+    {
+      "key": "EuropeFoodAndBeverages",
+      "label": null,
+      "external_revenue": 9413000000,
+      "operating_income": 622000000
+    },
+    {
+      "key": "JapanFoodAndBeverages",
+      "label": null,
+      "external_revenue": 195725000000,
+      "intersegment_revenue": 7568000000,
+      "operating_income": 28243000000
+    },
+    {
+      "key": "Pharmaceuticals",
+      "label": null,
+      "external_revenue": 16992000000,
+      "operating_income": 2634000000
+    },
+    {
+      "key": "TheAmericasFoodAndBeverages",
+      "label": null,
+      "external_revenue": 47388000000,
+      "operating_income": 12554000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00406-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

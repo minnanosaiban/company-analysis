@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01740",
+    "sec_code": "6504",
+    "company_name": "富士電機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4BH"
+  },
+  "financials": {
+    "net_sales": 875927000000,
+    "ordinary_income": 50401000000,
+    "net_income": 41926000000,
+    "comprehensive_income": 67437000000,
+    "eps": 293.52,
+    "dps": 85,
+    "operating_cf": 26931000000,
+    "investing_cf": 23477000000,
+    "financing_cf": -39520000000,
+    "net_assets": 461254000000,
+    "total_assets": 1051952000000,
+    "bps": 2919.34,
+    "cash_end": 75332000000,
+    "equity_ratio": 0.396,
+    "roe": 0.107,
+    "per": 15.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01740-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

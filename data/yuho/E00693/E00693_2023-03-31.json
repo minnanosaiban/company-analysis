@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E00693",
+    "sec_code": "7912",
+    "company_name": "大日本印刷株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R1TC"
+  },
+  "financials": {
+    "net_sales": 1373209000000,
+    "ordinary_income": 83661000000,
+    "net_income": 85692000000,
+    "comprehensive_income": 43032000000,
+    "eps": 321.31,
+    "eps_diluted": 321.26,
+    "dps": 64,
+    "operating_cf": 37993000000,
+    "investing_cf": -25021000000,
+    "financing_cf": -52435000000,
+    "net_assets": 1148245000000,
+    "total_assets": 1830384000000,
+    "bps": 4158.46,
+    "cash_end": 258329000000,
+    "equity_ratio": 0.5941,
+    "roe": 0.0786,
+    "per": 11.53,
+    "gross_profit": 291924000000,
+    "operating_income": 61233000000,
+    "income_tax_expense": 20377000000,
+    "interest_bearing_debt_current": 30301000000,
+    "interest_bearing_debt_noncurrent": 13772000000,
+    "bonds_payable": 100000000000,
+    "current_portion_lt_loans": 1243000000,
+    "lease_liabilities_noncurrent": 7821000000,
+    "depreciation": 51769000000,
+    "capex_ppe": -50321000000,
+    "capex_intangible": -11804000000,
+    "current_assets": 802995000000,
+    "current_liabilities": 398571000000,
+    "noncurrent_assets": 1027389000000,
+    "noncurrent_liabilities": 283567000000,
+    "trade_payables": 224418000000,
+    "ppe": 436429000000,
+    "goodwill": 2423000000,
+    "intangible_assets": 30360000000,
+    "investment_securities": 341215000000,
+    "treasury_stock": -88212000000,
+    "noncontrolling_interests": 60741000000
+  },
+  "segments": [
+    {
+      "key": "Beverages",
+      "label": null,
+      "external_revenue": 51595000000,
+      "intersegment_revenue": 9000000,
+      "operating_income": 601000000
+    },
+    {
+      "key": "Electronics",
+      "label": null,
+      "external_revenue": 203573000000,
+      "operating_income": 46936000000
+    },
+    {
+      "key": "InformationCommunication",
+      "label": null,
+      "external_revenue": 718413000000,
+      "intersegment_revenue": 1880000000,
+      "operating_income": 26731000000
+    },
+    {
+      "key": "LifestyleAndIndustrialSupplies",
+      "label": null,
+      "external_revenue": 399626000000,
+      "intersegment_revenue": 609000000,
+      "operating_income": 7380000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00693-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

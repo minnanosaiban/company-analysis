@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02265",
+    "sec_code": "7701",
+    "company_name": "株式会社　島津製作所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8AR"
+  },
+  "financials": {
+    "net_sales": 385443000000,
+    "ordinary_income": 42669000000,
+    "net_income": 31766000000,
+    "comprehensive_income": 24281000000,
+    "eps": 107.84,
+    "dps": 30,
+    "operating_cf": 39509000000,
+    "investing_cf": -16062000000,
+    "financing_cf": -26185000000,
+    "net_assets": 302775000000,
+    "total_assets": 437618000000,
+    "bps": 1027.87,
+    "cash_end": 66683000000,
+    "equity_ratio": 0.692,
+    "roe": 0.108,
+    "per": 26.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02265-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

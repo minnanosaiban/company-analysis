@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02142",
+    "sec_code": "7201",
+    "company_name": "日産自動車株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RAD2"
+  },
+  "financials": {
+    "net_sales": 11574247000000,
+    "ordinary_income": 546498000000,
+    "net_income": 319138000000,
+    "comprehensive_income": 195999000000,
+    "eps": 81.59,
+    "eps_diluted": 81.59,
+    "dps": 57,
+    "operating_cf": 1450888000000,
+    "investing_cf": -1133547000000,
+    "financing_cf": -127140000000,
+    "net_assets": 5623510000000,
+    "total_assets": 18952345000000,
+    "bps": 1355.18,
+    "cash_end": 1359058000000,
+    "equity_ratio": 0.28,
+    "roe": 0.06,
+    "per": 11.13
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02142-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

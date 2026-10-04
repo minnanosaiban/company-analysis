@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E01575",
+    "sec_code": "1963",
+    "company_name": "日揮ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TVFX"
+  },
+  "financials": {
+    "net_sales": 832595000000,
+    "ordinary_income": 358000000,
+    "net_income": -7830000000,
+    "comprehensive_income": -1236000000,
+    "eps": -32.48,
+    "dps": 40,
+    "operating_cf": 11090000000,
+    "investing_cf": -20201000000,
+    "financing_cf": -8894000000,
+    "net_assets": 387885000000,
+    "total_assets": 792296000000,
+    "bps": 1598.71,
+    "cash_end": 324507000000,
+    "equity_ratio": 0.487,
+    "roe": -0.02,
+    "gross_profit": 10663000000,
+    "operating_income": -18995000000,
+    "income_tax_expense": 18401000000,
+    "interest_bearing_debt_current": 3817000000,
+    "interest_bearing_debt_noncurrent": 14717000000,
+    "bonds_payable": 20000000000,
+    "current_portion_lt_loans": 741000000,
+    "depreciation": 9702000000,
+    "capex_ppe": -13520000000,
+    "capex_intangible": -5467000000,
+    "current_assets": 603563000000,
+    "current_liabilities": 350736000000,
+    "noncurrent_assets": 188733000000,
+    "noncurrent_liabilities": 53674000000,
+    "ppe": 84411000000,
+    "intangible_assets": 13328000000,
+    "investment_securities": 56073000000,
+    "treasury_stock": -25485000000,
+    "noncontrolling_interests": 1730000000
+  },
+  "segments": [
+    {
+      "key": "Engineering",
+      "label": null,
+      "external_revenue": 773106000000,
+      "intersegment_revenue": 12000000,
+      "operating_income": -22094000000
+    },
+    {
+      "key": "FunctionalMaterialsManufacturing",
+      "label": null,
+      "external_revenue": 52012000000,
+      "intersegment_revenue": 5000000,
+      "operating_income": 7251000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01575-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E01901",
+    "sec_code": "6856",
+    "company_name": "株式会社堀場製作所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-25",
+    "doc_id": "S100T3YZ"
+  },
+  "financials": {
+    "net_sales": 290558000000,
+    "ordinary_income": 48251000000,
+    "net_income": 40302000000,
+    "comprehensive_income": 53690000000,
+    "eps": 953.71,
+    "eps_diluted": 948.83,
+    "dps": 290,
+    "operating_cf": 16652000000,
+    "investing_cf": -7315000000,
+    "financing_cf": -20963000000,
+    "net_assets": 283732000000,
+    "total_assets": 449030000000,
+    "bps": 6695.3,
+    "cash_end": 130550000000,
+    "equity_ratio": 0.6303,
+    "roe": 0.1541,
+    "per": 11.57,
+    "gross_profit": 127383000000,
+    "operating_income": 47296000000,
+    "income_tax_expense": 14730000000,
+    "interest_bearing_debt_current": 5695000000,
+    "interest_bearing_debt_noncurrent": 24699000000,
+    "bonds_payable": 30000000000,
+    "depreciation": 12097000000,
+    "capex_ppe": -8849000000,
+    "capex_intangible": -322000000,
+    "current_assets": 318577000000,
+    "current_liabilities": 101051000000,
+    "noncurrent_assets": 130453000000,
+    "noncurrent_liabilities": 64246000000,
+    "trade_payables": 30518000000,
+    "ppe": 100801000000,
+    "goodwill": 1343000000,
+    "intangible_assets": 4965000000,
+    "investment_securities": 15666000000,
+    "treasury_stock": -1037000000,
+    "noncontrolling_interests": 17000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": null,
+      "external_revenue": 80406000000,
+      "operating_income": 1209000000
+    },
+    {
+      "key": "MedicalDiagnostic",
+      "label": null,
+      "external_revenue": 32678000000,
+      "operating_income": 638000000
+    },
+    {
+      "key": "ProcessAndEnvironmental",
+      "label": null,
+      "external_revenue": 24959000000,
+      "operating_income": 2412000000
+    },
+    {
+      "key": "Scientific",
+      "label": null,
+      "external_revenue": 39641000000,
+      "operating_income": 2456000000
+    },
+    {
+      "key": "Semiconductor",
+      "label": null,
+      "external_revenue": 112872000000,
+      "operating_income": 40580000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01901-000_2023-12-31_01_2024-03-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01777",
+    "sec_code": "6758",
+    "company_name": "ソニーグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZT6"
+  },
+  "financials": {
+    "dps": 55,
+    "net_income": 1029610000000,
+    "comprehensive_income": 1118628000000,
+    "net_assets": 6680343000000,
+    "total_assets": 27507843000000,
+    "equity_ratio": 0.243,
+    "bps": 5390.73,
+    "eps": 836.75,
+    "eps_diluted": 823.77,
+    "roe": 0.178,
+    "per": 13.9,
+    "operating_cf": 1140217000000,
+    "investing_cf": -563910000000,
+    "financing_cf": -338533000000,
+    "cash_end": 1786982000000,
+    "net_sales": 8999360000000,
+    "profit_before_tax": 1192370000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01777-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

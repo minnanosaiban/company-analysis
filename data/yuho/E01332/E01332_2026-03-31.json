@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E01332",
+    "sec_code": "5801",
+    "company_name": "古河電気工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YCF0"
+  },
+  "financials": {
+    "net_sales": 1307560000000,
+    "ordinary_income": 75858000000,
+    "net_income": 72514000000,
+    "comprehensive_income": 85389000000,
+    "eps": 1030.17,
+    "dps": 210,
+    "operating_cf": 28116000000,
+    "investing_cf": -47137000000,
+    "financing_cf": 19930000000,
+    "net_assets": 435231000000,
+    "total_assets": 1066372000000,
+    "bps": 5928.21,
+    "cash_end": 70474000000,
+    "equity_ratio": 0.391,
+    "roe": 0.1912,
+    "per": 27.94,
+    "gross_profit": 229813000000,
+    "operating_income": 63856000000,
+    "income_tax_expense": 19440000000,
+    "interest_bearing_debt_current": 149405000000,
+    "interest_bearing_debt_noncurrent": 112257000000,
+    "bonds_payable": 30000000000,
+    "commercial_papers": 15000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_noncurrent": 12701000000,
+    "depreciation": 43218000000,
+    "capex_ppe": -46118000000,
+    "capex_intangible": -6008000000,
+    "current_assets": 595508000000,
+    "current_liabilities": 428665000000,
+    "noncurrent_assets": 470864000000,
+    "noncurrent_liabilities": 202475000000,
+    "trade_payables": 140543000000,
+    "ppe": 276925000000,
+    "goodwill": 2452000000,
+    "intangible_assets": 25404000000,
+    "investment_securities": 145478000000,
+    "treasury_stock": -1745000000,
+    "noncontrolling_interests": 18182000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveProductsAndMaterials",
+      "label": null,
+      "external_revenue": 756170000000,
+      "intersegment_revenue": 8896000000,
+      "operating_income": 33887000000
+    },
+    {
+      "key": "FunctionalProducts",
+      "label": null,
+      "external_revenue": 150804000000,
+      "intersegment_revenue": 10285000000,
+      "operating_income": 15379000000
+    },
+    {
+      "key": "Infrastructure",
+      "label": null,
+      "external_revenue": 363941000000,
+      "intersegment_revenue": 6914000000,
+      "operating_income": 21439000000
+    },
+    {
+      "key": "ServiceAndDevelopmentsEtc",
+      "label": null,
+      "external_revenue": 36644000000,
+      "intersegment_revenue": 5564000000,
+      "operating_income": -6703000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01332-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E21320",
+    "sec_code": "6632",
+    "company_name": "株式会社ＪＶＣケンウッド",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R2FG"
+  },
+  "financials": {
+    "dps": 6,
+    "net_sales": 282088000000,
+    "net_income": 5873000000,
+    "comprehensive_income": 15743000000,
+    "net_assets": 79495000000,
+    "total_assets": 280807000000,
+    "equity_ratio": 0.283,
+    "bps": 486.26,
+    "eps": 35.89,
+    "eps_diluted": 35.86,
+    "roe": 0.081,
+    "per": 4.96,
+    "operating_cf": 7059000000,
+    "investing_cf": -9804000000,
+    "financing_cf": -11273000000,
+    "cash_end": 48707000000,
+    "operating_income": 9054000000,
+    "gross_profit": 75790000000,
+    "income_tax_expense": 2146000000,
+    "sga_expense": 68645000000,
+    "profit_before_tax": 8515000000,
+    "depreciation": 17120000000,
+    "capex_ppe": -6257000000,
+    "capex_intangible": -9705000000,
+    "current_assets": 176799000000,
+    "current_liabilities": 106213000000,
+    "noncurrent_assets": 104008000000,
+    "trade_receivables": 59570000000,
+    "inventories": 55585000000,
+    "trade_payables": 49431000000,
+    "ppe": 56249000000,
+    "goodwill": 2231000000,
+    "intangible_assets": 18601000000,
+    "equity_method_investments": 4604000000,
+    "treasury_stock": -140000000,
+    "noncontrolling_interests": 4465000000
+  },
+  "segments": [
+    {
+      "key": "MediaServiceSector",
+      "label": null,
+      "external_revenue": 53432000000,
+      "revenue": 53432000000,
+      "operating_income": 2703000000,
+      "assets": 47540000000
+    },
+    {
+      "key": "MobilityAndTelematicsSector",
+      "label": "モビリティ＆テレマティクスサービス分野",
+      "external_revenue": 164251000000,
+      "revenue": 164251000000,
+      "operating_income": 2246000000,
+      "assets": 151657000000
+    },
+    {
+      "key": "PublicServiceSector",
+      "label": null,
+      "external_revenue": 58089000000,
+      "revenue": 58089000000,
+      "operating_income": 2467000000,
+      "assets": 48594000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21320-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01137",
+    "sec_code": "5333",
+    "company_name": "日本碍子株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2OP"
+  },
+  "financials": {
+    "net_sales": 441956000000,
+    "ordinary_income": 51952000000,
+    "net_income": 27135000000,
+    "comprehensive_income": 5725000000,
+    "eps": 84.73,
+    "eps_diluted": 84.6,
+    "dps": 50,
+    "operating_cf": 53200000000,
+    "investing_cf": -60830000000,
+    "financing_cf": -18796000000,
+    "net_assets": 469118000000,
+    "total_assets": 833085000000,
+    "bps": 1448.62,
+    "cash_end": 94691000000,
+    "equity_ratio": 0.55,
+    "roe": 0.058,
+    "per": 16.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01137-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

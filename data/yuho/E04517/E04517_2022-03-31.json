@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E04517",
+    "sec_code": "9533",
+    "company_name": "東邦瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R5O1"
+  },
+  "financials": {
+    "net_sales": 515313000000,
+    "ordinary_income": 21912000000,
+    "net_income": 15459000000,
+    "comprehensive_income": 29653000000,
+    "eps": 146.66,
+    "dps": 57.5,
+    "operating_cf": 35436000000,
+    "investing_cf": -54876000000,
+    "financing_cf": 635000000,
+    "net_assets": 382751000000,
+    "total_assets": 655593000000,
+    "bps": 3641.75,
+    "cash_end": 32110000000,
+    "equity_ratio": 0.584,
+    "roe": 0.042,
+    "per": 18.6,
+    "gross_profit": 153701000000,
+    "operating_income": 17858000000,
+    "income_tax_expense": 4895000000,
+    "interest_bearing_debt_current": 2935000000,
+    "interest_bearing_debt_noncurrent": 48716000000,
+    "bonds_payable": 50000000000,
+    "depreciation": 36510000000,
+    "current_assets": 170555000000,
+    "current_liabilities": 126919000000,
+    "noncurrent_assets": 485038000000,
+    "noncurrent_liabilities": 145922000000,
+    "inventories": 21942000000,
+    "trade_payables": 36822000000,
+    "ppe": 305619000000,
+    "intangible_assets": 10894000000,
+    "investment_securities": 112444000000,
+    "treasury_stock": -499000000
+  },
+  "segments": [
+    {
+      "key": "Electricity",
+      "label": "電気",
+      "external_revenue": 71203000000,
+      "intersegment_revenue": 275000000,
+      "operating_income": 2403000000
+    },
+    {
+      "key": "Gas",
+      "label": "ガス",
+      "external_revenue": 322327000000,
+      "intersegment_revenue": 2136000000,
+      "operating_income": 9007000000
+    },
+    {
+      "key": "LPGAndOtherEnergy",
+      "label": "LPG・その他エネルギー",
+      "external_revenue": 93894000000,
+      "intersegment_revenue": 1665000000,
+      "operating_income": 2023000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04517-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

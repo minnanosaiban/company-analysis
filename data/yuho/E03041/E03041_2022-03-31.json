@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E03041",
+    "sec_code": "8253",
+    "company_name": "株式会社クレディセゾン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R0QD"
+  },
+  "financials": {
+    "dps": 55,
+    "net_sales": 299017000000,
+    "net_income": 35375000000,
+    "comprehensive_income": 38426000000,
+    "net_assets": 562387000000,
+    "total_assets": 3610778000000,
+    "equity_ratio": 0.1558,
+    "bps": 3598.22,
+    "eps": 226.35,
+    "eps_diluted": 226.13,
+    "roe": 0.0647,
+    "per": 5.76,
+    "operating_cf": -70441000000,
+    "investing_cf": -51619000000,
+    "financing_cf": 129260000000,
+    "cash_end": 108970000000,
+    "income_tax_expense": 14343000000,
+    "sga_expense": 222541000000,
+    "profit_before_tax": 49936000000,
+    "depreciation": 29825000000,
+    "ppe": 30342000000,
+    "goodwill": 1152000000,
+    "intangible_assets": 162317000000,
+    "equity_method_investments": 86914000000,
+    "treasury_stock": -62737000000,
+    "noncontrolling_interests": 1351000000
+  },
+  "segments": [
+    {
+      "key": "Entertainment",
+      "label": null,
+      "external_revenue": 32866000000,
+      "intersegment_revenue": 0,
+      "operating_income": 237000000,
+      "equity_method_income": -106000000
+    },
+    {
+      "key": "Finance",
+      "label": null,
+      "external_revenue": 47144000000,
+      "operating_income": 19777000000,
+      "equity_method_income": -78000000
+    },
+    {
+      "key": "Lease",
+      "label": null,
+      "external_revenue": 11835000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": 5800000000
+    },
+    {
+      "key": "Payment",
+      "label": null,
+      "external_revenue": 211765000000,
+      "intersegment_revenue": 1383000000,
+      "operating_income": 14166000000,
+      "equity_method_income": 4618000000
+    },
+    {
+      "key": "RealEstateRelated",
+      "label": null,
+      "external_revenue": 59343000000,
+      "intersegment_revenue": 466000000,
+      "operating_income": 12350000000,
+      "equity_method_income": 154000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03041-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

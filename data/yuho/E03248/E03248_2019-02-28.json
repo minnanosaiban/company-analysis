@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E03248",
+    "sec_code": "7453",
+    "company_name": "株式会社良品計画",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-02-28",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2025-02-07",
+    "doc_id": "S100V5VK"
+  },
+  "financials": {
+    "ordinary_income": 45861000000,
+    "net_income": 33845000000,
+    "comprehensive_income": 30032000000,
+    "eps": 128.92,
+    "eps_diluted": 128.65,
+    "dps": 387,
+    "operating_cf": 23680000000,
+    "investing_cf": -5492000000,
+    "financing_cf": -9505000000,
+    "net_assets": 195189000000,
+    "total_assets": 258309000000,
+    "bps": 725.83,
+    "cash_end": 53756000000,
+    "equity_ratio": 0.738,
+    "roe": 0.188,
+    "per": 20.49,
+    "gross_profit": 210531000000,
+    "operating_income": 44743000000,
+    "income_tax_expense": 17049000000,
+    "interest_bearing_debt_current": 825000000,
+    "interest_bearing_debt_noncurrent": 557000000,
+    "current_portion_lt_loans": 397000000,
+    "lease_liabilities_current": 7000000,
+    "lease_liabilities_noncurrent": 60000000,
+    "depreciation": 7889000000,
+    "capex_ppe": -13055000000,
+    "capex_intangible": -5438000000,
+    "current_assets": 167522000000,
+    "current_liabilities": 53574000000,
+    "noncurrent_assets": 90787000000,
+    "noncurrent_liabilities": 9546000000,
+    "trade_receivables": 8920000000,
+    "ppe": 46167000000,
+    "goodwill": 4237000000,
+    "intangible_assets": 16479000000,
+    "investment_securities": 4422000000,
+    "treasury_stock": -14780000000,
+    "noncontrolling_interests": 4128000000
+  },
+  "segments": [
+    {
+      "key": "DomesticBusiness",
+      "label": null,
+      "external_revenue": 246269000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 25084000000
+    },
+    {
+      "key": "EastAsiaBusiness",
+      "label": null,
+      "external_revenue": 122340000000,
+      "operating_income": 19814000000
+    },
+    {
+      "key": "EuropeAndUSBusiness",
+      "label": null,
+      "external_revenue": 24495000000,
+      "operating_income": -1152000000
+    },
+    {
+      "key": "WestSouthAsiaAndOceaniaBusiness",
+      "label": null,
+      "external_revenue": 16589000000,
+      "operating_income": 513000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03248-000_2020-02-29_02_2025-02-07.csv",
+    "parser_version": "0.1.3"
+  }
+}

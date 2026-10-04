@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "edinet_code": "E02271",
+    "sec_code": "7731",
+    "company_name": "株式会社ニコン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-24",
+    "doc_id": "S100TNZD"
+  },
+  "financials": {
+    "dps": 50,
+    "net_sales": 717245000000,
+    "net_income": 32570000000,
+    "net_assets": 683795000000,
+    "total_assets": 1147110000000,
+    "equity_ratio": 0.596,
+    "bps": 1973.68,
+    "eps": 94.03,
+    "eps_diluted": 93.53,
+    "roe": 0.05,
+    "per": 16.3,
+    "operating_cf": 30767000000,
+    "investing_cf": -41405000000,
+    "financing_cf": -8938000000,
+    "cash_end": 206644000000,
+    "operating_income": 39776000000,
+    "gross_profit": 310047000000,
+    "income_tax_expense": 10535000000,
+    "interest_bearing_debt_current": 88313000000,
+    "interest_bearing_debt_noncurrent": 78392000000,
+    "sga_expense": 268056000000,
+    "profit_before_tax": 42669000000,
+    "depreciation": 35666000000,
+    "capex_ppe": -39214000000,
+    "capex_intangible": -16001000000,
+    "current_assets": 667340000000,
+    "current_liabilities": 330416000000,
+    "noncurrent_assets": 479771000000,
+    "inventories": 285239000000,
+    "ppe": 133428000000,
+    "goodwill": 83680000000,
+    "equity_method_investments": 9728000000,
+    "treasury_stock": -7297000000,
+    "noncontrolling_interests": 1297000000
+  },
+  "segments": [
+    {
+      "key": "ComponentsBusiness",
+      "label": "コンポーネント事業",
+      "external_revenue": 47005000000,
+      "intersegment_revenue": 7764000000,
+      "revenue": 54769000000,
+      "operating_income": 16829000000,
+      "assets": 48020000000
+    },
+    {
+      "key": "DigitalManufacturing",
+      "label": "デジタルマニュファクチャリング事業",
+      "external_revenue": 59937000000,
+      "intersegment_revenue": 299000000,
+      "revenue": 60236000000,
+      "operating_income": -15801000000,
+      "assets": 165887000000
+    },
+    {
+      "key": "HealthcareBusiness",
+      "label": "ヘルスケア事業",
+      "external_revenue": 107889000000,
+      "intersegment_revenue": 250000000,
+      "revenue": 108139000000,
+      "operating_income": 5388000000,
+      "assets": 131811000000
+    },
+    {
+      "key": "ImagingProductsBusiness",
+      "label": "映像事業",
+      "external_revenue": 279737000000,
+      "intersegment_revenue": 2301000000,
+      "revenue": 282038000000,
+      "operating_income": 46542000000,
+      "assets": 125199000000
+    },
+    {
+      "key": "PrecisionEquipmentBusiness",
+      "label": "精機事業",
+      "external_revenue": 219379000000,
+      "intersegment_revenue": 159000000,
+      "revenue": 219538000000,
+      "operating_income": 15179000000,
+      "assets": 186244000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02271-000_2024-03-31_01_2024-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

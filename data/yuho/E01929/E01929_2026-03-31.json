@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E01929",
+    "sec_code": "6925",
+    "company_name": "ウシオ電機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YKRT"
+  },
+  "financials": {
+    "net_sales": 179211000000,
+    "ordinary_income": 13346000000,
+    "net_income": 7995000000,
+    "comprehensive_income": 23524000000,
+    "eps": 94.88,
+    "dps": 70,
+    "operating_cf": 18144000000,
+    "investing_cf": -14109000000,
+    "financing_cf": 4195000000,
+    "net_assets": 198338000000,
+    "total_assets": 331078000000,
+    "bps": 2484.73,
+    "cash_end": 71868000000,
+    "equity_ratio": 0.599,
+    "roe": 0.04,
+    "per": 29.7,
+    "gross_profit": 65518000000,
+    "operating_income": 11959000000,
+    "income_tax_expense": 5610000000,
+    "interest_bearing_debt_current": 1471000000,
+    "interest_bearing_debt_noncurrent": 39775000000,
+    "current_portion_lt_loans": 26725000000,
+    "lease_liabilities_current": 1707000000,
+    "lease_liabilities_noncurrent": 4929000000,
+    "depreciation": 8572000000,
+    "capex_ppe": -8599000000,
+    "capex_intangible": -847000000,
+    "current_assets": 206507000000,
+    "current_liabilities": 76297000000,
+    "noncurrent_assets": 124570000000,
+    "noncurrent_liabilities": 56441000000,
+    "trade_payables": 14062000000,
+    "ppe": 53384000000,
+    "goodwill": 7063000000,
+    "intangible_assets": 11164000000,
+    "investment_securities": 39033000000,
+    "treasury_stock": -7728000000,
+    "noncontrolling_interests": 14000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialProcesses",
+      "label": null,
+      "external_revenue": 77141000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": 6486000000
+    },
+    {
+      "key": "LifeSciences",
+      "label": null,
+      "external_revenue": 6255000000,
+      "intersegment_revenue": 4000000,
+      "operating_income": 140000000
+    },
+    {
+      "key": "PhotonicsSolutions",
+      "label": null,
+      "external_revenue": 10585000000,
+      "operating_income": 564000000
+    },
+    {
+      "key": "VisualImaging",
+      "label": null,
+      "external_revenue": 83879000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 4667000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01929-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

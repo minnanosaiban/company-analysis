@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E00023",
+    "sec_code": "5713",
+    "company_name": "住友金属鉱山株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R3B5"
+  },
+  "financials": {
+    "dps": 205,
+    "net_sales": 1422989000000,
+    "net_income": 160585000000,
+    "comprehensive_income": 263161000000,
+    "net_assets": 1631671000000,
+    "total_assets": 2707899000000,
+    "equity_ratio": 0.603,
+    "bps": 5938.42,
+    "eps": 584.44,
+    "eps_diluted": 584.44,
+    "roe": 0.1044,
+    "per": 8.64,
+    "operating_cf": 120382000000,
+    "investing_cf": -185503000000,
+    "financing_cf": 49336000000,
+    "cash_end": 215007000000,
+    "gross_profit": 250106000000,
+    "income_tax_expense": 59469000000,
+    "interest_bearing_debt_current": 158409000000,
+    "interest_bearing_debt_noncurrent": 298848000000,
+    "sga_expense": 63997000000,
+    "profit_before_tax": 229910000000,
+    "depreciation": 53310000000,
+    "capex_ppe": -123823000000,
+    "capex_intangible": -7087000000,
+    "current_assets": 1022843000000,
+    "current_liabilities": 471263000000,
+    "noncurrent_assets": 1685056000000,
+    "trade_receivables": 189199000000,
+    "inventories": 555941000000,
+    "trade_payables": 251696000000,
+    "ppe": 629451000000,
+    "goodwill": 772000000,
+    "equity_method_investments": 450512000000,
+    "treasury_stock": -38076000000,
+    "noncontrolling_interests": 157625000000
+  },
+  "segments": [
+    {
+      "key": "Materials",
+      "label": null,
+      "external_revenue": 293331000000,
+      "intersegment_revenue": 24094000000,
+      "profit_before_tax": 17323000000,
+      "assets": 340933000000,
+      "equity_method_income": 3359000000
+    },
+    {
+      "key": "MineralResources",
+      "label": null,
+      "external_revenue": 118017000000,
+      "intersegment_revenue": 54410000000,
+      "profit_before_tax": 76443000000,
+      "assets": 1123996000000,
+      "equity_method_income": 23093000000
+    },
+    {
+      "key": "SmeltingAndRefining",
+      "label": null,
+      "external_revenue": 1007426000000,
+      "intersegment_revenue": 65612000000,
+      "profit_before_tax": 117866000000,
+      "assets": 980937000000,
+      "equity_method_income": 11175000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00023-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

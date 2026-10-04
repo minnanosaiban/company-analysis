@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "edinet_code": "E01084",
+    "sec_code": "5019",
+    "company_name": "出光興産株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YCS3"
+  },
+  "financials": {
+    "net_sales": 8105891000000,
+    "ordinary_income": 229646000000,
+    "net_income": 171914000000,
+    "comprehensive_income": 242856000000,
+    "eps": 140.38,
+    "dps": 36,
+    "operating_cf": 392429000000,
+    "investing_cf": -291632000000,
+    "financing_cf": -104926000000,
+    "net_assets": 1951099000000,
+    "total_assets": 5328792000000,
+    "bps": 1574.46,
+    "cash_end": 157088000000,
+    "equity_ratio": 0.36,
+    "roe": 0.094,
+    "per": 11,
+    "gross_profit": 754484000000,
+    "operating_income": 212203000000,
+    "income_tax_expense": 66244000000,
+    "interest_bearing_debt_current": 503466000000,
+    "interest_bearing_debt_noncurrent": 494087000000,
+    "bonds_payable": 100000000000,
+    "commercial_papers": 244726000000,
+    "current_portion_of_bonds": 20000000000,
+    "depreciation": 95966000000,
+    "capex_ppe": -154867000000,
+    "capex_intangible": -11999000000,
+    "current_assets": 2965674000000,
+    "current_liabilities": 2351410000000,
+    "noncurrent_assets": 2363117000000,
+    "noncurrent_liabilities": 1026281000000,
+    "trade_receivables": 841806000000,
+    "inventories": 1375562000000,
+    "trade_payables": 852648000000,
+    "ppe": 1523513000000,
+    "goodwill": 129776000000,
+    "intangible_assets": 260199000000,
+    "investment_securities": 339979000000,
+    "treasury_stock": -68785000000,
+    "noncontrolling_interests": 32974000000
+  },
+  "segments": [
+    {
+      "key": "BasicChemicals",
+      "label": "基礎化学品",
+      "external_revenue": 491365000000,
+      "intersegment_revenue": 9325000000,
+      "operating_income": -7310000000,
+      "equity_method_income": 463000000
+    },
+    {
+      "key": "FunctionalMaterials",
+      "label": "高機能材",
+      "external_revenue": 503156000000,
+      "intersegment_revenue": 23728000000,
+      "operating_income": 34780000000,
+      "equity_method_income": -1335000000
+    },
+    {
+      "key": "Petroleum",
+      "label": "燃料油",
+      "external_revenue": 6793416000000,
+      "intersegment_revenue": 13858000000,
+      "operating_income": 175049000000,
+      "equity_method_income": 2629000000
+    },
+    {
+      "key": "PowerAndRenewableEnergy",
+      "label": "電力・再生可能エネルギー",
+      "external_revenue": 98178000000,
+      "intersegment_revenue": 2400000000,
+      "operating_income": -1907000000,
+      "equity_method_income": 96000000
+    },
+    {
+      "key": "Resources",
+      "label": "資源",
+      "external_revenue": 203500000000,
+      "operating_income": 29170000000,
+      "equity_method_income": 3935000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01084-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

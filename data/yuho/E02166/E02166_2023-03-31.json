@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E02166",
+    "sec_code": "7267",
+    "company_name": "本田技研工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1U9"
+  },
+  "financials": {
+    "dps": 120,
+    "net_sales": 16907725000000,
+    "net_income": 651416000000,
+    "comprehensive_income": 1081429000000,
+    "net_assets": 11184250000000,
+    "total_assets": 24670067000000,
+    "equity_ratio": 0.453,
+    "bps": 6719.93,
+    "eps": 384.02,
+    "eps_diluted": 384.02,
+    "roe": 0.06,
+    "per": 9.1,
+    "operating_cf": 2129022000000,
+    "investing_cf": -678060000000,
+    "financing_cf": -1468359000000,
+    "cash_end": 3803014000000,
+    "operating_income": 780769000000,
+    "income_tax_expense": 162256000000,
+    "sga_expense": 1669908000000,
+    "profit_before_tax": 879565000000,
+    "depreciation": 1596876000000,
+    "capex_ppe": -475048000000,
+    "current_assets": 9578348000000,
+    "current_liabilities": 6652124000000,
+    "noncurrent_assets": 15091719000000,
+    "inventories": 2167184000000,
+    "ppe": 3168109000000,
+    "intangible_assets": 870900000000,
+    "equity_method_investments": 915946000000,
+    "treasury_stock": -484931000000,
+    "noncontrolling_interests": 318041000000
+  },
+  "segments": [
+    {
+      "key": "AutomobileBusiness",
+      "label": null,
+      "external_revenue": 10593519000000,
+      "intersegment_revenue": 188198000000,
+      "revenue": 10781717000000,
+      "operating_income": -16629000000,
+      "equity_method_income": 66973000000,
+      "assets": 10082519000000
+    },
+    {
+      "key": "FinancialServicesBusiness",
+      "label": null,
+      "external_revenue": 2954098000000,
+      "intersegment_revenue": 2046000000,
+      "revenue": 2956144000000,
+      "operating_income": 285857000000,
+      "assets": 11197017000000
+    },
+    {
+      "key": "MotorcycleBusiness",
+      "label": null,
+      "external_revenue": 2908983000000,
+      "revenue": 2908983000000,
+      "operating_income": 488709000000,
+      "equity_method_income": 49119000000,
+      "assets": 1580521000000
+    },
+    {
+      "key": "PowerProductAndOtherBusinesses",
+      "label": null,
+      "external_revenue": 451125000000,
+      "intersegment_revenue": 25307000000,
+      "revenue": 476432000000,
+      "operating_income": 22832000000,
+      "equity_method_income": 1353000000,
+      "assets": 480166000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02166-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E02475",
+    "sec_code": "6460",
+    "company_name": "セガサミーホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-23",
+    "doc_id": "S100W28S"
+  },
+  "financials": {
+    "net_sales": 428948000000,
+    "ordinary_income": 53114000000,
+    "net_income": 45051000000,
+    "comprehensive_income": 42804000000,
+    "eps": 209.79,
+    "eps_diluted": 209.02,
+    "dps": 52,
+    "operating_cf": 20856000000,
+    "investing_cf": -12543000000,
+    "financing_cf": -27981000000,
+    "net_assets": 381604000000,
+    "total_assets": 644777000000,
+    "bps": 1782.73,
+    "cash_end": 198865000000,
+    "equity_ratio": 0.591,
+    "roe": 0.122,
+    "per": 13.7,
+    "gross_profit": 192708000000,
+    "operating_income": 48124000000,
+    "income_tax_expense": 8082000000,
+    "interest_bearing_debt_current": 7500000000,
+    "interest_bearing_debt_noncurrent": 132000000000,
+    "bonds_payable": 10000000000,
+    "lease_liabilities_noncurrent": 4639000000,
+    "depreciation": 13046000000,
+    "capex_ppe": -5536000000,
+    "capex_intangible": -6324000000,
+    "current_assets": 388744000000,
+    "current_liabilities": 94179000000,
+    "noncurrent_assets": 256033000000,
+    "noncurrent_liabilities": 168993000000,
+    "trade_payables": 23560000000,
+    "ppe": 48931000000,
+    "goodwill": 30119000000,
+    "intangible_assets": 91241000000,
+    "investment_securities": 51185000000,
+    "treasury_stock": -54866000000,
+    "noncontrolling_interests": 24000000
+  },
+  "segments": [
+    {
+      "key": "EntertainmentContentsBusiness",
+      "label": null,
+      "external_revenue": 321575000000,
+      "intersegment_revenue": 569000000,
+      "ordinary_income": 41886000000,
+      "equity_method_income": 7000000
+    },
+    {
+      "key": "GamingBusiness",
+      "label": null,
+      "external_revenue": 5451000000,
+      "intersegment_revenue": 20000000,
+      "ordinary_income": 2186000000,
+      "equity_method_income": 3233000000
+    },
+    {
+      "key": "PachislotAndPachinkoMachines",
+      "label": null,
+      "external_revenue": 97105000000,
+      "intersegment_revenue": 121000000,
+      "ordinary_income": 20977000000,
+      "equity_method_income": 287000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02475-000_2025-03-31_01_2025-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

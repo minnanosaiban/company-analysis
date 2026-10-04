@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E05346",
+    "sec_code": "8439",
+    "company_name": "東京センチュリー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2ZU"
+  },
+  "financials": {
+    "net_sales": 1067612000000,
+    "ordinary_income": 86337000000,
+    "net_income": 52271000000,
+    "comprehensive_income": 50315000000,
+    "eps": 494.93,
+    "eps_diluted": 493.03,
+    "dps": 124,
+    "operating_cf": -59154000000,
+    "investing_cf": -123947000000,
+    "financing_cf": 189035000000,
+    "net_assets": 524372000000,
+    "total_assets": 4086513000000,
+    "bps": 4039.68,
+    "cash_end": 89727000000,
+    "equity_ratio": 0.104,
+    "roe": 0.127,
+    "per": 9.73
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05346-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

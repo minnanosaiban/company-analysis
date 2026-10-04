@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01514",
+    "sec_code": "6201",
+    "company_name": "株式会社豊田自動織機",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-16",
+    "doc_id": "S100QYLX"
+  },
+  "financials": {
+    "dps": 150,
+    "net_sales": 2118302000000,
+    "net_income": 136700000000,
+    "comprehensive_income": 854098000000,
+    "net_assets": 3236038000000,
+    "total_assets": 6503986000000,
+    "equity_ratio": 0.4975,
+    "bps": 10422.64,
+    "eps": 440.28,
+    "eps_diluted": 440.28,
+    "roe": 0.0482,
+    "per": 22.39,
+    "operating_cf": 382386000000,
+    "investing_cf": -404164000000,
+    "financing_cf": -105477000000,
+    "cash_end": 238248000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01514-000_2023-03-31_01_2023-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

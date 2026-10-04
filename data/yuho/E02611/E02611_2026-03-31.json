@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E02611",
+    "sec_code": "8056",
+    "company_name": "BIPROGY株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YFCP"
+  },
+  "financials": {
+    "dps": 130,
+    "net_sales": 433686000000,
+    "net_income": 31209000000,
+    "comprehensive_income": 32073000000,
+    "net_assets": 178988000000,
+    "total_assets": 380669000000,
+    "equity_ratio": 0.47,
+    "bps": 1853.33,
+    "eps": 320.64,
+    "eps_diluted": 320.03,
+    "roe": 0.179,
+    "per": 14.4,
+    "operating_cf": 57566000000,
+    "investing_cf": -73978000000,
+    "financing_cf": -1512000000,
+    "cash_end": 47043000000,
+    "operating_income": 42604000000,
+    "gross_profit": 116009000000,
+    "income_tax_expense": 12353000000,
+    "lease_liabilities_current": 7719000000,
+    "lease_liabilities_noncurrent": 17204000000,
+    "sga_expense": 72441000000,
+    "profit_before_tax": 43845000000,
+    "depreciation": 17898000000,
+    "capex_ppe": -3936000000,
+    "capex_intangible": -13462000000,
+    "current_assets": 178089000000,
+    "current_liabilities": 161065000000,
+    "noncurrent_assets": 202580000000,
+    "trade_receivables": 88595000000,
+    "inventories": 12112000000,
+    "trade_payables": 38413000000,
+    "ppe": 16789000000,
+    "goodwill": 48378000000,
+    "intangible_assets": 39186000000,
+    "equity_method_investments": 6714000000,
+    "treasury_stock": -8689000000,
+    "noncontrolling_interests": 2070000000
+  },
+  "segments": [
+    {
+      "key": "Hardware",
+      "label": "ハードウェア",
+      "revenue": 75264000000,
+      "operating_income": 13638000000,
+      "assets": 7935000000
+    },
+    {
+      "key": "Outsourcing",
+      "label": "アウトソーシング",
+      "revenue": 97245000000,
+      "operating_income": 21353000000,
+      "assets": 77821000000
+    },
+    {
+      "key": "Software",
+      "label": "ソフトウェア",
+      "revenue": 47444000000,
+      "operating_income": 7542000000,
+      "assets": 5785000000
+    },
+    {
+      "key": "SupportServices",
+      "label": "サポートサービス",
+      "revenue": 59942000000,
+      "operating_income": 18953000000,
+      "assets": 1647000000
+    },
+    {
+      "key": "SystemServices",
+      "label": "システムサービス",
+      "revenue": 140845000000,
+      "operating_income": 51127000000,
+      "assets": 2249000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02611-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

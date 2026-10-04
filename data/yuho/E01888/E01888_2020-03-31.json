@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01888",
+    "sec_code": "6988",
+    "company_name": "日東電工株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R248"
+  },
+  "financials": {
+    "dps": 200,
+    "net_sales": 741018000000,
+    "net_income": 47156000000,
+    "comprehensive_income": 35290000000,
+    "net_assets": 689446000000,
+    "total_assets": 921900000000,
+    "equity_ratio": 0.748,
+    "bps": 4479.29,
+    "eps": 301.32,
+    "eps_diluted": 301.08,
+    "roe": 0.068,
+    "per": 16,
+    "operating_cf": 123641000000,
+    "investing_cf": -59991000000,
+    "financing_cf": -51637000000,
+    "cash_end": 304922000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01888-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

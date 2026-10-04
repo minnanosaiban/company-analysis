@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "edinet_code": "E05080",
+    "sec_code": "4755",
+    "company_name": "楽天グループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-28",
+    "doc_id": "S100VHZ5"
+  },
+  "financials": {
+    "net_sales": 2279233000000,
+    "net_income": -162442000000,
+    "comprehensive_income": -85734000000,
+    "net_assets": 927868000000,
+    "total_assets": 26514728000000,
+    "equity_ratio": 0.035,
+    "bps": 430.67,
+    "eps": -75.61,
+    "eps_diluted": -75.62,
+    "roe": -0.184,
+    "operating_cf": 1190882000000,
+    "investing_cf": -921724000000,
+    "financing_cf": 757469000000,
+    "cash_end": 6170888000000,
+    "operating_income": 52975000000,
+    "income_tax_expense": 145762000000,
+    "profit_before_tax": 16277000000,
+    "depreciation": 316435000000,
+    "capex_ppe": -83952000000,
+    "capex_intangible": -159285000000,
+    "ppe": 1184182000000,
+    "goodwill": 647454000000,
+    "intangible_assets": 1083365000000,
+    "equity_method_investments": 35113000000,
+    "treasury_stock": -4000000,
+    "noncontrolling_interests": 310646000000
+  },
+  "segments": [
+    {
+      "key": "FinTech",
+      "label": null,
+      "external_revenue": 820419000000
+    },
+    {
+      "key": "InternetServices",
+      "label": null,
+      "external_revenue": 1282087000000
+    },
+    {
+      "key": "Mobile",
+      "label": null,
+      "external_revenue": 440698000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05080-000_2024-12-31_01_2025-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

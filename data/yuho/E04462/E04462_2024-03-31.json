@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E04462",
+    "sec_code": "4676",
+    "company_name": "株式会社フジ・メディア・ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TQX0"
+  },
+  "financials": {
+    "net_sales": 566443000000,
+    "ordinary_income": 39173000000,
+    "net_income": 37082000000,
+    "comprehensive_income": 42739000000,
+    "eps": 169.27,
+    "dps": 48,
+    "operating_cf": 47801000000,
+    "investing_cf": -106535000000,
+    "financing_cf": 25240000000,
+    "net_assets": 869628000000,
+    "total_assets": 1448833000000,
+    "bps": 3972.81,
+    "cash_end": 98982000000,
+    "equity_ratio": 0.592,
+    "roe": 0.044,
+    "per": 11.7,
+    "gross_profit": 159736000000,
+    "operating_income": 33519000000,
+    "income_tax_expense": 18002000000,
+    "interest_bearing_debt_current": 27677000000,
+    "interest_bearing_debt_noncurrent": 273676000000,
+    "bonds_payable": 20000000000,
+    "depreciation": 18437000000,
+    "capex_ppe": -97711000000,
+    "capex_intangible": -11606000000,
+    "current_assets": 404938000000,
+    "current_liabilities": 152437000000,
+    "noncurrent_assets": 1043894000000,
+    "noncurrent_liabilities": 426766000000,
+    "inventories": 73553000000,
+    "trade_payables": 39292000000,
+    "ppe": 554451000000,
+    "goodwill": 395000000,
+    "intangible_assets": 26165000000,
+    "investment_securities": 414647000000,
+    "treasury_stock": -24113000000,
+    "noncontrolling_interests": 11708000000
+  },
+  "segments": [
+    {
+      "key": "MediaAndContent",
+      "label": null,
+      "external_revenue": 433095000000,
+      "intersegment_revenue": 568000000,
+      "operating_income": 15706000000
+    },
+    {
+      "key": "UrbanDevelopmentHotelsAndResorts",
+      "label": null,
+      "external_revenue": 127125000000,
+      "intersegment_revenue": 1191000000,
+      "operating_income": 19537000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04462-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

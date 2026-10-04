@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "edinet_code": "E04500",
+    "sec_code": "9509",
+    "company_name": "北海道電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YDWY"
+  },
+  "financials": {
+    "net_sales": 855983000000,
+    "ordinary_income": 61348000000,
+    "net_income": 43998000000,
+    "comprehensive_income": 73088000000,
+    "eps": 207.4,
+    "eps_diluted": 204.94,
+    "dps": 32,
+    "operating_cf": 114545000000,
+    "investing_cf": -213069000000,
+    "financing_cf": 126807000000,
+    "net_assets": 473636000000,
+    "total_assets": 2471051000000,
+    "bps": 1992.91,
+    "cash_end": 184607000000,
+    "equity_ratio": 0.1849,
+    "roe": 0.1037,
+    "per": 5.09,
+    "operating_income": 73238000000,
+    "income_tax_expense": 15963000000,
+    "interest_bearing_debt_current": 44500000000,
+    "interest_bearing_debt_noncurrent": 540328000000,
+    "bonds_payable": 859230000000,
+    "depreciation": 72000000000,
+    "current_assets": 437676000000,
+    "current_liabilities": 475518000000,
+    "noncurrent_assets": 2033374000000,
+    "noncurrent_liabilities": 1519384000000,
+    "inventories": 57779000000,
+    "trade_payables": 97547000000,
+    "treasury_stock": -17717000000,
+    "noncontrolling_interests": 16686000000
+  },
+  "segments": [
+    {
+      "key": "HokkaidoElectricPower",
+      "label": "北海道電力",
+      "external_revenue": 677591000000,
+      "intersegment_revenue": 58217000000,
+      "ordinary_income": 44618000000
+    },
+    {
+      "key": "HokkaidoElectricPowerNetwork",
+      "label": "北海道電力ネットワーク",
+      "external_revenue": 140521000000,
+      "intersegment_revenue": 182427000000,
+      "ordinary_income": 2520000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04500-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

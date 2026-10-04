@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00923",
+    "sec_code": "4507",
+    "company_name": "塩野義製薬株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R105"
+  },
+  "financials": {
+    "dps": 108,
+    "net_sales": 297177000000,
+    "net_income": 111858000000,
+    "comprehensive_income": 137407000000,
+    "net_assets": 846108000000,
+    "total_assets": 998992000000,
+    "equity_ratio": 0.847,
+    "bps": 2806.67,
+    "eps": 365.03,
+    "eps_diluted": 364.89,
+    "roe": 0.139,
+    "per": 16.3,
+    "operating_cf": 109039000000,
+    "investing_cf": -5261000000,
+    "financing_cf": -43891000000,
+    "cash_end": 276173000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00923-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

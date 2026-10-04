@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E01162",
+    "sec_code": "5301",
+    "company_name": "東海カーボン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T61I"
+  },
+  "financials": {
+    "net_sales": 340371000000,
+    "ordinary_income": 42521000000,
+    "net_income": 22418000000,
+    "comprehensive_income": 56689000000,
+    "eps": 105.16,
+    "dps": 30,
+    "operating_cf": 41205000000,
+    "investing_cf": -49900000000,
+    "financing_cf": -10629000000,
+    "net_assets": 300868000000,
+    "total_assets": 576465000000,
+    "bps": 1260.95,
+    "cash_end": 49377000000,
+    "equity_ratio": 0.466,
+    "roe": 0.09,
+    "per": 10.2,
+    "gross_profit": 94052000000,
+    "operating_income": 40588000000,
+    "income_tax_expense": 8685000000,
+    "interest_bearing_debt_current": 10940000000,
+    "interest_bearing_debt_noncurrent": 35706000000,
+    "bonds_payable": 55000000000,
+    "commercial_papers": 60000000000,
+    "current_portion_lt_loans": 9805000000,
+    "depreciation": 27460000000,
+    "capex_ppe": -43989000000,
+    "capex_intangible": -1222000000,
+    "current_assets": 246691000000,
+    "current_liabilities": 146696000000,
+    "noncurrent_assets": 329773000000,
+    "noncurrent_liabilities": 128900000000,
+    "trade_receivables": 65197000000,
+    "trade_payables": 28119000000,
+    "ppe": 181948000000,
+    "goodwill": 52837000000,
+    "intangible_assets": 118839000000,
+    "investment_securities": 22548000000,
+    "treasury_stock": -7236000000,
+    "noncontrolling_interests": 32041000000
+  },
+  "segments": [
+    {
+      "key": "SmeltingAndLining",
+      "label": null,
+      "external_revenue": 65203000000,
+      "intersegment_revenue": 409000000,
+      "operating_income": 1345000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01162-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02417",
+    "sec_code": "9697",
+    "company_name": "株式会社カプコン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R0IV"
+  },
+  "financials": {
+    "net_sales": 95308000000,
+    "ordinary_income": 34845000000,
+    "net_income": 24923000000,
+    "comprehensive_income": 26400000000,
+    "eps": 116.74,
+    "dps": 71,
+    "operating_cf": 14625000000,
+    "investing_cf": -4233000000,
+    "financing_cf": -6965000000,
+    "net_assets": 120794000000,
+    "total_assets": 163712000000,
+    "bps": 565.78,
+    "cash_end": 64043000000,
+    "equity_ratio": 0.738,
+    "roe": 0.226,
+    "per": 30.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02417-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

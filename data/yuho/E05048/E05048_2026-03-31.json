@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "edinet_code": "E05048",
+    "sec_code": "4733",
+    "company_name": "株式会社オービックビジネスコンサルタント",
+    "accounting_standard": "JP",
+    "is_consolidated": false,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-18",
+    "doc_id": "S100YD49"
+  },
+  "financials": {
+    "dps": 111,
+    "net_sales": 51400590000,
+    "ordinary_income": 25218562000,
+    "eps": 241.2,
+    "operating_cf": 17372045000,
+    "investing_cf": -54423695000,
+    "financing_cf": -7743741000,
+    "net_assets": 169376935000,
+    "total_assets": 220801546000,
+    "bps": 2253.05,
+    "cash_end": 116252591000,
+    "equity_ratio": 0.767,
+    "roe": 0.11,
+    "per": 25.9,
+    "gross_profit": 43505037000,
+    "operating_income": 23580942000,
+    "income_tax_expense": 7218557000,
+    "depreciation": 668115000,
+    "capex_ppe": -442627000,
+    "capex_intangible": -1113210000,
+    "current_assets": 132147192000,
+    "current_liabilities": 44714563000,
+    "noncurrent_assets": 88654354000,
+    "noncurrent_liabilities": 6710047000,
+    "ppe": 1322846000,
+    "intangible_assets": 1989441000,
+    "investment_securities": 34254393000,
+    "treasury_stock": -220684000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05048-000_2026-03-31_01_2026-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05304",
+    "sec_code": "2327",
+    "company_name": "日鉄ソリューションズ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R04V"
+  },
+  "financials": {
+    "net_sales": 255116000000,
+    "ordinary_income": 25812000000,
+    "net_income": 16713000000,
+    "comprehensive_income": 20712000000,
+    "eps": 178.44,
+    "dps": 55,
+    "operating_cf": 19690000000,
+    "investing_cf": -1624000000,
+    "financing_cf": -16255000000,
+    "net_assets": 145901000000,
+    "total_assets": 232779000000,
+    "bps": 1534.94,
+    "cash_end": 48436000000,
+    "equity_ratio": 0.603,
+    "roe": 0.121,
+    "per": 16.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05304-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E01914",
+    "sec_code": "6981",
+    "company_name": "株式会社村田製作所",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YHPY"
+  },
+  "financials": {
+    "dps": 65,
+    "net_sales": 1830856000000,
+    "net_income": 233920000000,
+    "comprehensive_income": 347695000000,
+    "net_assets": 2718743000000,
+    "total_assets": 3199099000000,
+    "equity_ratio": 0.85,
+    "bps": 1493.58,
+    "eps": 127.66,
+    "eps_diluted": 127.65,
+    "roe": 0.088,
+    "per": 26.7,
+    "operating_cf": 425222000000,
+    "investing_cf": -193814000000,
+    "financing_cf": -221812000000,
+    "cash_end": 653701000000,
+    "operating_income": 281835000000,
+    "gross_profit": 774826000000,
+    "income_tax_expense": 74862000000,
+    "lease_liabilities_current": 10764000000,
+    "lease_liabilities_noncurrent": 41743000000,
+    "sga_expense": 296647000000,
+    "profit_before_tax": 308643000000,
+    "depreciation": 178212000000,
+    "capex_ppe": -244619000000,
+    "capex_intangible": -7601000000,
+    "current_assets": 1581393000000,
+    "current_liabilities": 316485000000,
+    "noncurrent_assets": 1617706000000,
+    "inventories": 520472000000,
+    "ppe": 1300883000000,
+    "goodwill": 99489000000,
+    "intangible_assets": 36234000000,
+    "equity_method_investments": 234000000,
+    "treasury_stock": -235052000000,
+    "noncontrolling_interests": -933000000
+  },
+  "segments": [
+    {
+      "key": "Components",
+      "label": "コンポーネント",
+      "external_revenue": 1159734000000,
+      "intersegment_revenue": 15501000000,
+      "revenue": 1175235000000,
+      "operating_income": 315132000000,
+      "assets": 2058609000000
+    },
+    {
+      "key": "DevicesAndModules",
+      "label": "デバイス・モジュール",
+      "external_revenue": 655966000000,
+      "intersegment_revenue": 15000000,
+      "revenue": 655981000000,
+      "operating_income": -26491000000,
+      "assets": 1079152000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 15156000000,
+      "intersegment_revenue": 54545000000,
+      "revenue": 69701000000,
+      "operating_income": -6806000000,
+      "assets": 61338000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01914-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

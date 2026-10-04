@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E02328",
+    "sec_code": "6323",
+    "company_name": "ローツェ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QUUU"
+  },
+  "financials": {
+    "net_sales": 94518000000,
+    "ordinary_income": 30344000000,
+    "net_income": 21384000000,
+    "comprehensive_income": 26256000000,
+    "eps": 1237.42,
+    "eps_diluted": 1235.1,
+    "dps": 135,
+    "operating_cf": -1920000000,
+    "investing_cf": -5151000000,
+    "financing_cf": 10742000000,
+    "net_assets": 74795000000,
+    "total_assets": 126482000000,
+    "bps": 3947.79,
+    "cash_end": 28292000000,
+    "equity_ratio": 0.539,
+    "roe": 0.377,
+    "per": 8.6,
+    "gross_profit": 34806000000,
+    "operating_income": 26418000000,
+    "income_tax_expense": 6919000000,
+    "interest_bearing_debt_current": 14936000000,
+    "interest_bearing_debt_noncurrent": 17887000000,
+    "depreciation": 1862000000,
+    "capex_ppe": -4510000000,
+    "capex_intangible": -62000000,
+    "current_assets": 99986000000,
+    "current_liabilities": 33044000000,
+    "noncurrent_assets": 26496000000,
+    "noncurrent_liabilities": 18643000000,
+    "trade_payables": 7350000000,
+    "ppe": 22102000000,
+    "intangible_assets": 643000000,
+    "investment_securities": 1369000000,
+    "treasury_stock": -55000000,
+    "noncontrolling_interests": 6487000000
+  },
+  "segments": [
+    {
+      "key": "LifeScience",
+      "label": "ライフサイエンス事業",
+      "external_revenue": 1186000000,
+      "operating_income": 89000000
+    },
+    {
+      "key": "SemiconductorAndFlatPanelDisplay",
+      "label": "半導体・ＦＰＤ関連装置事業",
+      "external_revenue": 93332000000,
+      "intersegment_revenue": 31000000,
+      "operating_income": 26823000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02328-000_2023-02-28_01_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

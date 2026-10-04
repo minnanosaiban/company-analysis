@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E00414",
+    "sec_code": "2593",
+    "company_name": "株式会社伊藤園",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-04-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-07-27",
+    "doc_id": "S100RH38"
+  },
+  "financials": {
+    "net_sales": 431674000000,
+    "ordinary_income": 20341000000,
+    "net_income": 12888000000,
+    "comprehensive_income": 14439000000,
+    "eps": 103.82,
+    "eps_diluted": 103.6,
+    "dps": 40,
+    "operating_cf": 23773000000,
+    "investing_cf": -8638000000,
+    "financing_cf": -9130000000,
+    "net_assets": 172128000000,
+    "total_assets": 338774000000,
+    "bps": 1408.55,
+    "cash_end": 100899000000,
+    "equity_ratio": 0.504,
+    "roe": 0.078,
+    "per": 40.5,
+    "gross_profit": 165585000000,
+    "operating_income": 19588000000,
+    "income_tax_expense": 7810000000,
+    "interest_bearing_debt_current": 2743000000,
+    "interest_bearing_debt_noncurrent": 58210000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_current": 2135000000,
+    "lease_liabilities_noncurrent": 3662000000,
+    "depreciation": 10353000000,
+    "current_assets": 234393000000,
+    "current_liabilities": 89226000000,
+    "noncurrent_assets": 104381000000,
+    "noncurrent_liabilities": 77419000000,
+    "ppe": 72005000000,
+    "goodwill": 2528000000,
+    "intangible_assets": 8270000000,
+    "investment_securities": 3990000000,
+    "treasury_stock": -6911000000,
+    "noncontrolling_interests": 1404000000
+  },
+  "segments": [
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 6148000000,
+      "intersegment_revenue": 2607000000,
+      "operating_income": -20000000
+    },
+    {
+      "key": "RestaurantBusiness",
+      "label": null,
+      "external_revenue": 35492000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 2429000000
+    },
+    {
+      "key": "TeaLeavesBeveragesBusiness",
+      "label": null,
+      "external_revenue": 390033000000,
+      "intersegment_revenue": 560000000,
+      "operating_income": 17827000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00414-000_2023-04-30_01_2023-07-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

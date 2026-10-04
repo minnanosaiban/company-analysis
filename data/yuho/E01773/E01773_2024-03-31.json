@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E01773",
+    "sec_code": "6753",
+    "company_name": "シャープ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-28",
+    "doc_id": "S100TXZ3"
+  },
+  "financials": {
+    "net_sales": 2321921000000,
+    "ordinary_income": -7084000000,
+    "net_income": -149980000000,
+    "comprehensive_income": -64418000000,
+    "eps": -230.99,
+    "operating_cf": 124495000000,
+    "investing_cf": 10875000000,
+    "financing_cf": -149668000000,
+    "net_assets": 157424000000,
+    "total_assets": 1590032000000,
+    "bps": 219.35,
+    "cash_end": 219128000000,
+    "equity_ratio": 0.09,
+    "roe": -0.855,
+    "gross_profit": 347888000000,
+    "operating_income": -20343000000,
+    "income_tax_expense": 14552000000,
+    "interest_bearing_debt_current": 115969000000,
+    "interest_bearing_debt_noncurrent": 457623000000,
+    "lease_liabilities_current": 16264000000,
+    "depreciation": 66215000000,
+    "capex_ppe": -40874000000,
+    "capex_intangible": -11699000000,
+    "current_assets": 990228000000,
+    "current_liabilities": 856357000000,
+    "noncurrent_assets": 599803000000,
+    "noncurrent_liabilities": 576250000000,
+    "inventories": 269584000000,
+    "trade_payables": 318159000000,
+    "ppe": 280123000000,
+    "goodwill": 5422000000,
+    "intangible_assets": 31080000000,
+    "investment_securities": 238581000000,
+    "treasury_stock": -13387000000,
+    "noncontrolling_interests": 14246000000
+  },
+  "segments": [
+    {
+      "key": "DisplayDevice",
+      "label": null,
+      "external_revenue": 595293000000,
+      "intersegment_revenue": 19656000000,
+      "operating_income": -83290000000
+    },
+    {
+      "key": "ElectronicDevice",
+      "label": null,
+      "external_revenue": 394895000000,
+      "intersegment_revenue": 22086000000,
+      "operating_income": 13583000000
+    },
+    {
+      "key": "SmartLifeAndEnergy",
+      "label": null,
+      "external_revenue": 440198000000,
+      "intersegment_revenue": 1117000000,
+      "operating_income": 27373000000
+    },
+    {
+      "key": "SmartOffice",
+      "label": null,
+      "external_revenue": 580047000000,
+      "intersegment_revenue": 1955000000,
+      "operating_income": 29674000000
+    },
+    {
+      "key": "UniversalNetwork",
+      "label": null,
+      "external_revenue": 311485000000,
+      "intersegment_revenue": 406000000,
+      "operating_income": 8880000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01773-000_2024-03-31_01_2024-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E34064",
+    "sec_code": "4385",
+    "company_name": "株式会社メルカリ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-09-24",
+    "doc_id": "S100WQDW"
+  },
+  "financials": {
+    "net_sales": 192633000000,
+    "net_income": 26114000000,
+    "comprehensive_income": 26090000000,
+    "net_assets": 99269000000,
+    "total_assets": 543763000000,
+    "equity_ratio": 0.183,
+    "bps": 603.28,
+    "eps": 159.05,
+    "eps_diluted": 154.85,
+    "roe": 0.305,
+    "per": 16.81,
+    "operating_cf": -11949000000,
+    "investing_cf": -31364000000,
+    "financing_cf": 504000000,
+    "cash_end": 147028000000,
+    "operating_income": 27840000000,
+    "gross_profit": 138258000000,
+    "income_tax_expense": 2941000000,
+    "interest_bearing_debt_noncurrent": 116754000000,
+    "lease_liabilities_current": 1450000000,
+    "lease_liabilities_noncurrent": 6975000000,
+    "sga_expense": 110684000000,
+    "profit_before_tax": 29120000000,
+    "depreciation": 1831000000,
+    "capex_ppe": -300000000,
+    "current_assets": 420241000000,
+    "current_liabilities": 319511000000,
+    "noncurrent_assets": 123522000000,
+    "trade_receivables": 254728000000,
+    "trade_payables": 15049000000,
+    "ppe": 1428000000,
+    "intangible_assets": 1270000000,
+    "treasury_stock": 0,
+    "noncontrolling_interests": 371000000
+  },
+  "segments": [
+    {
+      "key": "JapanRegion",
+      "label": null,
+      "external_revenue": 149807000000,
+      "revenue": 149807000000,
+      "operating_income": 34860000000
+    },
+    {
+      "key": "US",
+      "label": null,
+      "external_revenue": 36418000000,
+      "revenue": 36418000000,
+      "operating_income": 737000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E34064-000_2025-06-30_01_2025-09-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

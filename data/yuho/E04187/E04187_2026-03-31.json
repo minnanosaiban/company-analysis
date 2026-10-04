@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E04187",
+    "sec_code": "9064",
+    "company_name": "ヤマトホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-12",
+    "doc_id": "S100YAYL"
+  },
+  "financials": {
+    "ordinary_income": 26258000000,
+    "net_income": 13662000000,
+    "comprehensive_income": 15474000000,
+    "eps": 43.07,
+    "dps": 46,
+    "operating_cf": 72218000000,
+    "investing_cf": -7270000000,
+    "financing_cf": -37073000000,
+    "net_assets": 582057000000,
+    "total_assets": 1280170000000,
+    "bps": 1803.21,
+    "cash_end": 237822000000,
+    "equity_ratio": 0.446,
+    "roe": 0.024,
+    "per": 40.5,
+    "operating_income": 28304000000,
+    "income_tax_expense": 11340000000,
+    "interest_bearing_debt_current": 21422000000,
+    "interest_bearing_debt_noncurrent": 83839000000,
+    "bonds_payable": 20000000000,
+    "lease_liabilities_current": 7728000000,
+    "lease_liabilities_noncurrent": 62925000000,
+    "depreciation": 53287000000,
+    "capex_ppe": -37598000000,
+    "current_assets": 556193000000,
+    "current_liabilities": 358938000000,
+    "noncurrent_assets": 723977000000,
+    "noncurrent_liabilities": 339174000000,
+    "trade_payables": 175893000000,
+    "ppe": 469156000000,
+    "goodwill": 920000000,
+    "intangible_assets": 65640000000,
+    "investment_securities": 51469000000,
+    "treasury_stock": -92821000000,
+    "noncontrolling_interests": 11024000000
+  },
+  "segments": [
+    {
+      "key": "ContractLogisticsBusiness",
+      "label": "コントラクト・ロジスティクス事業",
+      "external_revenue": 164602000000,
+      "intersegment_revenue": 22192000000,
+      "operating_income": 6217000000
+    },
+    {
+      "key": "EXPBusiness",
+      "label": "エクスプレス事業",
+      "external_revenue": 1557978000000,
+      "intersegment_revenue": 41573000000,
+      "operating_income": 2299000000
+    },
+    {
+      "key": "GlobalBusiness",
+      "label": "グローバル事業",
+      "external_revenue": 97552000000,
+      "intersegment_revenue": 4006000000,
+      "operating_income": 8150000000
+    },
+    {
+      "key": "MobilityBusiness",
+      "label": "モビリティ事業",
+      "external_revenue": 22033000000,
+      "intersegment_revenue": 44401000000,
+      "operating_income": 5221000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04187-000_2026-03-31_01_2026-06-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

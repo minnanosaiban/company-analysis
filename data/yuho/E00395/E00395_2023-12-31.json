@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E00395",
+    "sec_code": "2503",
+    "company_name": "キリンホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T4MO"
+  },
+  "financials": {
+    "dps": 71,
+    "net_sales": 2134393000000,
+    "net_income": 112697000000,
+    "comprehensive_income": 214321000000,
+    "net_assets": 1132581000000,
+    "total_assets": 2869585000000,
+    "equity_ratio": 0.395,
+    "bps": 1398.47,
+    "eps": 139.16,
+    "eps_diluted": 139.15,
+    "roe": 0.107,
+    "per": 14.85,
+    "operating_cf": 203206000000,
+    "investing_cf": -226091000000,
+    "financing_cf": 35909000000,
+    "cash_end": 131399000000,
+    "operating_income": 150294000000,
+    "gross_profit": 963466000000,
+    "income_tax_expense": 46611000000,
+    "interest_bearing_debt_current": 100673000000,
+    "interest_bearing_debt_noncurrent": 555725000000,
+    "sga_expense": 761971000000,
+    "profit_before_tax": 197049000000,
+    "depreciation": 87227000000,
+    "current_assets": 957821000000,
+    "current_liabilities": 672806000000,
+    "noncurrent_assets": 1911764000000,
+    "trade_receivables": 444940000000,
+    "inventories": 330984000000,
+    "trade_payables": 306670000000,
+    "ppe": 592928000000,
+    "goodwill": 390568000000,
+    "intangible_assets": 303540000000,
+    "equity_method_investments": 370720000000,
+    "treasury_stock": -251675000000,
+    "noncontrolling_interests": 293257000000
+  },
+  "segments": [
+    {
+      "key": "JapanBeerAndSpirits",
+      "label": null,
+      "external_revenue": 684863000000,
+      "intersegment_revenue": 2148000000,
+      "revenue": 687010000000,
+      "operating_income": 77741000000,
+      "assets": 443135000000
+    },
+    {
+      "key": "JapanNonAlcoholicBeverages",
+      "label": null,
+      "external_revenue": 255028000000,
+      "intersegment_revenue": 2771000000,
+      "revenue": 257799000000,
+      "operating_income": 16887000000,
+      "assets": 147721000000
+    },
+    {
+      "key": "Oceania",
+      "label": null,
+      "external_revenue": 280990000000,
+      "intersegment_revenue": 86000000,
+      "revenue": 281077000000,
+      "operating_income": 32398000000,
+      "assets": 607203000000
+    },
+    {
+      "key": "Pharmaceuticals",
+      "label": null,
+      "external_revenue": 441882000000,
+      "intersegment_revenue": 351000000,
+      "revenue": 442233000000,
+      "operating_income": 95968000000,
+      "assets": 971375000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00395-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

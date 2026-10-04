@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "edinet_code": "E21261",
+    "sec_code": "2181",
+    "company_name": "パーソルホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W59Y"
+  },
+  "financials": {
+    "dps": 9.5,
+    "net_sales": 1451238000000,
+    "net_income": 35871000000,
+    "comprehensive_income": 33441000000,
+    "net_assets": 189633000000,
+    "total_assets": 539746000000,
+    "equity_ratio": 0.351,
+    "bps": 85.48,
+    "eps": 16.17,
+    "eps_diluted": 16.04,
+    "roe": 0.188,
+    "per": 15.3,
+    "operating_cf": 68854000000,
+    "investing_cf": -29765000000,
+    "financing_cf": -63878000000,
+    "cash_end": 82818000000,
+    "operating_income": 57426000000,
+    "gross_profit": 332128000000,
+    "income_tax_expense": 19453000000,
+    "interest_bearing_debt_current": 10300000000,
+    "interest_bearing_debt_noncurrent": 20000000000,
+    "lease_liabilities_current": 16996000000,
+    "lease_liabilities_noncurrent": 29984000000,
+    "sga_expense": 274153000000,
+    "profit_before_tax": 57156000000,
+    "depreciation": 32984000000,
+    "capex_ppe": -5139000000,
+    "capex_intangible": -13284000000,
+    "current_assets": 299974000000,
+    "current_liabilities": 266159000000,
+    "noncurrent_assets": 239771000000,
+    "trade_receivables": 179794000000,
+    "trade_payables": 99508000000,
+    "ppe": 10714000000,
+    "goodwill": 70065000000,
+    "intangible_assets": 48544000000,
+    "equity_method_investments": 1455000000,
+    "treasury_stock": -13448000000,
+    "noncontrolling_interests": 16749000000
+  },
+  "segments": [
+    {
+      "key": "AsiaPacific",
+      "label": null,
+      "external_revenue": 476103000000,
+      "revenue": 476103000000,
+      "operating_income": 11704000000,
+      "assets": 159806000000
+    },
+    {
+      "key": "BPO",
+      "label": null,
+      "external_revenue": 108954000000,
+      "intersegment_revenue": 8278000000,
+      "revenue": 117233000000,
+      "operating_income": 6667000000,
+      "assets": 69274000000
+    },
+    {
+      "key": "Career",
+      "label": null,
+      "external_revenue": 142404000000,
+      "intersegment_revenue": 2241000000,
+      "revenue": 144645000000,
+      "operating_income": 30369000000,
+      "assets": 83517000000
+    },
+    {
+      "key": "Staffing",
+      "label": null,
+      "external_revenue": 595729000000,
+      "intersegment_revenue": 6709000000,
+      "revenue": 602438000000,
+      "operating_income": 31317000000,
+      "assets": 175059000000
+    },
+    {
+      "key": "Technology",
+      "label": null,
+      "external_revenue": 103976000000,
+      "intersegment_revenue": 10728000000,
+      "revenue": 114705000000,
+      "operating_income": 8640000000,
+      "assets": 64108000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21261-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

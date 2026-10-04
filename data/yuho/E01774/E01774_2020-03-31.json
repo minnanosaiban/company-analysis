@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01774",
+    "sec_code": "6754",
+    "company_name": "アンリツ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R4SS"
+  },
+  "financials": {
+    "dps": 31,
+    "net_sales": 107023000000,
+    "net_income": 13355000000,
+    "comprehensive_income": 11895000000,
+    "net_assets": 94172000000,
+    "total_assets": 138873000000,
+    "equity_ratio": 0.678,
+    "bps": 685.25,
+    "eps": 97.2,
+    "eps_diluted": 97.16,
+    "roe": 0.149,
+    "per": 20.64,
+    "operating_cf": 14721000000,
+    "investing_cf": -3686000000,
+    "financing_cf": -7592000000,
+    "cash_end": 47669000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01774-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

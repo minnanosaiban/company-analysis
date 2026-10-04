@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04154",
+    "sec_code": "9024",
+    "company_name": "株式会社西武ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZSY"
+  },
+  "financials": {
+    "ordinary_income": 48770000000,
+    "net_income": 4670000000,
+    "comprehensive_income": -22850000000,
+    "eps": 15.18,
+    "eps_diluted": 15.16,
+    "dps": 30,
+    "operating_cf": 101458000000,
+    "investing_cf": -96655000000,
+    "financing_cf": -3025000000,
+    "net_assets": 373427000000,
+    "total_assets": 1707784000000,
+    "bps": 1227.03,
+    "cash_end": 28056000000,
+    "equity_ratio": 0.215,
+    "roe": 0.012,
+    "per": 78.26
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04154-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

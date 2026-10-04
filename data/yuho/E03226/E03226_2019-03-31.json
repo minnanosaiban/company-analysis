@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03226",
+    "sec_code": "9989",
+    "company_name": "株式会社サンドラッグ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R4PN"
+  },
+  "financials": {
+    "net_sales": 588069000000,
+    "ordinary_income": 35800000000,
+    "net_income": 23933000000,
+    "comprehensive_income": 23926000000,
+    "eps": 204.76,
+    "eps_diluted": 204.76,
+    "dps": 66,
+    "operating_cf": 31091000000,
+    "investing_cf": -13622000000,
+    "financing_cf": -7713000000,
+    "net_assets": 171055000000,
+    "total_assets": 262195000000,
+    "bps": 1462.72,
+    "cash_end": 70239000000,
+    "equity_ratio": 0.652,
+    "roe": 0.147,
+    "per": 14.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03226-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

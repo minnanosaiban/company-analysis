@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E00052",
+    "sec_code": "1801",
+    "company_name": "大成建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R0RE"
+  },
+  "financials": {
+    "net_sales": 1543240000000,
+    "ordinary_income": 103247000000,
+    "net_income": 71436000000,
+    "comprehensive_income": 74765000000,
+    "eps": 350.88,
+    "dps": 130,
+    "operating_cf": 80507000000,
+    "investing_cf": -37680000000,
+    "financing_cf": -41863000000,
+    "net_assets": 872835000000,
+    "total_assets": 1956200000000,
+    "bps": 4335.78,
+    "cash_end": 496760000000,
+    "equity_ratio": 0.444,
+    "roe": 0.084,
+    "per": 10.1,
+    "gross_profit": 187736000000,
+    "operating_income": 96077000000,
+    "income_tax_expense": 34211000000,
+    "interest_bearing_debt_current": 97901000000,
+    "interest_bearing_debt_noncurrent": 66279000000,
+    "bonds_payable": 40000000000,
+    "current_portion_of_bonds": 20000000000,
+    "lease_liabilities_current": 318000000,
+    "lease_liabilities_noncurrent": 592000000,
+    "depreciation": 10907000000,
+    "current_assets": 1296356000000,
+    "current_liabilities": 926363000000,
+    "noncurrent_assets": 659844000000,
+    "noncurrent_liabilities": 157002000000,
+    "ppe": 207435000000,
+    "intangible_assets": 16016000000,
+    "investment_securities": 380271000000,
+    "treasury_stock": -898000000,
+    "noncontrolling_interests": 3948000000
+  },
+  "segments": [
+    {
+      "key": "BuildingConstruction",
+      "label": null,
+      "external_revenue": 984944000000,
+      "intersegment_revenue": 16762000000,
+      "operating_income": 33844000000
+    },
+    {
+      "key": "CivilEngineering",
+      "label": null,
+      "external_revenue": 414560000000,
+      "intersegment_revenue": 26927000000,
+      "operating_income": 47907000000
+    },
+    {
+      "key": "RealEstateDevelopment",
+      "label": null,
+      "external_revenue": 132943000000,
+      "intersegment_revenue": 5781000000,
+      "operating_income": 13305000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00052-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

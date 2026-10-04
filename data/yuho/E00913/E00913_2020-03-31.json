@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00913",
+    "sec_code": "4626",
+    "company_name": "太陽ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-19",
+    "doc_id": "S100QYYO"
+  },
+  "financials": {
+    "net_sales": 70627000000,
+    "ordinary_income": 8898000000,
+    "net_income": 3749000000,
+    "comprehensive_income": 2499000000,
+    "eps": 66.01,
+    "dps": 65.1,
+    "operating_cf": 13739000000,
+    "investing_cf": -45912000000,
+    "financing_cf": 31593000000,
+    "net_assets": 69523000000,
+    "total_assets": 142192000000,
+    "bps": 1217.11,
+    "cash_end": 29115000000,
+    "equity_ratio": 0.487,
+    "roe": 0.054,
+    "per": 30.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00913-000_2023-03-31_01_2023-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

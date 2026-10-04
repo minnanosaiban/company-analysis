@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00369",
+    "sec_code": "2201",
+    "company_name": "森永製菓株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8FN"
+  },
+  "financials": {
+    "net_sales": 205368000000,
+    "ordinary_income": 20767000000,
+    "net_income": 12816000000,
+    "comprehensive_income": 8489000000,
+    "eps": 247.15,
+    "dps": 66,
+    "operating_cf": 20897000000,
+    "investing_cf": -20025000000,
+    "financing_cf": -11888000000,
+    "net_assets": 97193000000,
+    "total_assets": 175837000000,
+    "bps": 1917.22,
+    "cash_end": 9836000000,
+    "equity_ratio": 0.548,
+    "roe": 0.132,
+    "per": 19.44
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00369-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

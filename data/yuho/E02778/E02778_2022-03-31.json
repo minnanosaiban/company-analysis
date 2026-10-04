@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E02778",
+    "sec_code": "9984",
+    "company_name": "ソフトバンクグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZOM"
+  },
+  "financials": {
+    "dps": 44,
+    "net_sales": 6221534000000,
+    "net_income": -1708029000000,
+    "comprehensive_income": 449419000000,
+    "net_assets": 9975674000000,
+    "total_assets": 47544670000000,
+    "equity_ratio": 0.21,
+    "bps": 5755.92,
+    "eps": -1018.58,
+    "eps_diluted": -1025.67,
+    "roe": -0.169,
+    "operating_cf": 2725450000000,
+    "investing_cf": -3018654000000,
+    "financing_cf": 602216000000,
+    "cash_end": 5169001000000,
+    "gross_profit": 3265574000000,
+    "income_tax_expense": 592637000000,
+    "lease_liabilities_current": 240241000000,
+    "lease_liabilities_noncurrent": 625907000000,
+    "sga_expense": 2551722000000,
+    "profit_before_tax": -869562000000,
+    "depreciation": 852424000000,
+    "current_assets": 10028589000000,
+    "current_liabilities": 12381462000000,
+    "noncurrent_assets": 37516081000000,
+    "trade_receivables": 2361149000000,
+    "inventories": 142767000000,
+    "trade_payables": 1968864000000,
+    "ppe": 1842749000000,
+    "goodwill": 4897913000000,
+    "intangible_assets": 2427580000000,
+    "equity_method_investments": 5234519000000,
+    "treasury_stock": -406410000000,
+    "noncontrolling_interests": 1732088000000
+  },
+  "segments": [
+    {
+      "key": "Arm",
+      "label": null,
+      "external_revenue": 299516000000,
+      "intersegment_revenue": 497000000,
+      "profit_before_tax": 41200000000,
+      "equity_method_income": 1198000000
+    },
+    {
+      "key": "HoldingCompanyInvestmentBusiness",
+      "label": null,
+      "profit_before_tax": 965158000000,
+      "equity_method_income": 376433000000
+    },
+    {
+      "key": "SoftBank",
+      "label": null,
+      "external_revenue": 5730072000000,
+      "intersegment_revenue": 3044000000,
+      "profit_before_tax": 849735000000,
+      "equity_method_income": -38894000000
+    },
+    {
+      "key": "SoftBankVisionFundsBusiness",
+      "label": null,
+      "profit_before_tax": -2553027000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02778-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

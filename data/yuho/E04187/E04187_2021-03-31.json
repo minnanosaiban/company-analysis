@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04187",
+    "sec_code": "9064",
+    "company_name": "ヤマトホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-16",
+    "doc_id": "S100QYKD"
+  },
+  "financials": {
+    "ordinary_income": 94019000000,
+    "net_income": 56700000000,
+    "comprehensive_income": 73292000000,
+    "eps": 151.55,
+    "dps": 46,
+    "operating_cf": 123921000000,
+    "investing_cf": 44078000000,
+    "financing_cf": -123247000000,
+    "net_assets": 584287000000,
+    "total_assets": 1089991000000,
+    "bps": 1553.45,
+    "cash_end": 241284000000,
+    "equity_ratio": 0.529,
+    "roe": 0.1,
+    "per": 20
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04187-000_2023-03-31_01_2023-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

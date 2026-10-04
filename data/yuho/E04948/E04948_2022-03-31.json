@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E04948",
+    "sec_code": "9435",
+    "company_name": "株式会社光通信",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R7FW"
+  },
+  "financials": {
+    "dps": 491,
+    "net_sales": 573029000000,
+    "net_income": 87537000000,
+    "comprehensive_income": 114075000000,
+    "net_assets": 468677000000,
+    "total_assets": 1451310000000,
+    "equity_ratio": 0.323,
+    "bps": 10379.95,
+    "eps": 1927.09,
+    "eps_diluted": 1923.58,
+    "roe": 0.203,
+    "per": 7.2,
+    "operating_cf": 51028000000,
+    "investing_cf": -95990000000,
+    "financing_cf": 50090000000,
+    "cash_end": 338249000000,
+    "operating_income": 83567000000,
+    "gross_profit": 299948000000,
+    "income_tax_expense": 17105000000,
+    "sga_expense": 227236000000,
+    "profit_before_tax": 108508000000,
+    "depreciation": 16727000000,
+    "current_assets": 629000000000,
+    "current_liabilities": 355870000000,
+    "noncurrent_assets": 822309000000,
+    "trade_receivables": 245530000000,
+    "inventories": 1771000000,
+    "trade_payables": 197894000000,
+    "ppe": 25459000000,
+    "goodwill": 27432000000,
+    "intangible_assets": 10093000000,
+    "equity_method_investments": 134318000000,
+    "treasury_stock": -6508000000,
+    "noncontrolling_interests": 30699000000
+  },
+  "segments": [
+    {
+      "key": "AgencySales",
+      "label": null,
+      "external_revenue": 147134000000,
+      "intersegment_revenue": 396000000,
+      "revenue": 147530000000,
+      "operating_income": 21215000000
+    },
+    {
+      "key": "CorporateServices",
+      "label": null,
+      "external_revenue": 277512000000,
+      "intersegment_revenue": 1167000000,
+      "revenue": 278679000000,
+      "operating_income": 35786000000
+    },
+    {
+      "key": "PersonalService",
+      "label": null,
+      "external_revenue": 148383000000,
+      "intersegment_revenue": 433000000,
+      "revenue": 148816000000,
+      "operating_income": 29161000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04948-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

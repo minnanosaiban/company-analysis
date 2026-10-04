@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "edinet_code": "E31775",
+    "sec_code": "7182",
+    "company_name": "株式会社ゆうちょ銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100QY3O"
+  },
+  "financials": {
+    "ordinary_income": 490891000000,
+    "net_income": 355070000000,
+    "comprehensive_income": -910994000000,
+    "eps": 94.71,
+    "dps": 50,
+    "operating_cf": 7665328000000,
+    "investing_cf": -1585517000000,
+    "financing_cf": -181657000000,
+    "net_assets": 10302261000000,
+    "total_assets": 232954480000000,
+    "bps": 2739.6,
+    "cash_end": 66602709000000,
+    "equity_ratio": 0.044,
+    "roe": 0.0328,
+    "per": 10.39,
+    "income_tax_expense": 104430000000,
+    "depreciation": 37716000000,
+    "capex_ppe": -23824000000,
+    "capex_intangible": -21837000000,
+    "ppe": 192992000000,
+    "intangible_assets": 53702000000,
+    "treasury_stock": -902000000,
+    "noncontrolling_interests": 32041000000,
+    "ordinary_revenue": 1977640000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31775-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

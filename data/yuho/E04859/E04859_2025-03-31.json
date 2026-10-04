@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E04859",
+    "sec_code": "9684",
+    "company_name": "株式会社スクウェア・エニックス・ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W67T"
+  },
+  "financials": {
+    "net_sales": 324506000000,
+    "ordinary_income": 40939000000,
+    "net_income": 24414000000,
+    "comprehensive_income": 25249000000,
+    "eps": 203.38,
+    "eps_diluted": 203.37,
+    "dps": 129,
+    "operating_cf": 42781000000,
+    "investing_cf": -15114000000,
+    "financing_cf": -6600000000,
+    "net_assets": 336368000000,
+    "total_assets": 416160000000,
+    "bps": 2795.25,
+    "cash_end": 243610000000,
+    "equity_ratio": 0.807,
+    "roe": 0.075,
+    "per": 34.2,
+    "gross_profit": 162665000000,
+    "operating_income": 40580000000,
+    "income_tax_expense": 5440000000,
+    "depreciation": 8463000000,
+    "capex_ppe": -10870000000,
+    "capex_intangible": -1203000000,
+    "current_assets": 344515000000,
+    "current_liabilities": 67360000000,
+    "noncurrent_assets": 71644000000,
+    "noncurrent_liabilities": 12431000000,
+    "trade_receivables": 33175000000,
+    "trade_payables": 17439000000,
+    "ppe": 27829000000,
+    "intangible_assets": 4895000000,
+    "investment_securities": 5553000000,
+    "treasury_stock": -7452000000,
+    "noncontrolling_interests": 304000000
+  },
+  "segments": [
+    {
+      "key": "AmusementSegment",
+      "label": null,
+      "external_revenue": 69878000000,
+      "intersegment_revenue": 1337000000,
+      "operating_income": 7846000000
+    },
+    {
+      "key": "DigitalEntertainmentSegment",
+      "label": null,
+      "external_revenue": 206533000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 33867000000
+    },
+    {
+      "key": "MerchandisingSegment",
+      "label": null,
+      "external_revenue": 17385000000,
+      "intersegment_revenue": 1682000000,
+      "operating_income": 6067000000
+    },
+    {
+      "key": "PublicationSegment",
+      "label": null,
+      "external_revenue": 30708000000,
+      "intersegment_revenue": 43000000,
+      "operating_income": 10977000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04859-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

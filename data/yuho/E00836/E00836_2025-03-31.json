@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E00836",
+    "sec_code": "4272",
+    "company_name": "日本化薬株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W41Y"
+  },
+  "financials": {
+    "net_sales": 222584000000,
+    "ordinary_income": 22266000000,
+    "net_income": 17508000000,
+    "comprehensive_income": 13126000000,
+    "eps": 107.17,
+    "eps_diluted": 107.16,
+    "dps": 60,
+    "operating_cf": 25530000000,
+    "investing_cf": -27313000000,
+    "financing_cf": -4756000000,
+    "net_assets": 268520000000,
+    "total_assets": 373708000000,
+    "bps": 1673.24,
+    "cash_end": 57926000000,
+    "equity_ratio": 0.716,
+    "roe": 0.065,
+    "per": 13.2,
+    "gross_profit": 71482000000,
+    "operating_income": 20401000000,
+    "income_tax_expense": 5077000000,
+    "interest_bearing_debt_current": 7212000000,
+    "interest_bearing_debt_noncurrent": 20884000000,
+    "bonds_payable": 14000000000,
+    "depreciation": 13935000000,
+    "capex_ppe": -29259000000,
+    "capex_intangible": -1140000000,
+    "current_assets": 206794000000,
+    "current_liabilities": 55606000000,
+    "noncurrent_assets": 166914000000,
+    "noncurrent_liabilities": 49581000000,
+    "trade_payables": 19869000000,
+    "ppe": 109317000000,
+    "goodwill": 640000000,
+    "intangible_assets": 4051000000,
+    "investment_securities": 35393000000,
+    "treasury_stock": -6527000000,
+    "noncontrolling_interests": 992000000
+  },
+  "segments": [
+    {
+      "key": "FineChemicalsBusinessUnit",
+      "label": null,
+      "external_revenue": 66206000000,
+      "intersegment_revenue": 196000000,
+      "operating_income": 9899000000
+    },
+    {
+      "key": "LifeScienceBusinessUnit",
+      "label": null,
+      "external_revenue": 65001000000,
+      "intersegment_revenue": 0,
+      "operating_income": 6354000000
+    },
+    {
+      "key": "MobilityAndImagingBusinessUnit",
+      "label": null,
+      "external_revenue": 91376000000,
+      "operating_income": 13311000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00836-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

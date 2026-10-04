@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E00659",
+    "sec_code": "3941",
+    "company_name": "レンゴー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R69D"
+  },
+  "financials": {
+    "net_sales": 746926000000,
+    "ordinary_income": 36641000000,
+    "net_income": 28188000000,
+    "comprehensive_income": 36394000000,
+    "eps": 113.84,
+    "dps": 24,
+    "operating_cf": 57893000000,
+    "investing_cf": -54680000000,
+    "financing_cf": 1860000000,
+    "net_assets": 354289000000,
+    "total_assets": 934345000000,
+    "bps": 1380.74,
+    "cash_end": 57835000000,
+    "equity_ratio": 0.366,
+    "roe": 0.086,
+    "per": 6.9,
+    "gross_profit": 135716000000,
+    "operating_income": 33279000000,
+    "income_tax_expense": 12167000000,
+    "interest_bearing_debt_current": 114096000000,
+    "interest_bearing_debt_noncurrent": 143641000000,
+    "bonds_payable": 80000000000,
+    "current_portion_of_bonds": 5061000000,
+    "lease_liabilities_current": 3333000000,
+    "lease_liabilities_noncurrent": 7258000000,
+    "depreciation": 41723000000,
+    "capex_ppe": -46216000000,
+    "capex_intangible": -1739000000,
+    "current_assets": 350213000000,
+    "current_liabilities": 310802000000,
+    "noncurrent_assets": 584131000000,
+    "noncurrent_liabilities": 269254000000,
+    "trade_receivables": 214656000000,
+    "trade_payables": 129484000000,
+    "ppe": 384032000000,
+    "goodwill": 18806000000,
+    "intangible_assets": 34915000000,
+    "investment_securities": 139366000000,
+    "treasury_stock": -12218000000,
+    "noncontrolling_interests": 12379000000
+  },
+  "segments": [
+    {
+      "key": "FlexiblePackagingRelatedBusiness",
+      "label": null,
+      "external_revenue": 93979000000,
+      "intersegment_revenue": 478000000,
+      "operating_income": 2064000000
+    },
+    {
+      "key": "HeavyDutyPackagingRelatedBusiness",
+      "label": null,
+      "external_revenue": 42380000000,
+      "intersegment_revenue": 3386000000,
+      "operating_income": 1621000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": null,
+      "external_revenue": 126518000000,
+      "intersegment_revenue": 4135000000,
+      "operating_income": 4880000000
+    },
+    {
+      "key": "PaperboardAndPackagingRelatedBusiness",
+      "label": null,
+      "external_revenue": 448838000000,
+      "intersegment_revenue": 2664000000,
+      "operating_income": 22657000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00659-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

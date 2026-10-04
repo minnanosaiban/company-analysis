@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E04410",
+    "sec_code": "9404",
+    "company_name": "日本テレビホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R5V4"
+  },
+  "financials": {
+    "net_sales": 413979000000,
+    "ordinary_income": 51775000000,
+    "net_income": 34081000000,
+    "comprehensive_income": 1532000000,
+    "eps": 133.61,
+    "eps_diluted": 133.28,
+    "dps": 37,
+    "operating_cf": 45461000000,
+    "investing_cf": -23724000000,
+    "financing_cf": -9452000000,
+    "net_assets": 843585000000,
+    "total_assets": 1035501000000,
+    "bps": 3280.35,
+    "cash_end": 74915000000,
+    "equity_ratio": 0.808,
+    "roe": 0.041,
+    "per": 8.5,
+    "gross_profit": 142193000000,
+    "operating_income": 46593000000,
+    "income_tax_expense": 15269000000,
+    "interest_bearing_debt_current": 3084000000,
+    "lease_liabilities_noncurrent": 9608000000,
+    "depreciation": 14093000000,
+    "capex_ppe": -8188000000,
+    "capex_intangible": -1936000000,
+    "current_assets": 237285000000,
+    "current_liabilities": 105514000000,
+    "noncurrent_assets": 798215000000,
+    "noncurrent_liabilities": 86402000000,
+    "inventories": 2667000000,
+    "trade_payables": 13013000000,
+    "ppe": 256968000000,
+    "goodwill": 11894000000,
+    "intangible_assets": 26702000000,
+    "investment_securities": 479593000000,
+    "treasury_stock": -9099000000,
+    "noncontrolling_interests": 6825000000
+  },
+  "segments": [
+    {
+      "key": "LifestyleAndHealthBusiness",
+      "label": null,
+      "external_revenue": 26040000000,
+      "intersegment_revenue": 11000000,
+      "operating_income": -438000000
+    },
+    {
+      "key": "MediaAndContentBusiness",
+      "label": null,
+      "external_revenue": 384358000000,
+      "intersegment_revenue": 618000000,
+      "operating_income": 44152000000
+    },
+    {
+      "key": "RealEstateRelatedBusiness",
+      "label": null,
+      "external_revenue": 3580000000,
+      "intersegment_revenue": 6991000000,
+      "operating_income": 3744000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04410-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01650",
+    "sec_code": "6457",
+    "company_name": "グローリー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2T1"
+  },
+  "financials": {
+    "net_sales": 235762000000,
+    "ordinary_income": 20575000000,
+    "net_income": 12256000000,
+    "comprehensive_income": 13820000000,
+    "eps": 198.71,
+    "dps": 64,
+    "operating_cf": 24300000000,
+    "investing_cf": -11388000000,
+    "financing_cf": -361000000,
+    "net_assets": 193257000000,
+    "total_assets": 318228000000,
+    "bps": 3133.54,
+    "cash_end": 75149000000,
+    "equity_ratio": 0.595,
+    "roe": 0.065,
+    "per": 13.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01650-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

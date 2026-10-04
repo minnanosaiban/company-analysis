@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03855",
+    "sec_code": "8801",
+    "company_name": "三井不動産株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R9SS"
+  },
+  "financials": {
+    "net_sales": 1905642000000,
+    "ordinary_income": 258510000000,
+    "net_income": 183972000000,
+    "comprehensive_income": 167004000000,
+    "eps": 188.35,
+    "eps_diluted": 188.19,
+    "dps": 44,
+    "operating_cf": 87094000000,
+    "investing_cf": -532806000000,
+    "financing_cf": 467751000000,
+    "net_assets": 2486525000000,
+    "total_assets": 7395359000000,
+    "bps": 2480.36,
+    "cash_end": 179472000000,
+    "equity_ratio": 0.326,
+    "roe": 0.077,
+    "per": 9.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03855-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

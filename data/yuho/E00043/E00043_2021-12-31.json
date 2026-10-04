@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00043",
+    "sec_code": "1605",
+    "company_name": "株式会社INPEX",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-26",
+    "doc_id": "S100XU9L"
+  },
+  "financials": {
+    "net_sales": 1244369000000,
+    "ordinary_income": 657627000000,
+    "net_income": 223048000000,
+    "comprehensive_income": 495449000000,
+    "eps": 153.87,
+    "dps": 48,
+    "operating_cf": 445457000000,
+    "investing_cf": -130727000000,
+    "financing_cf": -315215000000,
+    "net_assets": 3346409000000,
+    "total_assets": 5158196000000,
+    "bps": 2253.17,
+    "cash_end": 191213000000,
+    "equity_ratio": 0.606,
+    "roe": 0.076,
+    "per": 6.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00043-000_2025-12-31_01_2026-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

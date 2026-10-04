@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E01873",
+    "sec_code": "6724",
+    "company_name": "セイコーエプソン株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R6JP"
+  },
+  "financials": {
+    "dps": 62,
+    "net_sales": 1043600000000,
+    "net_income": 7733000000,
+    "net_assets": 503746000000,
+    "total_assets": 1040910000000,
+    "equity_ratio": 0.4839,
+    "bps": 1456.2,
+    "eps": 22.26,
+    "eps_diluted": 22.25,
+    "roe": 0.0148,
+    "per": 52.56,
+    "operating_cf": 102324000000,
+    "investing_cf": -76131000000,
+    "financing_cf": -283000000,
+    "cash_end": 196245000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01873-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

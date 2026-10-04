@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E04896",
+    "sec_code": "9627",
+    "company_name": "株式会社アインホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-04-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-07-29",
+    "doc_id": "S100YSTQ"
+  },
+  "financials": {
+    "net_sales": 647834000000,
+    "ordinary_income": 28414000000,
+    "net_income": 17264000000,
+    "comprehensive_income": 19031000000,
+    "eps": 491.62,
+    "dps": 100,
+    "operating_cf": 30872000000,
+    "investing_cf": -60605000000,
+    "financing_cf": 53728000000,
+    "net_assets": 159171000000,
+    "total_assets": 509647000000,
+    "bps": 4523.45,
+    "cash_end": 50650000000,
+    "equity_ratio": 0.312,
+    "roe": 0.115,
+    "per": 11.5,
+    "gross_profit": 108878000000,
+    "operating_income": 29832000000,
+    "income_tax_expense": 11260000000,
+    "interest_bearing_debt_current": 20747000000,
+    "interest_bearing_debt_noncurrent": 151106000000,
+    "lease_liabilities_noncurrent": 30000000,
+    "depreciation": 11102000000,
+    "capex_ppe": -9898000000,
+    "capex_intangible": -5205000000,
+    "current_assets": 173173000000,
+    "current_liabilities": 185056000000,
+    "noncurrent_assets": 336474000000,
+    "noncurrent_liabilities": 165419000000,
+    "ppe": 61541000000,
+    "goodwill": 194182000000,
+    "intangible_assets": 208300000000,
+    "investment_securities": 4652000000,
+    "treasury_stock": -1572000000,
+    "noncontrolling_interests": 172000000
+  },
+  "segments": [
+    {
+      "key": "DispensingPharmacy",
+      "label": null,
+      "external_revenue": 556424000000,
+      "ordinary_income": 35760000000
+    },
+    {
+      "key": "DrugAndCosmeticStore",
+      "label": null,
+      "external_revenue": 80255000000,
+      "ordinary_income": 6528000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 11153000000,
+      "intersegment_revenue": 369000000,
+      "ordinary_income": 67000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04896-000_2026-04-30_01_2026-07-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

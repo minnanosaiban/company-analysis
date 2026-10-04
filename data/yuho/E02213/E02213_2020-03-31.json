@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E02213",
+    "sec_code": "7211",
+    "company_name": "三菱自動車工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R3AQ"
+  },
+  "financials": {
+    "net_sales": 2270276000000,
+    "ordinary_income": -3843000000,
+    "net_income": -25779000000,
+    "comprehensive_income": -67458000000,
+    "eps": -17.32,
+    "dps": 10,
+    "operating_cf": 18786000000,
+    "investing_cf": -105712000000,
+    "financing_cf": 9624000000,
+    "net_assets": 788363000000,
+    "total_assets": 1938123000000,
+    "bps": 519.15,
+    "cash_end": 399588000000,
+    "equity_ratio": 0.3987,
+    "roe": -0.0314
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02213-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

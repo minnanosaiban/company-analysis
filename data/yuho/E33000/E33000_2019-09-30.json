@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E33000",
+    "sec_code": "3563",
+    "company_name": "株式会社FOOD &amp; LIFE COMPANIES",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-09-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-12-22",
+    "doc_id": "S100SIR5"
+  },
+  "financials": {
+    "dps": 90,
+    "net_sales": 199088000000,
+    "net_income": 9959000000,
+    "comprehensive_income": 9523000000,
+    "net_assets": 47367000000,
+    "total_assets": 136349000000,
+    "equity_ratio": 0.347,
+    "bps": 407.63,
+    "eps": 85.81,
+    "eps_diluted": 85.65,
+    "roe": 0.224,
+    "per": 21.18,
+    "operating_cf": 17309000000,
+    "investing_cf": -10682000000,
+    "financing_cf": -8578000000,
+    "cash_end": 10341000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E33000-000_2023-09-30_01_2023-12-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

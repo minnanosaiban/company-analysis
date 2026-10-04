@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E32447",
+    "sec_code": "7189",
+    "company_name": "株式会社　西日本フィナンシャルホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RABG"
+  },
+  "financials": {
+    "ordinary_income": 34412000000,
+    "net_income": 22899000000,
+    "comprehensive_income": -17835000000,
+    "eps": 148.79,
+    "dps": 30,
+    "operating_cf": 249346000000,
+    "investing_cf": 165519000000,
+    "financing_cf": -17325000000,
+    "net_assets": 509734000000,
+    "total_assets": 10449051000000,
+    "bps": 3298.8,
+    "cash_end": 1470719000000,
+    "equity_ratio": 0.048,
+    "roe": 0.0444,
+    "per": 6.31,
+    "ordinary_revenue": 143740000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E32447-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

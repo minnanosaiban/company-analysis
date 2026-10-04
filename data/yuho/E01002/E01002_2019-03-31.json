@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01002",
+    "sec_code": "4208",
+    "company_name": "ＵＢＥ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R5ME"
+  },
+  "financials": {
+    "net_sales": 730157000000,
+    "ordinary_income": 47853000000,
+    "net_income": 32499000000,
+    "comprehensive_income": 32031000000,
+    "eps": 312.36,
+    "eps_diluted": 311.36,
+    "dps": 80,
+    "operating_cf": 50462000000,
+    "investing_cf": -42663000000,
+    "financing_cf": -24034000000,
+    "net_assets": 354552000000,
+    "total_assets": 740286000000,
+    "bps": 3261.23,
+    "cash_end": 32295000000,
+    "equity_ratio": 0.445,
+    "roe": 0.101,
+    "per": 7.28
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01002-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E03859",
+    "sec_code": "8804",
+    "company_name": "東京建物株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-26",
+    "doc_id": "S100VH0G"
+  },
+  "financials": {
+    "ordinary_income": 71722000000,
+    "net_income": 65882000000,
+    "comprehensive_income": 55764000000,
+    "eps": 315.5,
+    "dps": 95,
+    "operating_cf": 18894000000,
+    "investing_cf": -142089000000,
+    "financing_cf": 105636000000,
+    "net_assets": 547524000000,
+    "total_assets": 2081226000000,
+    "bps": 2567.66,
+    "cash_end": 111139000000,
+    "equity_ratio": 0.258,
+    "roe": 0.128,
+    "per": 8.3,
+    "operating_income": 79670000000,
+    "income_tax_expense": 30145000000,
+    "interest_bearing_debt_current": 80949000000,
+    "interest_bearing_debt_noncurrent": 798570000000,
+    "bonds_payable": 245000000000,
+    "commercial_papers": 66000000000,
+    "current_portion_of_bonds": 20000000000,
+    "depreciation": 22390000000,
+    "current_assets": 730727000000,
+    "current_liabilities": 297789000000,
+    "noncurrent_assets": 1350498000000,
+    "noncurrent_liabilities": 1235913000000,
+    "ppe": 974614000000,
+    "goodwill": 11391000000,
+    "intangible_assets": 137273000000,
+    "investment_securities": 139265000000,
+    "treasury_stock": -747000000,
+    "noncontrolling_interests": 11458000000
+  },
+  "segments": [
+    {
+      "key": "AssetService",
+      "label": null,
+      "external_revenue": 54742000000,
+      "intersegment_revenue": 5464000000,
+      "operating_income": 11537000000
+    },
+    {
+      "key": "CommercialProperties",
+      "label": null,
+      "external_revenue": 176573000000,
+      "intersegment_revenue": 999000000,
+      "operating_income": 41399000000
+    },
+    {
+      "key": "Residential",
+      "label": null,
+      "external_revenue": 211481000000,
+      "intersegment_revenue": 600000000,
+      "operating_income": 38150000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03859-000_2024-12-31_01_2025-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

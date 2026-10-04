@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E03291",
+    "sec_code": "7550",
+    "company_name": "株式会社ゼンショーホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2MZ"
+  },
+  "financials": {
+    "net_sales": 779964000000,
+    "ordinary_income": 28081000000,
+    "net_income": 13265000000,
+    "comprehensive_income": 18180000000,
+    "eps": 87.3,
+    "dps": 24,
+    "operating_cf": 53078000000,
+    "investing_cf": -35200000000,
+    "financing_cf": 1844000000,
+    "net_assets": 115837000000,
+    "total_assets": 469563000000,
+    "bps": 761.63,
+    "cash_end": 64690000000,
+    "equity_ratio": 0.246,
+    "roe": 0.121,
+    "per": 45,
+    "gross_profit": 414871000000,
+    "operating_income": 21734000000,
+    "income_tax_expense": 9589000000,
+    "interest_bearing_debt_current": 7600000000,
+    "interest_bearing_debt_noncurrent": 168433000000,
+    "bonds_payable": 25000000000,
+    "current_portion_lt_loans": 16163000000,
+    "lease_liabilities_current": 9542000000,
+    "lease_liabilities_noncurrent": 26137000000,
+    "depreciation": 30436000000,
+    "capex_ppe": -30983000000,
+    "capex_intangible": -1517000000,
+    "current_assets": 157993000000,
+    "current_liabilities": 110792000000,
+    "noncurrent_assets": 311502000000,
+    "noncurrent_liabilities": 242933000000,
+    "ppe": 181811000000,
+    "goodwill": 11652000000,
+    "intangible_assets": 65446000000,
+    "investment_securities": 2168000000,
+    "treasury_stock": -6915000000,
+    "noncontrolling_interests": 203000000
+  },
+  "segments": [
+    {
+      "key": "RestaurantBusiness",
+      "label": null,
+      "external_revenue": 701731000000,
+      "intersegment_revenue": 3671000000,
+      "operating_income": 24028000000
+    },
+    {
+      "key": "RetailBusiness",
+      "label": null,
+      "external_revenue": 78232000000,
+      "intersegment_revenue": 473000000,
+      "operating_income": -2294000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03291-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

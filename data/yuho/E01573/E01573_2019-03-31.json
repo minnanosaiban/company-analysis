@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01573",
+    "sec_code": "6370",
+    "company_name": "栗田工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R83Z"
+  },
+  "financials": {
+    "net_sales": 259409000000,
+    "ordinary_income": 23893000000,
+    "net_income": 17305000000,
+    "comprehensive_income": 7445000000,
+    "eps": 154.13,
+    "dps": 54,
+    "operating_cf": 38478000000,
+    "investing_cf": -51559000000,
+    "financing_cf": -11280000000,
+    "net_assets": 239652000000,
+    "total_assets": 350828000000,
+    "bps": 2116.7,
+    "cash_end": 35547000000,
+    "equity_ratio": 0.677,
+    "roe": 0.073,
+    "per": 18.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01573-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

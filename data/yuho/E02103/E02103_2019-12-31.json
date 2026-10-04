@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02103",
+    "sec_code": "3436",
+    "company_name": "株式会社ＳＵＭＣＯ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T41C"
+  },
+  "financials": {
+    "net_sales": 299460000000,
+    "ordinary_income": 48310000000,
+    "net_income": 33112000000,
+    "comprehensive_income": 38701000000,
+    "eps": 112.9,
+    "dps": 35,
+    "operating_cf": 77664000000,
+    "investing_cf": -61184000000,
+    "financing_cf": -24825000000,
+    "net_assets": 341149000000,
+    "total_assets": 578511000000,
+    "bps": 1030.39,
+    "cash_end": 70020000000,
+    "equity_ratio": 0.522,
+    "roe": 0.113,
+    "per": 16.17
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02103-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

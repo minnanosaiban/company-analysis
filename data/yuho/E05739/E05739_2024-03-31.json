@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E05739",
+    "sec_code": "3626",
+    "company_name": "ＴＩＳ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TU5W"
+  },
+  "financials": {
+    "net_sales": 549004000000,
+    "ordinary_income": 68553000000,
+    "net_income": 48873000000,
+    "comprehensive_income": 56622000000,
+    "eps": 203.28,
+    "dps": 56,
+    "operating_cf": 62578000000,
+    "investing_cf": -32817000000,
+    "financing_cf": -21889000000,
+    "net_assets": 324725000000,
+    "total_assets": 525456000000,
+    "bps": 1333.32,
+    "cash_end": 102722000000,
+    "equity_ratio": 0.595,
+    "roe": 0.16,
+    "per": 16.2,
+    "gross_profit": 151639000000,
+    "operating_income": 64568000000,
+    "income_tax_expense": 18277000000,
+    "interest_bearing_debt_current": 17398000000,
+    "interest_bearing_debt_noncurrent": 20509000000,
+    "lease_liabilities_noncurrent": 4763000000,
+    "depreciation": 17340000000,
+    "capex_ppe": -13081000000,
+    "capex_intangible": -5850000000,
+    "current_assets": 291556000000,
+    "current_liabilities": 140277000000,
+    "noncurrent_assets": 233899000000,
+    "noncurrent_liabilities": 60453000000,
+    "trade_payables": 26206000000,
+    "ppe": 69715000000,
+    "goodwill": 9659000000,
+    "intangible_assets": 55801000000,
+    "investment_securities": 56396000000,
+    "treasury_stock": -6395000000,
+    "noncontrolling_interests": 12315000000
+  },
+  "segments": [
+    {
+      "key": "BusinessProcessManagement",
+      "label": "ＢＰＭ",
+      "external_revenue": 39882000000,
+      "intersegment_revenue": 2070000000,
+      "operating_income": 4551000000
+    },
+    {
+      "key": "FinancialITBusiness",
+      "label": "金融ＩＴ",
+      "external_revenue": 104822000000,
+      "intersegment_revenue": 1482000000,
+      "operating_income": 15185000000
+    },
+    {
+      "key": "IndustrialITBusiness",
+      "label": "産業ＩＴ",
+      "external_revenue": 121309000000,
+      "intersegment_revenue": 586000000,
+      "operating_income": 18287000000
+    },
+    {
+      "key": "OfferingServiceBusiness",
+      "label": "オファリングサービス",
+      "external_revenue": 116115000000,
+      "intersegment_revenue": 14643000000,
+      "operating_income": 7659000000
+    },
+    {
+      "key": "RegionalITSolutions",
+      "label": "広域ＩＴソリューション",
+      "external_revenue": 164786000000,
+      "intersegment_revenue": 7589000000,
+      "operating_income": 18497000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05739-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

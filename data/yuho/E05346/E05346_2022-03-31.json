@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E05346",
+    "sec_code": "8439",
+    "company_name": "東京センチュリー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2ZU"
+  },
+  "financials": {
+    "net_sales": 1277976000000,
+    "ordinary_income": 90519000000,
+    "net_income": 50290000000,
+    "comprehensive_income": 129251000000,
+    "eps": 411.56,
+    "eps_diluted": 409.74,
+    "dps": 143,
+    "operating_cf": 227383000000,
+    "investing_cf": -16075000000,
+    "financing_cf": -201421000000,
+    "net_assets": 795580000000,
+    "total_assets": 5663787000000,
+    "bps": 5507.5,
+    "cash_end": 240047000000,
+    "equity_ratio": 0.119,
+    "roe": 0.081,
+    "per": 10.97,
+    "gross_profit": 207066000000,
+    "operating_income": 82675000000,
+    "income_tax_expense": 28947000000,
+    "interest_bearing_debt_current": 252174000000,
+    "interest_bearing_debt_noncurrent": 1846430000000,
+    "bonds_payable": 963371000000,
+    "commercial_papers": 371499000000,
+    "current_portion_of_bonds": 36711000000,
+    "current_portion_lt_loans": 745752000000,
+    "lease_liabilities_current": 5763000000,
+    "lease_liabilities_noncurrent": 12014000000,
+    "current_assets": 2963571000000,
+    "current_liabilities": 1823584000000,
+    "noncurrent_assets": 2697129000000,
+    "noncurrent_liabilities": 3044622000000,
+    "inventories": 13341000000,
+    "trade_payables": 206112000000,
+    "ppe": 2267353000000,
+    "goodwill": 53308000000,
+    "intangible_assets": 90219000000,
+    "investment_securities": 234951000000,
+    "treasury_stock": -2148000000,
+    "noncontrolling_interests": 120123000000
+  },
+  "segments": [
+    {
+      "key": "EquipmentLeasing",
+      "label": null,
+      "external_revenue": 512256000000,
+      "intersegment_revenue": 435000000,
+      "ordinary_income": 33939000000,
+      "equity_method_income": 6782000000
+    },
+    {
+      "key": "InternationalBusiness",
+      "label": null,
+      "external_revenue": 116749000000,
+      "intersegment_revenue": 65000000,
+      "ordinary_income": 18987000000,
+      "equity_method_income": -729000000
+    },
+    {
+      "key": "MobilityAndFleetManagement",
+      "label": null,
+      "external_revenue": 341169000000,
+      "intersegment_revenue": 928000000,
+      "ordinary_income": 19227000000
+    },
+    {
+      "key": "SpecialtyFinancing",
+      "label": null,
+      "external_revenue": 306952000000,
+      "intersegment_revenue": 155000000,
+      "ordinary_income": 29498000000,
+      "equity_method_income": 3578000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05346-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

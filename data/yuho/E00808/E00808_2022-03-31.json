@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E00808",
+    "sec_code": "4188",
+    "company_name": "三菱ケミカルグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4IA"
+  },
+  "financials": {
+    "dps": 30,
+    "net_sales": 3976948000000,
+    "net_income": 177162000000,
+    "comprehensive_income": 268003000000,
+    "net_assets": 1458077000000,
+    "total_assets": 5573871000000,
+    "equity_ratio": 0.262,
+    "bps": 1026.03,
+    "eps": 124.68,
+    "eps_diluted": 115.03,
+    "roe": 0.132,
+    "per": 6.6,
+    "operating_cf": 346871000000,
+    "investing_cf": -128781000000,
+    "financing_cf": -336283000000,
+    "cash_end": 245789000000,
+    "operating_income": 303194000000,
+    "gross_profit": 1114724000000,
+    "income_tax_expense": 80965000000,
+    "interest_bearing_debt_current": 411213000000,
+    "interest_bearing_debt_noncurrent": 1748756000000,
+    "sga_expense": 854455000000,
+    "profit_before_tax": 290370000000,
+    "depreciation": 251469000000,
+    "capex_ppe": -244851000000,
+    "capex_intangible": -12814000000,
+    "current_assets": 1986116000000,
+    "current_liabilities": 1419293000000,
+    "noncurrent_assets": 3587755000000,
+    "inventories": 745248000000,
+    "ppe": 1899695000000,
+    "goodwill": 705412000000,
+    "intangible_assets": 448805000000,
+    "equity_method_investments": 174791000000,
+    "treasury_stock": -62870000000,
+    "noncontrolling_interests": 386242000000
+  },
+  "segments": [
+    {
+      "key": "Chemicals",
+      "label": null,
+      "external_revenue": 1287915000000,
+      "intersegment_revenue": 43816000000,
+      "revenue": 1331731000000,
+      "operating_income": 102163000000,
+      "assets": 1287479000000
+    },
+    {
+      "key": "HealthCare",
+      "label": null,
+      "external_revenue": 403638000000,
+      "intersegment_revenue": 410000000,
+      "revenue": 404048000000,
+      "operating_income": -6974000000,
+      "assets": 1074234000000
+    },
+    {
+      "key": "IndustrialGases",
+      "label": null,
+      "external_revenue": 950111000000,
+      "intersegment_revenue": 7008000000,
+      "revenue": 957119000000,
+      "operating_income": 98921000000,
+      "assets": 2041434000000
+    },
+    {
+      "key": "PerformanceProducts",
+      "label": null,
+      "external_revenue": 1136341000000,
+      "intersegment_revenue": 52497000000,
+      "revenue": 1188838000000,
+      "operating_income": 78724000000,
+      "assets": 1407640000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00808-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

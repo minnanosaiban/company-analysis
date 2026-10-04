@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E00880",
+    "sec_code": "4403",
+    "company_name": "日油株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YI3F"
+  },
+  "financials": {
+    "net_sales": 257967000000,
+    "ordinary_income": 50366000000,
+    "net_income": 40550000000,
+    "comprehensive_income": 48525000000,
+    "eps": 176.34,
+    "dps": 61,
+    "operating_cf": 35865000000,
+    "investing_cf": -4427000000,
+    "financing_cf": -31407000000,
+    "net_assets": 296465000000,
+    "total_assets": 399168000000,
+    "bps": 1304.33,
+    "cash_end": 82973000000,
+    "equity_ratio": 0.7399,
+    "roe": 0.1413,
+    "per": 17.58,
+    "gross_profit": 89092000000,
+    "operating_income": 47411000000,
+    "income_tax_expense": 21558000000,
+    "interest_bearing_debt_current": 1341000000,
+    "interest_bearing_debt_noncurrent": 1961000000,
+    "current_portion_lt_loans": 1013000000,
+    "lease_liabilities_current": 269000000,
+    "lease_liabilities_noncurrent": 555000000,
+    "depreciation": 22116000000,
+    "current_assets": 236825000000,
+    "current_liabilities": 86241000000,
+    "noncurrent_assets": 162343000000,
+    "noncurrent_liabilities": 16461000000,
+    "trade_payables": 21429000000,
+    "ppe": 96726000000,
+    "intangible_assets": 1918000000,
+    "investment_securities": 46086000000,
+    "treasury_stock": -26276000000,
+    "noncontrolling_interests": 1119000000
+  },
+  "segments": [
+    {
+      "key": "ExplosiveAndPropulsion",
+      "label": null,
+      "external_revenue": 61675000000,
+      "intersegment_revenue": 17000000,
+      "operating_income": 7979000000
+    },
+    {
+      "key": "FunctionalChemicals",
+      "label": null,
+      "external_revenue": 145751000000,
+      "intersegment_revenue": 4655000000,
+      "operating_income": 26846000000
+    },
+    {
+      "key": "PharmaceuticalsMedicalsAndHealth",
+      "label": null,
+      "external_revenue": 49931000000,
+      "intersegment_revenue": 1091000000,
+      "operating_income": 15816000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00880-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

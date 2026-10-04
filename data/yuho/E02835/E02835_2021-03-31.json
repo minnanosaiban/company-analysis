@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02835",
+    "sec_code": "7476",
+    "company_name": "アズワン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R56J"
+  },
+  "financials": {
+    "net_sales": 81606782000,
+    "ordinary_income": 10195925000,
+    "net_income": 5988756000,
+    "comprehensive_income": 8714355000,
+    "eps": 160.28,
+    "eps_diluted": 160.06,
+    "dps": 161,
+    "operating_cf": 5381164000,
+    "investing_cf": -2116212000,
+    "financing_cf": 11306000,
+    "net_assets": 62761777000,
+    "total_assets": 94225148000,
+    "bps": 1679.31,
+    "cash_end": 10056627000,
+    "equity_ratio": 0.6648,
+    "roe": 0.1006,
+    "per": 43.39
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02835-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

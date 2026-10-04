@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E04324",
+    "sec_code": "9065",
+    "company_name": "山九株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TQ4Z"
+  },
+  "financials": {
+    "net_sales": 563547000000,
+    "ordinary_income": 36631000000,
+    "net_income": 24379000000,
+    "comprehensive_income": 37667000000,
+    "eps": 428.6,
+    "dps": 174,
+    "operating_cf": 21731000000,
+    "investing_cf": -18434000000,
+    "financing_cf": -9142000000,
+    "net_assets": 285433000000,
+    "total_assets": 505045000000,
+    "bps": 5083.35,
+    "cash_end": 46847000000,
+    "equity_ratio": 0.558,
+    "roe": 0.088,
+    "per": 12.18,
+    "gross_profit": 61993000000,
+    "operating_income": 35216000000,
+    "income_tax_expense": 10798000000,
+    "interest_bearing_debt_current": 13600000000,
+    "interest_bearing_debt_noncurrent": 33996000000,
+    "bonds_payable": 25000000000,
+    "lease_liabilities_current": 2724000000,
+    "lease_liabilities_noncurrent": 4466000000,
+    "depreciation": 19567000000,
+    "capex_ppe": -13098000000,
+    "capex_intangible": -1720000000,
+    "current_assets": 261766000000,
+    "current_liabilities": 107337000000,
+    "noncurrent_assets": 243279000000,
+    "noncurrent_liabilities": 112274000000,
+    "trade_payables": 46498000000,
+    "ppe": 168234000000,
+    "goodwill": 46000000,
+    "intangible_assets": 6863000000,
+    "investment_securities": 36579000000,
+    "treasury_stock": -24132000000,
+    "noncontrolling_interests": 3385000000
+  },
+  "segments": [
+    {
+      "key": "Logistics",
+      "label": null,
+      "external_revenue": 284258000000,
+      "intersegment_revenue": 2990000000,
+      "operating_income": 8057000000
+    },
+    {
+      "key": "PlantEngineeringAndMaintenance",
+      "label": null,
+      "external_revenue": 252611000000,
+      "intersegment_revenue": 3841000000,
+      "operating_income": 25122000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04324-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

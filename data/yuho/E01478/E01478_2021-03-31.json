@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01478",
+    "sec_code": "6005",
+    "company_name": "三浦工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RA2B"
+  },
+  "financials": {
+    "dps": 35,
+    "net_sales": 134732000000,
+    "net_income": 12695000000,
+    "comprehensive_income": 16059000000,
+    "net_assets": 145447000000,
+    "total_assets": 196342000000,
+    "equity_ratio": 0.741,
+    "bps": 1290.15,
+    "eps": 112.62,
+    "eps_diluted": 112.43,
+    "roe": 0.091,
+    "per": 53.1,
+    "operating_cf": 22982000000,
+    "investing_cf": -11073000000,
+    "financing_cf": -7991000000,
+    "cash_end": 37428000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01478-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

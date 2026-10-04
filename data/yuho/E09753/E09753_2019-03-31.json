@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "edinet_code": "E09753",
+    "sec_code": "7164",
+    "company_name": "全国保証株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZJA"
+  },
+  "financials": {
+    "dps": 87
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E09753-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

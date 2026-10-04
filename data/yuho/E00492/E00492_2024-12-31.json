@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E00492",
+    "sec_code": "2914",
+    "company_name": "日本たばこ産業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-26",
+    "doc_id": "S100VH9B"
+  },
+  "financials": {
+    "dps": 194,
+    "net_sales": 3149759000000,
+    "net_income": 179240000000,
+    "total_assets": 8370732000000,
+    "equity_ratio": 0.45,
+    "bps": 2121.33,
+    "eps": 100.95,
+    "eps_diluted": 100.94,
+    "roe": 0.0472,
+    "per": 40.42,
+    "operating_cf": 630011000000,
+    "investing_cf": -439766000000,
+    "financing_cf": -94906000000,
+    "cash_end": 1084567000000,
+    "operating_income": 323461000000,
+    "gross_profit": 1742297000000,
+    "income_tax_expense": 51171000000,
+    "interest_bearing_debt_current": 178668000000,
+    "interest_bearing_debt_noncurrent": 1548120000000,
+    "sga_expense": 1462924000000,
+    "profit_before_tax": 233766000000,
+    "depreciation": 179837000000,
+    "capex_ppe": -127769000000,
+    "capex_intangible": -22598000000,
+    "current_assets": 3577572000000,
+    "current_liabilities": 2148607000000,
+    "noncurrent_assets": 4793160000000,
+    "trade_receivables": 568982000000,
+    "inventories": 957281000000,
+    "trade_payables": 659510000000,
+    "ppe": 907700000000,
+    "goodwill": 2914254000000,
+    "intangible_assets": 486463000000,
+    "equity_method_investments": 50423000000,
+    "treasury_stock": -488579000000,
+    "noncontrolling_interests": 82104000000
+  },
+  "segments": [
+    {
+      "key": "Pharmaceuticals",
+      "label": null,
+      "external_revenue": 94464000000,
+      "revenue": 94464000000,
+      "operating_income": 9233000000
+    },
+    {
+      "key": "ProcessedFood",
+      "label": "加工食品",
+      "external_revenue": 157183000000,
+      "intersegment_revenue": 28000000,
+      "revenue": 157211000000,
+      "operating_income": 8071000000,
+      "equity_method_income": 26000000
+    },
+    {
+      "key": "Tobacco",
+      "label": "たばこ",
+      "external_revenue": 2896555000000,
+      "intersegment_revenue": 431000000,
+      "revenue": 2896986000000,
+      "operating_income": 791773000000,
+      "equity_method_income": 12793000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00492-000_2024-12-31_01_2025-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

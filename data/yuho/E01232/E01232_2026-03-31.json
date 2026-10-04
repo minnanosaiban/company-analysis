@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E01232",
+    "sec_code": "5631",
+    "company_name": "株式会社日本製鋼所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100Y7BQ"
+  },
+  "financials": {
+    "net_sales": 274852000000,
+    "ordinary_income": 26051000000,
+    "net_income": 19239000000,
+    "comprehensive_income": 26053000000,
+    "eps": 261.38,
+    "dps": 92,
+    "operating_cf": -16893000000,
+    "investing_cf": -17103000000,
+    "financing_cf": 36089000000,
+    "net_assets": 213831000000,
+    "total_assets": 429983000000,
+    "bps": 2885.87,
+    "cash_end": 77387000000,
+    "equity_ratio": 0.494,
+    "roe": 0.095,
+    "per": 32.03,
+    "gross_profit": 64259000000,
+    "operating_income": 25306000000,
+    "income_tax_expense": 7139000000,
+    "interest_bearing_debt_current": 11683000000,
+    "interest_bearing_debt_noncurrent": 74141000000,
+    "current_portion_lt_loans": 299000000,
+    "lease_liabilities_current": 608000000,
+    "lease_liabilities_noncurrent": 1623000000,
+    "depreciation": 9055000000,
+    "current_assets": 311599000000,
+    "current_liabilities": 129052000000,
+    "noncurrent_assets": 118384000000,
+    "noncurrent_liabilities": 87099000000,
+    "trade_payables": 24559000000,
+    "ppe": 69754000000,
+    "intangible_assets": 3734000000,
+    "investment_securities": 26484000000,
+    "treasury_stock": -2320000000,
+    "noncontrolling_interests": 1400000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialMachineryProducts",
+      "label": null,
+      "external_revenue": 226248000000,
+      "intersegment_revenue": 2241000000,
+      "operating_income": 20039000000
+    },
+    {
+      "key": "RealEstateAndOtherBusinesses",
+      "label": null,
+      "external_revenue": 2808000000,
+      "intersegment_revenue": 2094000000,
+      "operating_income": 88000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01232-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

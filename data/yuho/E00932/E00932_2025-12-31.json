@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "edinet_code": "E00932",
+    "sec_code": "4519",
+    "company_name": "中外製薬株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-25",
+    "doc_id": "S100XTBJ"
+  },
+  "financials": {
+    "dps": 272,
+    "net_sales": 1257941000000,
+    "net_income": 434012000000,
+    "comprehensive_income": 423122000000,
+    "total_assets": 2468595000000,
+    "equity_ratio": 0.821,
+    "bps": 1230.91,
+    "eps": 263.73,
+    "eps_diluted": 263.72,
+    "roe": 0.221,
+    "per": 31.26,
+    "operating_cf": 386280000000,
+    "investing_cf": -201273000000,
+    "financing_cf": -307886000000,
+    "cash_end": 426602000000,
+    "operating_income": 598833000000,
+    "gross_profit": 894251000000,
+    "income_tax_expense": 163794000000,
+    "sga_expense": 116461000000,
+    "profit_before_tax": 597807000000,
+    "capex_ppe": -76273000000,
+    "capex_intangible": -35334000000,
+    "current_assets": 1740758000000,
+    "current_liabilities": 411077000000,
+    "noncurrent_assets": 727837000000,
+    "trade_receivables": 442876000000,
+    "inventories": 276848000000,
+    "trade_payables": 127247000000,
+    "ppe": 456578000000,
+    "intangible_assets": 54539000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00932-000_2025-12-31_01_2026-03-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

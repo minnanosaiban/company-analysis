@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E00053",
+    "sec_code": "1803",
+    "company_name": "清水建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7BX"
+  },
+  "financials": {
+    "net_sales": 1933814000000,
+    "ordinary_income": 56546000000,
+    "net_income": 49057000000,
+    "comprehensive_income": 44956000000,
+    "eps": 66.29,
+    "dps": 21,
+    "operating_cf": 83842000000,
+    "investing_cf": -52434000000,
+    "financing_cf": 65635000000,
+    "net_assets": 907277000000,
+    "total_assets": 2448010000000,
+    "bps": 1150.7,
+    "cash_end": 386750000000,
+    "equity_ratio": 0.348,
+    "roe": 0.059,
+    "per": 11.3,
+    "gross_profit": 161002000000,
+    "operating_income": 54647000000,
+    "income_tax_expense": 30200000000,
+    "interest_bearing_debt_current": 225655000000,
+    "interest_bearing_debt_noncurrent": 134781000000,
+    "bonds_payable": 130000000000,
+    "depreciation": 25798000000,
+    "capex_ppe": -68575000000,
+    "current_assets": 1453897000000,
+    "current_liabilities": 1086086000000,
+    "noncurrent_assets": 994112000000,
+    "noncurrent_liabilities": 454646000000,
+    "ppe": 635247000000,
+    "intangible_assets": 21465000000,
+    "investment_securities": 312968000000,
+    "treasury_stock": -41299000000,
+    "noncontrolling_interests": 54718000000
+  },
+  "segments": [
+    {
+      "key": "ConstructionBusinessOfTheCorporation",
+      "label": null,
+      "external_revenue": 1416879000000,
+      "intersegment_revenue": 22192000000,
+      "operating_income": 48600000000
+    },
+    {
+      "key": "RealEstateBusinessOfTheCorporation",
+      "label": null,
+      "external_revenue": 88787000000,
+      "intersegment_revenue": 252000000,
+      "operating_income": 38141000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00053-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

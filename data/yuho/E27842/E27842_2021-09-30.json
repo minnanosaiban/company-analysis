@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E27842",
+    "sec_code": "3288",
+    "company_name": "株式会社オープンハウスグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-09-30",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-12-19",
+    "doc_id": "S100SHMU"
+  },
+  "financials": {
+    "net_sales": 810540000000,
+    "ordinary_income": 97590000000,
+    "net_income": 69582000000,
+    "comprehensive_income": 74483000000,
+    "eps": 552.4,
+    "eps_diluted": 550.41,
+    "dps": 112,
+    "operating_cf": 50123000000,
+    "investing_cf": 23541000000,
+    "financing_cf": 40588000000,
+    "net_assets": 347143000000,
+    "total_assets": 879913000000,
+    "bps": 2329.72,
+    "cash_end": 334506000000,
+    "equity_ratio": 0.334,
+    "roe": 0.264,
+    "per": 11.98,
+    "gross_profit": 155315000000,
+    "operating_income": 101103000000,
+    "income_tax_expense": 29843000000,
+    "interest_bearing_debt_current": 104684000000,
+    "interest_bearing_debt_noncurrent": 264502000000,
+    "bonds_payable": 10605000000,
+    "current_portion_of_bonds": 242000000,
+    "current_portion_lt_loans": 57142000000,
+    "depreciation": 953000000,
+    "capex_ppe": -1786000000,
+    "capex_intangible": -381000000,
+    "current_assets": 830727000000,
+    "current_liabilities": 256237000000,
+    "noncurrent_assets": 49185000000,
+    "noncurrent_liabilities": 276532000000,
+    "ppe": 21297000000,
+    "intangible_assets": 3031000000,
+    "investment_securities": 13171000000,
+    "treasury_stock": 0,
+    "noncontrolling_interests": 52782000000
+  },
+  "segments": [
+    {
+      "key": "Condominiums",
+      "label": null,
+      "external_revenue": 46676000000,
+      "intersegment_revenue": 471000000,
+      "operating_income": 6507000000
+    },
+    {
+      "key": "Others",
+      "label": null,
+      "external_revenue": 44848000000,
+      "intersegment_revenue": 310000000,
+      "operating_income": 5232000000
+    },
+    {
+      "key": "PressanceCorporationCoLtd",
+      "label": null,
+      "external_revenue": 149337000000,
+      "intersegment_revenue": 0,
+      "operating_income": 16502000000
+    },
+    {
+      "key": "PropertyResales",
+      "label": null,
+      "external_revenue": 122718000000,
+      "intersegment_revenue": 343000000,
+      "operating_income": 12285000000
+    },
+    {
+      "key": "SingleFamilyHomesRelatedBusiness",
+      "label": null,
+      "external_revenue": 446959000000,
+      "operating_income": 62294000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27842-000_2022-09-30_02_2023-12-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

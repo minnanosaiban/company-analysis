@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "edinet_code": "E01333",
+    "sec_code": "5802",
+    "company_name": "住友電気工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TSD0"
+  },
+  "financials": {
+    "net_sales": 4402814000000,
+    "ordinary_income": 215341000000,
+    "net_income": 149723000000,
+    "comprehensive_income": 379678000000,
+    "eps": 191.98,
+    "dps": 77,
+    "operating_cf": 393465000000,
+    "investing_cf": -123809000000,
+    "financing_cf": -292313000000,
+    "net_assets": 2431888000000,
+    "total_assets": 4365397000000,
+    "bps": 2830.82,
+    "cash_end": 268273000000,
+    "equity_ratio": 0.506,
+    "roe": 0.073,
+    "per": 12.2,
+    "gross_profit": 767588000000,
+    "operating_income": 226618000000,
+    "income_tax_expense": 77726000000,
+    "interest_bearing_debt_current": 385575000000,
+    "interest_bearing_debt_noncurrent": 164579000000,
+    "bonds_payable": 174890000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_noncurrent": 49902000000,
+    "depreciation": 206331000000,
+    "capex_ppe": -179323000000,
+    "current_assets": 2242215000000,
+    "current_liabilities": 1307370000000,
+    "noncurrent_assets": 2123182000000,
+    "noncurrent_liabilities": 626139000000,
+    "trade_receivables": 875933000000,
+    "inventories": 885017000000,
+    "trade_payables": 479831000000,
+    "ppe": 1098151000000,
+    "goodwill": 3000000,
+    "intangible_assets": 39831000000,
+    "investment_securities": 607105000000,
+    "treasury_stock": -20803000000,
+    "noncontrolling_interests": 224226000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": null,
+      "external_revenue": 2593472000000,
+      "intersegment_revenue": 2932000000,
+      "operating_income": 144674000000
+    },
+    {
+      "key": "Electronics",
+      "label": null,
+      "external_revenue": 308383000000,
+      "intersegment_revenue": 48095000000,
+      "operating_income": 29297000000
+    },
+    {
+      "key": "EnvironmentAndEnergy",
+      "label": null,
+      "external_revenue": 949182000000,
+      "intersegment_revenue": 30795000000,
+      "operating_income": 42890000000
+    },
+    {
+      "key": "IndustrialMaterialsAndOthers",
+      "label": null,
+      "external_revenue": 349117000000,
+      "intersegment_revenue": 15068000000,
+      "operating_income": 21067000000
+    },
+    {
+      "key": "Infocommunications",
+      "label": null,
+      "external_revenue": 202660000000,
+      "intersegment_revenue": 3414000000,
+      "operating_income": -11552000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01333-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

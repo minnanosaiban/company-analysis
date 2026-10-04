@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E04147",
+    "sec_code": "9020",
+    "company_name": "東日本旅客鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YC7N"
+  },
+  "financials": {
+    "ordinary_income": 351645000000,
+    "net_income": 247846000000,
+    "comprehensive_income": 272092000000,
+    "eps": 219.42,
+    "dps": 74,
+    "operating_cf": 765072000000,
+    "investing_cf": -877606000000,
+    "financing_cf": 138715000000,
+    "net_assets": 3060091000000,
+    "total_assets": 10820726000000,
+    "bps": 2698.78,
+    "cash_end": 262057000000,
+    "equity_ratio": 0.282,
+    "roe": 0.084,
+    "per": 16.5,
+    "operating_income": 414258000000,
+    "income_tax_expense": 41954000000,
+    "interest_bearing_debt_current": 184873000000,
+    "interest_bearing_debt_noncurrent": 1295607000000,
+    "bonds_payable": 3289601000000,
+    "current_portion_of_bonds": 89999000000,
+    "depreciation": 428730000000,
+    "current_assets": 1419730000000,
+    "current_liabilities": 1830013000000,
+    "noncurrent_assets": 9400996000000,
+    "noncurrent_liabilities": 5930621000000,
+    "inventories": 138822000000,
+    "trade_payables": 59504000000,
+    "ppe": 8240802000000,
+    "intangible_assets": 203052000000,
+    "investment_securities": 585454000000,
+    "treasury_stock": -12980000000,
+    "noncontrolling_interests": 12982000000
+  },
+  "segments": [
+    {
+      "key": "RealEstateAndHotel",
+      "label": "不動産・ホテル事業",
+      "external_revenue": 513227000000,
+      "intersegment_revenue": 29425000000,
+      "operating_income": 128252000000
+    },
+    {
+      "key": "TradingAndService",
+      "label": "流通・サービス事業",
+      "external_revenue": 416133000000,
+      "intersegment_revenue": 50127000000,
+      "operating_income": 68072000000
+    },
+    {
+      "key": "Transportation",
+      "label": "運輸事業",
+      "external_revenue": 2045840000000,
+      "intersegment_revenue": 81620000000,
+      "operating_income": 194414000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04147-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

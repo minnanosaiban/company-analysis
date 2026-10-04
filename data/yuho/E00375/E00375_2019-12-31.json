@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00375",
+    "sec_code": "2212",
+    "company_name": "山崎製パン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T3GA"
+  },
+  "financials": {
+    "net_sales": 1061152000000,
+    "ordinary_income": 27621000000,
+    "net_income": 13858000000,
+    "comprehensive_income": 17983000000,
+    "eps": 63.75,
+    "dps": 20,
+    "operating_cf": 57880000000,
+    "investing_cf": -42173000000,
+    "financing_cf": -18466000000,
+    "net_assets": 358416000000,
+    "total_assets": 728149000000,
+    "bps": 1505.37,
+    "cash_end": 105916000000,
+    "equity_ratio": 0.449,
+    "roe": 0.043,
+    "per": 30.57
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00375-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

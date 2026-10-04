@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00544",
+    "sec_code": "3105",
+    "company_name": "日清紡ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T62Z"
+  },
+  "financials": {
+    "net_sales": 457051000000,
+    "ordinary_income": 3466000000,
+    "net_income": 13540000000,
+    "comprehensive_income": -5168000000,
+    "eps": 81.38,
+    "dps": 30,
+    "operating_cf": 42590000000,
+    "investing_cf": -6321000000,
+    "financing_cf": -24230000000,
+    "net_assets": 242067000000,
+    "total_assets": 581204000000,
+    "bps": 1375.19,
+    "cash_end": 48699000000,
+    "equity_ratio": 0.394,
+    "roe": 0.058,
+    "per": 9.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00544-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

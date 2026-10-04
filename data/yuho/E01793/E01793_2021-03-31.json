@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E01793",
+    "sec_code": "6770",
+    "company_name": "アルプスアルパイン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R23Q"
+  },
+  "financials": {
+    "net_sales": 718013000000,
+    "ordinary_income": 13227000000,
+    "net_income": -3837000000,
+    "comprehensive_income": 23725000000,
+    "eps": -18.72,
+    "dps": 20,
+    "operating_cf": 42636000000,
+    "investing_cf": -41165000000,
+    "financing_cf": 14515000000,
+    "net_assets": 378379000000,
+    "total_assets": 694285000000,
+    "bps": 1665.29,
+    "cash_end": 151748000000,
+    "equity_ratio": 0.497,
+    "roe": -0.011
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01793-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

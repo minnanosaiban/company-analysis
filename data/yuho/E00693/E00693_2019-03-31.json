@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00693",
+    "sec_code": "7912",
+    "company_name": "大日本印刷株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R1TC"
+  },
+  "financials": {
+    "net_sales": 1401505000000,
+    "ordinary_income": 58259000000,
+    "net_income": -35668000000,
+    "comprehensive_income": -36694000000,
+    "eps": -118.22,
+    "dps": 64,
+    "operating_cf": 68971000000,
+    "investing_cf": -146909000000,
+    "financing_cf": -32196000000,
+    "net_assets": 1046622000000,
+    "total_assets": 1775022000000,
+    "bps": 3300.52,
+    "cash_end": 133771000000,
+    "equity_ratio": 0.5612,
+    "roe": -0.0348,
+    "per": -22.39
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00693-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

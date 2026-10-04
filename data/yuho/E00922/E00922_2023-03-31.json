@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E00922",
+    "sec_code": "4506",
+    "company_name": "住友ファーマ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4NL"
+  },
+  "financials": {
+    "dps": 21,
+    "net_sales": 555544000000,
+    "net_income": -74512000000,
+    "comprehensive_income": -19909000000,
+    "net_assets": 406749000000,
+    "total_assets": 1134742000000,
+    "equity_ratio": 0.358,
+    "bps": 1023.8,
+    "eps": -187.55,
+    "roe": -0.147,
+    "operating_cf": 11937000000,
+    "investing_cf": 52419000000,
+    "financing_cf": -146817000000,
+    "cash_end": 143478000000,
+    "operating_income": -76979000000,
+    "gross_profit": 376625000000,
+    "income_tax_expense": 48794000000,
+    "interest_bearing_debt_noncurrent": 244128000000,
+    "sga_expense": 373316000000,
+    "profit_before_tax": -47920000000,
+    "depreciation": 41263000000,
+    "capex_ppe": -8467000000,
+    "capex_intangible": -4275000000,
+    "current_assets": 381860000000,
+    "current_liabilities": 372694000000,
+    "noncurrent_assets": 752882000000,
+    "trade_receivables": 95908000000,
+    "inventories": 94405000000,
+    "trade_payables": 52141000000,
+    "ppe": 58909000000,
+    "goodwill": 209415000000,
+    "intangible_assets": 329314000000,
+    "treasury_stock": -682000000,
+    "noncontrolling_interests": 33000000
+  },
+  "segments": [
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 39397000000,
+      "revenue": 39397000000,
+      "operating_income": 19543000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 126106000000,
+      "intersegment_revenue": 58000000,
+      "revenue": 126164000000,
+      "operating_income": 9065000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 328467000000,
+      "revenue": 328467000000,
+      "operating_income": 32249000000
+    },
+    {
+      "key": "OtherRegions",
+      "label": null,
+      "external_revenue": 16752000000,
+      "revenue": 16752000000,
+      "operating_income": 9987000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00922-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

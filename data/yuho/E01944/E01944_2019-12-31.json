@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01944",
+    "sec_code": "6592",
+    "company_name": "マブチモーター株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T6GJ"
+  },
+  "financials": {
+    "net_sales": 131807000000,
+    "ordinary_income": 20854000000,
+    "net_income": 14234000000,
+    "comprehensive_income": 13187000000,
+    "eps": 107,
+    "eps_diluted": 106.95,
+    "dps": 135,
+    "operating_cf": 25830000000,
+    "investing_cf": -15246000000,
+    "financing_cf": -12132000000,
+    "net_assets": 245172000000,
+    "total_assets": 268244000000,
+    "bps": 1845.43,
+    "cash_end": 110863000000,
+    "equity_ratio": 0.914,
+    "roe": 0.058,
+    "per": 19.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01944-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

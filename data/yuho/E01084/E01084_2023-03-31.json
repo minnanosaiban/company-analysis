@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E01084",
+    "sec_code": "5019",
+    "company_name": "出光興産株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-19",
+    "doc_id": "S100VZEN"
+  },
+  "financials": {
+    "net_sales": 9456281000000,
+    "ordinary_income": 321525000000,
+    "net_income": 253646000000,
+    "comprehensive_income": 272406000000,
+    "eps": 170.67,
+    "dps": 120,
+    "operating_cf": -32844000000,
+    "investing_cf": 70079000000,
+    "financing_cf": -90416000000,
+    "net_assets": 1629308000000,
+    "total_assets": 4865370000000,
+    "bps": 1102.05,
+    "cash_end": 103079000000,
+    "equity_ratio": 0.332,
+    "roe": 0.168,
+    "per": 3.4
+  },
+  "segments": [
+    {
+      "key": "BasicChemicals",
+      "label": "基礎化学品",
+      "external_revenue": 666889000000,
+      "intersegment_revenue": 33625000000,
+      "operating_income": 10157000000,
+      "equity_method_income": -90000000
+    },
+    {
+      "key": "FunctionalMaterials",
+      "label": "高機能材",
+      "external_revenue": 511006000000,
+      "intersegment_revenue": 24695000000,
+      "operating_income": 17669000000,
+      "equity_method_income": -714000000
+    },
+    {
+      "key": "Petroleum",
+      "label": "燃料油",
+      "external_revenue": 7403861000000,
+      "intersegment_revenue": 43507000000,
+      "operating_income": 60137000000,
+      "equity_method_income": 12883000000
+    },
+    {
+      "key": "PowerAndRenewableEnergy",
+      "label": "電力・再生可能エネルギー",
+      "external_revenue": 197070000000,
+      "intersegment_revenue": 4863000000,
+      "operating_income": 2074000000,
+      "equity_method_income": -1593000000
+    },
+    {
+      "key": "Resources",
+      "label": "資源",
+      "external_revenue": 672077000000,
+      "intersegment_revenue": 5000000,
+      "operating_income": 217166000000,
+      "equity_method_income": 13733000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01084-000_2025-03-31_01_2025-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

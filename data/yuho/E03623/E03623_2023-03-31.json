@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "edinet_code": "E03623",
+    "sec_code": "8410",
+    "company_name": "株式会社セブン銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QYPL"
+  },
+  "financials": {
+    "ordinary_income": 28924000000,
+    "net_income": 18854000000,
+    "comprehensive_income": 20459000000,
+    "eps": 16.03,
+    "dps": 11,
+    "operating_cf": 66577000000,
+    "investing_cf": -36191000000,
+    "financing_cf": -12973000000,
+    "net_assets": 254242000000,
+    "total_assets": 1312273000000,
+    "bps": 213.08,
+    "cash_end": 950256000000,
+    "equity_ratio": 0.1909,
+    "roe": 0.0764,
+    "per": 16.52,
+    "income_tax_expense": 10030000000,
+    "bonds_payable": 85000000000,
+    "depreciation": 19526000000,
+    "capex_ppe": -13328000000,
+    "capex_intangible": -11991000000,
+    "ppe": 30256000000,
+    "goodwill": 420000000,
+    "intangible_assets": 34350000000,
+    "treasury_stock": -900000000,
+    "noncontrolling_interests": 3611000000,
+    "ordinary_revenue": 154984000000
+  },
+  "segments": [
+    {
+      "key": "DomesticBusiness",
+      "label": null,
+      "external_revenue": 123309000000,
+      "intersegment_revenue": 27000000,
+      "ordinary_income": 29879000000,
+      "equity_method_income": -576000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": "海外事業",
+      "external_revenue": 31826000000,
+      "ordinary_income": -949000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03623-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01790",
+    "sec_code": "6707",
+    "company_name": "サンケン電気株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-06-16",
+    "doc_id": "S100QYNL"
+  },
+  "financials": {
+    "net_sales": 173650000000,
+    "ordinary_income": 9173000000,
+    "net_income": 3967000000,
+    "comprehensive_income": 6782000000,
+    "eps": 163.7,
+    "eps_diluted": 157.45,
+    "dps": 18,
+    "operating_cf": 14604000000,
+    "investing_cf": -21783000000,
+    "financing_cf": -1990000000,
+    "net_assets": 78541000000,
+    "total_assets": 188192000000,
+    "bps": 2405.01,
+    "cash_end": 23288000000,
+    "equity_ratio": 0.31,
+    "roe": 0.07,
+    "per": 12.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01790-000_2021-03-31_02_2023-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

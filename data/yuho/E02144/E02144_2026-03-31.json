@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E02144",
+    "sec_code": "7203",
+    "company_name": "トヨタ自動車株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-10",
+    "doc_id": "S100Y8NY"
+  },
+  "financials": {
+    "dps": 95,
+    "net_income": 3848098000000,
+    "comprehensive_income": 5308095000000,
+    "net_assets": 39918854000000,
+    "total_assets": 105522331000000,
+    "equity_ratio": 0.378,
+    "bps": 3062.82,
+    "eps": 295.25,
+    "eps_diluted": 295.25,
+    "roe": 0.101,
+    "per": 10.7,
+    "operating_cf": 5472920000000,
+    "investing_cf": -1520307000000,
+    "financing_cf": -536659000000,
+    "cash_end": 12659622000000,
+    "operating_income": 3766216000000,
+    "income_tax_expense": 1167234000000,
+    "sga_expense": 4697524000000,
+    "profit_before_tax": 5152996000000,
+    "depreciation": 2392519000000,
+    "current_assets": 42824081000000,
+    "current_liabilities": 33605019000000,
+    "noncurrent_assets": 62698250000000,
+    "trade_receivables": 3795986000000,
+    "inventories": 5134996000000,
+    "trade_payables": 5856945000000,
+    "ppe": 17067365000000,
+    "intangible_assets": 1392755000000,
+    "equity_method_investments": 5342548000000,
+    "treasury_stock": -4455410000000,
+    "noncontrolling_interests": 1101214000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "operating_income": 2777049000000,
+      "assets": 33182372000000
+    },
+    {
+      "key": "FinancialServices",
+      "label": "金融",
+      "operating_income": 851722000000,
+      "assets": 53741709000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "operating_income": 132079000000,
+      "assets": 4066133000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02144-000_2026-03-31_01_2026-06-10.csv",
+    "parser_version": "0.1.3"
+  }
+}

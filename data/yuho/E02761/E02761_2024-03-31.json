@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E02761",
+    "sec_code": "9934",
+    "company_name": "因幡電機産業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TPGW"
+  },
+  "financials": {
+    "net_sales": 345369000000,
+    "ordinary_income": 22589000000,
+    "net_income": 15623000000,
+    "comprehensive_income": 17794000000,
+    "eps": 279.35,
+    "eps_diluted": 276.42,
+    "dps": 130,
+    "operating_cf": 15097000000,
+    "investing_cf": -577000000,
+    "financing_cf": -7043000000,
+    "net_assets": 162166000000,
+    "total_assets": 262756000000,
+    "bps": 2884.78,
+    "cash_end": 61495000000,
+    "equity_ratio": 0.615,
+    "roe": 0.1,
+    "per": 12.5,
+    "gross_profit": 57053000000,
+    "operating_income": 21322000000,
+    "income_tax_expense": 7592000000,
+    "interest_bearing_debt_current": 413000000,
+    "depreciation": 1975000000,
+    "capex_ppe": -1419000000,
+    "capex_intangible": -539000000,
+    "current_assets": 205561000000,
+    "current_liabilities": 94515000000,
+    "noncurrent_assets": 57195000000,
+    "noncurrent_liabilities": 6074000000,
+    "ppe": 21674000000,
+    "intangible_assets": 1446000000,
+    "investment_securities": 19645000000,
+    "treasury_stock": -1411000000
+  },
+  "segments": [
+    {
+      "key": "ElectricalEquipmentAndMaterialsDivision",
+      "label": null,
+      "external_revenue": 241068000000,
+      "intersegment_revenue": 1941000000
+    },
+    {
+      "key": "IndustrialSolutionsDivision",
+      "label": null,
+      "external_revenue": 37955000000,
+      "intersegment_revenue": 1068000000
+    },
+    {
+      "key": "ProprietaryProductsDivision",
+      "label": null,
+      "external_revenue": 66346000000,
+      "intersegment_revenue": 4109000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02761-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

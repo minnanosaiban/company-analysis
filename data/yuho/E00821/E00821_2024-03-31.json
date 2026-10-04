@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E00821",
+    "sec_code": "4205",
+    "company_name": "日本ゼオン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TUZV"
+  },
+  "financials": {
+    "net_sales": 382279000000,
+    "ordinary_income": 26906000000,
+    "net_income": 31101000000,
+    "comprehensive_income": 35182000000,
+    "eps": 147.19,
+    "eps_diluted": 147.12,
+    "dps": 45,
+    "operating_cf": 47413000000,
+    "investing_cf": -5428000000,
+    "financing_cf": -30085000000,
+    "net_assets": 363729000000,
+    "total_assets": 532254000000,
+    "bps": 1714.88,
+    "cash_end": 42533000000,
+    "equity_ratio": 0.681,
+    "roe": 0.089,
+    "per": 9,
+    "gross_profit": 102510000000,
+    "operating_income": 20500000000,
+    "income_tax_expense": 13751000000,
+    "interest_bearing_debt_current": 8960000000,
+    "depreciation": 20123000000,
+    "capex_ppe": -33670000000,
+    "capex_intangible": -2320000000,
+    "current_assets": 300982000000,
+    "current_liabilities": 143561000000,
+    "noncurrent_assets": 231272000000,
+    "noncurrent_liabilities": 24965000000,
+    "trade_receivables": 83349000000,
+    "trade_payables": 83449000000,
+    "ppe": 130672000000,
+    "intangible_assets": 5432000000,
+    "investment_securities": 85316000000,
+    "treasury_stock": -19435000000,
+    "noncontrolling_interests": 1262000000
+  },
+  "segments": [
+    {
+      "key": "Elastomer",
+      "label": null,
+      "external_revenue": 211356000000,
+      "intersegment_revenue": 3930000000,
+      "operating_income": 6635000000
+    },
+    {
+      "key": "SpecialtyMaterial",
+      "label": null,
+      "external_revenue": 107334000000,
+      "intersegment_revenue": 40000000,
+      "operating_income": 13241000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00821-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

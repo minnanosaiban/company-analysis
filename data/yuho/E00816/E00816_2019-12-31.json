@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00816",
+    "sec_code": "4151",
+    "company_name": "協和キリン株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-12",
+    "doc_id": "S100T1DP"
+  },
+  "financials": {
+    "dps": 42,
+    "net_sales": 305820000000,
+    "net_income": 67084000000,
+    "comprehensive_income": 73162000000,
+    "net_assets": 678250000000,
+    "total_assets": 784453000000,
+    "equity_ratio": 0.865,
+    "bps": 1263.16,
+    "eps": 124.57,
+    "eps_diluted": 124.46,
+    "roe": 0.101,
+    "per": 20.7,
+    "operating_cf": 53655000000,
+    "investing_cf": -933000000,
+    "financing_cf": -47371000000,
+    "cash_end": 20762000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00816-000_2023-12-31_01_2024-03-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

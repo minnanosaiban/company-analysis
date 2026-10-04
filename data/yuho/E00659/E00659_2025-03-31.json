@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E00659",
+    "sec_code": "3941",
+    "company_name": "レンゴー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W3X3"
+  },
+  "financials": {
+    "net_sales": 993251000000,
+    "ordinary_income": 39178000000,
+    "net_income": 28979000000,
+    "comprehensive_income": 47822000000,
+    "eps": 116.94,
+    "dps": 30,
+    "operating_cf": 77008000000,
+    "investing_cf": -97283000000,
+    "financing_cf": -14485000000,
+    "net_assets": 500244000000,
+    "total_assets": 1243116000000,
+    "bps": 1872.24,
+    "cash_end": 70551000000,
+    "equity_ratio": 0.373,
+    "roe": 0.065,
+    "per": 6.8,
+    "gross_profit": 181790000000,
+    "operating_income": 37408000000,
+    "income_tax_expense": 13082000000,
+    "interest_bearing_debt_current": 157722000000,
+    "interest_bearing_debt_noncurrent": 174717000000,
+    "bonds_payable": 95000000000,
+    "current_portion_of_bonds": 55000000,
+    "lease_liabilities_current": 6191000000,
+    "lease_liabilities_noncurrent": 14842000000,
+    "depreciation": 55958000000,
+    "capex_ppe": -96121000000,
+    "capex_intangible": -2187000000,
+    "current_assets": 469481000000,
+    "current_liabilities": 411479000000,
+    "noncurrent_assets": 773634000000,
+    "noncurrent_liabilities": 331392000000,
+    "trade_receivables": 270404000000,
+    "trade_payables": 155252000000,
+    "ppe": 526116000000,
+    "goodwill": 26751000000,
+    "intangible_assets": 47698000000,
+    "investment_securities": 156961000000,
+    "treasury_stock": -12457000000,
+    "noncontrolling_interests": 36276000000
+  },
+  "segments": [
+    {
+      "key": "FlexiblePackagingRelatedBusiness",
+      "label": null,
+      "external_revenue": 181614000000,
+      "intersegment_revenue": 738000000,
+      "operating_income": 5062000000
+    },
+    {
+      "key": "HeavyDutyPackagingRelatedBusiness",
+      "label": null,
+      "external_revenue": 44977000000,
+      "intersegment_revenue": 4212000000,
+      "operating_income": 1684000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": null,
+      "external_revenue": 213094000000,
+      "intersegment_revenue": 8791000000,
+      "operating_income": 4931000000
+    },
+    {
+      "key": "PaperboardAndPackagingRelatedBusiness",
+      "label": null,
+      "external_revenue": 514720000000,
+      "intersegment_revenue": 2425000000,
+      "operating_income": 23443000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00659-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

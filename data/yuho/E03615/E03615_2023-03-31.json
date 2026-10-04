@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E03615",
+    "sec_code": "8411",
+    "company_name": "株式会社みずほフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-16",
+    "doc_id": "S100QYQ4"
+  },
+  "financials": {
+    "ordinary_income": 789606000000,
+    "net_income": 555527000000,
+    "comprehensive_income": 277666000000,
+    "eps": 219.2,
+    "eps_diluted": 219.19,
+    "dps": 85,
+    "operating_cf": 8867246000000,
+    "investing_cf": 6605667000000,
+    "financing_cf": -611143000000,
+    "net_assets": 9208463000000,
+    "total_assets": 254258203000000,
+    "bps": 3603.98,
+    "cash_end": 65825681000000,
+    "equity_ratio": 0.0359,
+    "roe": 0.061,
+    "per": 8.56,
+    "income_tax_expense": 180716000000,
+    "bonds_payable": 11371189000000,
+    "commercial_papers": 1782111000000,
+    "depreciation": 163166000000,
+    "capex_ppe": -64845000000,
+    "capex_intangible": -118331000000,
+    "ppe": 1105851000000,
+    "goodwill": 49613000000,
+    "intangible_assets": 572719000000,
+    "treasury_stock": -8786000000,
+    "noncontrolling_interests": 75163000000,
+    "ordinary_revenue": 5778772000000
+  },
+  "segments": [
+    {
+      "key": "AssetManagementCompany",
+      "label": null,
+      "equity_method_income": 241000000
+    },
+    {
+      "key": "CorporateAndInstitutionalCompany",
+      "label": null,
+      "equity_method_income": 6376000000
+    },
+    {
+      "key": "GlobalCorporateCompany",
+      "label": null,
+      "equity_method_income": 22781000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "equity_method_income": -472000000
+    },
+    {
+      "key": "RetailAndBusinessBankingCompany",
+      "label": null,
+      "equity_method_income": -17036000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03615-000_2023-03-31_01_2023-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

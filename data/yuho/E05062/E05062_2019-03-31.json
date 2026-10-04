@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E05062",
+    "sec_code": "4307",
+    "company_name": "株式会社野村総合研究所",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R4IT"
+  },
+  "financials": {
+    "net_sales": 501243000000,
+    "ordinary_income": 72409000000,
+    "net_income": 50931000000,
+    "comprehensive_income": 43202000000,
+    "eps": 72.11,
+    "eps_diluted": 71.94,
+    "dps": 90,
+    "operating_cf": 56349000000,
+    "investing_cf": -16826000000,
+    "financing_cf": -73106000000,
+    "net_assets": 425032000000,
+    "total_assets": 612192000000,
+    "bps": 587.71,
+    "cash_end": 123200000000,
+    "equity_ratio": 0.671,
+    "roe": 0.123,
+    "per": 23.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05062-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

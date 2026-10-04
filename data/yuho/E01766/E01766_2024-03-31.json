@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E01766",
+    "sec_code": "6702",
+    "company_name": "富士通株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-24",
+    "doc_id": "S100TQ5C"
+  },
+  "financials": {
+    "dps": 260,
+    "net_sales": 3756059000000,
+    "net_income": 254478000000,
+    "comprehensive_income": 317878000000,
+    "net_assets": 1752393000000,
+    "total_assets": 3514818000000,
+    "equity_ratio": 0.499,
+    "bps": 952.76,
+    "eps": 135.59,
+    "eps_diluted": 135.34,
+    "roe": 0.152,
+    "per": 18.36,
+    "operating_cf": 309221000000,
+    "investing_cf": -157239000000,
+    "financing_cf": -181488000000,
+    "cash_end": 342139000000,
+    "operating_income": 160260000000,
+    "gross_profit": 1164809000000,
+    "income_tax_expense": -88500000000,
+    "sga_expense": 904599000000,
+    "profit_before_tax": 178180000000,
+    "depreciation": 164150000000,
+    "current_assets": 1896431000000,
+    "current_liabilities": 1311142000000,
+    "noncurrent_assets": 1618387000000,
+    "inventories": 298804000000,
+    "ppe": 602928000000,
+    "goodwill": 80205000000,
+    "intangible_assets": 213405000000,
+    "investment_securities": 137750000000,
+    "equity_method_investments": 160809000000,
+    "treasury_stock": -380881000000,
+    "noncontrolling_interests": 166441000000
+  },
+  "segments": [
+    {
+      "key": "DeviceSolutions",
+      "label": null,
+      "external_revenue": 279074000000,
+      "intersegment_revenue": 7229000000,
+      "revenue": 286303000000
+    },
+    {
+      "key": "HardwareSolutions",
+      "label": "ハードウェアソリューション",
+      "external_revenue": 1066257000000,
+      "intersegment_revenue": 41761000000,
+      "revenue": 1108018000000
+    },
+    {
+      "key": "ServiceSolutions",
+      "label": "サービスソリューション",
+      "external_revenue": 2104841000000,
+      "intersegment_revenue": 32726000000,
+      "revenue": 2137567000000
+    },
+    {
+      "key": "UbiquitousSolutions",
+      "label": "ユビキタスソリューション",
+      "external_revenue": 269246000000,
+      "intersegment_revenue": 4084000000,
+      "revenue": 273330000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01766-000_2024-03-31_01_2024-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

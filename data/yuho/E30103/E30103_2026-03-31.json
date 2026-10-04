@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "edinet_code": "E30103",
+    "sec_code": "7167",
+    "company_name": "株式会社めぶきフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-12",
+    "doc_id": "S100YAVM"
+  },
+  "financials": {
+    "ordinary_income": 115668000000,
+    "net_income": 84163000000,
+    "comprehensive_income": 161051000000,
+    "eps": 89.03,
+    "eps_diluted": 89.02,
+    "dps": 28,
+    "operating_cf": -1119492000000,
+    "investing_cf": 389257000000,
+    "financing_cf": -49881000000,
+    "net_assets": 1077192000000,
+    "total_assets": 21173586000000,
+    "bps": 1147.64,
+    "cash_end": 2431438000000,
+    "equity_ratio": 0.0508,
+    "roe": 0.0823,
+    "per": 13.39,
+    "income_tax_expense": 34978000000,
+    "depreciation": 8488000000,
+    "capex_ppe": -13506000000,
+    "capex_intangible": -3387000000,
+    "ppe": 107746000000,
+    "intangible_assets": 12104000000,
+    "treasury_stock": -7587000000,
+    "noncontrolling_interests": 36000000,
+    "ordinary_revenue": 443313000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E30103-000_2026-03-31_01_2026-06-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

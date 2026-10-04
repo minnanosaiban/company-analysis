@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03611",
+    "sec_code": "8309",
+    "company_name": "三井住友トラスト・ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R1NN"
+  },
+  "financials": {
+    "ordinary_income": 257658000000,
+    "net_income": 163028000000,
+    "comprehensive_income": -23974000000,
+    "eps": 434.31,
+    "eps_diluted": 434.03,
+    "dps": 150,
+    "operating_cf": -2395306000000,
+    "investing_cf": -631459000000,
+    "financing_cf": -85323000000,
+    "net_assets": 2590907000000,
+    "total_assets": 56500552000000,
+    "bps": 6822.48,
+    "cash_end": 10960024000000,
+    "equity_ratio": 0.0452,
+    "roe": 0.0625,
+    "per": 7.19,
+    "ordinary_revenue": 1535401000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03611-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

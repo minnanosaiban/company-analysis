@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E01575",
+    "sec_code": "1963",
+    "company_name": "日揮ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R865"
+  },
+  "financials": {
+    "net_sales": 428401000000,
+    "ordinary_income": 30028000000,
+    "net_income": -35551000000,
+    "comprehensive_income": -27360000000,
+    "eps": -140.77,
+    "dps": 15,
+    "operating_cf": 19311000000,
+    "investing_cf": -7695000000,
+    "financing_cf": -148000000,
+    "net_assets": 387662000000,
+    "total_assets": 694274000000,
+    "bps": 1532.72,
+    "cash_end": 288009000000,
+    "equity_ratio": 0.558,
+    "roe": -0.088,
+    "gross_profit": 45372000000,
+    "operating_income": 20688000000,
+    "income_tax_expense": 7773000000,
+    "interest_bearing_debt_current": 2167000000,
+    "interest_bearing_debt_noncurrent": 11496000000,
+    "bonds_payable": 20000000000,
+    "current_portion_of_bonds": 30000000000,
+    "current_portion_lt_loans": 8660000000,
+    "depreciation": 7202000000,
+    "capex_ppe": -5467000000,
+    "capex_intangible": -4339000000,
+    "current_assets": 533343000000,
+    "current_liabilities": 253836000000,
+    "noncurrent_assets": 160930000000,
+    "noncurrent_liabilities": 52775000000,
+    "ppe": 69534000000,
+    "intangible_assets": 9676000000,
+    "investment_securities": 55837000000,
+    "treasury_stock": -6740000000,
+    "noncontrolling_interests": 517000000
+  },
+  "segments": [
+    {
+      "key": "Engineering",
+      "label": null,
+      "external_revenue": 377964000000,
+      "intersegment_revenue": 52000000,
+      "operating_income": 17103000000
+    },
+    {
+      "key": "FunctionalMaterialsManufacturing",
+      "label": null,
+      "external_revenue": 44250000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": 7296000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01575-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

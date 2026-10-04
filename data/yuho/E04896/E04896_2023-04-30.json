@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E04896",
+    "sec_code": "9627",
+    "company_name": "株式会社アインホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-04-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-07-31",
+    "doc_id": "S100RHMW"
+  },
+  "financials": {
+    "net_sales": 358742000000,
+    "ordinary_income": 17064000000,
+    "net_income": 9234000000,
+    "comprehensive_income": 9446000000,
+    "eps": 262.87,
+    "dps": 60,
+    "operating_cf": 20267000000,
+    "investing_cf": -22292000000,
+    "financing_cf": -11237000000,
+    "net_assets": 126546000000,
+    "total_assets": 231750000000,
+    "bps": 3599.47,
+    "cash_end": 46217000000,
+    "equity_ratio": 0.546,
+    "roe": 0.075,
+    "per": 21.5,
+    "gross_profit": 53698000000,
+    "operating_income": 16004000000,
+    "income_tax_expense": 6844000000,
+    "interest_bearing_debt_current": 3670000000,
+    "interest_bearing_debt_noncurrent": 5021000000,
+    "lease_liabilities_noncurrent": 32000000,
+    "depreciation": 5529000000,
+    "capex_ppe": -9549000000,
+    "capex_intangible": -2606000000,
+    "current_assets": 98305000000,
+    "current_liabilities": 92986000000,
+    "noncurrent_assets": 133444000000,
+    "noncurrent_liabilities": 12218000000,
+    "ppe": 39459000000,
+    "goodwill": 46443000000,
+    "intangible_assets": 52343000000,
+    "investment_securities": 2720000000,
+    "treasury_stock": -2000000000,
+    "noncontrolling_interests": 96000000
+  },
+  "segments": [
+    {
+      "key": "DispensingPharmacy",
+      "label": null,
+      "external_revenue": 321577000000,
+      "ordinary_income": 24135000000
+    },
+    {
+      "key": "DrugAndCosmeticStore",
+      "label": null,
+      "external_revenue": 25685000000,
+      "ordinary_income": 1214000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 11479000000,
+      "intersegment_revenue": 61000000,
+      "ordinary_income": 135000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04896-000_2023-04-30_01_2023-07-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

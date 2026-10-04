@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E06141",
+    "sec_code": "8750",
+    "company_name": "第一生命ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-09-29",
+    "doc_id": "S100RXZM"
+  },
+  "financials": {
+    "ordinary_income": 471994000000,
+    "net_income": 363928000000,
+    "comprehensive_income": 684757000000,
+    "eps": 310.69,
+    "eps_diluted": 310.45,
+    "dps": 50,
+    "operating_cf": 1169136000000,
+    "investing_cf": -1015438000000,
+    "financing_cf": -85421000000,
+    "net_assets": 3749271000000,
+    "total_assets": 53603028000000,
+    "bps": 3217.68,
+    "cash_end": 1033022000000,
+    "equity_ratio": 0.07,
+    "roe": 0.106,
+    "per": 6.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E06141-000_2021-03-31_02_2023-09-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

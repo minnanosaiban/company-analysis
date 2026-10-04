@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E02824",
+    "sec_code": "7458",
+    "company_name": "株式会社第一興商",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R48Z"
+  },
+  "financials": {
+    "net_sales": 128156000000,
+    "ordinary_income": 13601000000,
+    "net_income": 8320000000,
+    "comprehensive_income": 9018000000,
+    "eps": 76.21,
+    "eps_diluted": 76.08,
+    "dps": 113,
+    "operating_cf": 24869000000,
+    "investing_cf": -12104000000,
+    "financing_cf": -9493000000,
+    "net_assets": 107915000000,
+    "total_assets": 188623000000,
+    "bps": 974.95,
+    "cash_end": 71423000000,
+    "equity_ratio": 0.564,
+    "roe": 0.079,
+    "per": 28.7,
+    "gross_profit": 44441000000,
+    "operating_income": 12954000000,
+    "income_tax_expense": 3800000000,
+    "interest_bearing_debt_current": 13511000000,
+    "interest_bearing_debt_noncurrent": 31135000000,
+    "depreciation": 10867000000,
+    "capex_ppe": -7462000000,
+    "capex_intangible": -3199000000,
+    "current_assets": 93429000000,
+    "current_liabilities": 35288000000,
+    "noncurrent_assets": 95193000000,
+    "noncurrent_liabilities": 45419000000,
+    "inventories": 11735000000,
+    "trade_payables": 4954000000,
+    "ppe": 62292000000,
+    "goodwill": 606000000,
+    "intangible_assets": 6663000000,
+    "investment_securities": 4914000000,
+    "treasury_stock": -571000000,
+    "noncontrolling_interests": 1172000000
+  },
+  "segments": [
+    {
+      "key": "CommercialKaraoke",
+      "label": null,
+      "external_revenue": 57731000000,
+      "operating_income": 13593000000
+    },
+    {
+      "key": "KaraokeCabinAndRestaurant",
+      "label": null,
+      "external_revenue": 51584000000,
+      "operating_income": -59000000
+    },
+    {
+      "key": "MusicSoftware",
+      "label": null,
+      "external_revenue": 6430000000,
+      "operating_income": 228000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02824-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

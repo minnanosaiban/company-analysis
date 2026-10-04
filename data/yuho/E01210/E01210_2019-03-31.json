@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01210",
+    "sec_code": "5344",
+    "company_name": "株式会社ＭＡＲＵＷＡ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R2QA"
+  },
+  "financials": {
+    "net_sales": 41193000000,
+    "ordinary_income": 9924000000,
+    "net_income": 6770000000,
+    "comprehensive_income": 6607000000,
+    "eps": 547.87,
+    "dps": 48,
+    "operating_cf": 6967000000,
+    "investing_cf": -5691000000,
+    "financing_cf": -694000000,
+    "net_assets": 54954000000,
+    "total_assets": 64627000000,
+    "bps": 4452.25,
+    "cash_end": 22448000000,
+    "equity_ratio": 0.85,
+    "roe": 0.13,
+    "per": 9.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01210-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

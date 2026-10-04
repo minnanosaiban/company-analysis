@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "edinet_code": "E00752",
+    "sec_code": "4005",
+    "company_name": "住友化学株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-20",
+    "doc_id": "S100VXZW"
+  },
+  "financials": {
+    "dps": 9,
+    "net_sales": 2606281000000,
+    "net_income": 38591000000,
+    "comprehensive_income": -53967000000,
+    "net_assets": 900790000000,
+    "total_assets": 3439784000000,
+    "equity_ratio": 0.262,
+    "bps": 550.37,
+    "eps": 23.59,
+    "eps_diluted": 23.58,
+    "roe": 0.041,
+    "per": 15.32,
+    "operating_cf": 233027000000,
+    "investing_cf": 85229000000,
+    "financing_cf": -300778000000,
+    "cash_end": 209838000000,
+    "operating_income": 193033000000,
+    "gross_profit": 725476000000,
+    "income_tax_expense": 15405000000,
+    "interest_bearing_debt_current": 252892000000,
+    "interest_bearing_debt_noncurrent": 1033236000000,
+    "sga_expense": 601074000000,
+    "profit_before_tax": 58093000000,
+    "depreciation": 131597000000,
+    "current_assets": 1583134000000,
+    "current_liabilities": 1038747000000,
+    "noncurrent_assets": 1856650000000,
+    "trade_receivables": 593836000000,
+    "inventories": 625243000000,
+    "trade_payables": 488132000000,
+    "ppe": 759266000000,
+    "goodwill": 257811000000,
+    "intangible_assets": 239319000000,
+    "equity_method_investments": 287977000000,
+    "treasury_stock": -8361000000,
+    "noncontrolling_interests": 173625000000
+  },
+  "segments": [
+    {
+      "key": "AdvancedMedicalSolutions",
+      "label": null,
+      "external_revenue": 62145000000,
+      "intersegment_revenue": 10388000000,
+      "revenue": 72533000000,
+      "operating_income": 3966000000,
+      "assets": 125339000000
+    },
+    {
+      "key": "AgroAndLifeSolutions",
+      "label": null,
+      "external_revenue": 540221000000,
+      "intersegment_revenue": 1114000000,
+      "revenue": 541335000000,
+      "operating_income": 54978000000,
+      "assets": 771293000000,
+      "equity_method_income": 322000000
+    },
+    {
+      "key": "EssentialAndGreenMaterials",
+      "label": null,
+      "external_revenue": 899029000000,
+      "intersegment_revenue": 4874000000,
+      "revenue": 903903000000,
+      "operating_income": -58471000000,
+      "assets": 791922000000,
+      "equity_method_income": 13191000000
+    },
+    {
+      "key": "ICTAndMobilitySolutions",
+      "label": null,
+      "external_revenue": 606995000000,
+      "intersegment_revenue": 3258000000,
+      "revenue": 610253000000,
+      "operating_income": 70555000000,
+      "assets": 635736000000,
+      "equity_method_income": 3000000
+    },
+    {
+      "key": "SumitomoPharma",
+      "label": null,
+      "external_revenue": 398001000000,
+      "intersegment_revenue": 529000000,
+      "revenue": 398530000000,
+      "operating_income": 35337000000,
+      "assets": 728688000000,
+      "equity_method_income": -355000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00752-000_2025-03-31_01_2025-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

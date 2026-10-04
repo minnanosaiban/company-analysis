@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E05480",
+    "sec_code": "3774",
+    "company_name": "株式会社インターネットイニシアティブ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-28",
+    "doc_id": "S100TTHB"
+  },
+  "financials": {
+    "dps": 34.36,
+    "net_sales": 276080000000,
+    "net_income": 19831000000,
+    "comprehensive_income": 24388000000,
+    "net_assets": 125751000000,
+    "total_assets": 273713000000,
+    "equity_ratio": 0.459,
+    "bps": 711.22,
+    "eps": 111.81,
+    "eps_diluted": 111.23,
+    "roe": 0.163,
+    "per": 25.4,
+    "operating_cf": 40780000000,
+    "investing_cf": -17927000000,
+    "financing_cf": -20797000000,
+    "cash_end": 45474000000,
+    "operating_income": 29029000000,
+    "gross_profit": 63866000000,
+    "income_tax_expense": 8958000000,
+    "sga_expense": 34754000000,
+    "profit_before_tax": 28934000000,
+    "depreciation": 29296000000,
+    "capex_ppe": -11744000000,
+    "capex_intangible": -7199000000,
+    "current_assets": 119889000000,
+    "current_liabilities": 98358000000,
+    "noncurrent_assets": 153824000000,
+    "inventories": 3227000000,
+    "trade_payables": 25435000000,
+    "ppe": 29072000000,
+    "goodwill": 10328000000,
+    "intangible_assets": 18357000000,
+    "investment_securities": 9805000000,
+    "equity_method_investments": 5169000000,
+    "treasury_stock": -12027000000,
+    "noncontrolling_interests": 1281000000
+  },
+  "segments": [
+    {
+      "key": "ATMOperationBusiness",
+      "label": null,
+      "external_revenue": 2914000000,
+      "revenue": 2914000000,
+      "operating_income": 1015000000,
+      "assets": 7850000000
+    },
+    {
+      "key": "NetworkServicesAndSIBusiness",
+      "label": null,
+      "external_revenue": 273166000000,
+      "intersegment_revenue": 81000000,
+      "revenue": 273247000000,
+      "operating_income": 28014000000,
+      "assets": 267863000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05480-000_2024-03-31_01_2024-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

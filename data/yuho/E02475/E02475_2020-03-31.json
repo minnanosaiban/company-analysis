@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02475",
+    "sec_code": "6460",
+    "company_name": "セガサミーホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R28G"
+  },
+  "financials": {
+    "net_sales": 366594000000,
+    "ordinary_income": 25296000000,
+    "net_income": 13775000000,
+    "comprehensive_income": -774000000,
+    "eps": 58.65,
+    "eps_diluted": 58.63,
+    "dps": 40,
+    "operating_cf": 38537000000,
+    "investing_cf": -15464000000,
+    "financing_cf": -10956000000,
+    "net_assets": 296858000000,
+    "total_assets": 458268000000,
+    "bps": 1251.02,
+    "cash_end": 158617000000,
+    "equity_ratio": 0.642,
+    "roe": 0.046,
+    "per": 22.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02475-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

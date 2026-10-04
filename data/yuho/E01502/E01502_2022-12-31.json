@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E01502",
+    "sec_code": "6141",
+    "company_name": "ＤＭＧ森精機株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T66J"
+  },
+  "financials": {
+    "dps": 70,
+    "net_sales": 474771000000,
+    "net_income": 25406000000,
+    "comprehensive_income": 40791000000,
+    "net_assets": 245897000000,
+    "total_assets": 680334000000,
+    "equity_ratio": 0.361,
+    "bps": 1957.61,
+    "eps": 188.62,
+    "eps_diluted": 188.62,
+    "roe": 0.111,
+    "per": 9.3,
+    "operating_cf": 69749000000,
+    "investing_cf": -44874000000,
+    "financing_cf": -38978000000,
+    "cash_end": 36992000000,
+    "operating_income": 41213000000,
+    "income_tax_expense": 10728000000,
+    "interest_bearing_debt_current": 51241000000,
+    "interest_bearing_debt_noncurrent": 39852000000,
+    "profit_before_tax": 36528000000,
+    "depreciation": 24016000000,
+    "capex_ppe": -26203000000,
+    "capex_intangible": -14909000000,
+    "current_assets": 293985000000,
+    "current_liabilities": 281329000000,
+    "noncurrent_assets": 386349000000,
+    "trade_receivables": 68437000000,
+    "inventories": 166217000000,
+    "trade_payables": 72806000000,
+    "ppe": 162965000000,
+    "goodwill": 76842000000,
+    "equity_method_investments": 5917000000,
+    "treasury_stock": -906000000,
+    "noncontrolling_interests": 4477000000
+  },
+  "segments": [
+    {
+      "key": "Adjustment",
+      "label": "消去",
+      "intersegment_revenue": -301390000000,
+      "revenue": -301390000000,
+      "operating_income": -3921000000,
+      "assets": -1162155000000
+    },
+    {
+      "key": "Corporate",
+      "label": "全社機能",
+      "external_revenue": 30000000,
+      "intersegment_revenue": 1464000000,
+      "revenue": 1495000000,
+      "operating_income": -9175000000,
+      "assets": 532225000000
+    },
+    {
+      "key": "IndustrialServices",
+      "label": "インダストリアル・サービス",
+      "external_revenue": 157725000000,
+      "intersegment_revenue": 42728000000,
+      "revenue": 200453000000,
+      "operating_income": 30119000000,
+      "assets": 609303000000
+    },
+    {
+      "key": "MachineTools",
+      "label": "マシンツール",
+      "external_revenue": 317015000000,
+      "intersegment_revenue": 257197000000,
+      "revenue": 574212000000,
+      "operating_income": 24053000000,
+      "assets": 700961000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01502-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

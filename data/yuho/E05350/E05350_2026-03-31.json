@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E05350",
+    "sec_code": "2371",
+    "company_name": "株式会社カカクコム",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YBGN"
+  },
+  "financials": {
+    "dps": 50,
+    "net_sales": 94127000000,
+    "net_income": 18803000000,
+    "comprehensive_income": 18825000000,
+    "net_assets": 64988000000,
+    "total_assets": 92475000000,
+    "equity_ratio": 0.703,
+    "bps": 328.5,
+    "eps": 95.05,
+    "eps_diluted": 95.02,
+    "roe": 0.297,
+    "per": 21.8,
+    "operating_cf": 25354000000,
+    "investing_cf": -11415000000,
+    "financing_cf": -18374000000,
+    "cash_end": 46468000000,
+    "operating_income": 27243000000,
+    "income_tax_expense": 8492000000,
+    "lease_liabilities_current": 1031000000,
+    "lease_liabilities_noncurrent": 2154000000,
+    "profit_before_tax": 27347000000,
+    "depreciation": 4345000000,
+    "capex_ppe": -752000000,
+    "capex_intangible": -1939000000,
+    "current_assets": 66760000000,
+    "current_liabilities": 24016000000,
+    "noncurrent_assets": 25715000000,
+    "trade_receivables": 13234000000,
+    "trade_payables": 5496000000,
+    "ppe": 2217000000,
+    "goodwill": 7391000000,
+    "equity_method_investments": 0,
+    "treasury_stock": -689000000,
+    "noncontrolling_interests": 182000000
+  },
+  "segments": [
+    {
+      "key": "Incubation",
+      "label": "インキュベーション事業",
+      "external_revenue": 10071000000,
+      "intersegment_revenue": 48000000,
+      "revenue": 10120000000,
+      "operating_income": 2740000000
+    },
+    {
+      "key": "KakakuCom",
+      "label": "価格．ｃｏｍ事業",
+      "external_revenue": 23611000000,
+      "revenue": 23611000000,
+      "operating_income": 12548000000
+    },
+    {
+      "key": "KyujinBox",
+      "label": "求人ボックス事業",
+      "external_revenue": 20205000000,
+      "revenue": 20205000000,
+      "operating_income": -1486000000
+    },
+    {
+      "key": "Tabelog",
+      "label": "食べログ事業",
+      "external_revenue": 40239000000,
+      "revenue": 40239000000,
+      "operating_income": 22196000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05350-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

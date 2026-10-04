@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "edinet_code": "E04345",
+    "sec_code": "9364",
+    "company_name": "株式会社上組",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-28",
+    "doc_id": "S100TPIB"
+  },
+  "financials": {
+    "ordinary_income": 34185000000,
+    "net_income": 25035000000,
+    "comprehensive_income": 36252000000,
+    "eps": 232.97,
+    "dps": 100,
+    "operating_cf": 42471000000,
+    "investing_cf": -16423000000,
+    "financing_cf": -12216000000,
+    "net_assets": 387290000000,
+    "total_assets": 483921000000,
+    "bps": 3622.81,
+    "cash_end": 80098000000,
+    "equity_ratio": 0.797,
+    "roe": 0.066,
+    "per": 14.4,
+    "operating_income": 30592000000,
+    "income_tax_expense": 10575000000,
+    "interest_bearing_debt_noncurrent": 30000000000,
+    "depreciation": 13651000000,
+    "current_assets": 143101000000,
+    "current_liabilities": 44957000000,
+    "noncurrent_assets": 340819000000,
+    "noncurrent_liabilities": 51672000000,
+    "inventories": 893000000,
+    "ppe": 223978000000,
+    "intangible_assets": 6774000000,
+    "investment_securities": 102129000000,
+    "treasury_stock": -14697000000,
+    "noncontrolling_interests": 1624000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04345-000_2024-03-31_01_2024-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

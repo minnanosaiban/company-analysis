@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E01253",
+    "sec_code": "5463",
+    "company_name": "丸一鋼管株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2QI"
+  },
+  "financials": {
+    "net_sales": 224218000000,
+    "ordinary_income": 38458000000,
+    "net_income": 27760000000,
+    "comprehensive_income": 43213000000,
+    "eps": 340.83,
+    "eps_diluted": 340.47,
+    "dps": 91,
+    "operating_cf": 15096000000,
+    "investing_cf": -10010000000,
+    "financing_cf": -16656000000,
+    "net_assets": 307593000000,
+    "total_assets": 370078000000,
+    "bps": 3719.99,
+    "cash_end": 53058000000,
+    "equity_ratio": 0.804,
+    "roe": 0.098,
+    "per": 8.1,
+    "gross_profit": 51729000000,
+    "operating_income": 36276000000,
+    "income_tax_expense": 9244000000,
+    "interest_bearing_debt_current": 2874000000,
+    "interest_bearing_debt_noncurrent": 345000000,
+    "depreciation": 5936000000,
+    "current_assets": 192562000000,
+    "current_liabilities": 49988000000,
+    "noncurrent_assets": 177515000000,
+    "noncurrent_liabilities": 12496000000,
+    "trade_receivables": 50248000000,
+    "trade_payables": 34477000000,
+    "ppe": 86782000000,
+    "goodwill": 318000000,
+    "intangible_assets": 1662000000,
+    "investment_securities": 85842000000,
+    "treasury_stock": -10072000000,
+    "noncontrolling_interests": 9955000000
+  },
+  "segments": [
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 39412000000,
+      "intersegment_revenue": 43000000,
+      "operating_income": 3246000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 136106000000,
+      "intersegment_revenue": 118000000,
+      "operating_income": 21500000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 48699000000,
+      "operating_income": 11228000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01253-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

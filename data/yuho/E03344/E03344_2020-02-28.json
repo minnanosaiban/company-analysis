@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E03344",
+    "sec_code": "7649",
+    "company_name": "スギホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QUCN"
+  },
+  "financials": {
+    "net_sales": 542361000000,
+    "ordinary_income": 31473000000,
+    "net_income": 20782000000,
+    "comprehensive_income": 20823000000,
+    "eps": 336.21,
+    "dps": 80,
+    "operating_cf": 45353000000,
+    "investing_cf": -18422000000,
+    "financing_cf": -4895000000,
+    "net_assets": 182750000000,
+    "total_assets": 313757000000,
+    "bps": 2956.46,
+    "cash_end": 56347000000,
+    "equity_ratio": 0.582,
+    "roe": 0.119,
+    "per": 15.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03344-000_2023-02-28_01_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

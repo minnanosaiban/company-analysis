@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E00053",
+    "sec_code": "1803",
+    "company_name": "清水建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YDXD"
+  },
+  "financials": {
+    "net_sales": 2057802000000,
+    "ordinary_income": 122324000000,
+    "net_income": 126617000000,
+    "comprehensive_income": 157621000000,
+    "eps": 186.68,
+    "dps": 72,
+    "operating_cf": 41639000000,
+    "investing_cf": -6858000000,
+    "financing_cf": -120591000000,
+    "net_assets": 1001175000000,
+    "total_assets": 2654382000000,
+    "bps": 1439.89,
+    "cash_end": 354492000000,
+    "equity_ratio": 0.368,
+    "roe": 0.138,
+    "per": 14.9,
+    "gross_profit": 258091000000,
+    "operating_income": 118669000000,
+    "income_tax_expense": 59830000000,
+    "interest_bearing_debt_current": 237383000000,
+    "interest_bearing_debt_noncurrent": 128930000000,
+    "bonds_payable": 156000000000,
+    "current_portion_of_bonds": 10000000000,
+    "depreciation": 33511000000,
+    "capex_ppe": -98654000000,
+    "current_assets": 1612004000000,
+    "current_liabilities": 1240276000000,
+    "noncurrent_assets": 1042378000000,
+    "noncurrent_liabilities": 412930000000,
+    "ppe": 658797000000,
+    "intangible_assets": 42020000000,
+    "investment_securities": 303343000000,
+    "treasury_stock": -43821000000,
+    "noncontrolling_interests": 23198000000
+  },
+  "segments": [
+    {
+      "key": "ConstructionBusinessOfTheCorporation",
+      "label": null,
+      "external_revenue": 1477782000000,
+      "intersegment_revenue": -302000000,
+      "operating_income": 90681000000
+    },
+    {
+      "key": "RealEstateBusinessOfTheCorporation",
+      "label": null,
+      "external_revenue": 52581000000,
+      "intersegment_revenue": 570000000,
+      "operating_income": 16734000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00053-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

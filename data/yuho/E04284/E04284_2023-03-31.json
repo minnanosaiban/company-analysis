@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E04284",
+    "sec_code": "9302",
+    "company_name": "三井倉庫ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R0UZ"
+  },
+  "financials": {
+    "ordinary_income": 26533000000,
+    "net_income": 15617000000,
+    "comprehensive_income": 21321000000,
+    "eps": 628.08,
+    "dps": 189,
+    "operating_cf": 32340000000,
+    "investing_cf": -6326000000,
+    "financing_cf": -16053000000,
+    "net_assets": 104078000000,
+    "total_assets": 258679000000,
+    "bps": 3750.18,
+    "cash_end": 33417000000,
+    "equity_ratio": 0.361,
+    "roe": 0.181,
+    "per": 6.2,
+    "operating_income": 25961000000,
+    "income_tax_expense": 7379000000,
+    "interest_bearing_debt_current": 706000000,
+    "interest_bearing_debt_noncurrent": 50900000000,
+    "bonds_payable": 25000000000,
+    "current_portion_lt_loans": 8461000000,
+    "lease_liabilities_current": 1703000000,
+    "lease_liabilities_noncurrent": 5848000000,
+    "depreciation": 9498000000,
+    "capex_ppe": -2508000000,
+    "capex_intangible": -3237000000,
+    "current_assets": 76515000000,
+    "current_liabilities": 54227000000,
+    "noncurrent_assets": 182163000000,
+    "noncurrent_liabilities": 100373000000,
+    "inventories": 1999000000,
+    "ppe": 138730000000,
+    "goodwill": 1670000000,
+    "intangible_assets": 10521000000,
+    "investment_securities": 11068000000,
+    "treasury_stock": -103000000,
+    "noncontrolling_interests": 10792000000
+  },
+  "segments": [
+    {
+      "key": "LogisticsSegment",
+      "label": null,
+      "external_revenue": 292022000000,
+      "operating_income": 23923000000
+    },
+    {
+      "key": "RealEstateSegment",
+      "label": null,
+      "external_revenue": 8813000000,
+      "intersegment_revenue": 815000000,
+      "operating_income": 5908000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04284-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

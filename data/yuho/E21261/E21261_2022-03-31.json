@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E21261",
+    "sec_code": "2181",
+    "company_name": "パーソルホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R0FF"
+  },
+  "financials": {
+    "net_sales": 1060893000000,
+    "ordinary_income": 49484000000,
+    "net_income": 31906000000,
+    "comprehensive_income": 37822000000,
+    "eps": 138.51,
+    "dps": 42,
+    "operating_cf": 50692000000,
+    "investing_cf": -7057000000,
+    "financing_cf": -21145000000,
+    "net_assets": 204367000000,
+    "total_assets": 425110000000,
+    "bps": 793.91,
+    "cash_end": 106558000000,
+    "equity_ratio": 0.431,
+    "roe": 0.189,
+    "per": 20,
+    "gross_profit": 240837000000,
+    "operating_income": 48143000000,
+    "income_tax_expense": 18880000000,
+    "interest_bearing_debt_current": 162000000,
+    "interest_bearing_debt_noncurrent": 30000000000,
+    "bonds_payable": 10000000000,
+    "current_portion_lt_loans": 11304000000,
+    "lease_liabilities_noncurrent": 1997000000,
+    "depreciation": 12150000000,
+    "capex_ppe": -2604000000,
+    "capex_intangible": -8383000000,
+    "current_assets": 286897000000,
+    "current_liabilities": 167893000000,
+    "noncurrent_assets": 138213000000,
+    "noncurrent_liabilities": 52850000000,
+    "ppe": 13414000000,
+    "goodwill": 61674000000,
+    "intangible_assets": 95129000000,
+    "investment_securities": 8664000000,
+    "treasury_stock": -10351000000,
+    "noncontrolling_interests": 21317000000
+  },
+  "segments": [
+    {
+      "key": "AsiaPacific",
+      "label": null,
+      "external_revenue": 290136000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": 1042000000
+    },
+    {
+      "key": "Career",
+      "label": null,
+      "external_revenue": 73806000000,
+      "intersegment_revenue": 1473000000,
+      "operating_income": 7264000000
+    },
+    {
+      "key": "ProfessionalOutsourcing",
+      "label": null,
+      "external_revenue": 107959000000,
+      "intersegment_revenue": 13150000000,
+      "operating_income": 6934000000
+    },
+    {
+      "key": "Solution",
+      "label": null,
+      "external_revenue": 10501000000,
+      "intersegment_revenue": 668000000,
+      "operating_income": -3058000000
+    },
+    {
+      "key": "Staffing",
+      "label": null,
+      "external_revenue": 572314000000,
+      "intersegment_revenue": 3428000000,
+      "operating_income": 39359000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21261-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "edinet_code": "E03545",
+    "sec_code": "8341",
+    "company_name": "株式会社七十七銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100QZM5"
+  },
+  "financials": {
+    "ordinary_income": 35777000000,
+    "net_income": 25056000000,
+    "comprehensive_income": -2971000000,
+    "eps": 338.74,
+    "dps": 90,
+    "operating_cf": -681807000000,
+    "investing_cf": 43071000000,
+    "financing_cf": -5974000000,
+    "net_assets": 504487000000,
+    "total_assets": 10200848000000,
+    "bps": 6818.61,
+    "cash_end": 1310932000000,
+    "equity_ratio": 0.049,
+    "roe": 0.0492,
+    "per": 6.38,
+    "income_tax_expense": 8948000000,
+    "depreciation": 3010000000,
+    "capex_ppe": -2647000000,
+    "capex_intangible": 0,
+    "ppe": 30672000000,
+    "intangible_assets": 134000000,
+    "treasury_stock": -6325000000,
+    "ordinary_revenue": 122053000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03545-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

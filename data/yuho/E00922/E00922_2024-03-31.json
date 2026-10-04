@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E00922",
+    "sec_code": "4506",
+    "company_name": "住友ファーマ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TQW2"
+  },
+  "financials": {
+    "net_sales": 314558000000,
+    "net_income": -314969000000,
+    "comprehensive_income": -250385000000,
+    "net_assets": 156063000000,
+    "total_assets": 907506000000,
+    "equity_ratio": 0.172,
+    "bps": 392.82,
+    "eps": -792.79,
+    "roe": -1.119,
+    "operating_cf": -241893000000,
+    "investing_cf": 33036000000,
+    "financing_cf": 77851000000,
+    "cash_end": 29047000000,
+    "operating_income": -354859000000,
+    "gross_profit": 187981000000,
+    "income_tax_expense": -8185000000,
+    "interest_bearing_debt_noncurrent": 133367000000,
+    "sga_expense": 429538000000,
+    "profit_before_tax": -323114000000,
+    "depreciation": 37765000000,
+    "capex_ppe": -10771000000,
+    "capex_intangible": -4959000000,
+    "current_assets": 269569000000,
+    "current_liabilities": 515474000000,
+    "noncurrent_assets": 637937000000,
+    "trade_receivables": 81023000000,
+    "inventories": 115350000000,
+    "trade_payables": 67720000000,
+    "ppe": 57895000000,
+    "goodwill": 199783000000,
+    "intangible_assets": 195652000000,
+    "treasury_stock": -682000000,
+    "noncontrolling_interests": 73000000
+  },
+  "segments": [
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 40864000000,
+      "operating_income": 18402000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 114657000000,
+      "operating_income": 13360000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 159037000000,
+      "operating_income": -80218000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00922-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

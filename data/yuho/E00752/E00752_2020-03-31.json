@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E00752",
+    "sec_code": "4005",
+    "company_name": "住友化学株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QXTB"
+  },
+  "financials": {
+    "dps": 17,
+    "net_sales": 2225804000000,
+    "net_income": 30926000000,
+    "comprehensive_income": -39081000000,
+    "net_assets": 923990000000,
+    "total_assets": 3654087000000,
+    "equity_ratio": 0.253,
+    "bps": 565.13,
+    "eps": 18.91,
+    "roe": 0.032,
+    "per": 16.98,
+    "operating_cf": 106012000000,
+    "investing_cf": -499670000000,
+    "financing_cf": 373542000000,
+    "cash_end": 180648000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00752-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

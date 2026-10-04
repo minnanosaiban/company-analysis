@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E00053",
+    "sec_code": "1803",
+    "company_name": "清水建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TSMP"
+  },
+  "financials": {
+    "net_sales": 2005518000000,
+    "ordinary_income": -19834000000,
+    "net_income": 17163000000,
+    "comprehensive_income": 83067000000,
+    "eps": 23.57,
+    "dps": 20,
+    "operating_cf": -21253000000,
+    "investing_cf": -5358000000,
+    "financing_cf": -23972000000,
+    "net_assets": 948059000000,
+    "total_assets": 2538769000000,
+    "bps": 1243.88,
+    "cash_end": 339240000000,
+    "equity_ratio": 0.35,
+    "roe": 0.02,
+    "per": 42.4,
+    "gross_profit": 89512000000,
+    "operating_income": -24685000000,
+    "income_tax_expense": 41043000000,
+    "interest_bearing_debt_current": 242147000000,
+    "interest_bearing_debt_noncurrent": 131890000000,
+    "bonds_payable": 125000000000,
+    "current_portion_of_bonds": 20000000000,
+    "depreciation": 30256000000,
+    "capex_ppe": -57697000000,
+    "current_assets": 1470680000000,
+    "current_liabilities": 1188396000000,
+    "noncurrent_assets": 1068089000000,
+    "noncurrent_liabilities": 402313000000,
+    "ppe": 638582000000,
+    "intangible_assets": 22215000000,
+    "investment_securities": 373014000000,
+    "treasury_stock": -27506000000,
+    "noncontrolling_interests": 59520000000
+  },
+  "segments": [
+    {
+      "key": "ConstructionBusinessOfTheCorporation",
+      "label": null,
+      "external_revenue": 1420212000000,
+      "intersegment_revenue": 42703000000,
+      "operating_income": 20795000000
+    },
+    {
+      "key": "RealEstateBusinessOfTheCorporation",
+      "label": null,
+      "external_revenue": 82354000000,
+      "intersegment_revenue": 256000000,
+      "operating_income": 27581000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00053-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "edinet_code": "E32022",
+    "sec_code": "7186",
+    "company_name": "株式会社コンコルディア・フィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-19",
+    "doc_id": "S100TNGG"
+  },
+  "financials": {
+    "ordinary_income": 77004000000,
+    "net_income": 66931000000,
+    "comprehensive_income": 154565000000,
+    "eps": 57.16,
+    "eps_diluted": 57.16,
+    "dps": 23,
+    "operating_cf": -2217487000000,
+    "investing_cf": 37479000000,
+    "financing_cf": -51025000000,
+    "net_assets": 1284767000000,
+    "total_assets": 24381712000000,
+    "bps": 1098.4,
+    "cash_end": 4025908000000,
+    "equity_ratio": 0.0524,
+    "roe": 0.0549,
+    "per": 13.46,
+    "income_tax_expense": 22185000000,
+    "bonds_payable": 40000000000,
+    "depreciation": 13268000000,
+    "capex_ppe": -9353000000,
+    "capex_intangible": -8074000000,
+    "ppe": 168068000000,
+    "intangible_assets": 18946000000,
+    "treasury_stock": -8485000000,
+    "noncontrolling_interests": 6067000000,
+    "ordinary_revenue": 358303000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E32022-000_2024-03-31_01_2024-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

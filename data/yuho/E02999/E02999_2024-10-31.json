@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E02999",
+    "sec_code": "3038",
+    "company_name": "株式会社神戸物産",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-10-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-01-30",
+    "doc_id": "S100V5MU"
+  },
+  "financials": {
+    "net_sales": 507883000000,
+    "ordinary_income": 31576000000,
+    "net_income": 21443000000,
+    "comprehensive_income": 21372000000,
+    "eps": 97.09,
+    "eps_diluted": 96.41,
+    "dps": 23,
+    "operating_cf": 30772000000,
+    "investing_cf": -10184000000,
+    "financing_cf": -5595000000,
+    "net_assets": 132773000000,
+    "total_assets": 233392000000,
+    "bps": 584.81,
+    "cash_end": 107311000000,
+    "equity_ratio": 0.554,
+    "roe": 0.178,
+    "per": 38.3,
+    "gross_profit": 58413000000,
+    "operating_income": 34350000000,
+    "income_tax_expense": 10326000000,
+    "interest_bearing_debt_current": 6865000000,
+    "interest_bearing_debt_noncurrent": 30135000000,
+    "lease_liabilities_current": 1000000,
+    "lease_liabilities_noncurrent": 0,
+    "depreciation": 6449000000,
+    "capex_ppe": -10112000000,
+    "capex_intangible": -219000000,
+    "current_assets": 161089000000,
+    "current_liabilities": 56929000000,
+    "noncurrent_assets": 72302000000,
+    "noncurrent_liabilities": 43689000000,
+    "ppe": 64814000000,
+    "goodwill": 252000000,
+    "intangible_assets": 1504000000,
+    "investment_securities": 424000000,
+    "treasury_stock": -8990000000
+  },
+  "segments": [
+    {
+      "key": "EcoRenewableEnergyBusiness",
+      "label": null,
+      "external_revenue": 4575000000,
+      "operating_income": 1144000000
+    },
+    {
+      "key": "GyomuSuperDivision",
+      "label": null,
+      "external_revenue": 489102000000,
+      "intersegment_revenue": 6207000000,
+      "operating_income": 37350000000
+    },
+    {
+      "key": "KOBECOOKDivision",
+      "label": null,
+      "external_revenue": 14149000000,
+      "intersegment_revenue": 532000000,
+      "operating_income": 1038000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02999-000_2024-10-31_01_2025-01-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

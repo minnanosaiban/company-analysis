@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "edinet_code": "E01108",
+    "sec_code": "7282",
+    "company_name": "豊田合成株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YC23"
+  },
+  "financials": {
+    "dps": 138,
+    "net_sales": 1146772000000,
+    "net_income": 62009000000,
+    "comprehensive_income": 84321000000,
+    "net_assets": 568563000000,
+    "total_assets": 992907000000,
+    "equity_ratio": 0.573,
+    "bps": 4854.11,
+    "eps": 494.11,
+    "eps_diluted": 493.62,
+    "roe": 0.112,
+    "per": 8.1,
+    "operating_cf": 131691000000,
+    "investing_cf": -49646000000,
+    "financing_cf": -70894000000,
+    "cash_end": 131814000000,
+    "operating_income": 79551000000,
+    "gross_profit": 186174000000,
+    "income_tax_expense": 22061000000,
+    "interest_bearing_debt_current": 46810000000,
+    "interest_bearing_debt_noncurrent": 76527000000,
+    "sga_expense": 103275000000,
+    "profit_before_tax": 90221000000,
+    "depreciation": 53655000000,
+    "current_assets": 486926000000,
+    "current_liabilities": 248732000000,
+    "noncurrent_assets": 505981000000,
+    "trade_receivables": 199449000000,
+    "inventories": 107890000000,
+    "trade_payables": 176490000000,
+    "ppe": 379884000000,
+    "intangible_assets": 6399000000,
+    "equity_method_investments": 21982000000,
+    "treasury_stock": -2042000000,
+    "noncontrolling_interests": 46597000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": "米州",
+      "external_revenue": 425037000000,
+      "intersegment_revenue": 3355000000,
+      "revenue": 428393000000,
+      "operating_income": 34992000000,
+      "assets": 310691000000
+    },
+    {
+      "key": "Asia",
+      "label": "アジア",
+      "external_revenue": 102908000000,
+      "intersegment_revenue": 51022000000,
+      "revenue": 153931000000,
+      "operating_income": 14923000000,
+      "assets": 99666000000
+    },
+    {
+      "key": "China",
+      "label": "中国",
+      "external_revenue": 86198000000,
+      "intersegment_revenue": 4620000000,
+      "revenue": 90818000000,
+      "operating_income": -2087000000,
+      "assets": 74553000000
+    },
+    {
+      "key": "EuropeAndAfrica",
+      "label": "欧州・アフリカ",
+      "external_revenue": 33266000000,
+      "intersegment_revenue": 1365000000,
+      "revenue": 34632000000,
+      "operating_income": 2662000000,
+      "assets": 20824000000
+    },
+    {
+      "key": "India",
+      "label": "インド",
+      "external_revenue": 51492000000,
+      "intersegment_revenue": 366000000,
+      "revenue": 51858000000,
+      "operating_income": 5767000000,
+      "assets": 37324000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 447868000000,
+      "intersegment_revenue": 40762000000,
+      "revenue": 488631000000,
+      "operating_income": 23529000000,
+      "assets": 651459000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01108-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "edinet_code": "E02528",
+    "sec_code": "8053",
+    "company_name": "住友商事株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VYV6"
+  },
+  "financials": {
+    "dps": 130,
+    "net_sales": 7292084000000,
+    "net_income": 561859000000,
+    "comprehensive_income": 423957000000,
+    "net_assets": 4648462000000,
+    "total_assets": 11631161000000,
+    "equity_ratio": 0.4,
+    "bps": 3841.68,
+    "eps": 463.66,
+    "eps_diluted": 463.32,
+    "roe": 0.124,
+    "per": 7.27,
+    "operating_cf": 612281000000,
+    "investing_cf": -461386000000,
+    "financing_cf": -247382000000,
+    "cash_end": 570617000000,
+    "gross_profit": 1444755000000,
+    "income_tax_expense": 86601000000,
+    "interest_bearing_debt_current": 580054000000,
+    "interest_bearing_debt_noncurrent": 2674690000000,
+    "lease_liabilities_current": 88880000000,
+    "lease_liabilities_noncurrent": 440014000000,
+    "sga_expense": 1039732000000,
+    "profit_before_tax": 695567000000,
+    "capex_ppe": -102799000000,
+    "current_assets": 5074132000000,
+    "current_liabilities": 3261640000000,
+    "noncurrent_assets": 6557029000000,
+    "trade_receivables": 2028193000000,
+    "inventories": 1653842000000,
+    "trade_payables": 1822237000000,
+    "ppe": 1232605000000,
+    "goodwill": 321541000000,
+    "intangible_assets": 640729000000,
+    "investment_securities": 437632000000,
+    "equity_method_investments": 3010489000000,
+    "treasury_stock": -4289000000,
+    "noncontrolling_interests": 237096000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "gross_profit": 166245000000,
+      "equity_method_income": 14908000000,
+      "profit_attributable_to_owners": 51173000000,
+      "assets": 848551000000
+    },
+    {
+      "key": "ChemicalSolutions",
+      "label": "化学品・エレクトロニクス・農業",
+      "gross_profit": 153905000000,
+      "equity_method_income": 8608000000,
+      "profit_attributable_to_owners": 21398000000,
+      "assets": 829944000000
+    },
+    {
+      "key": "DiverseUrbanDevelopment",
+      "label": "都市総合開発",
+      "gross_profit": 119595000000,
+      "equity_method_income": 11306000000,
+      "profit_attributable_to_owners": 77075000000,
+      "assets": 1619868000000
+    },
+    {
+      "key": "EnergyTransformationBusiness",
+      "label": "エネルギートランスフォーメーション",
+      "gross_profit": 165998000000,
+      "equity_method_income": 41941000000,
+      "profit_attributable_to_owners": 96379000000,
+      "assets": 1633192000000
+    },
+    {
+      "key": "LifestyleBusiness",
+      "label": "ライフスタイル",
+      "gross_profit": 236162000000,
+      "equity_method_income": 6856000000,
+      "profit_attributable_to_owners": 14123000000,
+      "assets": 769990000000
+    },
+    {
+      "key": "MediaAndDigital",
+      "label": "メディア・デジタル",
+      "gross_profit": 164221000000,
+      "equity_method_income": 27966000000,
+      "profit_attributable_to_owners": 45247000000,
+      "assets": 1520393000000
+    },
+    {
+      "key": "MineralResources",
+      "label": "資源",
+      "gross_profit": 47854000000,
+      "equity_method_income": 63106000000,
+      "profit_attributable_to_owners": 91118000000,
+      "assets": 1493888000000
+    },
+    {
+      "key": "Steel",
+      "label": "鉄鋼",
+      "gross_profit": 188262000000,
+      "equity_method_income": 11929000000,
+      "profit_attributable_to_owners": 68375000000,
+      "assets": 1170500000000
+    },
+    {
+      "key": "TransportationAndConstructi",
+      "label": "輸送機・建機",
+      "gross_profit": 200308000000,
+      "equity_method_income": 90346000000,
+      "profit_attributable_to_owners": 101477000000,
+      "assets": 1736941000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02528-000_2025-03-31_01_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

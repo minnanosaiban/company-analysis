@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E00086",
+    "sec_code": "1893",
+    "company_name": "五洋建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TRIE"
+  },
+  "financials": {
+    "net_sales": 617708000000,
+    "ordinary_income": 27221000000,
+    "net_income": 17875000000,
+    "comprehensive_income": 23232000000,
+    "eps": 62.73,
+    "dps": 24,
+    "operating_cf": 9139000000,
+    "investing_cf": -6406000000,
+    "financing_cf": 6710000000,
+    "net_assets": 173064000000,
+    "total_assets": 566028000000,
+    "bps": 607.35,
+    "cash_end": 59564000000,
+    "equity_ratio": 0.306,
+    "roe": 0.108,
+    "per": 12.4,
+    "gross_profit": 53327000000,
+    "operating_income": 29152000000,
+    "income_tax_expense": 9071000000,
+    "interest_bearing_debt_current": 43705000000,
+    "interest_bearing_debt_noncurrent": 25611000000,
+    "bonds_payable": 41000000000,
+    "depreciation": 7565000000,
+    "capex_ppe": -10887000000,
+    "current_assets": 428840000000,
+    "current_liabilities": 321004000000,
+    "noncurrent_assets": 137188000000,
+    "noncurrent_liabilities": 71959000000,
+    "ppe": 96278000000,
+    "goodwill": 1320000000,
+    "intangible_assets": 2498000000,
+    "investment_securities": 24852000000,
+    "treasury_stock": -773000000,
+    "noncontrolling_interests": 55000000
+  },
+  "segments": [
+    {
+      "key": "DomesticConstruction",
+      "label": "国内建築事業",
+      "external_revenue": 189273000000,
+      "intersegment_revenue": 4000000,
+      "operating_income": 4856000000
+    },
+    {
+      "key": "DomesticEngineering",
+      "label": "国内土木事業",
+      "external_revenue": 266439000000,
+      "intersegment_revenue": 224000000,
+      "operating_income": 27814000000
+    },
+    {
+      "key": "OverseasConstruction",
+      "label": "海外建設事業",
+      "external_revenue": 150639000000,
+      "operating_income": -4154000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00086-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

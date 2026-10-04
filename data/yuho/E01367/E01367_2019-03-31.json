@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01367",
+    "sec_code": "5991",
+    "company_name": "日本発条株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R45X"
+  },
+  "financials": {
+    "net_sales": 681006000000,
+    "ordinary_income": 31457000000,
+    "net_income": 7104000000,
+    "comprehensive_income": -2273000000,
+    "eps": 29.97,
+    "eps_diluted": 28.85,
+    "dps": 24,
+    "operating_cf": 36794000000,
+    "investing_cf": -42299000000,
+    "financing_cf": 7327000000,
+    "net_assets": 296061000000,
+    "total_assets": 573198000000,
+    "bps": 1185.77,
+    "cash_end": 98403000000,
+    "equity_ratio": 0.49,
+    "roe": 0.025,
+    "per": 33.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01367-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

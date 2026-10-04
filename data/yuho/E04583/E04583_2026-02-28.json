@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E04583",
+    "sec_code": "9602",
+    "company_name": "東宝株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-05-25",
+    "doc_id": "S100Y5O3"
+  },
+  "financials": {
+    "ordinary_income": 70140000000,
+    "net_income": 51768000000,
+    "comprehensive_income": 68699000000,
+    "eps": 61.2,
+    "dps": 110,
+    "operating_cf": 65334000000,
+    "investing_cf": -24904000000,
+    "financing_cf": -31326000000,
+    "net_assets": 532990000000,
+    "total_assets": 702934000000,
+    "bps": 614.01,
+    "cash_end": 86683000000,
+    "equity_ratio": 0.733,
+    "roe": 0.104,
+    "per": 25.6,
+    "gross_profit": 159593000000,
+    "operating_income": 67889000000,
+    "income_tax_expense": 26315000000,
+    "interest_bearing_debt_current": 45000000,
+    "interest_bearing_debt_noncurrent": 1275000000,
+    "current_portion_lt_loans": 300000000,
+    "depreciation": 13872000000,
+    "capex_ppe": -15438000000,
+    "current_assets": 234036000000,
+    "current_liabilities": 95252000000,
+    "noncurrent_assets": 468897000000,
+    "noncurrent_liabilities": 74691000000,
+    "inventories": 21175000000,
+    "ppe": 247927000000,
+    "goodwill": 16832000000,
+    "intangible_assets": 30739000000,
+    "investment_securities": 164204000000,
+    "treasury_stock": -39629000000,
+    "noncontrolling_interests": 17622000000
+  },
+  "segments": [
+    {
+      "key": "FilmBusiness",
+      "label": "映画事業",
+      "external_revenue": 182617000000,
+      "intersegment_revenue": 3902000000,
+      "operating_income": 37302000000
+    },
+    {
+      "key": "IPAndAnimeBusiness",
+      "label": "IP・アニメ事業",
+      "external_revenue": 75265000000,
+      "intersegment_revenue": 2723000000,
+      "operating_income": 17296000000
+    },
+    {
+      "key": "RealEstateBusiness",
+      "label": "不動産事業",
+      "external_revenue": 79179000000,
+      "intersegment_revenue": 5312000000,
+      "operating_income": 19030000000
+    },
+    {
+      "key": "TheatricalBusiness",
+      "label": "演劇事業",
+      "external_revenue": 22310000000,
+      "intersegment_revenue": 55000000,
+      "operating_income": 3463000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04583-000_2026-02-28_01_2026-05-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

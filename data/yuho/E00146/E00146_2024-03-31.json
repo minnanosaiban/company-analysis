@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "edinet_code": "E00146",
+    "sec_code": "1959",
+    "company_name": "株式会社九電工",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TVRY"
+  },
+  "financials": {
+    "net_sales": 469057000000,
+    "ordinary_income": 42362000000,
+    "net_income": 28017000000,
+    "comprehensive_income": 36768000000,
+    "eps": 395.87,
+    "dps": 120,
+    "operating_cf": 43969000000,
+    "investing_cf": -2314000000,
+    "financing_cf": -11032000000,
+    "net_assets": 291125000000,
+    "total_assets": 503284000000,
+    "bps": 4082.95,
+    "cash_end": 94588000000,
+    "equity_ratio": 0.574,
+    "roe": 0.102,
+    "per": 16.1,
+    "gross_profit": 64632000000,
+    "operating_income": 38016000000,
+    "income_tax_expense": 15713000000,
+    "interest_bearing_debt_current": 28930000000,
+    "interest_bearing_debt_noncurrent": 3025000000,
+    "lease_liabilities_noncurrent": 3380000000,
+    "depreciation": 6016000000,
+    "capex_ppe": -1836000000,
+    "current_assets": 324418000000,
+    "current_liabilities": 195527000000,
+    "noncurrent_assets": 178865000000,
+    "noncurrent_liabilities": 16630000000,
+    "ppe": 78667000000,
+    "goodwill": 507000000,
+    "intangible_assets": 4390000000,
+    "investment_securities": 73645000000,
+    "treasury_stock": -493000000,
+    "noncontrolling_interests": 2344000000
+  },
+  "segments": [
+    {
+      "key": "EquipmentInstallation",
+      "label": "設備工事業",
+      "external_revenue": 452623000000,
+      "intersegment_revenue": 930000000,
+      "operating_income": 34707000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00146-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

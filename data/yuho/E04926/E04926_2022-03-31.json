@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E04926",
+    "sec_code": "4665",
+    "company_name": "株式会社ダスキン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2R2"
+  },
+  "financials": {
+    "net_sales": 163210000000,
+    "ordinary_income": 12215000000,
+    "net_income": 8132000000,
+    "comprehensive_income": 7477000000,
+    "eps": 164.71,
+    "eps_diluted": 164.63,
+    "dps": 83,
+    "operating_cf": 19596000000,
+    "investing_cf": -8524000000,
+    "financing_cf": -835000000,
+    "net_assets": 151026000000,
+    "total_assets": 198055000000,
+    "bps": 3047.67,
+    "cash_end": 39963000000,
+    "equity_ratio": 0.761,
+    "roe": 0.055,
+    "per": 16.33,
+    "gross_profit": 74908000000,
+    "operating_income": 9899000000,
+    "income_tax_expense": 2933000000,
+    "interest_bearing_debt_noncurrent": 1530000000,
+    "depreciation": 7560000000,
+    "capex_ppe": -4336000000,
+    "capex_intangible": -1311000000,
+    "current_assets": 84102000000,
+    "current_liabilities": 38005000000,
+    "noncurrent_assets": 113952000000,
+    "noncurrent_liabilities": 9023000000,
+    "trade_payables": 6963000000,
+    "ppe": 49474000000,
+    "goodwill": 270000000,
+    "intangible_assets": 8146000000,
+    "investment_securities": 46176000000,
+    "treasury_stock": -4219000000,
+    "noncontrolling_interests": 305000000
+  },
+  "segments": [
+    {
+      "key": "DirectSellingGroup",
+      "label": null,
+      "external_revenue": 106483000000,
+      "intersegment_revenue": 644000000,
+      "operating_income": 10539000000
+    },
+    {
+      "key": "FoodGroup",
+      "label": null,
+      "external_revenue": 43805000000,
+      "intersegment_revenue": 12000000,
+      "operating_income": 3619000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04926-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

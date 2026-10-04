@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E05460",
+    "sec_code": "2432",
+    "company_name": "株式会社ディー・エヌ・エー",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-26",
+    "doc_id": "S100YLDV"
+  },
+  "financials": {
+    "dps": 66,
+    "net_sales": 147700000000,
+    "net_income": 19048000000,
+    "total_assets": 333244000000,
+    "equity_ratio": 0.698,
+    "bps": 2160.86,
+    "eps": 171.36,
+    "eps_diluted": 170.95,
+    "roe": 0.08,
+    "per": 14.2,
+    "operating_cf": 33431000000,
+    "investing_cf": 34820000000,
+    "financing_cf": -58079000000,
+    "cash_end": 103046000000,
+    "operating_income": 18694000000,
+    "gross_profit": 79357000000,
+    "income_tax_expense": 7322000000,
+    "lease_liabilities_current": 2677000000,
+    "lease_liabilities_noncurrent": 10266000000,
+    "sga_expense": 51691000000,
+    "profit_before_tax": 25764000000,
+    "depreciation": 7025000000,
+    "capex_intangible": -6509000000,
+    "current_assets": 144677000000,
+    "current_liabilities": 64359000000,
+    "noncurrent_assets": 188567000000,
+    "ppe": 12344000000,
+    "goodwill": 20747000000,
+    "intangible_assets": 20510000000,
+    "equity_method_investments": 58802000000,
+    "treasury_stock": -31063000000,
+    "noncontrolling_interests": 8165000000
+  },
+  "segments": [
+    {
+      "key": "GameBusiness",
+      "label": null,
+      "external_revenue": 64176000000,
+      "intersegment_revenue": 180000000,
+      "revenue": 64356000000,
+      "operating_income": 29656000000
+    },
+    {
+      "key": "HealthcareAndMedicalBusiness",
+      "label": null,
+      "external_revenue": 8705000000,
+      "intersegment_revenue": 20000000,
+      "revenue": 8725000000,
+      "operating_income": -2329000000
+    },
+    {
+      "key": "LiveStreamingBusiness",
+      "label": null,
+      "external_revenue": 39790000000,
+      "revenue": 39790000000,
+      "operating_income": 3984000000
+    },
+    {
+      "key": "NewBusinessesAndOthers",
+      "label": null,
+      "external_revenue": 2379000000,
+      "intersegment_revenue": 113000000,
+      "revenue": 2493000000,
+      "operating_income": -1550000000
+    },
+    {
+      "key": "SportsSmartCityBusiness",
+      "label": null,
+      "external_revenue": 32651000000,
+      "intersegment_revenue": 101000000,
+      "revenue": 32751000000,
+      "operating_income": 1795000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05460-000_2026-03-31_01_2026-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

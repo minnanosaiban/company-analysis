@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E03519",
+    "sec_code": "3088",
+    "company_name": "株式会社マツキヨココカラ＆カンパニー",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R0WI"
+  },
+  "financials": {
+    "net_sales": 729969000000,
+    "ordinary_income": 44565000000,
+    "net_income": 34377000000,
+    "comprehensive_income": 29583000000,
+    "eps": 281.42,
+    "eps_diluted": 281.33,
+    "dps": 70,
+    "operating_cf": 39812000000,
+    "investing_cf": -15485000000,
+    "financing_cf": -20337000000,
+    "net_assets": 460130000000,
+    "total_assets": 652524000000,
+    "bps": 3255.22,
+    "cash_end": 74519000000,
+    "equity_ratio": 0.705,
+    "roe": 0.097,
+    "per": 15.4,
+    "gross_profit": 239979000000,
+    "operating_income": 41091000000,
+    "income_tax_expense": 15499000000,
+    "interest_bearing_debt_current": 884000000,
+    "interest_bearing_debt_noncurrent": 18400000000,
+    "lease_liabilities_current": 1756000000,
+    "lease_liabilities_noncurrent": 1880000000,
+    "depreciation": 11052000000,
+    "capex_ppe": -9317000000,
+    "capex_intangible": -1649000000,
+    "current_assets": 298215000000,
+    "current_liabilities": 142449000000,
+    "noncurrent_assets": 354308000000,
+    "noncurrent_liabilities": 49944000000,
+    "ppe": 107126000000,
+    "goodwill": 119046000000,
+    "intangible_assets": 143365000000,
+    "investment_securities": 22528000000,
+    "treasury_stock": -6439000000,
+    "noncontrolling_interests": 24000000
+  },
+  "segments": [
+    {
+      "key": "CocokaraFineGroup",
+      "label": null,
+      "external_revenue": 182621000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 5312000000
+    },
+    {
+      "key": "ManagementBusiness",
+      "label": null,
+      "external_revenue": 7498000000,
+      "intersegment_revenue": 455858000000,
+      "operating_income": -131000000
+    },
+    {
+      "key": "MatsumotoKiyoshiGroup",
+      "label": null,
+      "external_revenue": 539850000000,
+      "intersegment_revenue": 211000000,
+      "operating_income": 35854000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03519-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

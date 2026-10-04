@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E01772",
+    "sec_code": "6752",
+    "company_name": "パナソニックホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-20",
+    "doc_id": "S100W0F3"
+  },
+  "financials": {
+    "dps": 48,
+    "net_sales": 8458185000000,
+    "net_income": 366205000000,
+    "comprehensive_income": 239457000000,
+    "net_assets": 4694421000000,
+    "total_assets": 9343191000000,
+    "equity_ratio": 0.502,
+    "bps": 2010.81,
+    "eps": 156.87,
+    "eps_diluted": 156.83,
+    "roe": 0.079,
+    "per": 11.29,
+    "operating_cf": 796083000000,
+    "investing_cf": -859926000000,
+    "financing_cf": -190347000000,
+    "cash_end": 847561000000,
+    "operating_income": 426490000000,
+    "gross_profit": 2628616000000,
+    "income_tax_expense": 101893000000,
+    "interest_bearing_debt_noncurrent": 1172581000000,
+    "lease_liabilities_current": 61682000000,
+    "lease_liabilities_noncurrent": 226741000000,
+    "sga_expense": 2161393000000,
+    "profit_before_tax": 486289000000,
+    "depreciation": 405729000000,
+    "capex_ppe": -772332000000,
+    "capex_intangible": -91038000000,
+    "current_assets": 3615479000000,
+    "current_liabilities": 2682753000000,
+    "noncurrent_assets": 5727712000000,
+    "inventories": 1022225000000,
+    "ppe": 1902256000000,
+    "goodwill": 1268688000000,
+    "intangible_assets": 734814000000,
+    "equity_method_investments": 497393000000,
+    "treasury_stock": -209026000000,
+    "noncontrolling_interests": 180408000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": null,
+      "external_revenue": 798471000000,
+      "intersegment_revenue": 6499000000,
+      "operating_income": 30115000000
+    },
+    {
+      "key": "Connect",
+      "label": null,
+      "external_revenue": 1257598000000,
+      "intersegment_revenue": 75619000000,
+      "operating_income": 77173000000
+    },
+    {
+      "key": "Energy",
+      "label": null,
+      "external_revenue": 828532000000,
+      "intersegment_revenue": 44712000000,
+      "operating_income": 120188000000
+    },
+    {
+      "key": "Industry",
+      "label": null,
+      "external_revenue": 919905000000,
+      "intersegment_revenue": 163702000000,
+      "operating_income": 43235000000
+    },
+    {
+      "key": "Lifestyle",
+      "label": null,
+      "external_revenue": 3381314000000,
+      "intersegment_revenue": 202893000000,
+      "operating_income": 127908000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01772-000_2025-03-31_01_2025-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

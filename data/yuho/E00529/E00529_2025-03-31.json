@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "edinet_code": "E00529",
+    "sec_code": "3107",
+    "company_name": "ダイワボウホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W3VT"
+  },
+  "financials": {
+    "net_sales": 1136817000000,
+    "ordinary_income": 35454000000,
+    "net_income": 24751000000,
+    "comprehensive_income": 27219000000,
+    "eps": 271.37,
+    "dps": 90,
+    "operating_cf": 5909000000,
+    "investing_cf": -2588000000,
+    "financing_cf": -17402000000,
+    "net_assets": 152310000000,
+    "total_assets": 440122000000,
+    "bps": 1693.24,
+    "cash_end": 55221000000,
+    "equity_ratio": 0.346,
+    "roe": 0.168,
+    "per": 9.3,
+    "gross_profit": 79796000000,
+    "operating_income": 34899000000,
+    "income_tax_expense": 11600000000,
+    "interest_bearing_debt_current": 8904000000,
+    "interest_bearing_debt_noncurrent": 11799000000,
+    "depreciation": 1712000000,
+    "capex_ppe": -1925000000,
+    "capex_intangible": -1473000000,
+    "current_assets": 407778000000,
+    "current_liabilities": 267779000000,
+    "noncurrent_assets": 32343000000,
+    "noncurrent_liabilities": 20032000000,
+    "trade_payables": 228422000000,
+    "ppe": 11252000000,
+    "goodwill": 1201000000,
+    "intangible_assets": 4973000000,
+    "investment_securities": 10409000000,
+    "treasury_stock": -15088000000,
+    "noncontrolling_interests": 222000000
+  },
+  "segments": [
+    {
+      "key": "ITInfrastructureDistributionBusiness",
+      "label": null,
+      "external_revenue": 1123922000000,
+      "intersegment_revenue": 144000000,
+      "operating_income": 34045000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00529-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

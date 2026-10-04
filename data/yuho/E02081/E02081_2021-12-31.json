@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E02081",
+    "sec_code": "6723",
+    "company_name": "ルネサスエレクトロニクス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-10",
+    "doc_id": "S100QP90"
+  },
+  "financials": {
+    "net_sales": 993908000000,
+    "net_income": 119536000000,
+    "comprehensive_income": 284721000000,
+    "net_assets": 1150081000000,
+    "total_assets": 2426301000000,
+    "equity_ratio": 0.474,
+    "bps": 591.67,
+    "eps": 64.77,
+    "eps_diluted": 63.35,
+    "roe": 0.135,
+    "per": 22,
+    "operating_cf": 307384000000,
+    "investing_cf": -663126000000,
+    "financing_cf": 340915000000,
+    "cash_end": 221924000000,
+    "operating_income": 173827000000,
+    "gross_profit": 496128000000,
+    "income_tax_expense": 23031000000,
+    "interest_bearing_debt_current": 121105000000,
+    "interest_bearing_debt_noncurrent": 692983000000,
+    "sga_expense": 317199000000,
+    "profit_before_tax": 142718000000,
+    "depreciation": 146047000000,
+    "capex_ppe": -36938000000,
+    "capex_intangible": -15408000000,
+    "current_assets": 517645000000,
+    "current_liabilities": 445888000000,
+    "noncurrent_assets": 1908656000000,
+    "trade_receivables": 140478000000,
+    "inventories": 137759000000,
+    "trade_payables": 204330000000,
+    "ppe": 198165000000,
+    "goodwill": 1089452000000,
+    "intangible_assets": 534778000000,
+    "treasury_stock": -11000000,
+    "noncontrolling_interests": 3317000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "external_revenue": 462309000000,
+      "gross_profit": 214573000000,
+      "operating_income": 122443000000
+    },
+    {
+      "key": "IndustrialInfrastructureIoT",
+      "label": "産業・インフラ・IoT",
+      "external_revenue": 515547000000,
+      "gross_profit": 312301000000,
+      "operating_income": 167071000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02081-000_2022-12-31_02_2023-05-10.csv",
+    "parser_version": "0.1.3"
+  }
+}

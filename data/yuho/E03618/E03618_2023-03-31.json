@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "edinet_code": "E03618",
+    "sec_code": "8377",
+    "company_name": "株式会社ほくほくフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R74M"
+  },
+  "financials": {
+    "ordinary_income": 26392000000,
+    "net_income": 21435000000,
+    "comprehensive_income": 229000000,
+    "eps": 159.18,
+    "eps_diluted": 158.63,
+    "dps": 37,
+    "operating_cf": -1466582000000,
+    "investing_cf": 367722000000,
+    "financing_cf": -10981000000,
+    "net_assets": 612212000000,
+    "total_assets": 16172700000000,
+    "bps": 4491.95,
+    "cash_end": 4341640000000,
+    "equity_ratio": 0.0376,
+    "roe": 0.0352,
+    "per": 5.81,
+    "income_tax_expense": 3056000000,
+    "depreciation": 5984000000,
+    "capex_ppe": -5184000000,
+    "capex_intangible": -2074000000,
+    "ppe": 100013000000,
+    "goodwill": 2978000000,
+    "intangible_assets": 8299000000,
+    "treasury_stock": -675000000,
+    "noncontrolling_interests": 3594000000,
+    "ordinary_revenue": 187883000000
+  },
+  "segments": [
+    {
+      "key": "HokkaidoBank",
+      "label": null,
+      "external_revenue": 75641000000,
+      "intersegment_revenue": 1309000000
+    },
+    {
+      "key": "HokurikuBank",
+      "label": null,
+      "external_revenue": 96171000000,
+      "intersegment_revenue": 1045000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03618-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

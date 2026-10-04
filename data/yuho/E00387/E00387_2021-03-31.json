@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00387",
+    "sec_code": "2222",
+    "company_name": "寿スピリッツ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R29Q"
+  },
+  "financials": {
+    "net_sales": 23204841000,
+    "ordinary_income": -321791000,
+    "net_income": -569628000,
+    "comprehensive_income": -576792000,
+    "eps": -18.3,
+    "dps": 30,
+    "operating_cf": 82901000,
+    "investing_cf": -605088000,
+    "financing_cf": -462901000,
+    "net_assets": 19341749000,
+    "total_assets": 25052283000,
+    "bps": 621.53,
+    "cash_end": 7309405000,
+    "equity_ratio": 0.772,
+    "roe": -0.028,
+    "per": -392.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00387-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

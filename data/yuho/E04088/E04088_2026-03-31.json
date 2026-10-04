@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E04088",
+    "sec_code": "9007",
+    "company_name": "小田急電鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YIM7"
+  },
+  "financials": {
+    "ordinary_income": 54028000000,
+    "net_income": 37368000000,
+    "comprehensive_income": 46897000000,
+    "eps": 108.25,
+    "dps": 55,
+    "operating_cf": 59915000000,
+    "investing_cf": -84274000000,
+    "financing_cf": 29270000000,
+    "net_assets": 508783000000,
+    "total_assets": 1393521000000,
+    "bps": 1470.36,
+    "cash_end": 39863000000,
+    "equity_ratio": 0.364,
+    "roe": 0.076,
+    "per": 15.2,
+    "operating_income": 52659000000,
+    "income_tax_expense": 13166000000,
+    "interest_bearing_debt_current": 192552000000,
+    "interest_bearing_debt_noncurrent": 282723000000,
+    "bonds_payable": 187000000000,
+    "lease_liabilities_current": 1126000000,
+    "lease_liabilities_noncurrent": 697000000,
+    "depreciation": 44352000000,
+    "capex_ppe": -84618000000,
+    "current_assets": 181317000000,
+    "current_liabilities": 330612000000,
+    "noncurrent_assets": 1212204000000,
+    "noncurrent_liabilities": 554126000000,
+    "trade_payables": 22913000000,
+    "ppe": 1053950000000,
+    "goodwill": 523000000,
+    "intangible_assets": 16569000000,
+    "investment_securities": 110089000000,
+    "treasury_stock": -39001000000,
+    "noncontrolling_interests": 1186000000
+  },
+  "segments": [
+    {
+      "key": "LivingServices",
+      "label": null,
+      "external_revenue": 155100000000,
+      "intersegment_revenue": 3505000000,
+      "operating_income": 7658000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 84844000000,
+      "intersegment_revenue": 11382000000,
+      "operating_income": 15473000000
+    },
+    {
+      "key": "Transportation",
+      "label": null,
+      "external_revenue": 178787000000,
+      "intersegment_revenue": 2473000000,
+      "operating_income": 29517000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04088-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

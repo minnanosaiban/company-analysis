@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E04520",
+    "sec_code": "9532",
+    "company_name": "大阪瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YFQT"
+  },
+  "financials": {
+    "net_sales": 2030302000000,
+    "ordinary_income": 204522000000,
+    "net_income": 152751000000,
+    "comprehensive_income": 221274000000,
+    "eps": 391.15,
+    "dps": 120,
+    "operating_cf": 340740000000,
+    "investing_cf": -241852000000,
+    "financing_cf": -129177000000,
+    "net_assets": 1854028000000,
+    "total_assets": 3321405000000,
+    "bps": 4705,
+    "cash_end": 58492000000,
+    "equity_ratio": 0.544,
+    "roe": 0.087,
+    "per": 16.31,
+    "gross_profit": 437516000000,
+    "operating_income": 174809000000,
+    "income_tax_expense": 42705000000,
+    "interest_bearing_debt_noncurrent": 303203000000,
+    "bonds_payable": 491016000000,
+    "depreciation": 135138000000,
+    "capex_ppe": -238540000000,
+    "capex_intangible": -12577000000,
+    "current_assets": 828882000000,
+    "current_liabilities": 450212000000,
+    "noncurrent_assets": 2492522000000,
+    "noncurrent_liabilities": 1017164000000,
+    "inventories": 222683000000,
+    "trade_payables": 94528000000,
+    "ppe": 1494750000000,
+    "goodwill": 6463000000,
+    "intangible_assets": 79093000000,
+    "investment_securities": 548433000000,
+    "treasury_stock": -63801000000,
+    "noncontrolling_interests": 47985000000
+  },
+  "segments": [
+    {
+      "key": "DomesticEnergy",
+      "label": "国内エネルギー",
+      "external_revenue": 1639494000000,
+      "intersegment_revenue": 3911000000,
+      "operating_income": 68749000000,
+      "equity_method_income": 3191000000
+    },
+    {
+      "key": "InternationalEnergy",
+      "label": "海外エネルギー",
+      "external_revenue": 126960000000,
+      "intersegment_revenue": 16830000000,
+      "operating_income": 67650000000,
+      "equity_method_income": 20746000000
+    },
+    {
+      "key": "LifeAndBusinessSolutions",
+      "label": "ライフ＆ビジネス ソリューション",
+      "external_revenue": 263847000000,
+      "intersegment_revenue": 55992000000,
+      "operating_income": 37447000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04520-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

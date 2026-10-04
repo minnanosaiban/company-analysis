@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02652",
+    "sec_code": "8035",
+    "company_name": "東京エレクトロン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QYR0"
+  },
+  "financials": {
+    "net_sales": 1399102000000,
+    "ordinary_income": 322103000000,
+    "net_income": 242941000000,
+    "comprehensive_income": 305801000000,
+    "eps": 520.73,
+    "eps_diluted": 517.76,
+    "dps": 781,
+    "operating_cf": 145888000000,
+    "investing_cf": -18274000000,
+    "financing_cf": -114525000000,
+    "net_assets": 1024562000000,
+    "total_assets": 1425364000000,
+    "bps": 2170.73,
+    "cash_end": 265993000000,
+    "equity_ratio": 0.711,
+    "roe": 0.265,
+    "per": 29.95
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02652-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

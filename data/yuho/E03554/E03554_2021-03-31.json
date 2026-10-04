@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E03554",
+    "sec_code": "8334",
+    "company_name": "株式会社群馬銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R51Z"
+  },
+  "financials": {
+    "ordinary_income": 20082000000,
+    "net_income": 13501000000,
+    "comprehensive_income": 65515000000,
+    "eps": 32.14,
+    "dps": 13,
+    "operating_cf": 1987175000000,
+    "investing_cf": -498369000000,
+    "financing_cf": -5161000000,
+    "net_assets": 548093000000,
+    "total_assets": 10615756000000,
+    "bps": 1303.93,
+    "cash_end": 2324903000000,
+    "equity_ratio": 0.0516,
+    "roe": 0.0261,
+    "per": 12.35,
+    "ordinary_revenue": 143316000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03554-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

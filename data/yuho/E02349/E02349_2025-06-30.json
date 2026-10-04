@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E02349",
+    "sec_code": "7747",
+    "company_name": "朝日インテック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-09-24",
+    "doc_id": "S100WQNM"
+  },
+  "financials": {
+    "net_sales": 120025000000,
+    "ordinary_income": 29563000000,
+    "net_income": 12737000000,
+    "comprehensive_income": 9375000000,
+    "eps": 46.92,
+    "dps": 24.23,
+    "operating_cf": 40543000000,
+    "investing_cf": -13434000000,
+    "financing_cf": -8107000000,
+    "net_assets": 151354000000,
+    "total_assets": 193187000000,
+    "bps": 558.31,
+    "cash_end": 53200000000,
+    "equity_ratio": 0.779,
+    "roe": 0.084,
+    "per": 48.7,
+    "gross_profit": 81235000000,
+    "operating_income": 30079000000,
+    "income_tax_expense": 9147000000,
+    "interest_bearing_debt_current": 2387000000,
+    "interest_bearing_debt_noncurrent": 6633000000,
+    "lease_liabilities_noncurrent": 2078000000,
+    "depreciation": 9190000000,
+    "capex_ppe": -8096000000,
+    "capex_intangible": -482000000,
+    "current_assets": 103359000000,
+    "current_liabilities": 27856000000,
+    "noncurrent_assets": 89827000000,
+    "noncurrent_liabilities": 13976000000,
+    "trade_receivables": 15767000000,
+    "trade_payables": 2655000000,
+    "ppe": 59082000000,
+    "goodwill": 110000000,
+    "intangible_assets": 5595000000,
+    "investment_securities": 19389000000,
+    "treasury_stock": -4453000000,
+    "noncontrolling_interests": 795000000
+  },
+  "segments": [
+    {
+      "key": "Device",
+      "label": null,
+      "external_revenue": 12245000000,
+      "intersegment_revenue": 14151000000,
+      "operating_income": 4624000000
+    },
+    {
+      "key": "Medical",
+      "label": null,
+      "external_revenue": 107779000000,
+      "operating_income": 33445000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02349-000_2025-06-30_01_2025-09-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

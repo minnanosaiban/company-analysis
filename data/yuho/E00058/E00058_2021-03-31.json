@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00058",
+    "sec_code": "1812",
+    "company_name": "鹿島建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R2GR"
+  },
+  "financials": {
+    "net_sales": 1907176000000,
+    "ordinary_income": 139729000000,
+    "net_income": 98522000000,
+    "comprehensive_income": 118229000000,
+    "eps": 193.13,
+    "dps": 54,
+    "operating_cf": 153097000000,
+    "investing_cf": -65434000000,
+    "financing_cf": -39110000000,
+    "net_assets": 884806000000,
+    "total_assets": 2164806000000,
+    "bps": 1731.16,
+    "cash_end": 300991000000,
+    "equity_ratio": 0.404,
+    "roe": 0.118,
+    "per": 8.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00058-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

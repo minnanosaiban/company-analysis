@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "edinet_code": "E24050",
+    "sec_code": "5020",
+    "company_name": "ENEOSホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YF7I"
+  },
+  "financials": {
+    "dps": 34,
+    "net_sales": 11765470000000,
+    "net_income": 258726000000,
+    "comprehensive_income": 350648000000,
+    "net_assets": 3369775000000,
+    "total_assets": 9094314000000,
+    "equity_ratio": 0.371,
+    "bps": 1252.75,
+    "eps": 96.18,
+    "eps_diluted": 96,
+    "roe": 0.08,
+    "per": 14.67,
+    "operating_cf": 619983000000,
+    "investing_cf": -251951000000,
+    "financing_cf": -361034000000,
+    "cash_end": 877295000000,
+    "operating_income": 466627000000,
+    "gross_profit": 1223421000000,
+    "income_tax_expense": 141534000000,
+    "interest_bearing_debt_current": 588630000000,
+    "interest_bearing_debt_noncurrent": 1602865000000,
+    "lease_liabilities_current": 75836000000,
+    "lease_liabilities_noncurrent": 348398000000,
+    "sga_expense": 872351000000,
+    "profit_before_tax": 448755000000,
+    "depreciation": 329195000000,
+    "capex_ppe": -240301000000,
+    "capex_intangible": -15980000000,
+    "current_assets": 4292856000000,
+    "current_liabilities": 2711263000000,
+    "noncurrent_assets": 4801458000000,
+    "trade_receivables": 1432919000000,
+    "inventories": 1557786000000,
+    "trade_payables": 1566265000000,
+    "ppe": 3178457000000,
+    "goodwill": 74201000000,
+    "intangible_assets": 400227000000,
+    "equity_method_investments": 696931000000,
+    "treasury_stock": -9821000000,
+    "noncontrolling_interests": 388426000000
+  },
+  "segments": [
+    {
+      "key": "Electricity",
+      "label": "電気",
+      "external_revenue": 332198000000,
+      "intersegment_revenue": 17021000000,
+      "operating_income": 21996000000,
+      "assets": 248997000000,
+      "equity_method_income": -2486000000
+    },
+    {
+      "key": "HighPerformanceMaterials",
+      "label": "機能材",
+      "external_revenue": 336507000000,
+      "intersegment_revenue": 2481000000,
+      "operating_income": 11076000000,
+      "assets": 319009000000,
+      "equity_method_income": 268000000
+    },
+    {
+      "key": "OilAndNaturalGasExplorationAndProduction",
+      "label": "石油・天然ガス開発",
+      "external_revenue": 216744000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 50833000000,
+      "assets": 1294205000000,
+      "equity_method_income": 12237000000
+    },
+    {
+      "key": "PetroleumProducts",
+      "label": "石油製品ほか",
+      "external_revenue": 10341787000000,
+      "intersegment_revenue": 53532000000,
+      "operating_income": 292362000000,
+      "assets": 5938078000000,
+      "equity_method_income": 23513000000
+    },
+    {
+      "key": "RenewableEnergy",
+      "label": "再生可能エネルギー",
+      "external_revenue": 46861000000,
+      "intersegment_revenue": 1796000000,
+      "operating_income": -929000000,
+      "assets": 583062000000,
+      "equity_method_income": -194000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24050-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

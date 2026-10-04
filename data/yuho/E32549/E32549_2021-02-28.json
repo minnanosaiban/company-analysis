@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E32549",
+    "sec_code": "6532",
+    "company_name": "株式会社ベイカレント・コンサルティング",
+    "accounting_standard": "IFRS",
+    "is_consolidated": false,
+    "fiscal_year_end": "2021-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-29",
+    "doc_id": "S100Q8UT"
+  },
+  "financials": {
+    "dps": 170,
+    "ordinary_income": 12596000000,
+    "eps": 59.56,
+    "eps_diluted": 59.37,
+    "operating_cf": 11441000000,
+    "investing_cf": -364000000,
+    "financing_cf": -2810000000,
+    "net_assets": 24502000000,
+    "total_assets": 38173000000,
+    "bps": 159.83,
+    "cash_end": 16295000000,
+    "equity_ratio": 0.642,
+    "roe": 0.443,
+    "per": 36,
+    "net_sales": 42873000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E32549-000_2023-02-28_01_2023-05-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

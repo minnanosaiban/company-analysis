@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E22460",
+    "sec_code": "3635",
+    "company_name": "株式会社コーエーテクモホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TOUL"
+  },
+  "financials": {
+    "net_sales": 84584000000,
+    "ordinary_income": 45741000000,
+    "net_income": 33792000000,
+    "comprehensive_income": 48011000000,
+    "eps": 107.06,
+    "eps_diluted": 99.73,
+    "dps": 54,
+    "operating_cf": 36603000000,
+    "investing_cf": -24859000000,
+    "financing_cf": -15475000000,
+    "net_assets": 175552000000,
+    "total_assets": 245802000000,
+    "bps": 553.59,
+    "cash_end": 10452000000,
+    "equity_ratio": 0.711,
+    "roe": 0.213,
+    "per": 15.13,
+    "gross_profit": 55294000000,
+    "operating_income": 28494000000,
+    "income_tax_expense": 11887000000,
+    "depreciation": 1813000000,
+    "capex_ppe": -1789000000,
+    "capex_intangible": -16000000,
+    "current_assets": 92951000000,
+    "current_liabilities": 68928000000,
+    "noncurrent_assets": 152851000000,
+    "noncurrent_liabilities": 1322000000,
+    "trade_payables": 1046000000,
+    "ppe": 36477000000,
+    "intangible_assets": 231000000,
+    "investment_securities": 106590000000,
+    "treasury_stock": -37765000000
+  },
+  "segments": [
+    {
+      "key": "Amusement",
+      "label": "アミューズメント",
+      "external_revenue": 3918000000,
+      "intersegment_revenue": 0,
+      "operating_income": 673000000
+    },
+    {
+      "key": "Entertainment",
+      "label": "エンタテインメント",
+      "external_revenue": 79387000000,
+      "intersegment_revenue": 99000000,
+      "operating_income": 28304000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産",
+      "external_revenue": 1201000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 151000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E22460-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

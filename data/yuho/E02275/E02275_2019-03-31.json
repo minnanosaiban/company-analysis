@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E02275",
+    "sec_code": "7752",
+    "company_name": "株式会社リコー",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R29T"
+  },
+  "financials": {
+    "dps": 23,
+    "net_sales": 2013228000000,
+    "net_income": 49526000000,
+    "comprehensive_income": 30304000000,
+    "net_assets": 932577000000,
+    "total_assets": 2725132000000,
+    "equity_ratio": 0.3422,
+    "bps": 1286.56,
+    "eps": 68.32,
+    "roe": 0.0538,
+    "per": 16.93,
+    "operating_cf": 81947000000,
+    "investing_cf": -45931000000,
+    "financing_cf": 42424000000,
+    "cash_end": 240099000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02275-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

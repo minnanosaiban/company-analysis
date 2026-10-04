@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E02761",
+    "sec_code": "9934",
+    "company_name": "因幡電機産業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W2KD"
+  },
+  "financials": {
+    "net_sales": 384012000000,
+    "ordinary_income": 26698000000,
+    "net_income": 18783000000,
+    "comprehensive_income": 18499000000,
+    "eps": 333.84,
+    "eps_diluted": 329.59,
+    "dps": 140,
+    "operating_cf": 23279000000,
+    "investing_cf": -10455000000,
+    "financing_cf": -8371000000,
+    "net_assets": 173023000000,
+    "total_assets": 278983000000,
+    "bps": 3072.71,
+    "cash_end": 66062000000,
+    "equity_ratio": 0.618,
+    "roe": 0.112,
+    "per": 11.4,
+    "gross_profit": 65086000000,
+    "operating_income": 25556000000,
+    "income_tax_expense": 8416000000,
+    "interest_bearing_debt_current": 232000000,
+    "depreciation": 1718000000,
+    "capex_ppe": -1069000000,
+    "capex_intangible": -1588000000,
+    "current_assets": 215720000000,
+    "current_liabilities": 100190000000,
+    "noncurrent_assets": 63262000000,
+    "noncurrent_liabilities": 5769000000,
+    "ppe": 21435000000,
+    "intangible_assets": 2673000000,
+    "investment_securities": 19974000000,
+    "treasury_stock": -2756000000
+  },
+  "segments": [
+    {
+      "key": "ElectricalEquipmentAndMaterialsDivision",
+      "label": null,
+      "external_revenue": 271054000000,
+      "intersegment_revenue": 2260000000
+    },
+    {
+      "key": "IndustrialSolutionsDivision",
+      "label": null,
+      "external_revenue": 38144000000,
+      "intersegment_revenue": 641000000
+    },
+    {
+      "key": "ProprietaryProductsDivision",
+      "label": null,
+      "external_revenue": 74814000000,
+      "intersegment_revenue": 4401000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02761-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

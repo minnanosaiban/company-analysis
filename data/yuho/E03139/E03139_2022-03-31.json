@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E03139",
+    "sec_code": "9831",
+    "company_name": "株式会社ヤマダホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R87T"
+  },
+  "financials": {
+    "net_sales": 1619379000000,
+    "ordinary_income": 74136000000,
+    "net_income": 50555000000,
+    "comprehensive_income": 51087000000,
+    "eps": 60.96,
+    "eps_diluted": 60.67,
+    "dps": 18,
+    "operating_cf": 21084000000,
+    "investing_cf": -22265000000,
+    "financing_cf": -16647000000,
+    "net_assets": 676277000000,
+    "total_assets": 1271668000000,
+    "bps": 785.5,
+    "cash_end": 56470000000,
+    "equity_ratio": 0.516,
+    "roe": 0.079,
+    "per": 6.23,
+    "gross_profit": 464960000000,
+    "operating_income": 65703000000,
+    "income_tax_expense": 15959000000,
+    "interest_bearing_debt_current": 60755000000,
+    "interest_bearing_debt_noncurrent": 111111000000,
+    "current_portion_lt_loans": 50300000000,
+    "lease_liabilities_current": 4870000000,
+    "lease_liabilities_noncurrent": 11102000000,
+    "depreciation": 23686000000,
+    "capex_ppe": -28797000000,
+    "capex_intangible": -756000000,
+    "current_assets": 621279000000,
+    "current_liabilities": 391688000000,
+    "noncurrent_assets": 650388000000,
+    "noncurrent_liabilities": 203701000000,
+    "trade_payables": 94564000000,
+    "ppe": 437490000000,
+    "goodwill": 2359000000,
+    "intangible_assets": 40955000000,
+    "investment_securities": 10384000000,
+    "treasury_stock": -61251000000,
+    "noncontrolling_interests": 17849000000
+  },
+  "segments": [
+    {
+      "key": "ElectricalBusiness",
+      "label": "デンキセグメント",
+      "external_revenue": 1312929000000,
+      "intersegment_revenue": 25859000000,
+      "operating_income": 55151000000
+    },
+    {
+      "key": "EnvironmentalBusiness",
+      "label": "環境セグメント",
+      "external_revenue": 14615000000,
+      "intersegment_revenue": 13877000000,
+      "operating_income": 1229000000
+    },
+    {
+      "key": "FinancialBusiness",
+      "label": "金融セグメント",
+      "external_revenue": 2154000000,
+      "intersegment_revenue": 292000000,
+      "operating_income": 428000000
+    },
+    {
+      "key": "HousingBusiness",
+      "label": "住建セグメント",
+      "external_revenue": 263084000000,
+      "intersegment_revenue": 5147000000,
+      "operating_income": 7362000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03139-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

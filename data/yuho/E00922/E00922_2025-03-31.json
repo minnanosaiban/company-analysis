@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E00922",
+    "sec_code": "4506",
+    "company_name": "住友ファーマ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W63T"
+  },
+  "financials": {
+    "net_sales": 398832000000,
+    "net_income": 23634000000,
+    "comprehensive_income": 13416000000,
+    "net_assets": 169479000000,
+    "total_assets": 742604000000,
+    "equity_ratio": 0.228,
+    "bps": 426.59,
+    "eps": 59.49,
+    "roe": 0.145,
+    "per": 12.3,
+    "operating_cf": 16500000000,
+    "investing_cf": 99754000000,
+    "financing_cf": -108836000000,
+    "cash_end": 23116000000,
+    "operating_income": 28804000000,
+    "gross_profit": 245395000000,
+    "income_tax_expense": -6024000000,
+    "interest_bearing_debt_noncurrent": 258982000000,
+    "sga_expense": 180605000000,
+    "profit_before_tax": 17611000000,
+    "depreciation": 25562000000,
+    "capex_ppe": -8498000000,
+    "capex_intangible": -4532000000,
+    "current_assets": 253168000000,
+    "current_liabilities": 240603000000,
+    "noncurrent_assets": 489436000000,
+    "trade_receivables": 74840000000,
+    "inventories": 94222000000,
+    "trade_payables": 38544000000,
+    "ppe": 46648000000,
+    "goodwill": 197406000000,
+    "intangible_assets": 172509000000,
+    "equity_method_investments": 5588000000,
+    "treasury_stock": -682000000
+  },
+  "segments": [
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 47180000000,
+      "operating_income": 23921000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 99838000000,
+      "operating_income": 11416000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 251814000000,
+      "operating_income": 42595000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00922-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

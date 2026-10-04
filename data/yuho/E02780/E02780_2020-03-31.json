@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02780",
+    "sec_code": "9987",
+    "company_name": "株式会社スズケン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3L5"
+  },
+  "financials": {
+    "net_sales": 2213478000000,
+    "ordinary_income": 41467000000,
+    "net_income": 28213000000,
+    "comprehensive_income": 27597000000,
+    "eps": 310.26,
+    "dps": 72,
+    "operating_cf": -25817000000,
+    "investing_cf": 1199000000,
+    "financing_cf": -17167000000,
+    "net_assets": 412708000000,
+    "total_assets": 1112507000000,
+    "bps": 4618.33,
+    "cash_end": 175215000000,
+    "equity_ratio": 0.37,
+    "roe": 0.069,
+    "per": 12.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02780-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

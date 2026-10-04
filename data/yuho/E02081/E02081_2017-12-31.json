@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02081",
+    "sec_code": "6723",
+    "company_name": "ルネサスエレクトロニクス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-10",
+    "doc_id": "S100QP91"
+  },
+  "financials": {
+    "net_sales": 780261000000,
+    "ordinary_income": 75288000000,
+    "net_income": 77196000000,
+    "comprehensive_income": 87174000000,
+    "eps": 46.3,
+    "eps_diluted": 46.26,
+    "operating_cf": 164222000000,
+    "investing_cf": -432635000000,
+    "financing_cf": 63243000000,
+    "net_assets": 511898000000,
+    "total_assets": 1051474000000,
+    "bps": 304.2,
+    "cash_end": 139545000000,
+    "equity_ratio": 0.482,
+    "roe": 0.166,
+    "per": 28.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02081-000_2021-12-31_02_2023-05-10.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01585",
+    "sec_code": "6305",
+    "company_name": "日立建機株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R5E3"
+  },
+  "financials": {
+    "dps": 100,
+    "net_sales": 1033703000000,
+    "net_income": 68542000000,
+    "comprehensive_income": 57445000000,
+    "net_assets": 486407000000,
+    "total_assets": 1185256000000,
+    "equity_ratio": 0.41,
+    "bps": 2287.31,
+    "eps": 322.31,
+    "eps_diluted": 322.31,
+    "roe": 0.147,
+    "per": 9.11,
+    "operating_cf": -25693000000,
+    "investing_cf": -30339000000,
+    "financing_cf": 43928000000,
+    "cash_end": 67347000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01585-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

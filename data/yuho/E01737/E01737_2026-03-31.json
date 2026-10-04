@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "edinet_code": "E01737",
+    "sec_code": "6501",
+    "company_name": "株式会社日立製作所",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YGBO"
+  },
+  "financials": {
+    "dps": 50,
+    "net_sales": 10586781000000,
+    "net_income": 802368000000,
+    "comprehensive_income": 1269567000000,
+    "net_assets": 6568369000000,
+    "total_assets": 15041246000000,
+    "equity_ratio": 0.437,
+    "bps": 1459.71,
+    "eps": 176.76,
+    "eps_diluted": 176.63,
+    "roe": 0.129,
+    "per": 25.3,
+    "operating_cf": 1668061000000,
+    "investing_cf": -341553000000,
+    "financing_cf": -971037000000,
+    "cash_end": 1323480000000,
+    "gross_profit": 3179529000000,
+    "income_tax_expense": 421678000000,
+    "interest_bearing_debt_noncurrent": 539753000000,
+    "sga_expense": 1980254000000,
+    "profit_before_tax": 1273109000000,
+    "depreciation": 457973000000,
+    "capex_ppe": -351790000000,
+    "capex_intangible": -146039000000,
+    "current_assets": 7867239000000,
+    "current_liabilities": 7167139000000,
+    "noncurrent_assets": 7174007000000,
+    "inventories": 1770479000000,
+    "ppe": 1652913000000,
+    "goodwill": 2647501000000,
+    "equity_method_investments": 612142000000,
+    "treasury_stock": -160462000000,
+    "noncontrolling_interests": 204238000000,
+    "current_portion_lt_debt": 425877000000
+  },
+  "segments": [
+    {
+      "key": "ConnectiveIndustries",
+      "label": "コネクティブインダストリーズ",
+      "external_revenue": 3000760000000,
+      "intersegment_revenue": 262031000000,
+      "revenue": 3262791000000,
+      "operating_income": 367396000000,
+      "assets": 4361318000000,
+      "equity_method_income": 10085000000
+    },
+    {
+      "key": "DigitalSystemsAndServices",
+      "label": "デジタルシステム＆サービスセグメント",
+      "external_revenue": 2756551000000,
+      "intersegment_revenue": 183506000000,
+      "revenue": 2940057000000,
+      "operating_income": 450059000000,
+      "assets": 3783627000000,
+      "equity_method_income": 5635000000
+    },
+    {
+      "key": "Energy",
+      "label": "エナジー",
+      "external_revenue": 3200844000000,
+      "intersegment_revenue": 19109000000,
+      "revenue": 3219953000000,
+      "operating_income": 416015000000,
+      "assets": 5525054000000,
+      "equity_method_income": -2992000000
+    },
+    {
+      "key": "Mobility",
+      "label": "モビリティ",
+      "external_revenue": 1320631000000,
+      "intersegment_revenue": 940000000,
+      "revenue": 1321571000000,
+      "operating_income": 108115000000,
+      "assets": 2083835000000,
+      "equity_method_income": 12697000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 275252000000,
+      "intersegment_revenue": 255837000000,
+      "revenue": 531089000000,
+      "operating_income": 22966000000,
+      "assets": 2709143000000,
+      "equity_method_income": 508000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01737-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

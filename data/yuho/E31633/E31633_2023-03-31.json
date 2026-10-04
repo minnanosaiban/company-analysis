@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E31633",
+    "sec_code": "4980",
+    "company_name": "デクセリアルズ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1PW"
+  },
+  "financials": {
+    "net_sales": 106167000000,
+    "ordinary_income": 30174000000,
+    "net_income": 20685000000,
+    "comprehensive_income": 21419000000,
+    "eps": 350.62,
+    "eps_diluted": 348.78,
+    "dps": 65,
+    "operating_cf": 21339000000,
+    "investing_cf": -9447000000,
+    "financing_cf": -12535000000,
+    "net_assets": 73774000000,
+    "total_assets": 126379000000,
+    "bps": 1257.14,
+    "cash_end": 29286000000,
+    "equity_ratio": 0.5768,
+    "roe": 0.3028,
+    "per": 7.67,
+    "gross_profit": 54170000000,
+    "operating_income": 32288000000,
+    "income_tax_expense": 8590000000,
+    "interest_bearing_debt_current": 2000000000,
+    "interest_bearing_debt_noncurrent": 11152000000,
+    "current_portion_lt_loans": 6560000000,
+    "depreciation": 4615000000,
+    "capex_ppe": -10705000000,
+    "capex_intangible": -1087000000,
+    "current_assets": 59238000000,
+    "current_liabilities": 35074000000,
+    "noncurrent_assets": 67141000000,
+    "noncurrent_liabilities": 17530000000,
+    "trade_receivables": 13126000000,
+    "trade_payables": 5972000000,
+    "ppe": 32284000000,
+    "goodwill": 21444000000,
+    "intangible_assets": 27320000000,
+    "treasury_stock": -15908000000,
+    "noncontrolling_interests": 878000000
+  },
+  "segments": [
+    {
+      "key": "ElectronicMaterialsAndComponents",
+      "label": null,
+      "external_revenue": 51199000000,
+      "intersegment_revenue": 296000000,
+      "operating_income": 16106000000
+    },
+    {
+      "key": "OpticalMaterialsAndComponents",
+      "label": null,
+      "external_revenue": 54967000000,
+      "intersegment_revenue": 416000000,
+      "operating_income": 17969000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31633-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

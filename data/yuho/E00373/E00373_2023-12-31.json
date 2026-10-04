@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E00373",
+    "sec_code": "2206",
+    "company_name": "江崎グリコ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T44E"
+  },
+  "financials": {
+    "net_sales": 332590000000,
+    "ordinary_income": 21285000000,
+    "net_income": 14133000000,
+    "comprehensive_income": 23458000000,
+    "eps": 222.25,
+    "dps": 80,
+    "operating_cf": 28063000000,
+    "investing_cf": -8613000000,
+    "financing_cf": -6179000000,
+    "net_assets": 263116000000,
+    "total_assets": 395743000000,
+    "bps": 4128.69,
+    "cash_end": 94691000000,
+    "equity_ratio": 0.663,
+    "roe": 0.056,
+    "per": 18.8,
+    "gross_profit": 123850000000,
+    "operating_income": 18622000000,
+    "income_tax_expense": 5340000000,
+    "depreciation": 14016000000,
+    "capex_ppe": -11821000000,
+    "capex_intangible": -6556000000,
+    "current_assets": 188464000000,
+    "current_liabilities": 115991000000,
+    "noncurrent_assets": 207278000000,
+    "noncurrent_liabilities": 16635000000,
+    "trade_receivables": 48433000000,
+    "trade_payables": 38326000000,
+    "ppe": 111459000000,
+    "goodwill": 306000000,
+    "intangible_assets": 26909000000,
+    "investment_securities": 46840000000,
+    "treasury_stock": -13809000000,
+    "noncontrolling_interests": 572000000
+  },
+  "segments": [
+    {
+      "key": "DairyBusiness",
+      "label": null,
+      "external_revenue": 69675000000,
+      "operating_income": 529000000
+    },
+    {
+      "key": "FoodIngredientsBusiness",
+      "label": "食品原料事業",
+      "external_revenue": 13348000000,
+      "intersegment_revenue": 301000000,
+      "operating_income": 2427000000
+    },
+    {
+      "key": "HealthAndFoodBusiness",
+      "label": "健康・食品事業",
+      "external_revenue": 50499000000,
+      "operating_income": 2064000000
+    },
+    {
+      "key": "NutritionalConfectioneryBusiness",
+      "label": "栄養菓子事業",
+      "external_revenue": 61890000000,
+      "operating_income": 6525000000
+    },
+    {
+      "key": "OtherDomesticBusiness",
+      "label": "国内その他事業",
+      "external_revenue": 65962000000,
+      "intersegment_revenue": 12586000000,
+      "operating_income": 2047000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": "海外事業",
+      "external_revenue": 71214000000,
+      "operating_income": 4165000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00373-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

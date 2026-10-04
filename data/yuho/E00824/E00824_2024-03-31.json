@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E00824",
+    "sec_code": "4206",
+    "company_name": "アイカ工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TSUE"
+  },
+  "financials": {
+    "net_sales": 236625000000,
+    "ordinary_income": 26135000000,
+    "net_income": 15135000000,
+    "comprehensive_income": 26158000000,
+    "eps": 236.6,
+    "eps_diluted": 236.53,
+    "dps": 112,
+    "operating_cf": 28482000000,
+    "investing_cf": -7574000000,
+    "financing_cf": -11167000000,
+    "net_assets": 176543000000,
+    "total_assets": 274739000000,
+    "bps": 2529.07,
+    "cash_end": 59637000000,
+    "equity_ratio": 0.589,
+    "roe": 0.099,
+    "per": 15.7,
+    "gross_profit": 64139000000,
+    "operating_income": 25286000000,
+    "income_tax_expense": 9060000000,
+    "interest_bearing_debt_current": 6025000000,
+    "interest_bearing_debt_noncurrent": 4465000000,
+    "depreciation": 7070000000,
+    "capex_ppe": -8475000000,
+    "capex_intangible": -636000000,
+    "current_assets": 172621000000,
+    "current_liabilities": 62822000000,
+    "noncurrent_assets": 102117000000,
+    "noncurrent_liabilities": 35373000000,
+    "trade_payables": 31447000000,
+    "ppe": 67006000000,
+    "goodwill": 2782000000,
+    "intangible_assets": 11436000000,
+    "investment_securities": 20288000000,
+    "treasury_stock": -6129000000,
+    "noncontrolling_interests": 14736000000
+  },
+  "segments": [
+    {
+      "key": "BuildingMaterials",
+      "label": "建装建材",
+      "external_revenue": 106325000000,
+      "intersegment_revenue": 4000000,
+      "operating_income": 20339000000
+    },
+    {
+      "key": "ChemicalProducts",
+      "label": "化成品",
+      "external_revenue": 130300000000,
+      "intersegment_revenue": 3984000000,
+      "operating_income": 9280000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00824-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E05027",
+    "sec_code": "4716",
+    "company_name": "日本オラクル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": false,
+    "fiscal_year_end": "2020-05-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-08-24",
+    "doc_id": "S100RQSH"
+  },
+  "financials": {
+    "dps": 149,
+    "net_sales": 211357000000,
+    "ordinary_income": 68857000000,
+    "eps": 372.52,
+    "eps_diluted": 372.19,
+    "operating_cf": 42309000000,
+    "investing_cf": -30584000000,
+    "financing_cf": -17097000000,
+    "net_assets": 191362000000,
+    "total_assets": 294139000000,
+    "bps": 1493.01,
+    "cash_end": 60091000000,
+    "equity_ratio": 0.65,
+    "roe": 0.271,
+    "per": 33.77
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05027-000_2023-05-31_01_2023-08-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03450",
+    "sec_code": "3360",
+    "company_name": "シップヘルスケアホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R9RR"
+  },
+  "financials": {
+    "net_sales": 444048000000,
+    "ordinary_income": 18532000000,
+    "net_income": 11236000000,
+    "comprehensive_income": 11666000000,
+    "eps": 113.88,
+    "eps_diluted": 110.55,
+    "dps": 70,
+    "operating_cf": 10534000000,
+    "investing_cf": -7678000000,
+    "financing_cf": 9828000000,
+    "net_assets": 97734000000,
+    "total_assets": 299212000000,
+    "bps": 1001.68,
+    "cash_end": 71494000000,
+    "equity_ratio": 0.319,
+    "roe": 0.115,
+    "per": 20
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03450-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

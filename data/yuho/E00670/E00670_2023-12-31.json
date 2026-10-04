@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "edinet_code": "E00670",
+    "sec_code": "7984",
+    "company_name": "コクヨ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T657"
+  },
+  "financials": {
+    "net_sales": 328753000000,
+    "ordinary_income": 25989000000,
+    "net_income": 19069000000,
+    "comprehensive_income": 23516000000,
+    "eps": 165.6,
+    "dps": 66.5,
+    "operating_cf": 34739000000,
+    "investing_cf": -3798000000,
+    "financing_cf": -14442000000,
+    "net_assets": 253426000000,
+    "total_assets": 358412000000,
+    "bps": 2209.32,
+    "cash_end": 115161000000,
+    "equity_ratio": 0.703,
+    "roe": 0.078,
+    "per": 13.9,
+    "gross_profit": 127392000000,
+    "operating_income": 23830000000,
+    "income_tax_expense": 8706000000,
+    "interest_bearing_debt_current": 4238000000,
+    "current_portion_lt_loans": 5000000000,
+    "depreciation": 7485000000,
+    "capex_ppe": -4373000000,
+    "capex_intangible": -1976000000,
+    "current_assets": 230157000000,
+    "current_liabilities": 91281000000,
+    "noncurrent_assets": 128254000000,
+    "noncurrent_liabilities": 13704000000,
+    "trade_payables": 55157000000,
+    "ppe": 61542000000,
+    "goodwill": 5416000000,
+    "intangible_assets": 16614000000,
+    "investment_securities": 40112000000,
+    "treasury_stock": -12206000000,
+    "noncontrolling_interests": 1585000000
+  },
+  "segments": [
+    {
+      "key": "BusinessSupplyDistribution",
+      "label": "ビジネスサプライ流通事業",
+      "external_revenue": 91303000000,
+      "intersegment_revenue": 6516000000,
+      "operating_income": 3892000000
+    },
+    {
+      "key": "FurnitureBusinesses",
+      "label": "ファニチャー事業",
+      "external_revenue": 152487000000,
+      "intersegment_revenue": 1985000000,
+      "operating_income": 22458000000
+    },
+    {
+      "key": "InteriorRetailBusinesses",
+      "label": "インテリアリテール事業",
+      "external_revenue": 20303000000,
+      "intersegment_revenue": 45000000,
+      "operating_income": 698000000
+    },
+    {
+      "key": "LifestyleField",
+      "label": null,
+      "external_revenue": 84731000000,
+      "intersegment_revenue": 19516000000,
+      "operating_income": 7501000000
+    },
+    {
+      "key": "StationeryBusinesses",
+      "label": "ステーショナリー事業",
+      "external_revenue": 64428000000,
+      "intersegment_revenue": 19470000000,
+      "operating_income": 6802000000
+    },
+    {
+      "key": "WorkstyleField",
+      "label": null,
+      "external_revenue": 243791000000,
+      "intersegment_revenue": 8502000000,
+      "operating_income": 26351000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00670-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

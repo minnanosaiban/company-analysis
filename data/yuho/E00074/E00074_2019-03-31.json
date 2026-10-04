@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00074",
+    "sec_code": "1942",
+    "company_name": "株式会社関電工",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100QZP5"
+  },
+  "financials": {
+    "net_sales": 563550000000,
+    "ordinary_income": 30795000000,
+    "net_income": 19703000000,
+    "comprehensive_income": 20319000000,
+    "eps": 96.46,
+    "eps_diluted": 88.78,
+    "dps": 26,
+    "operating_cf": 28251000000,
+    "investing_cf": -10131000000,
+    "financing_cf": -9153000000,
+    "net_assets": 245954000000,
+    "total_assets": 459854000000,
+    "bps": 1167.3,
+    "cash_end": 63068000000,
+    "equity_ratio": 0.5185,
+    "roe": 0.0852,
+    "per": 9.81
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00074-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

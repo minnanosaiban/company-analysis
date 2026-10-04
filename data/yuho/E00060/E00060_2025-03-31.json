@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E00060",
+    "sec_code": "1820",
+    "company_name": "西松建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W4Y9"
+  },
+  "financials": {
+    "net_sales": 366811000000,
+    "ordinary_income": 20225000000,
+    "net_income": 17543000000,
+    "comprehensive_income": 13829000000,
+    "eps": 444.46,
+    "dps": 220,
+    "operating_cf": 5889000000,
+    "investing_cf": -36250000000,
+    "financing_cf": 16134000000,
+    "net_assets": 181190000000,
+    "total_assets": 592046000000,
+    "bps": 4361.27,
+    "cash_end": 43403000000,
+    "equity_ratio": 0.291,
+    "roe": 0.1029,
+    "per": 10.8,
+    "gross_profit": 44108000000,
+    "operating_income": 21098000000,
+    "income_tax_expense": 5399000000,
+    "interest_bearing_debt_current": 42848000000,
+    "interest_bearing_debt_noncurrent": 40364000000,
+    "bonds_payable": 96000000000,
+    "commercial_papers": 20000000000,
+    "current_portion_of_bonds": 15000000000,
+    "depreciation": 4452000000,
+    "current_assets": 299147000000,
+    "current_liabilities": 260859000000,
+    "noncurrent_assets": 292898000000,
+    "noncurrent_liabilities": 149996000000,
+    "ppe": 182842000000,
+    "goodwill": 52000000,
+    "intangible_assets": 8312000000,
+    "investment_securities": 86058000000,
+    "treasury_stock": -8220000000,
+    "noncontrolling_interests": 9047000000
+  },
+  "segments": [
+    {
+      "key": "AssetValueAddedBusiness",
+      "label": null,
+      "external_revenue": 26808000000,
+      "intersegment_revenue": 287000000,
+      "operating_income": 7479000000
+    },
+    {
+      "key": "BuildingConstruction",
+      "label": null,
+      "external_revenue": 193154000000,
+      "intersegment_revenue": 227000000,
+      "operating_income": 6421000000
+    },
+    {
+      "key": "CivilEngineering",
+      "label": null,
+      "external_revenue": 107994000000,
+      "operating_income": 8839000000
+    },
+    {
+      "key": "InternationalBusiness",
+      "label": null,
+      "external_revenue": 38317000000,
+      "intersegment_revenue": 8181000000,
+      "operating_income": -802000000
+    },
+    {
+      "key": "RegionalEnvironmentalSolutionsBusiness",
+      "label": null,
+      "external_revenue": 535000000,
+      "operating_income": -734000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00060-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

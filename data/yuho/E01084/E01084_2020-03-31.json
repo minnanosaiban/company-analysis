@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E01084",
+    "sec_code": "5019",
+    "company_name": "出光興産株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TQXR"
+  },
+  "financials": {
+    "net_sales": 6045850000000,
+    "ordinary_income": -13975000000,
+    "net_income": -22935000000,
+    "comprehensive_income": -40480000000,
+    "eps": -15.26,
+    "dps": 160,
+    "operating_cf": -32712000000,
+    "investing_cf": -134463000000,
+    "financing_cf": 157907000000,
+    "net_assets": 1200564000000,
+    "total_assets": 3886938000000,
+    "bps": 773.74,
+    "cash_end": 129335000000,
+    "equity_ratio": 0.296
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01084-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

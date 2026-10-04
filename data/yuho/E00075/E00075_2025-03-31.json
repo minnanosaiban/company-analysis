@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "edinet_code": "E00075",
+    "sec_code": "1944",
+    "company_name": "株式会社きんでん",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W2EW"
+  },
+  "financials": {
+    "net_sales": 705058000000,
+    "ordinary_income": 64546000000,
+    "net_income": 47250000000,
+    "comprehensive_income": 50292000000,
+    "eps": 236.26,
+    "dps": 90,
+    "operating_cf": 24545000000,
+    "investing_cf": 3605000000,
+    "financing_cf": -24976000000,
+    "net_assets": 599738000000,
+    "total_assets": 821693000000,
+    "bps": 3014.06,
+    "cash_end": 184662000000,
+    "equity_ratio": 0.729,
+    "roe": 0.081,
+    "per": 14.18,
+    "operating_income": 60979000000,
+    "income_tax_expense": 21589000000,
+    "interest_bearing_debt_current": 14936000000,
+    "depreciation": 7109000000,
+    "current_assets": 503656000000,
+    "current_liabilities": 202457000000,
+    "noncurrent_assets": 318037000000,
+    "noncurrent_liabilities": 19497000000,
+    "ppe": 151746000000,
+    "intangible_assets": 7017000000,
+    "investment_securities": 128500000000,
+    "treasury_stock": -3461000000,
+    "noncontrolling_interests": 694000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00075-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

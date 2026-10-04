@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00877",
+    "sec_code": "3407",
+    "company_name": "旭化成株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R509"
+  },
+  "financials": {
+    "net_sales": 2170403000000,
+    "ordinary_income": 219976000000,
+    "net_income": 147512000000,
+    "comprehensive_income": 148696000000,
+    "eps": 105.66,
+    "dps": 34,
+    "operating_cf": 212062000000,
+    "investing_cf": -198917000000,
+    "financing_cf": 17388000000,
+    "net_assets": 1402710000000,
+    "total_assets": 2575203000000,
+    "bps": 989.51,
+    "cash_end": 180520000000,
+    "equity_ratio": 0.536,
+    "roe": 0.111,
+    "per": 10.81
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00877-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

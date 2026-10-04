@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03128",
+    "sec_code": "8282",
+    "company_name": "株式会社ケーズホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2025-12-02",
+    "doc_id": "S100X77T"
+  },
+  "financials": {
+    "net_sales": 679132000000,
+    "ordinary_income": 36661000000,
+    "net_income": 22706000000,
+    "comprehensive_income": 22526000000,
+    "eps": 110.63,
+    "eps_diluted": 96.62,
+    "dps": 63,
+    "operating_cf": 37483000000,
+    "investing_cf": -10901000000,
+    "financing_cf": -24872000000,
+    "net_assets": 242360000000,
+    "total_assets": 403658000000,
+    "bps": 1050.63,
+    "cash_end": 9212000000,
+    "equity_ratio": 0.598,
+    "roe": 0.104,
+    "per": 13.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03128-000_2021-03-31_02_2025-12-02.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02962",
+    "sec_code": "2784",
+    "company_name": "アルフレッサ ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R438"
+  },
+  "financials": {
+    "net_sales": 2610427000000,
+    "ordinary_income": 31918000000,
+    "net_income": 24501000000,
+    "comprehensive_income": 27119000000,
+    "eps": 115.75,
+    "dps": 53,
+    "operating_cf": -21191000000,
+    "investing_cf": -4732000000,
+    "financing_cf": -14472000000,
+    "net_assets": 489957000000,
+    "total_assets": 1316658000000,
+    "bps": 2313.66,
+    "cash_end": 169060000000,
+    "equity_ratio": 0.372,
+    "roe": 0.051,
+    "per": 18.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02962-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

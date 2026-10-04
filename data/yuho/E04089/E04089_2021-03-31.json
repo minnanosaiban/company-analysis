@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E04089",
+    "sec_code": "9006",
+    "company_name": "京浜急行電鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7IY"
+  },
+  "financials": {
+    "ordinary_income": -20156000000,
+    "net_income": -27211000000,
+    "comprehensive_income": -17485000000,
+    "eps": -98.83,
+    "dps": 5,
+    "operating_cf": -7219000000,
+    "investing_cf": -39920000000,
+    "financing_cf": 69190000000,
+    "net_assets": 249051000000,
+    "total_assets": 929053000000,
+    "bps": 897.04,
+    "cash_end": 57450000000,
+    "equity_ratio": 0.266,
+    "roe": -0.106
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04089-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

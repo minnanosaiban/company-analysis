@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E00431",
+    "sec_code": "2607",
+    "company_name": "不二製油株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-27",
+    "doc_id": "S100W701"
+  },
+  "financials": {
+    "net_sales": 671211000000,
+    "ordinary_income": 5304000000,
+    "net_income": 2230000000,
+    "comprehensive_income": -4681000000,
+    "eps": 25.95,
+    "dps": 52,
+    "operating_cf": -50631000000,
+    "investing_cf": -21738000000,
+    "financing_cf": 114931000000,
+    "net_assets": 214524000000,
+    "total_assets": 596564000000,
+    "bps": 2448.4,
+    "cash_end": 69846000000,
+    "equity_ratio": 0.353,
+    "roe": 0.0101,
+    "per": 118.01,
+    "gross_profit": 79227000000,
+    "operating_income": 9895000000,
+    "income_tax_expense": 12654000000,
+    "interest_bearing_debt_current": 175284000000,
+    "interest_bearing_debt_noncurrent": 57691000000,
+    "bonds_payable": 31000000000,
+    "commercial_papers": 20000000000,
+    "lease_liabilities_noncurrent": 4805000000,
+    "depreciation": 17991000000,
+    "capex_ppe": -21187000000,
+    "capex_intangible": -3165000000,
+    "current_assets": 354830000000,
+    "current_liabilities": 273204000000,
+    "noncurrent_assets": 241550000000,
+    "noncurrent_liabilities": 108835000000,
+    "trade_receivables": 112520000000,
+    "trade_payables": 46075000000,
+    "ppe": 156505000000,
+    "goodwill": 18602000000,
+    "intangible_assets": 51185000000,
+    "investment_securities": 16631000000,
+    "treasury_stock": -1919000000,
+    "noncontrolling_interests": 4025000000
+  },
+  "segments": [
+    {
+      "key": "EmulsifiedAndFermentedIngredients",
+      "label": null,
+      "external_revenue": 94175000000,
+      "intersegment_revenue": 5594000000,
+      "operating_income": 3444000000
+    },
+    {
+      "key": "IndustrialChocolate",
+      "label": null,
+      "external_revenue": 334696000000,
+      "intersegment_revenue": 3877000000,
+      "operating_income": -15833000000
+    },
+    {
+      "key": "SoyBasedIngredients",
+      "label": null,
+      "external_revenue": 35065000000,
+      "intersegment_revenue": 152000000,
+      "operating_income": 656000000
+    },
+    {
+      "key": "VegetableOilsAndFats",
+      "label": null,
+      "external_revenue": 207274000000,
+      "intersegment_revenue": 27509000000,
+      "operating_income": 26270000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00431-000_2025-03-31_01_2025-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

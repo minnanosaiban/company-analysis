@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "edinet_code": "E01127",
+    "sec_code": "5232",
+    "company_name": "住友大阪セメント株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W2GC"
+  },
+  "financials": {
+    "net_sales": 219465000000,
+    "ordinary_income": 9367000000,
+    "net_income": 9008000000,
+    "comprehensive_income": 5942000000,
+    "eps": 270.37,
+    "dps": 120,
+    "operating_cf": 24885000000,
+    "investing_cf": -21816000000,
+    "financing_cf": -5341000000,
+    "net_assets": 193660000000,
+    "total_assets": 353029000000,
+    "bps": 5793.86,
+    "cash_end": 16511000000,
+    "equity_ratio": 0.541,
+    "roe": 0.047,
+    "per": 13.3,
+    "gross_profit": 50077000000,
+    "operating_income": 9351000000,
+    "income_tax_expense": 2542000000,
+    "interest_bearing_debt_current": 18822000000,
+    "interest_bearing_debt_noncurrent": 25863000000,
+    "bonds_payable": 25000000000,
+    "commercial_papers": 5000000000,
+    "current_portion_lt_loans": 8648000000,
+    "depreciation": 22573000000,
+    "current_assets": 104143000000,
+    "current_liabilities": 83742000000,
+    "noncurrent_assets": 248886000000,
+    "noncurrent_liabilities": 75626000000,
+    "trade_payables": 28266000000,
+    "ppe": 191789000000,
+    "goodwill": 31000000,
+    "intangible_assets": 3467000000,
+    "investment_securities": 39372000000,
+    "treasury_stock": -992000000,
+    "noncontrolling_interests": 2562000000
+  },
+  "segments": [
+    {
+      "key": "Cement",
+      "label": null,
+      "external_revenue": 156440000000,
+      "intersegment_revenue": 3724000000,
+      "operating_income": 877000000
+    },
+    {
+      "key": "ConstructionMaterials",
+      "label": null,
+      "external_revenue": 23591000000,
+      "intersegment_revenue": 2515000000,
+      "operating_income": 1839000000
+    },
+    {
+      "key": "MineralProducts",
+      "label": null,
+      "external_revenue": 17367000000,
+      "intersegment_revenue": 2960000000,
+      "operating_income": 3148000000
+    },
+    {
+      "key": "NewMaterials",
+      "label": null,
+      "external_revenue": 15678000000,
+      "operating_income": 2264000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 3876000000,
+      "intersegment_revenue": 4900000000,
+      "operating_income": 1617000000
+    },
+    {
+      "key": "Photoelectron",
+      "label": null,
+      "external_revenue": 2510000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": -355000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01127-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

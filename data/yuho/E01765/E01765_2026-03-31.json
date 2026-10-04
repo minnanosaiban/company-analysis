@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E01765",
+    "sec_code": "6701",
+    "company_name": "日本電気株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-18",
+    "doc_id": "S100YBFV"
+  },
+  "financials": {
+    "dps": 38,
+    "net_sales": 3582733000000,
+    "net_income": 270228000000,
+    "comprehensive_income": 394979000000,
+    "net_assets": 2196578000000,
+    "total_assets": 4466784000000,
+    "equity_ratio": 0.492,
+    "bps": 1656.11,
+    "eps": 202.95,
+    "eps_diluted": 202.95,
+    "roe": 0.13,
+    "per": 18.95,
+    "operating_cf": 438463000000,
+    "investing_cf": 33686000000,
+    "financing_cf": -417950000000,
+    "cash_end": 659034000000,
+    "operating_income": 359913000000,
+    "gross_profit": 1181296000000,
+    "income_tax_expense": 124851000000,
+    "interest_bearing_debt_current": 54966000000,
+    "interest_bearing_debt_noncurrent": 272107000000,
+    "lease_liabilities_current": 51412000000,
+    "lease_liabilities_noncurrent": 110730000000,
+    "sga_expense": 805555000000,
+    "profit_before_tax": 398175000000,
+    "depreciation": 154502000000,
+    "capex_ppe": -70325000000,
+    "capex_intangible": -21231000000,
+    "current_assets": 2459093000000,
+    "current_liabilities": 1563977000000,
+    "noncurrent_assets": 2007691000000,
+    "trade_receivables": 994066000000,
+    "inventories": 171181000000,
+    "trade_payables": 476503000000,
+    "ppe": 564064000000,
+    "goodwill": 450501000000,
+    "intangible_assets": 368945000000,
+    "equity_method_investments": 48129000000,
+    "treasury_stock": -57584000000,
+    "noncontrolling_interests": 85309000000
+  },
+  "segments": [
+    {
+      "key": "ITServices",
+      "label": "ITサービス",
+      "external_revenue": 2508925000000,
+      "intersegment_revenue": 1959000000,
+      "revenue": 2510884000000,
+      "operating_income": 336704000000
+    },
+    {
+      "key": "SocialInfrastructure",
+      "label": "社会インフラ",
+      "external_revenue": 935302000000,
+      "intersegment_revenue": 3109000000,
+      "revenue": 938411000000,
+      "operating_income": 74318000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01765-000_2026-03-31_01_2026-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

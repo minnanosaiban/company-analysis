@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "edinet_code": "E01765",
+    "sec_code": "6701",
+    "company_name": "日本電気株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R0D0"
+  },
+  "financials": {
+    "dps": 110,
+    "net_sales": 3313018000000,
+    "net_income": 114500000000,
+    "comprehensive_income": 172601000000,
+    "net_assets": 1623817000000,
+    "total_assets": 3984050000000,
+    "equity_ratio": 0.408,
+    "bps": 6096.59,
+    "eps": 424.51,
+    "eps_diluted": 424.5,
+    "roe": 0.073,
+    "per": 12.01,
+    "operating_cf": 152127000000,
+    "investing_cf": -49591000000,
+    "financing_cf": -122786000000,
+    "cash_end": 419462000000,
+    "operating_income": 170447000000,
+    "gross_profit": 958248000000,
+    "income_tax_expense": 36155000000,
+    "interest_bearing_debt_current": 130867000000,
+    "interest_bearing_debt_noncurrent": 320794000000,
+    "lease_liabilities_current": 47056000000,
+    "lease_liabilities_noncurrent": 109764000000,
+    "sga_expense": 793700000000,
+    "profit_before_tax": 167671000000,
+    "depreciation": 183298000000,
+    "capex_ppe": -56391000000,
+    "capex_intangible": -21323000000,
+    "current_assets": 1995903000000,
+    "current_liabilities": 1365509000000,
+    "noncurrent_assets": 1988147000000,
+    "trade_receivables": 799875000000,
+    "inventories": 267576000000,
+    "trade_payables": 497625000000,
+    "ppe": 563384000000,
+    "goodwill": 355572000000,
+    "intangible_assets": 378250000000,
+    "equity_method_investments": 80425000000,
+    "treasury_stock": -31588000000,
+    "noncontrolling_interests": 288907000000
+  },
+  "segments": [
+    {
+      "key": "Enterprise",
+      "label": null,
+      "external_revenue": 614369000000,
+      "intersegment_revenue": 38704000000,
+      "revenue": 653073000000,
+      "operating_income": 73386000000
+    },
+    {
+      "key": "Global",
+      "label": null,
+      "external_revenue": 586336000000,
+      "intersegment_revenue": 564000000,
+      "revenue": 586900000000,
+      "operating_income": 42887000000
+    },
+    {
+      "key": "NetworkServices",
+      "label": null,
+      "external_revenue": 543400000000,
+      "intersegment_revenue": 7044000000,
+      "revenue": 550444000000,
+      "operating_income": 24137000000
+    },
+    {
+      "key": "PublicInfrastructure",
+      "label": null,
+      "external_revenue": 649662000000,
+      "intersegment_revenue": 2529000000,
+      "revenue": 652191000000,
+      "operating_income": 67288000000
+    },
+    {
+      "key": "PublicSolutions",
+      "label": null,
+      "external_revenue": 456687000000,
+      "intersegment_revenue": 13694000000,
+      "revenue": 470381000000,
+      "operating_income": 42650000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01765-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

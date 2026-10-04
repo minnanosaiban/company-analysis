@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E02167",
+    "sec_code": "7269",
+    "company_name": "スズキ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R38M"
+  },
+  "financials": {
+    "net_sales": 4641644000000,
+    "ordinary_income": 382807000000,
+    "net_income": 221107000000,
+    "comprehensive_income": 309945000000,
+    "eps": 455.21,
+    "eps_diluted": 455.19,
+    "dps": 100,
+    "operating_cf": 286626000000,
+    "investing_cf": -302674000000,
+    "financing_cf": 31568000000,
+    "net_assets": 2508620000000,
+    "total_assets": 4577713000000,
+    "bps": 4275.47,
+    "cash_end": 882146000000,
+    "equity_ratio": 0.454,
+    "roe": 0.112,
+    "per": 10.6,
+    "gross_profit": 1149930000000,
+    "operating_income": 350551000000,
+    "income_tax_expense": 95198000000,
+    "interest_bearing_debt_current": 173730000000,
+    "interest_bearing_debt_noncurrent": 416787000000,
+    "current_portion_lt_loans": 173319000000,
+    "depreciation": 177282000000,
+    "capex_ppe": -258280000000,
+    "current_assets": 2188517000000,
+    "current_liabilities": 1487436000000,
+    "noncurrent_assets": 2389195000000,
+    "noncurrent_liabilities": 581656000000,
+    "ppe": 1134516000000,
+    "intangible_assets": 3839000000,
+    "investment_securities": 1045337000000,
+    "treasury_stock": -19396000000,
+    "noncontrolling_interests": 430561000000
+  },
+  "segments": [
+    {
+      "key": "AutomobileBusiness",
+      "label": null,
+      "external_revenue": 4162163000000,
+      "operating_income": 279084000000
+    },
+    {
+      "key": "MarineBusiness",
+      "label": null,
+      "external_revenue": 134569000000,
+      "operating_income": 39435000000
+    },
+    {
+      "key": "MotorcycleBusiness",
+      "label": null,
+      "external_revenue": 333151000000,
+      "operating_income": 29340000000
+    },
+    {
+      "key": "OtherBusiness",
+      "label": null,
+      "external_revenue": 11759000000,
+      "operating_income": 2690000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02167-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

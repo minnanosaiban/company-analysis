@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02567",
+    "sec_code": "8088",
+    "company_name": "岩谷産業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R0HX"
+  },
+  "financials": {
+    "net_sales": 562223000000,
+    "ordinary_income": 34152000000,
+    "net_income": 23030000000,
+    "comprehensive_income": 35450000000,
+    "eps": 428.36,
+    "dps": 75,
+    "operating_cf": 48779000000,
+    "investing_cf": -28831000000,
+    "financing_cf": -7052000000,
+    "net_assets": 253586000000,
+    "total_assets": 512015000000,
+    "bps": 4245.33,
+    "cash_end": 38445000000,
+    "equity_ratio": 0.477,
+    "roe": 0.108,
+    "per": 15.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02567-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

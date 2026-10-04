@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E03859",
+    "sec_code": "8804",
+    "company_name": "東京建物株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4LA"
+  },
+  "financials": {
+    "ordinary_income": 44611000000,
+    "net_income": 29796000000,
+    "comprehensive_income": 46402000000,
+    "eps": 141.59,
+    "dps": 41,
+    "operating_cf": 24096000000,
+    "investing_cf": -64082000000,
+    "financing_cf": 48000000000,
+    "net_assets": 384211000000,
+    "total_assets": 1564049000000,
+    "bps": 1794.15,
+    "cash_end": 39497000000,
+    "equity_ratio": 0.24,
+    "roe": 0.082,
+    "per": 12.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03859-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

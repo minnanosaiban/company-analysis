@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E01334",
+    "sec_code": "5803",
+    "company_name": "株式会社フジクラ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YGP3"
+  },
+  "financials": {
+    "net_sales": 1182358000000,
+    "ordinary_income": 199481000000,
+    "net_income": 157163000000,
+    "comprehensive_income": 203164000000,
+    "eps": 94.93,
+    "dps": 225,
+    "operating_cf": 132905000000,
+    "investing_cf": -36201000000,
+    "financing_cf": -111325000000,
+    "net_assets": 593193000000,
+    "total_assets": 969454000000,
+    "bps": 338.45,
+    "cash_end": 178906000000,
+    "equity_ratio": 0.578,
+    "roe": 0.3248,
+    "per": 43.08,
+    "gross_profit": 332283000000,
+    "operating_income": 188707000000,
+    "income_tax_expense": 50480000000,
+    "interest_bearing_debt_current": 24727000000,
+    "interest_bearing_debt_noncurrent": 40250000000,
+    "bonds_payable": 10000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_noncurrent": 16636000000,
+    "depreciation": 24881000000,
+    "current_assets": 657579000000,
+    "current_liabilities": 277923000000,
+    "noncurrent_assets": 311875000000,
+    "noncurrent_liabilities": 98338000000,
+    "trade_payables": 126750000000,
+    "ppe": 196863000000,
+    "goodwill": 7491000000,
+    "intangible_assets": 18067000000,
+    "investment_securities": 48265000000,
+    "treasury_stock": -10377000000,
+    "noncontrolling_interests": 32828000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveProducts",
+      "label": null,
+      "external_revenue": 179370000000,
+      "operating_income": 6809000000
+    },
+    {
+      "key": "ElectronicsBusiness",
+      "label": null,
+      "external_revenue": 172305000000,
+      "intersegment_revenue": 564000000,
+      "operating_income": 7666000000
+    },
+    {
+      "key": "PowerSystems",
+      "label": null,
+      "external_revenue": 156983000000,
+      "intersegment_revenue": 1458000000,
+      "operating_income": 18941000000
+    },
+    {
+      "key": "RealEstateBusinessUnit",
+      "label": null,
+      "external_revenue": 11032000000,
+      "operating_income": 4956000000
+    },
+    {
+      "key": "TelecommunicationSystems",
+      "label": null,
+      "external_revenue": 652977000000,
+      "intersegment_revenue": 196000000,
+      "operating_income": 152729000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01334-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

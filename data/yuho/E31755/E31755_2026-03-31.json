@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "edinet_code": "E31755",
+    "sec_code": "7181",
+    "company_name": "株式会社かんぽ生命保険",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-18",
+    "doc_id": "S100YD29"
+  },
+  "financials": {
+    "ordinary_income": 271946000000,
+    "net_income": 168798000000,
+    "comprehensive_income": 1035170000000,
+    "eps": 152.55,
+    "dps": 124,
+    "operating_cf": -1884930000000,
+    "investing_cf": 1786069000000,
+    "financing_cf": -124238000000,
+    "net_assets": 4153628000000,
+    "total_assets": 58442160000000,
+    "bps": 3833.13,
+    "cash_end": 1752984000000,
+    "equity_ratio": 0.071,
+    "roe": 0.046,
+    "per": 10.3,
+    "bonds_payable": 500000000000,
+    "depreciation": 38474000000,
+    "capex_ppe": -2641000000,
+    "capex_intangible": -41131000000,
+    "ppe": 135807000000,
+    "intangible_assets": 119394000000,
+    "treasury_stock": -45903000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31755-000_2026-03-31_01_2026-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E31632",
+    "sec_code": "5021",
+    "company_name": "コスモエネルギーホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TOPM"
+  },
+  "financials": {
+    "net_sales": 2738003000000,
+    "ordinary_income": 16285000000,
+    "net_income": -28155000000,
+    "comprehensive_income": -27107000000,
+    "eps": -334.84,
+    "dps": 80,
+    "operating_cf": 111733000000,
+    "investing_cf": -84230000000,
+    "financing_cf": -24675000000,
+    "net_assets": 362839000000,
+    "total_assets": 1639765000000,
+    "bps": 2853.14,
+    "cash_end": 43295000000,
+    "equity_ratio": 0.146
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31632-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

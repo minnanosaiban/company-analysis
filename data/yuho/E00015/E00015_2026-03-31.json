@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E00015",
+    "sec_code": "1333",
+    "company_name": "Umios株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YCK1"
+  },
+  "financials": {
+    "net_sales": 1105890000000,
+    "ordinary_income": 31251000000,
+    "net_income": 22182000000,
+    "comprehensive_income": 42350000000,
+    "eps": 146.75,
+    "dps": 78,
+    "operating_cf": 24804000000,
+    "investing_cf": -21164000000,
+    "financing_cf": -808000000,
+    "net_assets": 291487000000,
+    "total_assets": 751702000000,
+    "bps": 1635.34,
+    "cash_end": 52931000000,
+    "equity_ratio": 0.329,
+    "roe": 0.093,
+    "per": 9.93,
+    "gross_profit": 153981000000,
+    "operating_income": 31191000000,
+    "income_tax_expense": 12278000000,
+    "interest_bearing_debt_current": 137386000000,
+    "interest_bearing_debt_noncurrent": 89494000000,
+    "bonds_payable": 51000000000,
+    "commercial_papers": 29000000000,
+    "depreciation": 18318000000,
+    "capex_ppe": -25342000000,
+    "capex_intangible": -1205000000,
+    "current_assets": 457468000000,
+    "current_liabilities": 281295000000,
+    "noncurrent_assets": 294234000000,
+    "noncurrent_liabilities": 178920000000,
+    "inventories": 244733000000,
+    "trade_payables": 54078000000,
+    "ppe": 171932000000,
+    "goodwill": 7622000000,
+    "intangible_assets": 33280000000,
+    "investment_securities": 48505000000,
+    "treasury_stock": -478000000,
+    "noncontrolling_interests": 44250000000
+  },
+  "segments": [
+    {
+      "key": "FoodstuffDistributionBusiness",
+      "label": null,
+      "external_revenue": 769943000000,
+      "intersegment_revenue": 15246000000,
+      "operating_income": 15777000000
+    },
+    {
+      "key": "MarineProductsBusiness",
+      "label": null,
+      "external_revenue": 129371000000,
+      "intersegment_revenue": 39384000000,
+      "operating_income": 2445000000
+    },
+    {
+      "key": "ProcessedFoodsBusiness",
+      "label": null,
+      "external_revenue": 185752000000,
+      "intersegment_revenue": 16395000000,
+      "operating_income": 10074000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00015-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

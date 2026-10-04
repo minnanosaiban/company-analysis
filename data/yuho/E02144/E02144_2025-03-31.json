@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E02144",
+    "sec_code": "7203",
+    "company_name": "トヨタ自動車株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VWVY"
+  },
+  "financials": {
+    "dps": 90,
+    "net_income": 4765086000000,
+    "comprehensive_income": 4011822000000,
+    "net_assets": 35924826000000,
+    "total_assets": 93601350000000,
+    "equity_ratio": 0.384,
+    "bps": 2753.09,
+    "eps": 359.56,
+    "eps_diluted": 359.56,
+    "roe": 0.136,
+    "per": 7.3,
+    "operating_cf": 3696934000000,
+    "investing_cf": -4189736000000,
+    "financing_cf": 197236000000,
+    "cash_end": 8982404000000,
+    "operating_income": 4795586000000,
+    "income_tax_expense": 1624835000000,
+    "sga_expense": 4782452000000,
+    "profit_before_tax": 6414590000000,
+    "depreciation": 2251233000000,
+    "current_assets": 37078676000000,
+    "current_liabilities": 29434220000000,
+    "noncurrent_assets": 56522674000000,
+    "trade_receivables": 3679722000000,
+    "inventories": 4598232000000,
+    "trade_payables": 5527347000000,
+    "ppe": 15333693000000,
+    "intangible_assets": 1363266000000,
+    "equity_method_investments": 5798051000000,
+    "treasury_stock": -4415943000000,
+    "noncontrolling_interests": 954088000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "operating_income": 3940278000000,
+      "assets": 30117987000000
+    },
+    {
+      "key": "FinancialServices",
+      "label": "金融",
+      "operating_income": 683519000000,
+      "assets": 46770786000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "operating_income": 181194000000,
+      "assets": 2884421000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02144-000_2025-03-31_01_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

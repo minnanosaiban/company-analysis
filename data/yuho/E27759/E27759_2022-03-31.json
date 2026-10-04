@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "edinet_code": "E27759",
+    "sec_code": "3291",
+    "company_name": "飯田グループホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R65V"
+  },
+  "financials": {
+    "dps": 90,
+    "net_sales": 1386991000000,
+    "net_income": 103381000000,
+    "comprehensive_income": 102768000000,
+    "net_assets": 932525000000,
+    "total_assets": 1708668000000,
+    "equity_ratio": 0.546,
+    "bps": 3233.68,
+    "eps": 358.49,
+    "roe": 0.115,
+    "per": 5.9,
+    "operating_cf": 3115000000,
+    "investing_cf": -24726000000,
+    "financing_cf": 32511000000,
+    "cash_end": 559461000000,
+    "operating_income": 153306000000,
+    "gross_profit": 295933000000,
+    "income_tax_expense": 48278000000,
+    "interest_bearing_debt_current": 248665000000,
+    "interest_bearing_debt_noncurrent": 251767000000,
+    "lease_liabilities_current": 6563000000,
+    "lease_liabilities_noncurrent": 17113000000,
+    "sga_expense": 139134000000,
+    "profit_before_tax": 152200000000,
+    "depreciation": 11063000000,
+    "capex_ppe": -14463000000,
+    "capex_intangible": -634000000,
+    "current_assets": 1262662000000,
+    "current_liabilities": 468642000000,
+    "noncurrent_assets": 446005000000,
+    "trade_receivables": 15232000000,
+    "inventories": 615053000000,
+    "trade_payables": 134805000000,
+    "ppe": 141627000000,
+    "goodwill": 210840000000,
+    "intangible_assets": 10793000000,
+    "treasury_stock": -13207000000,
+    "noncontrolling_interests": 3305000000
+  },
+  "segments": [
+    {
+      "key": "ARNESTONECORPORATION",
+      "label": null,
+      "external_revenue": 320198000000,
+      "intersegment_revenue": 144000000,
+      "revenue": 320343000000,
+      "operating_income": 40437000000,
+      "assets": 231478000000
+    },
+    {
+      "key": "HAJIMECONSTRUCTION",
+      "label": null,
+      "external_revenue": 391165000000,
+      "intersegment_revenue": 125000000,
+      "revenue": 391290000000,
+      "operating_income": 35787000000,
+      "assets": 349422000000
+    },
+    {
+      "key": "IDHOMECO",
+      "label": null,
+      "external_revenue": 88175000000,
+      "revenue": 88175000000,
+      "operating_income": 8568000000,
+      "assets": 79817000000
+    },
+    {
+      "key": "IidaSangyoCONSTRUCTION",
+      "label": null,
+      "external_revenue": 237274000000,
+      "intersegment_revenue": 115000000,
+      "revenue": 237389000000,
+      "operating_income": 23641000000,
+      "assets": 291405000000
+    },
+    {
+      "key": "TACTHOMECO",
+      "label": null,
+      "external_revenue": 160314000000,
+      "intersegment_revenue": 1084000000,
+      "revenue": 161398000000,
+      "operating_income": 18729000000,
+      "assets": 139760000000
+    },
+    {
+      "key": "TOUEIHOMECORPORATION",
+      "label": null,
+      "external_revenue": 171345000000,
+      "intersegment_revenue": 523000000,
+      "revenue": 171869000000,
+      "operating_income": 22768000000,
+      "assets": 157171000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27759-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

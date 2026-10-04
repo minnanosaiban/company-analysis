@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E04105",
+    "sec_code": "9045",
+    "company_name": "京阪ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZ05"
+  },
+  "financials": {
+    "ordinary_income": 16485000000,
+    "net_income": 9589000000,
+    "comprehensive_income": 10665000000,
+    "eps": 89.47,
+    "eps_diluted": 89.44,
+    "dps": 25,
+    "operating_cf": 21673000000,
+    "investing_cf": -17641000000,
+    "financing_cf": -10264000000,
+    "net_assets": 255876000000,
+    "total_assets": 737261000000,
+    "bps": 2343.97,
+    "cash_end": 20322000000,
+    "equity_ratio": 0.341,
+    "roe": 0.039,
+    "per": 33.6,
+    "operating_income": 13408000000,
+    "income_tax_expense": 7402000000,
+    "interest_bearing_debt_current": 60320000000,
+    "interest_bearing_debt_noncurrent": 174990000000,
+    "bonds_payable": 100000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_noncurrent": 3531000000,
+    "depreciation": 20840000000,
+    "current_assets": 186794000000,
+    "current_liabilities": 127477000000,
+    "noncurrent_assets": 550466000000,
+    "noncurrent_liabilities": 353907000000,
+    "trade_payables": 10020000000,
+    "ppe": 481726000000,
+    "intangible_assets": 7218000000,
+    "investment_securities": 42001000000,
+    "treasury_stock": -21643000000,
+    "noncontrolling_interests": 4514000000
+  },
+  "segments": [
+    {
+      "key": "LeisureAndService",
+      "label": null,
+      "external_revenue": 10926000000,
+      "intersegment_revenue": 602000000,
+      "operating_income": -9324000000
+    },
+    {
+      "key": "Others",
+      "label": null,
+      "external_revenue": 2508000000,
+      "intersegment_revenue": 661000000,
+      "operating_income": -1393000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 123116000000,
+      "intersegment_revenue": 14378000000,
+      "operating_income": 22593000000
+    },
+    {
+      "key": "Retail",
+      "label": null,
+      "external_revenue": 52517000000,
+      "intersegment_revenue": 390000000,
+      "operating_income": 1776000000
+    },
+    {
+      "key": "Transportation",
+      "label": null,
+      "external_revenue": 69046000000,
+      "intersegment_revenue": 1722000000,
+      "operating_income": 173000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04105-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

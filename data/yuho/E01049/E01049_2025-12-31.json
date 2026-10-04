@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E01049",
+    "sec_code": "4922",
+    "company_name": "株式会社コーセーホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-24",
+    "doc_id": "S100XSUW"
+  },
+  "financials": {
+    "net_sales": 330193000000,
+    "ordinary_income": 21463000000,
+    "net_income": 15114000000,
+    "comprehensive_income": 21258000000,
+    "eps": 264.84,
+    "dps": 140,
+    "operating_cf": 11138000000,
+    "investing_cf": -17744000000,
+    "financing_cf": -10000000000,
+    "net_assets": 304784000000,
+    "total_assets": 393454000000,
+    "bps": 4979.35,
+    "cash_end": 90747000000,
+    "equity_ratio": 0.722,
+    "roe": 0.054,
+    "per": 19.79,
+    "gross_profit": 227974000000,
+    "operating_income": 18467000000,
+    "income_tax_expense": 5812000000,
+    "interest_bearing_debt_current": 799000000,
+    "lease_liabilities_current": 1465000000,
+    "lease_liabilities_noncurrent": 8391000000,
+    "depreciation": 10879000000,
+    "capex_ppe": -17062000000,
+    "capex_intangible": -4329000000,
+    "current_assets": 228947000000,
+    "current_liabilities": 63212000000,
+    "noncurrent_assets": 164506000000,
+    "noncurrent_liabilities": 25457000000,
+    "trade_receivables": 56075000000,
+    "trade_payables": 9204000000,
+    "ppe": 81800000000,
+    "goodwill": 5629000000,
+    "intangible_assets": 25492000000,
+    "investment_securities": 19852000000,
+    "treasury_stock": -9031000000,
+    "noncontrolling_interests": 20591000000
+  },
+  "segments": [
+    {
+      "key": "CosmetariesBusiness",
+      "label": null,
+      "external_revenue": 64493000000,
+      "operating_income": 6252000000
+    },
+    {
+      "key": "CosmeticsBusiness",
+      "label": null,
+      "external_revenue": 262303000000,
+      "operating_income": 16768000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01049-000_2025-12-31_01_2026-03-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05410",
+    "sec_code": "2433",
+    "company_name": "株式会社博報堂ＤＹホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R5WZ"
+  },
+  "financials": {
+    "ordinary_income": 49594000000,
+    "net_income": 26479000000,
+    "comprehensive_income": 59032000000,
+    "eps": 70.92,
+    "eps_diluted": 70.91,
+    "dps": 30,
+    "operating_cf": 36212000000,
+    "investing_cf": -9831000000,
+    "financing_cf": -12767000000,
+    "net_assets": 362139000000,
+    "total_assets": 941103000000,
+    "bps": 884.69,
+    "cash_end": 176042000000,
+    "equity_ratio": 0.351,
+    "roe": 0.085,
+    "per": 26
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05410-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

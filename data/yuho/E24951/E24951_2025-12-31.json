@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E24951",
+    "sec_code": "4927",
+    "company_name": "株式会社ポーラ・オルビスホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-25",
+    "doc_id": "S100XSDL"
+  },
+  "financials": {
+    "net_sales": 170285000000,
+    "ordinary_income": 17022000000,
+    "net_income": 9472000000,
+    "comprehensive_income": 9694000000,
+    "eps": 42.81,
+    "eps_diluted": 42.76,
+    "dps": 52,
+    "operating_cf": 18536000000,
+    "investing_cf": 7878000000,
+    "financing_cf": -12361000000,
+    "net_assets": 163094000000,
+    "total_assets": 197906000000,
+    "bps": 735.91,
+    "cash_end": 61948000000,
+    "equity_ratio": 0.823,
+    "roe": 0.058,
+    "per": 30.4,
+    "gross_profit": 138264000000,
+    "operating_income": 15693000000,
+    "income_tax_expense": 3449000000,
+    "interest_bearing_debt_noncurrent": 30000000,
+    "current_portion_lt_loans": 7000000,
+    "lease_liabilities_current": 601000000,
+    "lease_liabilities_noncurrent": 959000000,
+    "depreciation": 8170000000,
+    "capex_ppe": -3175000000,
+    "capex_intangible": -3506000000,
+    "current_assets": 105151000000,
+    "current_liabilities": 26305000000,
+    "noncurrent_assets": 92755000000,
+    "noncurrent_liabilities": 8507000000,
+    "trade_receivables": 17631000000,
+    "trade_payables": 2206000000,
+    "ppe": 56718000000,
+    "intangible_assets": 11136000000,
+    "investment_securities": 14640000000,
+    "treasury_stock": -2915000000,
+    "noncontrolling_interests": 25000000
+  },
+  "segments": [
+    {
+      "key": "BeautyCare",
+      "label": null,
+      "external_revenue": 164148000000,
+      "intersegment_revenue": 145000000,
+      "operating_income": 15856000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 3023000000,
+      "intersegment_revenue": 482000000,
+      "operating_income": 421000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24951-000_2025-12-31_01_2026-03-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

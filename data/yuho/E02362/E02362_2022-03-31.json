@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E02362",
+    "sec_code": "7951",
+    "company_name": "ヤマハ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R9AH"
+  },
+  "financials": {
+    "dps": 66,
+    "net_sales": 408197000000,
+    "net_income": 37268000000,
+    "comprehensive_income": 58447000000,
+    "net_assets": 415713000000,
+    "total_assets": 580662000000,
+    "equity_ratio": 0.716,
+    "bps": 2423.37,
+    "eps": 214.87,
+    "roe": 0.092,
+    "per": 24.9,
+    "operating_cf": 36016000000,
+    "investing_cf": 43707000000,
+    "financing_cf": -44426000000,
+    "cash_end": 172495000000,
+    "operating_income": 49337000000,
+    "gross_profit": 154736000000,
+    "income_tax_expense": 15666000000,
+    "lease_liabilities_current": 5727000000,
+    "lease_liabilities_noncurrent": 11647000000,
+    "sga_expense": 111706000000,
+    "profit_before_tax": 53028000000,
+    "depreciation": 17314000000,
+    "current_assets": 362676000000,
+    "current_liabilities": 126114000000,
+    "noncurrent_assets": 217985000000,
+    "trade_receivables": 60018000000,
+    "inventories": 118640000000,
+    "trade_payables": 63184000000,
+    "ppe": 102898000000,
+    "goodwill": 177000000,
+    "intangible_assets": 3045000000,
+    "treasury_stock": -73288000000,
+    "noncontrolling_interests": 1154000000
+  },
+  "segments": [
+    {
+      "key": "Music",
+      "label": null,
+      "external_revenue": 276153000000,
+      "revenue": 276153000000
+    },
+    {
+      "key": "ProfessionalAndConsumerAudio",
+      "label": null,
+      "external_revenue": 96924000000,
+      "revenue": 96924000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02362-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

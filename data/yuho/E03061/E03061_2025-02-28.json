@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "edinet_code": "E03061",
+    "sec_code": "8267",
+    "company_name": "イオン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-05-29",
+    "doc_id": "S100VTF8"
+  },
+  "financials": {
+    "ordinary_income": 224223000000,
+    "net_income": 28783000000,
+    "comprehensive_income": 77378000000,
+    "eps": 33.58,
+    "eps_diluted": 33.55,
+    "dps": 40,
+    "operating_cf": 566218000000,
+    "investing_cf": -478810000000,
+    "financing_cf": 881000000,
+    "net_assets": 2121226000000,
+    "total_assets": 13833319000000,
+    "bps": 1218.63,
+    "cash_end": 1172102000000,
+    "equity_ratio": 0.076,
+    "roe": 0.027,
+    "per": 109.71,
+    "gross_profit": 2515596000000,
+    "operating_income": 237747000000,
+    "income_tax_expense": 102159000000,
+    "interest_bearing_debt_current": 427829000000,
+    "interest_bearing_debt_noncurrent": 1479593000000,
+    "bonds_payable": 937626000000,
+    "commercial_papers": 9344000000,
+    "current_portion_of_bonds": 189310000000,
+    "current_portion_lt_loans": 395332000000,
+    "lease_liabilities_current": 75635000000,
+    "lease_liabilities_noncurrent": 317999000000,
+    "depreciation": 345291000000,
+    "current_assets": 8693526000000,
+    "current_liabilities": 8443663000000,
+    "noncurrent_assets": 5139792000000,
+    "noncurrent_liabilities": 3268429000000,
+    "trade_receivables": 1856384000000,
+    "inventories": 649955000000,
+    "trade_payables": 1082565000000,
+    "ppe": 3599604000000,
+    "goodwill": 154413000000,
+    "intangible_assets": 416147000000,
+    "investment_securities": 326209000000,
+    "treasury_stock": -13288000000,
+    "noncontrolling_interests": 1070674000000
+  },
+  "segments": [
+    {
+      "key": "DiscountStore",
+      "label": "ＤＳ",
+      "external_revenue": 410235000000,
+      "intersegment_revenue": 1211000000,
+      "operating_income": 7991000000
+    },
+    {
+      "key": "FinancialServices",
+      "label": "総合金融",
+      "external_revenue": 467023000000,
+      "intersegment_revenue": 63429000000,
+      "operating_income": 61165000000,
+      "equity_method_income": 72000000
+    },
+    {
+      "key": "GMS",
+      "label": "ＧＭＳ",
+      "external_revenue": 3460668000000,
+      "intersegment_revenue": 98812000000,
+      "operating_income": 16360000000,
+      "equity_method_income": 151000000
+    },
+    {
+      "key": "HealthAndWellness",
+      "label": "ヘルス＆ウエルネス",
+      "external_revenue": 1321997000000,
+      "intersegment_revenue": 879000000,
+      "operating_income": 36007000000,
+      "equity_method_income": 687000000
+    },
+    {
+      "key": "International",
+      "label": "国際",
+      "external_revenue": 544261000000,
+      "intersegment_revenue": 4613000000,
+      "operating_income": 9493000000,
+      "equity_method_income": -16000000
+    },
+    {
+      "key": "SCDevelopment",
+      "label": "ディベロッパー",
+      "external_revenue": 409338000000,
+      "intersegment_revenue": 86831000000,
+      "operating_income": 53035000000,
+      "equity_method_income": 308000000
+    },
+    {
+      "key": "ServiceSpecialtyStore",
+      "label": "サービス・専門店",
+      "external_revenue": 515096000000,
+      "intersegment_revenue": 214055000000,
+      "operating_income": 23104000000,
+      "equity_method_income": 168000000
+    },
+    {
+      "key": "Supermarket",
+      "label": "SM",
+      "external_revenue": 3045757000000,
+      "intersegment_revenue": 14307000000,
+      "operating_income": 32959000000,
+      "equity_method_income": 2205000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03061-000_2025-02-28_01_2025-05-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

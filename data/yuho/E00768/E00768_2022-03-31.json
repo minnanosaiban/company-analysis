@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E00768",
+    "sec_code": "4043",
+    "company_name": "株式会社トクヤマ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R1FN"
+  },
+  "financials": {
+    "net_sales": 293830000000,
+    "ordinary_income": 25855000000,
+    "net_income": 28000000000,
+    "comprehensive_income": 31160000000,
+    "eps": 389.09,
+    "dps": 70,
+    "operating_cf": 25986000000,
+    "investing_cf": -33797000000,
+    "financing_cf": 5118000000,
+    "net_assets": 232917000000,
+    "total_assets": 433210000000,
+    "bps": 3120.25,
+    "cash_end": 82496000000,
+    "equity_ratio": 0.518,
+    "roe": 0.132,
+    "per": 4.42,
+    "gross_profit": 95412000000,
+    "operating_income": 24539000000,
+    "income_tax_expense": 4306000000,
+    "interest_bearing_debt_current": 463000000,
+    "interest_bearing_debt_noncurrent": 67951000000,
+    "bonds_payable": 15000000000,
+    "current_portion_lt_loans": 20823000000,
+    "lease_liabilities_current": 1225000000,
+    "lease_liabilities_noncurrent": 3754000000,
+    "depreciation": 19716000000,
+    "capex_ppe": -31887000000,
+    "current_assets": 223950000000,
+    "current_liabilities": 102337000000,
+    "noncurrent_assets": 209259000000,
+    "noncurrent_liabilities": 97954000000,
+    "trade_payables": 49055000000,
+    "ppe": 139602000000,
+    "goodwill": 68000000,
+    "intangible_assets": 2682000000,
+    "investment_securities": 28255000000,
+    "treasury_stock": -414000000,
+    "noncontrolling_interests": 8411000000
+  },
+  "segments": [
+    {
+      "key": "Cement",
+      "label": "セメント",
+      "external_revenue": 49679000000,
+      "intersegment_revenue": 687000000,
+      "operating_income": -1912000000
+    },
+    {
+      "key": "Chemicals",
+      "label": "化成品",
+      "external_revenue": 101093000000,
+      "intersegment_revenue": 388000000,
+      "operating_income": 14225000000
+    },
+    {
+      "key": "EcoBusiness",
+      "label": "環境事業",
+      "external_revenue": 9935000000,
+      "intersegment_revenue": 370000000,
+      "operating_income": -468000000
+    },
+    {
+      "key": "ElectronicMaterials",
+      "label": null,
+      "external_revenue": 74332000000,
+      "intersegment_revenue": 664000000,
+      "operating_income": 7232000000
+    },
+    {
+      "key": "LifeScience",
+      "label": "ライフサイエンス",
+      "external_revenue": 33439000000,
+      "intersegment_revenue": 125000000,
+      "operating_income": 6036000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00768-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

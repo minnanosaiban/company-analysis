@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E07801",
+    "sec_code": "6098",
+    "company_name": "株式会社リクルートホールディングス",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YDHL"
+  },
+  "financials": {
+    "dps": 25,
+    "net_sales": 3697351000000,
+    "net_income": 496912000000,
+    "comprehensive_income": 617095000000,
+    "net_assets": 1583321000000,
+    "total_assets": 2789018000000,
+    "equity_ratio": 0.568,
+    "bps": 1134.01,
+    "eps": 349.78,
+    "eps_diluted": 347.59,
+    "roe": 0.31,
+    "per": 18.7,
+    "operating_cf": 669431000000,
+    "investing_cf": -49742000000,
+    "financing_cf": -743478000000,
+    "cash_end": 725578000000,
+    "operating_income": 630567000000,
+    "gross_profit": 2188195000000,
+    "income_tax_expense": 147938000000,
+    "lease_liabilities_current": 44020000000,
+    "lease_liabilities_noncurrent": 141610000000,
+    "sga_expense": 1527672000000,
+    "profit_before_tax": 644618000000,
+    "depreciation": 107077000000,
+    "capex_ppe": -10702000000,
+    "capex_intangible": -51589000000,
+    "current_assets": 1555172000000,
+    "current_liabilities": 875314000000,
+    "noncurrent_assets": 1233845000000,
+    "trade_receivables": 639268000000,
+    "trade_payables": 425541000000,
+    "ppe": 57178000000,
+    "goodwill": 553304000000,
+    "intangible_assets": 163291000000,
+    "equity_method_investments": 2372000000,
+    "treasury_stock": -414455000000,
+    "noncontrolling_interests": 11236000000
+  },
+  "segments": [
+    {
+      "key": "HRTechnology",
+      "label": null,
+      "external_revenue": 1454440000000,
+      "intersegment_revenue": 3979000000,
+      "revenue": 1458419000000,
+      "operating_income": 549995000000
+    },
+    {
+      "key": "MarketingMatchingTechnologies",
+      "label": null,
+      "external_revenue": 563584000000,
+      "intersegment_revenue": 1078000000,
+      "revenue": 564662000000,
+      "operating_income": 154976000000
+    },
+    {
+      "key": "Staffing",
+      "label": null,
+      "external_revenue": 1679327000000,
+      "intersegment_revenue": 24108000000,
+      "revenue": 1703436000000,
+      "operating_income": 99744000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E07801-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

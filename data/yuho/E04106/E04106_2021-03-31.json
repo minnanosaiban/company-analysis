@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "edinet_code": "E04106",
+    "sec_code": "9044",
+    "company_name": "南海電気鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZJM"
+  },
+  "financials": {
+    "ordinary_income": 1854000000,
+    "net_income": -1861000000,
+    "comprehensive_income": 4559000000,
+    "eps": -16.44,
+    "dps": 25,
+    "operating_cf": 21338000000,
+    "investing_cf": -33273000000,
+    "financing_cf": 35821000000,
+    "net_assets": 258569000000,
+    "total_assets": 962229000000,
+    "bps": 2176.19,
+    "cash_end": 40917000000,
+    "equity_ratio": 0.256
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04106-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

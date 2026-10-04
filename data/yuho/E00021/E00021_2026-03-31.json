@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E00021",
+    "sec_code": "5711",
+    "company_name": "三菱マテリアル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YFRY"
+  },
+  "financials": {
+    "net_sales": 1844053000000,
+    "ordinary_income": 97556000000,
+    "net_income": 40581000000,
+    "comprehensive_income": 78568000000,
+    "eps": 310.56,
+    "dps": 100,
+    "operating_cf": 39674000000,
+    "investing_cf": -35030000000,
+    "financing_cf": 23244000000,
+    "net_assets": 752978000000,
+    "total_assets": 2999744000000,
+    "bps": 5633.05,
+    "cash_end": 121749000000,
+    "equity_ratio": 0.245,
+    "roe": 0.057,
+    "per": 15.5,
+    "gross_profit": 198969000000,
+    "operating_income": 60502000000,
+    "income_tax_expense": 14038000000,
+    "interest_bearing_debt_current": 281845000000,
+    "interest_bearing_debt_noncurrent": 160225000000,
+    "bonds_payable": 110000000000,
+    "commercial_papers": 70000000000,
+    "current_portion_of_bonds": 30000000000,
+    "depreciation": 47494000000,
+    "capex_ppe": -48897000000,
+    "capex_intangible": -2748000000,
+    "current_assets": 2064993000000,
+    "current_liabilities": 1871989000000,
+    "noncurrent_assets": 934090000000,
+    "noncurrent_liabilities": 374776000000,
+    "trade_payables": 123608000000,
+    "ppe": 434533000000,
+    "goodwill": 19599000000,
+    "intangible_assets": 46940000000,
+    "investment_securities": 330663000000,
+    "treasury_stock": -2788000000,
+    "noncontrolling_interests": 16866000000
+  },
+  "segments": [
+    {
+      "key": "AdvancedProducts",
+      "label": null,
+      "external_revenue": 567972000000,
+      "intersegment_revenue": 17845000000,
+      "ordinary_income": 20093000000,
+      "equity_method_income": 2145000000
+    },
+    {
+      "key": "MetalWorkingSolutions",
+      "label": null,
+      "external_revenue": 230591000000,
+      "intersegment_revenue": 4150000000,
+      "ordinary_income": 14980000000,
+      "equity_method_income": 556000000
+    },
+    {
+      "key": "Metals",
+      "label": null,
+      "external_revenue": 937814000000,
+      "intersegment_revenue": 297828000000,
+      "ordinary_income": 57066000000,
+      "equity_method_income": 7429000000
+    },
+    {
+      "key": "RenewableEnergy",
+      "label": null,
+      "external_revenue": 6202000000,
+      "intersegment_revenue": 7000000,
+      "ordinary_income": 802000000,
+      "equity_method_income": 603000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00021-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

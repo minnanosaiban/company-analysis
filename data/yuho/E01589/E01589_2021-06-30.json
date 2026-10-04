@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01589",
+    "sec_code": "6728",
+    "company_name": "株式会社　アルバック",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-09-28",
+    "doc_id": "S100RWRO"
+  },
+  "financials": {
+    "net_sales": 183011000000,
+    "ordinary_income": 17966000000,
+    "net_income": 14830000000,
+    "comprehensive_income": 17483000000,
+    "eps": 301.12,
+    "dps": 95,
+    "operating_cf": 25520000000,
+    "investing_cf": -6925000000,
+    "financing_cf": -16061000000,
+    "net_assets": 173699000000,
+    "total_assets": 292761000000,
+    "bps": 3388.87,
+    "cash_end": 83061000000,
+    "equity_ratio": 0.57,
+    "roe": 0.092,
+    "per": 18.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01589-000_2023-06-30_01_2023-09-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

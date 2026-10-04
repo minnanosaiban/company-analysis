@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E00334",
+    "sec_code": "2282",
+    "company_name": "日本ハム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TOJ7"
+  },
+  "financials": {
+    "dps": 119,
+    "net_income": 28078000000,
+    "comprehensive_income": 45196000000,
+    "net_assets": 527503000000,
+    "total_assets": 958237000000,
+    "equity_ratio": 0.55,
+    "bps": 5138.81,
+    "eps": 273.7,
+    "roe": 0.055,
+    "per": 18.59,
+    "operating_cf": 86586000000,
+    "investing_cf": -39224000000,
+    "financing_cf": -53189000000,
+    "cash_end": 65465000000,
+    "income_tax_expense": 11253000000,
+    "sga_expense": 172074000000,
+    "profit_before_tax": 40599000000,
+    "depreciation": 39719000000,
+    "current_assets": 423430000000,
+    "current_liabilities": 246832000000,
+    "noncurrent_assets": 534807000000,
+    "trade_receivables": 165022000000,
+    "inventories": 141429000000,
+    "trade_payables": 116773000000,
+    "ppe": 375211000000,
+    "goodwill": 206000000,
+    "equity_method_investments": 9835000000,
+    "treasury_stock": -1403000000,
+    "noncontrolling_interests": 11699000000
+  },
+  "segments": [
+    {
+      "key": "FreshMeatsBusinessDivision",
+      "label": "食肉事業本部",
+      "external_revenue": 719861000000,
+      "intersegment_revenue": 60735000000,
+      "operating_income": 34026000000,
+      "assets": 422583000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 20664000000,
+      "intersegment_revenue": 3202000000,
+      "operating_income": 1920000000,
+      "assets": 75744000000
+    },
+    {
+      "key": "OverseasBusinessDivision",
+      "label": null,
+      "external_revenue": 167985000000,
+      "intersegment_revenue": 121979000000,
+      "operating_income": 2460000000,
+      "assets": 168887000000
+    },
+    {
+      "key": "ProcessedFoodsBusinessDivision",
+      "label": "加工事業本部",
+      "external_revenue": 402029000000,
+      "intersegment_revenue": 29204000000,
+      "operating_income": 9730000000,
+      "assets": 281634000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00334-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

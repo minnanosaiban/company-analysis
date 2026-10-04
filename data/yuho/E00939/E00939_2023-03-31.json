@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E00939",
+    "sec_code": "4523",
+    "company_name": "エーザイ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R09Z"
+  },
+  "financials": {
+    "dps": 160,
+    "net_sales": 744402000000,
+    "net_income": 55432000000,
+    "net_assets": 799959000000,
+    "total_assets": 1263350000000,
+    "equity_ratio": 0.633,
+    "bps": 2789.32,
+    "eps": 193.31,
+    "eps_diluted": 193.31,
+    "roe": 0.072,
+    "per": 38.82,
+    "operating_cf": -1772000000,
+    "investing_cf": -22723000000,
+    "financing_cf": -24522000000,
+    "cash_end": 267350000000,
+    "operating_income": 40040000000,
+    "gross_profit": 566566000000,
+    "income_tax_expense": -11824000000,
+    "sga_expense": 358292000000,
+    "profit_before_tax": 45012000000,
+    "depreciation": 39981000000,
+    "capex_ppe": -22576000000,
+    "capex_intangible": -11983000000,
+    "current_assets": 622202000000,
+    "current_liabilities": 298945000000,
+    "noncurrent_assets": 641148000000,
+    "trade_receivables": 187256000000,
+    "inventories": 140417000000,
+    "trade_payables": 86826000000,
+    "ppe": 166633000000,
+    "goodwill": 208817000000,
+    "intangible_assets": 89230000000,
+    "treasury_stock": -33638000000,
+    "noncontrolling_interests": 22612000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": null,
+      "external_revenue": 212742000000,
+      "operating_income": 133420000000
+    },
+    {
+      "key": "AsiaAndLatinAmerica",
+      "label": null,
+      "external_revenue": 49839000000,
+      "operating_income": 22119000000
+    },
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 110768000000,
+      "operating_income": 55623000000
+    },
+    {
+      "key": "EMEA",
+      "label": null,
+      "external_revenue": 72159000000,
+      "operating_income": 41553000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 215422000000,
+      "operating_income": 67775000000
+    },
+    {
+      "key": "OTCAndOthers",
+      "label": null,
+      "external_revenue": 23505000000,
+      "operating_income": 5106000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00939-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

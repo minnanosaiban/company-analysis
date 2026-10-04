@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "edinet_code": "E05425",
+    "sec_code": "2413",
+    "company_name": "エムスリー株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R87E"
+  },
+  "financials": {
+    "dps": 19,
+    "net_sales": 230818000000,
+    "net_income": 49028000000,
+    "comprehensive_income": 59893000000,
+    "net_assets": 302630000000,
+    "total_assets": 400645000000,
+    "equity_ratio": 0.755,
+    "bps": 444.22,
+    "eps": 72.22,
+    "eps_diluted": 72.17,
+    "roe": 0.175,
+    "per": 45.7,
+    "operating_cf": 57113000000,
+    "investing_cf": -21933000000,
+    "financing_cf": -22837000000,
+    "cash_end": 118319000000,
+    "operating_income": 71983000000,
+    "gross_profit": 135186000000,
+    "income_tax_expense": 22336000000,
+    "sga_expense": 64832000000,
+    "profit_before_tax": 74318000000,
+    "depreciation": 7434000000,
+    "capex_ppe": -5911000000,
+    "capex_intangible": -1666000000,
+    "current_assets": 203471000000,
+    "current_liabilities": 59580000000,
+    "noncurrent_assets": 197174000000,
+    "trade_receivables": 50537000000,
+    "trade_payables": 32864000000,
+    "ppe": 19034000000,
+    "goodwill": 71342000000,
+    "intangible_assets": 40711000000,
+    "equity_method_investments": 46122000000,
+    "treasury_stock": -37000000,
+    "noncontrolling_interests": 6888000000
+  },
+  "segments": [
+    {
+      "key": "CareerSolution",
+      "label": "キャリアソリューション",
+      "external_revenue": 13869000000,
+      "intersegment_revenue": 669000000,
+      "revenue": 14538000000,
+      "operating_income": 4644000000
+    },
+    {
+      "key": "EvidenceSolution",
+      "label": "エビデンスソリューション",
+      "external_revenue": 26527000000,
+      "intersegment_revenue": 630000000,
+      "revenue": 27157000000,
+      "operating_income": 7662000000
+    },
+    {
+      "key": "MedicalPlatform",
+      "label": "メディカルプラットフォーム",
+      "external_revenue": 90196000000,
+      "intersegment_revenue": 2902000000,
+      "revenue": 93098000000,
+      "operating_income": 41147000000,
+      "equity_method_income": 238000000
+    },
+    {
+      "key": "Overseas",
+      "label": "海外",
+      "external_revenue": 62070000000,
+      "intersegment_revenue": 25000000,
+      "revenue": 62095000000,
+      "operating_income": 16990000000,
+      "equity_method_income": 1088000000
+    },
+    {
+      "key": "SiteSolution",
+      "label": "サイトソリューション",
+      "external_revenue": 34979000000,
+      "intersegment_revenue": 316000000,
+      "revenue": 35295000000,
+      "operating_income": 3745000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05425-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

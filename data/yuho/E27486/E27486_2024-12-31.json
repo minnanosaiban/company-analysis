@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E27486",
+    "sec_code": "4587",
+    "company_name": "ペプチドリーム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-28",
+    "doc_id": "S100VITV"
+  },
+  "financials": {
+    "net_sales": 46676523000,
+    "net_income": 15014922000,
+    "comprehensive_income": 16216367000,
+    "net_assets": 56762298000,
+    "total_assets": 92769826000,
+    "equity_ratio": 0.612,
+    "bps": 437.63,
+    "eps": 115.85,
+    "eps_diluted": 115.68,
+    "roe": 0.309,
+    "per": 22.83,
+    "operating_cf": 23844988000,
+    "investing_cf": 8370789000,
+    "financing_cf": -2994633000,
+    "cash_end": 48117933000,
+    "operating_income": 21113841000,
+    "gross_profit": 34503824000,
+    "income_tax_expense": 5873882000,
+    "sga_expense": 9109710000,
+    "profit_before_tax": 20888805000,
+    "depreciation": 2248471000,
+    "capex_ppe": -2076502000,
+    "capex_intangible": -141767000,
+    "current_assets": 57209634000,
+    "current_liabilities": 18406773000,
+    "noncurrent_assets": 35560191000,
+    "trade_receivables": 5282889000,
+    "inventories": 2671658000,
+    "trade_payables": 5332036000,
+    "ppe": 17526094000,
+    "goodwill": 8370677000,
+    "intangible_assets": 2142969000,
+    "equity_method_investments": 64796000,
+    "treasury_stock": -1075148000
+  },
+  "segments": [
+    {
+      "key": "DrugDiscoveryAndDevelopmentBusiness",
+      "label": null,
+      "external_revenue": 31313392000,
+      "revenue": 31313392000,
+      "operating_income": 20957312000
+    },
+    {
+      "key": "RadiopharmaceuticalsBusiness",
+      "label": null,
+      "external_revenue": 15363130000,
+      "intersegment_revenue": 740691000,
+      "revenue": 16103821000,
+      "operating_income": 246528000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27486-000_2024-12-31_01_2025-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

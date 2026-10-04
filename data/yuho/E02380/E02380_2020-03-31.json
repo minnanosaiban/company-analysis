@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E02380",
+    "sec_code": "7313",
+    "company_name": "テイ・エス　テック株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R173"
+  },
+  "financials": {
+    "dps": 86,
+    "net_sales": 359682000000,
+    "net_income": 15064000000,
+    "comprehensive_income": 8761000000,
+    "net_assets": 254745000000,
+    "total_assets": 341820000000,
+    "equity_ratio": 0.745,
+    "bps": 1873.2,
+    "eps": 110.77,
+    "roe": 0.059,
+    "per": 11.5,
+    "operating_cf": 44193000000,
+    "investing_cf": -5366000000,
+    "financing_cf": -12917000000,
+    "cash_end": 149628000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02380-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

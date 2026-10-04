@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E03217",
+    "sec_code": "9983",
+    "company_name": "株式会社ファーストリテイリング",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-08-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-11-30",
+    "doc_id": "S100SD9V"
+  },
+  "financials": {
+    "dps": 480,
+    "net_sales": 2008846000000,
+    "net_income": 90357000000,
+    "comprehensive_income": 110134000000,
+    "net_assets": 956562000000,
+    "total_assets": 2411990000000,
+    "equity_ratio": 0.397,
+    "bps": 9368.83,
+    "eps": 885.15,
+    "eps_diluted": 883.62,
+    "roe": 0.095,
+    "per": 71.5,
+    "operating_cf": 264868000000,
+    "investing_cf": -75981000000,
+    "financing_cf": -183268000000,
+    "cash_end": 1093531000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03217-000_2023-08-31_01_2023-11-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

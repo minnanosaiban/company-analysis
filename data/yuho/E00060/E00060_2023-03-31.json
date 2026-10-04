@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E00060",
+    "sec_code": "1820",
+    "company_name": "西松建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R536"
+  },
+  "financials": {
+    "net_sales": 339757000000,
+    "ordinary_income": 13176000000,
+    "net_income": 9648000000,
+    "comprehensive_income": 9193000000,
+    "eps": 244.43,
+    "dps": 221,
+    "operating_cf": 34747000000,
+    "investing_cf": -27450000000,
+    "financing_cf": -2365000000,
+    "net_assets": 156148000000,
+    "total_assets": 513623000000,
+    "bps": 3770.77,
+    "cash_end": 53726000000,
+    "equity_ratio": 0.29,
+    "roe": 0.0643,
+    "per": 14.01,
+    "gross_profit": 33719000000,
+    "operating_income": 12615000000,
+    "income_tax_expense": 4185000000,
+    "interest_bearing_debt_current": 59239000000,
+    "interest_bearing_debt_noncurrent": 3157000000,
+    "bonds_payable": 91000000000,
+    "current_portion_of_bonds": 15000000000,
+    "lease_liabilities_current": 28000000,
+    "lease_liabilities_noncurrent": 986000000,
+    "depreciation": 3966000000,
+    "current_assets": 290744000000,
+    "current_liabilities": 247670000000,
+    "noncurrent_assets": 222878000000,
+    "noncurrent_liabilities": 109804000000,
+    "ppe": 163369000000,
+    "goodwill": 68000000,
+    "intangible_assets": 6461000000,
+    "investment_securities": 35868000000,
+    "treasury_stock": -57338000000,
+    "noncontrolling_interests": 7306000000
+  },
+  "segments": [
+    {
+      "key": "BuildingConstruction",
+      "label": null,
+      "external_revenue": 187485000000,
+      "intersegment_revenue": 946000000,
+      "operating_income": -5426000000
+    },
+    {
+      "key": "CivilEngineering",
+      "label": null,
+      "external_revenue": 119810000000,
+      "operating_income": 7722000000
+    },
+    {
+      "key": "DevelopmentAndRealEstateBusiness",
+      "label": null,
+      "external_revenue": 32461000000,
+      "intersegment_revenue": 250000000,
+      "operating_income": 10343000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00060-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E01726",
+    "sec_code": "6268",
+    "company_name": "ナブテスコ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4RD"
+  },
+  "financials": {
+    "dps": 80,
+    "net_sales": 333631000000,
+    "net_income": 14554000000,
+    "comprehensive_income": 21064000000,
+    "net_assets": 260470000000,
+    "total_assets": 422065000000,
+    "equity_ratio": 0.617,
+    "bps": 2169.52,
+    "eps": 121.25,
+    "eps_diluted": 121.23,
+    "roe": 0.057,
+    "per": 23.7,
+    "operating_cf": 11177000000,
+    "investing_cf": -46295000000,
+    "financing_cf": -13482000000,
+    "cash_end": 77835000000,
+    "operating_income": 17376000000,
+    "gross_profit": 82661000000,
+    "income_tax_expense": 9199000000,
+    "lease_liabilities_current": 2799000000,
+    "lease_liabilities_noncurrent": 8060000000,
+    "sga_expense": 66861000000,
+    "profit_before_tax": 25629000000,
+    "depreciation": 15469000000,
+    "capex_ppe": -22578000000,
+    "capex_intangible": -3021000000,
+    "current_assets": 220847000000,
+    "current_liabilities": 119491000000,
+    "noncurrent_assets": 201218000000,
+    "inventories": 50969000000,
+    "ppe": 107527000000,
+    "goodwill": 25750000000,
+    "intangible_assets": 11624000000,
+    "equity_method_investments": 21139000000,
+    "treasury_stock": -3943000000,
+    "noncontrolling_interests": 15424000000
+  },
+  "segments": [
+    {
+      "key": "AccessibilitySolutions",
+      "label": "アクセシビリティソリューション事業",
+      "external_revenue": 96275000000,
+      "intersegment_revenue": 15000000,
+      "operating_income": 6167000000,
+      "assets": 101190000000
+    },
+    {
+      "key": "ComponentSolutions",
+      "label": "コンポーネントソリューション事業",
+      "external_revenue": 138089000000,
+      "intersegment_revenue": 3072000000,
+      "operating_income": 10376000000,
+      "assets": 137412000000
+    },
+    {
+      "key": "TransportSolutions",
+      "label": "トランスポートソリューション事業",
+      "external_revenue": 80787000000,
+      "intersegment_revenue": 1902000000,
+      "operating_income": 7828000000,
+      "assets": 87987000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01726-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

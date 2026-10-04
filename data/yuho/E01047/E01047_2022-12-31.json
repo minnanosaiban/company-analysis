@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E01047",
+    "sec_code": "4967",
+    "company_name": "小林製薬株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T3KX"
+  },
+  "financials": {
+    "net_sales": 166258000000,
+    "ordinary_income": 28281000000,
+    "net_income": 20022000000,
+    "comprehensive_income": 22801000000,
+    "eps": 259.63,
+    "eps_diluted": 259.59,
+    "dps": 90,
+    "operating_cf": 31914000000,
+    "investing_cf": -14312000000,
+    "financing_cf": -20759000000,
+    "net_assets": 197900000000,
+    "total_assets": 255827000000,
+    "bps": 2600.04,
+    "cash_end": 79480000000,
+    "equity_ratio": 0.773,
+    "roe": 0.102,
+    "per": 34.8,
+    "gross_profit": 92331000000,
+    "operating_income": 26669000000,
+    "income_tax_expense": 8260000000,
+    "lease_liabilities_current": 261000000,
+    "lease_liabilities_noncurrent": 531000000,
+    "depreciation": 4360000000,
+    "capex_ppe": -14747000000,
+    "capex_intangible": -1482000000,
+    "current_assets": 172892000000,
+    "current_liabilities": 51809000000,
+    "noncurrent_assets": 82934000000,
+    "noncurrent_liabilities": 6118000000,
+    "trade_receivables": 47881000000,
+    "trade_payables": 9051000000,
+    "ppe": 34778000000,
+    "goodwill": 7147000000,
+    "intangible_assets": 13307000000,
+    "investment_securities": 28509000000,
+    "treasury_stock": -14482000000
+  },
+  "segments": [
+    {
+      "key": "DomesticBusiness",
+      "label": "国内事業",
+      "external_revenue": 125980000000,
+      "intersegment_revenue": 4655000000,
+      "operating_income": 22860000000
+    },
+    {
+      "key": "InternationalBusiness",
+      "label": "国際事業",
+      "external_revenue": 39676000000,
+      "intersegment_revenue": 1877000000,
+      "operating_income": 3234000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01047-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

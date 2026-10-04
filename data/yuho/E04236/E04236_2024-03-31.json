@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "edinet_code": "E04236",
+    "sec_code": "9104",
+    "company_name": "株式会社　商船三井",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TRP1"
+  },
+  "financials": {
+    "net_sales": 1627912000000,
+    "ordinary_income": 258986000000,
+    "net_income": 261651000000,
+    "comprehensive_income": 461033000000,
+    "eps": 722.85,
+    "eps_diluted": 721.05,
+    "dps": 220,
+    "operating_cf": 314202000000,
+    "investing_cf": -355239000000,
+    "financing_cf": 49725000000,
+    "net_assets": 2369682000000,
+    "total_assets": 4120552000000,
+    "bps": 6496.19,
+    "cash_end": 113148000000,
+    "equity_ratio": 0.5712,
+    "roe": 0.1223,
+    "per": 6.38,
+    "gross_profit": 248947000000,
+    "operating_income": 103132000000,
+    "income_tax_expense": 47123000000,
+    "interest_bearing_debt_current": 249519000000,
+    "interest_bearing_debt_noncurrent": 706077000000,
+    "bonds_payable": 156600000000,
+    "commercial_papers": 80000000000,
+    "lease_liabilities_noncurrent": 53961000000,
+    "depreciation": 102473000000,
+    "current_assets": 465796000000,
+    "current_liabilities": 647342000000,
+    "noncurrent_assets": 3654756000000,
+    "noncurrent_liabilities": 1103527000000,
+    "inventories": 56117000000,
+    "ppe": 1654521000000,
+    "goodwill": 36264000000,
+    "intangible_assets": 69200000000,
+    "investment_securities": 1669605000000,
+    "treasury_stock": -88000000,
+    "noncontrolling_interests": 15506000000
+  },
+  "segments": [
+    {
+      "key": "AssociatedBusinesses",
+      "label": "関連事業",
+      "external_revenue": 49182000000,
+      "intersegment_revenue": 35276000000,
+      "ordinary_income": 2944000000,
+      "equity_method_income": 187000000
+    },
+    {
+      "key": "Containerships",
+      "label": "コンテナ船事業",
+      "external_revenue": 56376000000,
+      "intersegment_revenue": 316000000,
+      "ordinary_income": 51513000000,
+      "equity_method_income": 45024000000
+    },
+    {
+      "key": "DryBulkBusiness",
+      "label": "ドライバルク事業",
+      "external_revenue": 395577000000,
+      "intersegment_revenue": 1026000000,
+      "ordinary_income": 37235000000,
+      "equity_method_income": 4698000000
+    },
+    {
+      "key": "EnergyBusiness",
+      "label": "エネルギー事業",
+      "external_revenue": 437839000000,
+      "intersegment_revenue": 13445000000,
+      "ordinary_income": 66909000000,
+      "equity_method_income": 40361000000
+    },
+    {
+      "key": "FerriesAndCoastalRoRoShipsCruiseBusinesses",
+      "label": "フェリー・内航RORO船・クルーズ事業",
+      "external_revenue": 63872000000,
+      "intersegment_revenue": 339000000,
+      "ordinary_income": 397000000,
+      "equity_method_income": 565000000
+    },
+    {
+      "key": "RealEstateBusiness",
+      "label": "不動産事業",
+      "external_revenue": 40827000000,
+      "intersegment_revenue": 3548000000,
+      "ordinary_income": 8659000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04236-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

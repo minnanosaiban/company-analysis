@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E01939",
+    "sec_code": "6806",
+    "company_name": "ヒロセ電機株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TONX"
+  },
+  "financials": {
+    "dps": 440,
+    "net_sales": 165509000000,
+    "net_income": 26480000000,
+    "comprehensive_income": 41404000000,
+    "net_assets": 364173000000,
+    "total_assets": 403450000000,
+    "equity_ratio": 0.903,
+    "bps": 10764.21,
+    "eps": 772.38,
+    "eps_diluted": 772.33,
+    "roe": 0.074,
+    "per": 20,
+    "operating_cf": 41049000000,
+    "investing_cf": -13935000000,
+    "financing_cf": -28187000000,
+    "cash_end": 90341000000,
+    "operating_income": 34017000000,
+    "gross_profit": 72497000000,
+    "income_tax_expense": 12281000000,
+    "lease_liabilities_current": 1107000000,
+    "lease_liabilities_noncurrent": 4819000000,
+    "sga_expense": 37237000000,
+    "profit_before_tax": 38761000000,
+    "depreciation": 16847000000,
+    "capex_ppe": -32064000000,
+    "current_assets": 234460000000,
+    "current_liabilities": 21198000000,
+    "noncurrent_assets": 168990000000,
+    "trade_receivables": 39418000000,
+    "inventories": 24359000000,
+    "trade_payables": 11729000000,
+    "ppe": 80949000000,
+    "intangible_assets": 5141000000,
+    "treasury_stock": -35807000000
+  },
+  "segments": [
+    {
+      "key": "CoaxialConnectors",
+      "label": null,
+      "external_revenue": 11676000000,
+      "revenue": 11676000000,
+      "operating_income": 3301000000
+    },
+    {
+      "key": "MultiPinConnectors",
+      "label": null,
+      "external_revenue": 148512000000,
+      "revenue": 148512000000,
+      "operating_income": 29988000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01939-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E30969",
+    "sec_code": "3697",
+    "company_name": "株式会社ＳＨＩＦＴ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-08-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-11-29",
+    "doc_id": "S100SDFR"
+  },
+  "financials": {
+    "net_sales": 19531000000,
+    "ordinary_income": 1544000000,
+    "net_income": 970000000,
+    "comprehensive_income": 1058000000,
+    "eps": 65.54,
+    "eps_diluted": 60.11,
+    "operating_cf": 1133000000,
+    "investing_cf": -1152000000,
+    "financing_cf": 6247000000,
+    "net_assets": 8938000000,
+    "total_assets": 14975000000,
+    "bps": 551.69,
+    "cash_end": 8691000000,
+    "equity_ratio": 0.577,
+    "roe": 0.177,
+    "per": 82.39
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E30969-000_2023-08-31_01_2023-11-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

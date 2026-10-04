@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E00024",
+    "sec_code": "5706",
+    "company_name": "三井金属鉱業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R2ZK"
+  },
+  "financials": {
+    "net_sales": 633346000000,
+    "ordinary_income": 65990000000,
+    "net_income": 52088000000,
+    "comprehensive_income": 50925000000,
+    "eps": 912,
+    "dps": 110,
+    "operating_cf": 60672000000,
+    "investing_cf": -25538000000,
+    "financing_cf": -37521000000,
+    "net_assets": 250048000000,
+    "total_assets": 637878000000,
+    "bps": 4196.37,
+    "cash_end": 29614000000,
+    "equity_ratio": 0.376,
+    "roe": 0.238,
+    "per": 3.68,
+    "gross_profit": 122564000000,
+    "operating_income": 60737000000,
+    "income_tax_expense": 10612000000,
+    "interest_bearing_debt_current": 76605000000,
+    "interest_bearing_debt_noncurrent": 80495000000,
+    "bonds_payable": 40000000000,
+    "commercial_papers": 18000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_current": 555000000,
+    "lease_liabilities_noncurrent": 1472000000,
+    "depreciation": 33167000000,
+    "capex_ppe": -23016000000,
+    "capex_intangible": -2472000000,
+    "current_assets": 359045000000,
+    "current_liabilities": 223800000000,
+    "noncurrent_assets": 278832000000,
+    "noncurrent_liabilities": 164029000000,
+    "trade_payables": 61073000000,
+    "ppe": 197124000000,
+    "goodwill": 422000000,
+    "intangible_assets": 9137000000,
+    "investment_securities": 55931000000,
+    "treasury_stock": -626000000,
+    "noncontrolling_interests": 10356000000
+  },
+  "segments": [
+    {
+      "key": "EngineeredMaterialsSector",
+      "label": null,
+      "external_revenue": 127246000000,
+      "intersegment_revenue": 8867000000,
+      "ordinary_income": 29963000000
+    },
+    {
+      "key": "MetalsSector",
+      "label": null,
+      "external_revenue": 194099000000,
+      "intersegment_revenue": 46816000000,
+      "ordinary_income": 36285000000,
+      "equity_method_income": 2247000000
+    },
+    {
+      "key": "Mobility",
+      "label": null,
+      "external_revenue": 203601000000,
+      "intersegment_revenue": 3510000000,
+      "ordinary_income": 2436000000
+    },
+    {
+      "key": "OtherBusinessSector",
+      "label": null,
+      "external_revenue": 90741000000,
+      "intersegment_revenue": 27919000000,
+      "ordinary_income": 3866000000,
+      "equity_method_income": 2328000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00024-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

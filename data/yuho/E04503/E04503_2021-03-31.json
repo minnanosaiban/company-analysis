@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "edinet_code": "E04503",
+    "sec_code": "9505",
+    "company_name": "北陸電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-06-13",
+    "doc_id": "S100QXLS"
+  },
+  "financials": {
+    "net_sales": 639445000000,
+    "ordinary_income": 12354000000,
+    "net_income": 6834000000,
+    "comprehensive_income": 19145000000,
+    "eps": 32.73,
+    "dps": 15,
+    "operating_cf": 56639000000,
+    "investing_cf": -84913000000,
+    "financing_cf": -3300000000,
+    "net_assets": 355740000000,
+    "total_assets": 1595626000000,
+    "bps": 1622.02,
+    "cash_end": 132310000000,
+    "equity_ratio": 0.212,
+    "roe": 0.021,
+    "per": 23.13,
+    "operating_income": 17828000000,
+    "income_tax_expense": 3408000000,
+    "interest_bearing_debt_current": 7080000000,
+    "interest_bearing_debt_noncurrent": 405555000000,
+    "bonds_payable": 475000000000,
+    "depreciation": 54346000000,
+    "current_assets": 245342000000,
+    "current_liabilities": 212589000000,
+    "noncurrent_assets": 1350284000000,
+    "noncurrent_liabilities": 1006650000000,
+    "trade_receivables": 72019000000,
+    "inventories": 27203000000,
+    "trade_payables": 33585000000,
+    "treasury_stock": -3356000000,
+    "noncontrolling_interests": 17115000000
+  },
+  "segments": [
+    {
+      "key": "PowerGenerationSales",
+      "label": "発電・販売事業",
+      "external_revenue": 541292000000,
+      "intersegment_revenue": 33266000000,
+      "ordinary_income": -8265000000
+    },
+    {
+      "key": "TransmissionAndDistribution",
+      "label": "送配電事業",
+      "external_revenue": 42103000000,
+      "intersegment_revenue": 133524000000,
+      "ordinary_income": 12226000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04503-000_2022-03-31_03_2023-06-13.csv",
+    "parser_version": "0.1.3"
+  }
+}

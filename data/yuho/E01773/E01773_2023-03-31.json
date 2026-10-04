@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E01773",
+    "sec_code": "6753",
+    "company_name": "シャープ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R5CO"
+  },
+  "financials": {
+    "net_sales": 2548117000000,
+    "ordinary_income": -30487000000,
+    "net_income": -260840000000,
+    "comprehensive_income": -262369000000,
+    "eps": -407.31,
+    "operating_cf": 14746000000,
+    "investing_cf": -40967000000,
+    "financing_cf": -18483000000,
+    "net_assets": 222362000000,
+    "total_assets": 1772961000000,
+    "bps": 321.05,
+    "cash_end": 206612000000,
+    "equity_ratio": 0.118,
+    "roe": -0.787,
+    "gross_profit": 330831000000,
+    "operating_income": -25719000000,
+    "income_tax_expense": 15660000000,
+    "interest_bearing_debt_current": 163896000000,
+    "interest_bearing_debt_noncurrent": 542727000000,
+    "lease_liabilities_current": 18966000000,
+    "depreciation": 89799000000,
+    "capex_ppe": -43565000000,
+    "capex_intangible": -13449000000,
+    "current_assets": 1087087000000,
+    "current_liabilities": 882563000000,
+    "noncurrent_assets": 685873000000,
+    "noncurrent_liabilities": 668034000000,
+    "inventories": 299307000000,
+    "trade_payables": 328899000000,
+    "ppe": 389257000000,
+    "goodwill": 6284000000,
+    "intangible_assets": 35845000000,
+    "investment_securities": 216207000000,
+    "treasury_stock": -13749000000,
+    "noncontrolling_interests": 13618000000
+  },
+  "segments": [
+    {
+      "key": "DisplayDevice",
+      "label": null,
+      "external_revenue": 736224000000,
+      "intersegment_revenue": 23729000000,
+      "operating_income": -66482000000
+    },
+    {
+      "key": "ElectronicDevice",
+      "label": null,
+      "external_revenue": 446560000000,
+      "intersegment_revenue": 29028000000,
+      "operating_income": 14799000000
+    },
+    {
+      "key": "ICT",
+      "label": null,
+      "external_revenue": 311351000000,
+      "intersegment_revenue": 14521000000,
+      "operating_income": -5530000000
+    },
+    {
+      "key": "KEcosystem",
+      "label": null,
+      "external_revenue": 585428000000,
+      "intersegment_revenue": 6404000000,
+      "operating_income": 13421000000
+    },
+    {
+      "key": "SmartLife",
+      "label": null,
+      "external_revenue": 468552000000,
+      "intersegment_revenue": 191000000,
+      "operating_income": 28209000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01773-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

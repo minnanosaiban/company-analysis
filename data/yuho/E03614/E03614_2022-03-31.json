@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "edinet_code": "E03614",
+    "sec_code": "8316",
+    "company_name": "株式会社三井住友フィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R1RG"
+  },
+  "financials": {
+    "ordinary_income": 1040621000000,
+    "net_income": 706631000000,
+    "comprehensive_income": 561887000000,
+    "eps": 515.51,
+    "eps_diluted": 515.3,
+    "dps": 210,
+    "operating_cf": 1545423000000,
+    "investing_cf": -2406810000000,
+    "financing_cf": -485338000000,
+    "net_assets": 12197331000000,
+    "total_assets": 257704625000000,
+    "bps": 8825.53,
+    "cash_end": 65832072000000,
+    "equity_ratio": 0.0469,
+    "roe": 0.0591,
+    "per": 7.58,
+    "income_tax_expense": 241259000000,
+    "bonds_payable": 9808107000000,
+    "commercial_papers": 1866366000000,
+    "depreciation": 222298000000,
+    "capex_ppe": -92592000000,
+    "capex_intangible": -195596000000,
+    "ppe": 1457254000000,
+    "goodwill": 320640000000,
+    "intangible_assets": 898817000000,
+    "treasury_stock": -13402000000,
+    "noncontrolling_interests": 97641000000,
+    "ordinary_revenue": 4111127000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03614-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

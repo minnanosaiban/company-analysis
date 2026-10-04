@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "edinet_code": "E02505",
+    "sec_code": "8015",
+    "company_name": "豊田通商株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-19",
+    "doc_id": "S100VZM9"
+  },
+  "financials": {
+    "dps": 202,
+    "net_sales": 9848560000000,
+    "net_income": 284155000000,
+    "comprehensive_income": 355478000000,
+    "net_assets": 1914327000000,
+    "total_assets": 6377064000000,
+    "equity_ratio": 0.3002,
+    "bps": 1813.51,
+    "eps": 269.19,
+    "roe": 0.1557,
+    "per": 6.96,
+    "operating_cf": 444290000000,
+    "investing_cf": -139918000000,
+    "financing_cf": -206671000000,
+    "cash_end": 771613000000
+  },
+  "segments": [
+    {
+      "key": "Africa",
+      "label": "アフリカ",
+      "external_revenue": 1373241000000,
+      "intersegment_revenue": 76000000,
+      "gross_profit": 254892000000,
+      "profit_attributable_to_owners": 36371000000,
+      "assets": 880200000000,
+      "equity_method_income": -3335000000
+    },
+    {
+      "key": "ChemicalsAndElectronics",
+      "label": null,
+      "external_revenue": 2103856000000,
+      "intersegment_revenue": 6474000000,
+      "gross_profit": 164018000000,
+      "profit_attributable_to_owners": 47936000000,
+      "assets": 879024000000,
+      "equity_method_income": 2818000000
+    },
+    {
+      "key": "FoodAndConsumerServices",
+      "label": null,
+      "external_revenue": 809192000000,
+      "intersegment_revenue": 696000000,
+      "gross_profit": 47425000000,
+      "profit_attributable_to_owners": 9548000000,
+      "assets": 397228000000,
+      "equity_method_income": 4837000000
+    },
+    {
+      "key": "GlobalPartsAndLogistics",
+      "label": null,
+      "external_revenue": 1159939000000,
+      "intersegment_revenue": 31250000000,
+      "gross_profit": 110767000000,
+      "profit_attributable_to_owners": 34320000000,
+      "assets": 590966000000,
+      "equity_method_income": -182000000
+    },
+    {
+      "key": "MachineryEnergyAndProject",
+      "label": null,
+      "external_revenue": 824633000000,
+      "intersegment_revenue": 4717000000,
+      "gross_profit": 102636000000,
+      "profit_attributable_to_owners": 32612000000,
+      "assets": 1006750000000,
+      "equity_method_income": 17127000000
+    },
+    {
+      "key": "Metals",
+      "label": null,
+      "external_revenue": 2743805000000,
+      "intersegment_revenue": 4515000000,
+      "gross_profit": 157282000000,
+      "profit_attributable_to_owners": 76619000000,
+      "assets": 1393401000000,
+      "equity_method_income": 11995000000
+    },
+    {
+      "key": "Mobility",
+      "label": "モビリティ",
+      "external_revenue": 826750000000,
+      "intersegment_revenue": 6602000000,
+      "gross_profit": 136752000000,
+      "profit_attributable_to_owners": 45764000000,
+      "assets": 405091000000,
+      "equity_method_income": 3973000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02505-000_2025-03-31_01_2025-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

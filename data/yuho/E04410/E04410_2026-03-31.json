@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E04410",
+    "sec_code": "9404",
+    "company_name": "日本テレビホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100Y9BG"
+  },
+  "financials": {
+    "net_sales": 484418000000,
+    "ordinary_income": 82081000000,
+    "net_income": 56767000000,
+    "comprehensive_income": 64248000000,
+    "eps": 228.07,
+    "eps_diluted": 225.98,
+    "dps": 45,
+    "operating_cf": 60781000000,
+    "investing_cf": -27527000000,
+    "financing_cf": -20774000000,
+    "net_assets": 1031083000000,
+    "total_assets": 1282562000000,
+    "bps": 4021.88,
+    "cash_end": 129551000000,
+    "equity_ratio": 0.776,
+    "roe": 0.058,
+    "per": 13.8,
+    "gross_profit": 180891000000,
+    "operating_income": 69332000000,
+    "income_tax_expense": 25753000000,
+    "interest_bearing_debt_current": 3754000000,
+    "lease_liabilities_noncurrent": 4811000000,
+    "depreciation": 12323000000,
+    "capex_ppe": -6778000000,
+    "capex_intangible": -3336000000,
+    "current_assets": 379502000000,
+    "current_liabilities": 129221000000,
+    "noncurrent_assets": 903060000000,
+    "noncurrent_liabilities": 122258000000,
+    "inventories": 5691000000,
+    "ppe": 254382000000,
+    "goodwill": 9029000000,
+    "intangible_assets": 28079000000,
+    "investment_securities": 591447000000,
+    "treasury_stock": -25316000000,
+    "noncontrolling_interests": 36133000000
+  },
+  "segments": [
+    {
+      "key": "ContentMediaBusiness",
+      "label": null,
+      "external_revenue": 452656000000,
+      "intersegment_revenue": 231000000,
+      "operating_income": 67114000000
+    },
+    {
+      "key": "RealEstateRelatedBusiness",
+      "label": null,
+      "external_revenue": 4560000000,
+      "intersegment_revenue": 6994000000,
+      "operating_income": 4136000000
+    },
+    {
+      "key": "WellnessBusiness",
+      "label": null,
+      "external_revenue": 27202000000,
+      "intersegment_revenue": 463000000,
+      "operating_income": -72000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04410-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "edinet_code": "E00444",
+    "sec_code": "2811",
+    "company_name": "カゴメ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-15",
+    "doc_id": "S100QP6V"
+  },
+  "financials": {
+    "dps": 38,
+    "net_sales": 205618000000,
+    "net_income": 9116000000,
+    "comprehensive_income": 14139000000,
+    "net_assets": 119071000000,
+    "total_assets": 225372000000,
+    "equity_ratio": 0.528,
+    "bps": 1383.5,
+    "eps": 105.11,
+    "eps_diluted": 104.91,
+    "roe": 0.077,
+    "per": 29.1,
+    "operating_cf": 4635000000,
+    "investing_cf": -9457000000,
+    "financing_cf": -5512000000,
+    "cash_end": 21390000000,
+    "operating_income": 12757000000,
+    "gross_profit": 71136000000,
+    "income_tax_expense": 2790000000,
+    "interest_bearing_debt_noncurrent": 8346000000,
+    "sga_expense": 59232000000,
+    "profit_before_tax": 12557000000,
+    "depreciation": 8282000000,
+    "current_assets": 129162000000,
+    "current_liabilities": 80313000000,
+    "noncurrent_assets": 96209000000,
+    "trade_receivables": 45487000000,
+    "inventories": 57565000000,
+    "trade_payables": 35486000000,
+    "ppe": 61779000000,
+    "goodwill": 757000000,
+    "intangible_assets": 3220000000,
+    "equity_method_investments": 9141000000,
+    "treasury_stock": -22543000000,
+    "noncontrolling_interests": 2720000000
+  },
+  "segments": [
+    {
+      "key": "DomesticFarmingBusiness",
+      "label": null,
+      "external_revenue": 9570000000,
+      "intersegment_revenue": 11000000,
+      "revenue": 9582000000,
+      "assets": 5906000000,
+      "equity_method_income": 31000000
+    },
+    {
+      "key": "DomesticProcessedFoodBusiness",
+      "label": "国内加工食品事業",
+      "external_revenue": 137968000000,
+      "revenue": 137968000000,
+      "assets": 131858000000,
+      "equity_method_income": 123000000
+    },
+    {
+      "key": "OtherDomestic",
+      "label": "その他",
+      "external_revenue": 2036000000,
+      "intersegment_revenue": 185000000,
+      "revenue": 2221000000,
+      "assets": 7234000000,
+      "equity_method_income": -28000000
+    },
+    {
+      "key": "Overseas",
+      "label": "国際事業",
+      "external_revenue": 56043000000,
+      "intersegment_revenue": 11787000000,
+      "revenue": 67830000000,
+      "assets": 80371000000,
+      "equity_method_income": 778000000
+    },
+    {
+      "key": "ReconcilingItemsDomestic",
+      "label": null,
+      "intersegment_revenue": -11984000000,
+      "revenue": -11984000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00444-000_2022-12-31_03_2023-05-15.csv",
+    "parser_version": "0.1.3"
+  }
+}

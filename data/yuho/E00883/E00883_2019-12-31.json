@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00883",
+    "sec_code": "4452",
+    "company_name": "花王株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-22",
+    "doc_id": "S100T2ZS"
+  },
+  "financials": {
+    "dps": 130,
+    "net_sales": 1502241000000,
+    "net_income": 148213000000,
+    "comprehensive_income": 144508000000,
+    "net_assets": 857695000000,
+    "total_assets": 1653919000000,
+    "equity_ratio": 0.519,
+    "bps": 1783.46,
+    "eps": 306.7,
+    "eps_diluted": 306.63,
+    "roe": 0.176,
+    "per": 29.4,
+    "operating_cf": 244523000000,
+    "investing_cf": -94266000000,
+    "financing_cf": -126166000000,
+    "cash_end": 289681000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00883-000_2023-12-31_01_2024-03-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E02362",
+    "sec_code": "7951",
+    "company_name": "ヤマハ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R9AH"
+  },
+  "financials": {
+    "dps": 66,
+    "net_sales": 372630000000,
+    "net_income": 26615000000,
+    "comprehensive_income": 81993000000,
+    "net_assets": 395958000000,
+    "total_assets": 557616000000,
+    "equity_ratio": 0.71,
+    "bps": 2252.34,
+    "eps": 151.39,
+    "roe": 0.074,
+    "per": 39.7,
+    "operating_cf": 58225000000,
+    "investing_cf": -5785000000,
+    "financing_cf": -20602000000,
+    "cash_end": 129345000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02362-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

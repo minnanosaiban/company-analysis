@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E04430",
+    "sec_code": "9432",
+    "company_name": "日本電信電話株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-20",
+    "doc_id": "S100W1FL"
+  },
+  "financials": {
+    "dps": 5.2,
+    "net_sales": 13704727000000,
+    "net_income": 1000016000000,
+    "comprehensive_income": 1034737000000,
+    "net_assets": 10221587000000,
+    "total_assets": 30062483000000,
+    "equity_ratio": 0.34,
+    "bps": 123.54,
+    "eps": 11.96,
+    "roe": 0.1,
+    "per": 12.1,
+    "operating_cf": 2364031000000,
+    "investing_cf": -1999644000000,
+    "financing_cf": -343027000000,
+    "cash_end": 1000994000000,
+    "operating_income": 1649571000000,
+    "income_tax_expense": 482261000000,
+    "lease_liabilities_current": 231665000000,
+    "lease_liabilities_noncurrent": 929471000000,
+    "profit_before_tax": 1564696000000,
+    "depreciation": 1722035000000,
+    "current_assets": 8370359000000,
+    "current_liabilities": 8865263000000,
+    "noncurrent_assets": 21692124000000,
+    "trade_receivables": 4880769000000,
+    "inventories": 556576000000,
+    "trade_payables": 2849534000000,
+    "ppe": 10662316000000,
+    "goodwill": 1719148000000,
+    "intangible_assets": 2483238000000,
+    "equity_method_investments": 452107000000,
+    "treasury_stock": -1139170000000,
+    "noncontrolling_interests": 1123052000000,
+    "interest_bearing_debt_current": 2822577000000
+  },
+  "segments": [
+    {
+      "key": "GlobalSolutionsBusiness",
+      "label": "グローバル・ソリューション事業",
+      "operating_income": 323863000000,
+      "equity_method_income": 1395000000,
+      "assets": 7868877000000
+    },
+    {
+      "key": "IntegratedICTBusiness",
+      "label": "総合ICT事業",
+      "operating_income": 1020520000000,
+      "equity_method_income": 18762000000,
+      "assets": 11391032000000
+    },
+    {
+      "key": "OthersRealEstateEnergyAndOthers",
+      "label": "その他（不動産、エネルギー等）",
+      "operating_income": 55786000000,
+      "equity_method_income": 5131000000,
+      "assets": 18877665000000
+    },
+    {
+      "key": "RegionalCommunicationsBusiness",
+      "label": "地域通信事業",
+      "operating_income": 295460000000,
+      "equity_method_income": 200000000,
+      "assets": 7123356000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04430-000_2025-03-31_01_2025-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03622",
+    "sec_code": "8418",
+    "company_name": "株式会社山口フィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8EX"
+  },
+  "financials": {
+    "ordinary_income": 36602000000,
+    "net_income": 25391000000,
+    "comprehensive_income": -25204000000,
+    "eps": 100.07,
+    "eps_diluted": 93.86,
+    "dps": 24,
+    "operating_cf": 134051000000,
+    "investing_cf": -165757000000,
+    "financing_cf": -39065000000,
+    "net_assets": 630244000000,
+    "total_assets": 10605415000000,
+    "bps": 2458.73,
+    "cash_end": 944783000000,
+    "equity_ratio": 0.059,
+    "roe": 0.039,
+    "per": 6.11,
+    "ordinary_revenue": 175405000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03622-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

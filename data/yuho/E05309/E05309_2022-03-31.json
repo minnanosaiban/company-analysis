@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E05309",
+    "sec_code": "2331",
+    "company_name": "綜合警備保障株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3YW"
+  },
+  "financials": {
+    "net_sales": 489092000000,
+    "ordinary_income": 44796000000,
+    "net_income": 28964000000,
+    "comprehensive_income": 31890000000,
+    "eps": 286.11,
+    "dps": 82,
+    "operating_cf": 42736000000,
+    "investing_cf": -14093000000,
+    "financing_cf": -18183000000,
+    "net_assets": 327509000000,
+    "total_assets": 488278000000,
+    "bps": 2964.85,
+    "cash_end": 63644000000,
+    "equity_ratio": 0.615,
+    "roe": 0.1,
+    "per": 14,
+    "gross_profit": 125581000000,
+    "operating_income": 42865000000,
+    "income_tax_expense": 13587000000,
+    "interest_bearing_debt_current": 8483000000,
+    "interest_bearing_debt_noncurrent": 2145000000,
+    "current_portion_lt_loans": 2795000000,
+    "lease_liabilities_current": 5306000000,
+    "lease_liabilities_noncurrent": 35529000000,
+    "depreciation": 16861000000,
+    "capex_ppe": -13109000000,
+    "capex_intangible": -2695000000,
+    "current_assets": 233872000000,
+    "current_liabilities": 90384000000,
+    "noncurrent_assets": 254405000000,
+    "noncurrent_liabilities": 70383000000,
+    "trade_payables": 23098000000,
+    "ppe": 103376000000,
+    "goodwill": 27097000000,
+    "intangible_assets": 39747000000,
+    "investment_securities": 56148000000,
+    "treasury_stock": -1072000000,
+    "noncontrolling_interests": 27362000000
+  },
+  "segments": [
+    {
+      "key": "LongTermCareServices",
+      "label": null,
+      "external_revenue": 41649000000,
+      "intersegment_revenue": 9000000,
+      "operating_income": 1621000000
+    },
+    {
+      "key": "SecurityServices",
+      "label": null,
+      "external_revenue": 373227000000,
+      "intersegment_revenue": 200000000,
+      "operating_income": 40744000000
+    },
+    {
+      "key": "TotalBuildingManagementServicesAndDisasterPreventionServices",
+      "label": null,
+      "external_revenue": 68183000000,
+      "intersegment_revenue": 152000000,
+      "operating_income": 8258000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05309-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E02632",
+    "sec_code": "7459",
+    "company_name": "株式会社メディパルホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R51F"
+  },
+  "financials": {
+    "net_sales": 3360008000000,
+    "ordinary_income": 65122000000,
+    "net_income": 38806000000,
+    "comprehensive_income": 51084000000,
+    "eps": 184.82,
+    "eps_diluted": 179.12,
+    "dps": 46,
+    "operating_cf": 16146000000,
+    "investing_cf": -39494000000,
+    "financing_cf": -43541000000,
+    "net_assets": 688055000000,
+    "total_assets": 1703871000000,
+    "bps": 2673.62,
+    "cash_end": 193561000000,
+    "equity_ratio": 0.329,
+    "roe": 0.071,
+    "per": 9.8,
+    "gross_profit": 224304000000,
+    "operating_income": 48972000000,
+    "income_tax_expense": 23994000000,
+    "depreciation": 14393000000,
+    "capex_ppe": -10483000000,
+    "capex_intangible": -3021000000,
+    "current_assets": 1179280000000,
+    "current_liabilities": 971519000000,
+    "noncurrent_assets": 524590000000,
+    "noncurrent_liabilities": 44297000000,
+    "trade_payables": 890966000000,
+    "ppe": 268363000000,
+    "goodwill": 25029000000,
+    "intangible_assets": 34216000000,
+    "investment_securities": 192623000000,
+    "treasury_stock": -26288000000,
+    "noncontrolling_interests": 126697000000
+  },
+  "segments": [
+    {
+      "key": "AnimalHealthProductsAndFoodProcessingRawMaterialsWholesaleAndRelatedBusiness",
+      "label": null,
+      "external_revenue": 73951000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 2525000000
+    },
+    {
+      "key": "CosmeticsDailyNecessitiesAndOTCPharmaceuticalWholesaleBusiness",
+      "label": null,
+      "external_revenue": 1103830000000,
+      "intersegment_revenue": 321000000,
+      "operating_income": 24472000000
+    },
+    {
+      "key": "PrescriptionPharmaceuticalWholesaleBusiness",
+      "label": null,
+      "external_revenue": 2182226000000,
+      "intersegment_revenue": 7441000000,
+      "operating_income": 21918000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02632-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E01002",
+    "sec_code": "4208",
+    "company_name": "ＵＢＥ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TOHR"
+  },
+  "financials": {
+    "net_sales": 468237000000,
+    "ordinary_income": 36333000000,
+    "net_income": 28981000000,
+    "comprehensive_income": 58633000000,
+    "eps": 298.59,
+    "eps_diluted": 298.45,
+    "dps": 105,
+    "operating_cf": 52960000000,
+    "investing_cf": -33316000000,
+    "financing_cf": -15712000000,
+    "net_assets": 429355000000,
+    "total_assets": 789034000000,
+    "bps": 4210.11,
+    "cash_end": 35859000000,
+    "equity_ratio": 0.518,
+    "roe": 0.075,
+    "per": 9.13,
+    "gross_profit": 86711000000,
+    "operating_income": 22456000000,
+    "income_tax_expense": 7364000000,
+    "interest_bearing_debt_current": 63370000000,
+    "interest_bearing_debt_noncurrent": 75572000000,
+    "bonds_payable": 60000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_current": 518000000,
+    "lease_liabilities_noncurrent": 3972000000,
+    "depreciation": 26572000000,
+    "current_assets": 295678000000,
+    "current_liabilities": 198221000000,
+    "noncurrent_assets": 493201000000,
+    "noncurrent_liabilities": 161458000000,
+    "trade_payables": 62068000000,
+    "ppe": 222158000000,
+    "goodwill": 1448000000,
+    "intangible_assets": 8569000000,
+    "investment_securities": 223923000000,
+    "treasury_stock": -21598000000,
+    "noncontrolling_interests": 20604000000
+  },
+  "segments": [
+    {
+      "key": "Machinery",
+      "label": null,
+      "external_revenue": 96476000000,
+      "intersegment_revenue": 410000000,
+      "operating_income": 7168000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 92785000000,
+      "intersegment_revenue": -12294000000,
+      "operating_income": 4549000000
+    },
+    {
+      "key": "PolymersAndChemicals",
+      "label": null,
+      "external_revenue": 232834000000,
+      "intersegment_revenue": 24341000000,
+      "operating_income": 2427000000
+    },
+    {
+      "key": "SpecialtyProducts",
+      "label": null,
+      "external_revenue": 46142000000,
+      "intersegment_revenue": 17608000000,
+      "operating_income": 12110000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01002-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

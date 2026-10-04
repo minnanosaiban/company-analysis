@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E00776",
+    "sec_code": "4063",
+    "company_name": "信越化学工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-20",
+    "doc_id": "S100W0RG"
+  },
+  "financials": {
+    "net_sales": 2561249000000,
+    "ordinary_income": 820543000000,
+    "net_income": 534021000000,
+    "comprehensive_income": 844146000000,
+    "eps": 269.52,
+    "eps_diluted": 269.28,
+    "dps": 106,
+    "operating_cf": 881934000000,
+    "investing_cf": -142553000000,
+    "financing_cf": -454905000000,
+    "net_assets": 4837585000000,
+    "total_assets": 5636601000000,
+    "bps": 2375.48,
+    "cash_end": 882736000000,
+    "equity_ratio": 0.826,
+    "roe": 0.12,
+    "per": 15.7,
+    "gross_profit": 984121000000,
+    "operating_income": 742105000000,
+    "income_tax_expense": 211071000000,
+    "interest_bearing_debt_current": 9389000000,
+    "interest_bearing_debt_noncurrent": 7452000000,
+    "depreciation": 238357000000,
+    "capex_ppe": -439473000000,
+    "capex_intangible": -3364000000,
+    "current_assets": 3209652000000,
+    "current_liabilities": 537094000000,
+    "noncurrent_assets": 2426949000000,
+    "noncurrent_liabilities": 261922000000,
+    "trade_payables": 184369000000,
+    "ppe": 2065945000000,
+    "goodwill": 27431000000,
+    "intangible_assets": 36908000000,
+    "investment_securities": 134632000000,
+    "treasury_stock": -121025000000,
+    "noncontrolling_interests": 175112000000
+  },
+  "segments": [
+    {
+      "key": "DiversifiedBusiness",
+      "label": "加工・商事・技術サービス事業",
+      "external_revenue": 136722000000,
+      "intersegment_revenue": 146575000000,
+      "operating_income": 28791000000
+    },
+    {
+      "key": "ElectronicsMaterials",
+      "label": "電子材料事業",
+      "external_revenue": 934312000000,
+      "intersegment_revenue": 4880000000,
+      "operating_income": 324760000000
+    },
+    {
+      "key": "FunctionalMaterials",
+      "label": "機能材料事業",
+      "external_revenue": 448642000000,
+      "intersegment_revenue": 14054000000,
+      "operating_income": 100022000000
+    },
+    {
+      "key": "InfrastructureMaterials",
+      "label": "生活環境基盤材料事業",
+      "external_revenue": 1041571000000,
+      "intersegment_revenue": 4784000000,
+      "operating_income": 291466000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00776-000_2025-03-31_01_2025-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

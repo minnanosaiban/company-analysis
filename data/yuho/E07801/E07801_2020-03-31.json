@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E07801",
+    "sec_code": "6098",
+    "company_name": "株式会社リクルートホールディングス",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3LU"
+  },
+  "financials": {
+    "dps": 30,
+    "net_sales": 2399465000000,
+    "net_income": 179880000000,
+    "comprehensive_income": 151649000000,
+    "net_assets": 988449000000,
+    "total_assets": 1998917000000,
+    "equity_ratio": 0.494,
+    "bps": 599.65,
+    "eps": 108.27,
+    "eps_diluted": 108.07,
+    "roe": 0.184,
+    "per": 25.8,
+    "operating_cf": 303325000000,
+    "investing_cf": -88993000000,
+    "financing_cf": -192721000000,
+    "cash_end": 421253000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E07801-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

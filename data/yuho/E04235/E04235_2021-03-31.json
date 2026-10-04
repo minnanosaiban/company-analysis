@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04235",
+    "sec_code": "9101",
+    "company_name": "日本郵船株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R01E"
+  },
+  "financials": {
+    "net_sales": 1608414000000,
+    "ordinary_income": 215336000000,
+    "net_income": 139228000000,
+    "comprehensive_income": 178212000000,
+    "eps": 824.55,
+    "dps": 200,
+    "operating_cf": 159336000000,
+    "investing_cf": -16871000000,
+    "financing_cf": -125483000000,
+    "net_assets": 667411000000,
+    "total_assets": 2125480000000,
+    "bps": 3703.27,
+    "cash_end": 103593000000,
+    "equity_ratio": 0.294,
+    "roe": 0.256,
+    "per": 4.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04235-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

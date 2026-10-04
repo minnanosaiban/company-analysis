@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00075",
+    "sec_code": "1944",
+    "company_name": "株式会社きんでん",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R744"
+  },
+  "financials": {
+    "net_sales": 585905000000,
+    "ordinary_income": 46727000000,
+    "net_income": 32500000000,
+    "comprehensive_income": 29457000000,
+    "eps": 150.19,
+    "dps": 32,
+    "operating_cf": 46732000000,
+    "investing_cf": -28934000000,
+    "financing_cf": -15761000000,
+    "net_assets": 464235000000,
+    "total_assets": 654279000000,
+    "bps": 2189.45,
+    "cash_end": 149008000000,
+    "equity_ratio": 0.708,
+    "roe": 0.071,
+    "per": 10.62
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00075-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

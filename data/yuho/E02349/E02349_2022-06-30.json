@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E02349",
+    "sec_code": "7747",
+    "company_name": "朝日インテック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-09-29",
+    "doc_id": "S100RWXB"
+  },
+  "financials": {
+    "net_sales": 77748000000,
+    "ordinary_income": 16326000000,
+    "net_income": 10857000000,
+    "comprehensive_income": 17297000000,
+    "eps": 40.01,
+    "eps_diluted": 40,
+    "dps": 11.99,
+    "operating_cf": 17302000000,
+    "investing_cf": -18703000000,
+    "financing_cf": 11368000000,
+    "net_assets": 121130000000,
+    "total_assets": 155127000000,
+    "bps": 439.8,
+    "cash_end": 32321000000,
+    "equity_ratio": 0.77,
+    "roe": 0.102,
+    "per": 51.2,
+    "gross_profit": 51082000000,
+    "operating_income": 15239000000,
+    "income_tax_expense": 4688000000,
+    "interest_bearing_debt_current": 5815000000,
+    "interest_bearing_debt_noncurrent": 6364000000,
+    "depreciation": 6439000000,
+    "capex_ppe": -7981000000,
+    "capex_intangible": -579000000,
+    "current_assets": 79609000000,
+    "current_liabilities": 20761000000,
+    "noncurrent_assets": 75517000000,
+    "noncurrent_liabilities": 13234000000,
+    "trade_receivables": 13987000000,
+    "trade_payables": 3180000000,
+    "ppe": 45561000000,
+    "goodwill": 8200000000,
+    "intangible_assets": 19358000000,
+    "investment_securities": 7052000000,
+    "treasury_stock": -7000000,
+    "noncontrolling_interests": 1670000000
+  },
+  "segments": [
+    {
+      "key": "Device",
+      "label": null,
+      "external_revenue": 9403000000,
+      "intersegment_revenue": 13903000000,
+      "operating_income": 5327000000
+    },
+    {
+      "key": "Medical",
+      "label": null,
+      "external_revenue": 68345000000,
+      "operating_income": 14052000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02349-000_2023-06-30_01_2023-09-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

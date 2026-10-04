@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E01264",
+    "sec_code": "5411",
+    "company_name": "ＪＦＥホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100VZW5"
+  },
+  "financials": {
+    "dps": 100,
+    "net_sales": 4859647000000,
+    "net_income": 91867000000,
+    "comprehensive_income": 135807000000,
+    "net_assets": 2529578000000,
+    "total_assets": 5647637000000,
+    "equity_ratio": 0.448,
+    "bps": 3976.84,
+    "eps": 144.43,
+    "eps_diluted": 138.24,
+    "roe": 0.037,
+    "per": 12.7,
+    "operating_cf": 378968000000,
+    "investing_cf": -283179000000,
+    "financing_cf": -157435000000,
+    "cash_end": 172841000000,
+    "operating_income": 165068000000,
+    "gross_profit": 533081000000,
+    "income_tax_expense": 51060000000,
+    "sga_expense": 409375000000,
+    "profit_before_tax": 144315000000,
+    "depreciation": 257638000000,
+    "current_assets": 2368785000000,
+    "current_liabilities": 1473713000000,
+    "noncurrent_assets": 3278851000000,
+    "trade_receivables": 692985000000,
+    "inventories": 1228540000000,
+    "trade_payables": 595954000000,
+    "ppe": 1964041000000,
+    "goodwill": 33999000000,
+    "intangible_assets": 201002000000,
+    "equity_method_investments": 636972000000,
+    "treasury_stock": -13736000000,
+    "noncontrolling_interests": 57289000000
+  },
+  "segments": [
+    {
+      "key": "EngineeringBusiness",
+      "label": "エンジニアリング事業",
+      "external_revenue": 554156000000,
+      "intersegment_revenue": 15659000000,
+      "revenue": 569815000000,
+      "operating_income": 19386000000,
+      "assets": 592434000000,
+      "equity_method_income": 2677000000
+    },
+    {
+      "key": "SteelBusiness",
+      "label": "鉄鋼事業",
+      "external_revenue": 3007924000000,
+      "intersegment_revenue": 357266000000,
+      "revenue": 3365191000000,
+      "operating_income": 36385000000,
+      "assets": 4547582000000,
+      "equity_method_income": 16133000000
+    },
+    {
+      "key": "TradingBusiness",
+      "label": "商社事業",
+      "external_revenue": 1297566000000,
+      "intersegment_revenue": 140993000000,
+      "revenue": 1438559000000,
+      "operating_income": 47971000000,
+      "assets": 1055438000000,
+      "equity_method_income": 991000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01264-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E00815",
+    "sec_code": "4182",
+    "company_name": "三菱瓦斯化学株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TQ00"
+  },
+  "financials": {
+    "net_sales": 813417000000,
+    "ordinary_income": 46040000000,
+    "net_income": 38818000000,
+    "comprehensive_income": 87753000000,
+    "eps": 190.97,
+    "dps": 80,
+    "operating_cf": 73473000000,
+    "investing_cf": -76172000000,
+    "financing_cf": -40689000000,
+    "net_assets": 684832000000,
+    "total_assets": 1068010000000,
+    "bps": 3284.96,
+    "cash_end": 65397000000,
+    "equity_ratio": 0.6159,
+    "roe": 0.0614,
+    "per": 13.56,
+    "gross_profit": 173189000000,
+    "operating_income": 47337000000,
+    "income_tax_expense": 14528000000,
+    "interest_bearing_debt_current": 51818000000,
+    "interest_bearing_debt_noncurrent": 69671000000,
+    "bonds_payable": 30000000000,
+    "lease_liabilities_current": 1001000000,
+    "lease_liabilities_noncurrent": 2511000000,
+    "depreciation": 36304000000,
+    "current_assets": 463148000000,
+    "current_liabilities": 241480000000,
+    "noncurrent_assets": 604861000000,
+    "noncurrent_liabilities": 141696000000,
+    "trade_payables": 109013000000,
+    "ppe": 314624000000,
+    "goodwill": 16868000000,
+    "intangible_assets": 24871000000,
+    "investment_securities": 236354000000,
+    "treasury_stock": -26127000000,
+    "noncontrolling_interests": 27087000000
+  },
+  "segments": [
+    {
+      "key": "BasicChemicalsBusinessSector",
+      "label": null,
+      "external_revenue": 404562000000,
+      "intersegment_revenue": 8316000000,
+      "ordinary_income": 10138000000,
+      "equity_method_income": -8487000000
+    },
+    {
+      "key": "SpecialtyChemicalsBusinessSector",
+      "label": null,
+      "external_revenue": 408724000000,
+      "intersegment_revenue": 492000000,
+      "ordinary_income": 38689000000,
+      "equity_method_income": 2782000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00815-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

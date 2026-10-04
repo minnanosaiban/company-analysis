@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "edinet_code": "E04500",
+    "sec_code": "9509",
+    "company_name": "北海道電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R1IZ"
+  },
+  "financials": {
+    "net_sales": 888874000000,
+    "ordinary_income": -29251000000,
+    "net_income": -22193000000,
+    "comprehensive_income": -24695000000,
+    "eps": -114.96,
+    "operating_cf": -574000000,
+    "investing_cf": -85248000000,
+    "financing_cf": 86795000000,
+    "net_assets": 258106000000,
+    "total_assets": 2093339000000,
+    "bps": 956.63,
+    "cash_end": 89867000000,
+    "equity_ratio": 0.1169,
+    "roe": -0.0858,
+    "operating_income": -22530000000,
+    "income_tax_expense": 816000000,
+    "interest_bearing_debt_current": 44500000000,
+    "interest_bearing_debt_noncurrent": 510648000000,
+    "bonds_payable": 753500000000,
+    "depreciation": 80176000000,
+    "current_assets": 331964000000,
+    "current_liabilities": 411047000000,
+    "noncurrent_assets": 1761374000000,
+    "noncurrent_liabilities": 1421993000000,
+    "inventories": 92122000000,
+    "trade_payables": 84732000000,
+    "treasury_stock": -17868000000,
+    "noncontrolling_interests": 13291000000
+  },
+  "segments": [
+    {
+      "key": "HokkaidoElectricPower",
+      "label": "北海道電力",
+      "external_revenue": 687225000000,
+      "intersegment_revenue": 92450000000,
+      "ordinary_income": -34471000000
+    },
+    {
+      "key": "HokkaidoElectricPowerNetwork",
+      "label": "北海道電力ネットワーク",
+      "external_revenue": 150031000000,
+      "intersegment_revenue": 197929000000,
+      "ordinary_income": -3352000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04500-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

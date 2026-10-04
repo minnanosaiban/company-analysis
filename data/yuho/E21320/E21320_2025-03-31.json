@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E21320",
+    "sec_code": "6632",
+    "company_name": "株式会社ＪＶＣケンウッド",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-23",
+    "doc_id": "S100W20P"
+  },
+  "financials": {
+    "dps": 15,
+    "net_sales": 370308000000,
+    "net_income": 20276000000,
+    "comprehensive_income": 17180000000,
+    "net_assets": 125103000000,
+    "total_assets": 313336000000,
+    "equity_ratio": 0.399,
+    "bps": 845.07,
+    "eps": 135.17,
+    "eps_diluted": 134.07,
+    "roe": 0.169,
+    "per": 9.3,
+    "operating_cf": 31452000000,
+    "investing_cf": -21545000000,
+    "financing_cf": -18793000000,
+    "cash_end": 48597000000,
+    "operating_income": 21792000000,
+    "gross_profit": 118940000000,
+    "income_tax_expense": 2466000000,
+    "sga_expense": 93633000000,
+    "profit_before_tax": 23490000000,
+    "depreciation": 17292000000,
+    "capex_ppe": -12711000000,
+    "capex_intangible": -12024000000,
+    "current_assets": 196825000000,
+    "current_liabilities": 126148000000,
+    "noncurrent_assets": 116510000000,
+    "trade_receivables": 71738000000,
+    "inventories": 58498000000,
+    "trade_payables": 50578000000,
+    "ppe": 62067000000,
+    "goodwill": 886000000,
+    "intangible_assets": 22920000000,
+    "equity_method_investments": 8044000000,
+    "treasury_stock": -11589000000,
+    "noncontrolling_interests": 6295000000
+  },
+  "segments": [
+    {
+      "key": "EntertainmentSolutionsSector",
+      "label": "エンタテインメント ソリューションズ分野",
+      "external_revenue": 57936000000,
+      "revenue": 57936000000,
+      "operating_income": 1849000000,
+      "assets": 44940000000
+    },
+    {
+      "key": "MobilityAndTelematicsSector",
+      "label": "モビリティ＆テレマティクスサービス分野",
+      "external_revenue": 203243000000,
+      "revenue": 203243000000,
+      "operating_income": 4881000000,
+      "assets": 165549000000
+    },
+    {
+      "key": "SafetyAndSecuritySector",
+      "label": "セーフティ＆セキュリティ分野",
+      "external_revenue": 100008000000,
+      "revenue": 100008000000,
+      "operating_income": 18579000000,
+      "assets": 71642000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21320-000_2025-03-31_01_2025-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

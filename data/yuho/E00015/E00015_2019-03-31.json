@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00015",
+    "sec_code": "1333",
+    "company_name": "マルハニチロ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R5V0"
+  },
+  "financials": {
+    "net_sales": 922468000000,
+    "ordinary_income": 25233000000,
+    "net_income": 16695000000,
+    "comprehensive_income": 13262000000,
+    "eps": 317.24,
+    "dps": 40,
+    "operating_cf": 16187000000,
+    "investing_cf": -11854000000,
+    "financing_cf": -7863000000,
+    "net_assets": 150379000000,
+    "total_assets": 520318000000,
+    "bps": 2381.96,
+    "cash_end": 11575000000,
+    "equity_ratio": 0.241,
+    "roe": 0.139,
+    "per": 12.48
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00015-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

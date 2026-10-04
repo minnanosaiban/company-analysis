@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00041",
+    "sec_code": "1662",
+    "company_name": "石油資源開発株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-08-10",
+    "doc_id": "S100ROPC"
+  },
+  "financials": {
+    "net_sales": 267980000000,
+    "ordinary_income": 12523000000,
+    "net_income": 14770000000,
+    "comprehensive_income": -7804000000,
+    "eps": 258.44,
+    "dps": 40,
+    "operating_cf": 30970000000,
+    "investing_cf": -13969000000,
+    "financing_cf": -15493000000,
+    "net_assets": 450156000000,
+    "total_assets": 655288000000,
+    "bps": 7287.32,
+    "cash_end": 100633000000,
+    "equity_ratio": 0.636,
+    "roe": 0.035,
+    "per": 9.27
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00041-000_2023-03-31_02_2023-08-10.csv",
+    "parser_version": "0.1.3"
+  }
+}

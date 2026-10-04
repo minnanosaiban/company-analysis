@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E00446",
+    "sec_code": "2871",
+    "company_name": "株式会社ニチレイ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-16",
+    "doc_id": "S100YCCS"
+  },
+  "financials": {
+    "net_sales": 716144000000,
+    "ordinary_income": 40149000000,
+    "net_income": 27332000000,
+    "comprehensive_income": 40892000000,
+    "eps": 109.07,
+    "dps": 47,
+    "operating_cf": 48746000000,
+    "investing_cf": -33050000000,
+    "financing_cf": -3224000000,
+    "net_assets": 304438000000,
+    "total_assets": 557242000000,
+    "bps": 1142.56,
+    "cash_end": 51538000000,
+    "equity_ratio": 0.514,
+    "roe": 0.1,
+    "per": 18.1,
+    "gross_profit": 129221000000,
+    "operating_income": 38999000000,
+    "income_tax_expense": 12343000000,
+    "interest_bearing_debt_current": 21098000000,
+    "interest_bearing_debt_noncurrent": 37848000000,
+    "bonds_payable": 30000000000,
+    "commercial_papers": 11000000000,
+    "current_portion_of_bonds": 10000000000,
+    "current_portion_lt_loans": 878000000,
+    "lease_liabilities_current": 3378000000,
+    "lease_liabilities_noncurrent": 10552000000,
+    "depreciation": 22087000000,
+    "capex_ppe": -30198000000,
+    "capex_intangible": -1928000000,
+    "current_assets": 230124000000,
+    "current_liabilities": 149299000000,
+    "noncurrent_assets": 327117000000,
+    "noncurrent_liabilities": 103504000000,
+    "trade_receivables": 107809000000,
+    "ppe": 243392000000,
+    "goodwill": 10560000000,
+    "intangible_assets": 19732000000,
+    "investment_securities": 46910000000,
+    "treasury_stock": -11752000000,
+    "noncontrolling_interests": 18093000000
+  },
+  "segments": [
+    {
+      "key": "Foods",
+      "label": null,
+      "external_revenue": 426409000000,
+      "intersegment_revenue": 264000000,
+      "operating_income": 19852000000
+    },
+    {
+      "key": "Logistics",
+      "label": null,
+      "external_revenue": 281985000000,
+      "intersegment_revenue": 19006000000,
+      "operating_income": 18583000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 3342000000,
+      "intersegment_revenue": 1657000000,
+      "operating_income": 1896000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00446-000_2026-03-31_01_2026-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

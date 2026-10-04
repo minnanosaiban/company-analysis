@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E00387",
+    "sec_code": "2222",
+    "company_name": "寿スピリッツ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R29Q"
+  },
+  "financials": {
+    "net_sales": 32191705000,
+    "ordinary_income": 2921441000,
+    "net_income": 1915671000,
+    "comprehensive_income": 1972660000,
+    "eps": 61.56,
+    "dps": 30,
+    "operating_cf": 4293461000,
+    "investing_cf": -526871000,
+    "financing_cf": -1176209000,
+    "net_assets": 20356701000,
+    "total_assets": 27470433000,
+    "bps": 654.15,
+    "cash_end": 9912584000,
+    "equity_ratio": 0.741,
+    "roe": 0.097,
+    "per": 105.91,
+    "gross_profit": 17622782000,
+    "operating_income": 1402803000,
+    "income_tax_expense": 962586000,
+    "interest_bearing_debt_noncurrent": 485980000,
+    "current_portion_lt_loans": 239880000,
+    "depreciation": 1220356000,
+    "capex_ppe": -432916000,
+    "capex_intangible": -40447000,
+    "current_assets": 15804497000,
+    "current_liabilities": 4620419000,
+    "noncurrent_assets": 11665936000,
+    "noncurrent_liabilities": 2493313000,
+    "trade_receivables": 3767856000,
+    "trade_payables": 922666000,
+    "ppe": 9207552000,
+    "intangible_assets": 142219000,
+    "investment_securities": 141986000,
+    "treasury_stock": -4158000
+  },
+  "segments": [
+    {
+      "key": "KCC",
+      "label": null,
+      "external_revenue": 10693313000,
+      "intersegment_revenue": 265345000,
+      "operating_income": 582730000
+    },
+    {
+      "key": "KotobukiseikaTajimakotobuki",
+      "label": null,
+      "external_revenue": 4242883000,
+      "intersegment_revenue": 1810176000,
+      "operating_income": -100179000
+    },
+    {
+      "key": "KujyukushimaGroup",
+      "label": null,
+      "external_revenue": 2127270000,
+      "intersegment_revenue": 744828000,
+      "operating_income": -406563000
+    },
+    {
+      "key": "SalesSubsidiary",
+      "label": null,
+      "external_revenue": 2982457000,
+      "intersegment_revenue": 24272000,
+      "operating_income": -186357000
+    },
+    {
+      "key": "Sucrey",
+      "label": null,
+      "external_revenue": 11579730000,
+      "intersegment_revenue": 378041000,
+      "operating_income": 868375000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00387-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

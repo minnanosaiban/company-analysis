@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E02632",
+    "sec_code": "7459",
+    "company_name": "株式会社メディパルホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R51F"
+  },
+  "financials": {
+    "net_sales": 3290921000000,
+    "ordinary_income": 62046000000,
+    "net_income": 29423000000,
+    "comprehensive_income": 25291000000,
+    "eps": 140.14,
+    "eps_diluted": 131.41,
+    "dps": 44,
+    "operating_cf": 61216000000,
+    "investing_cf": -24343000000,
+    "financing_cf": -16471000000,
+    "net_assets": 649089000000,
+    "total_assets": 1709474000000,
+    "bps": 2525.72,
+    "cash_end": 260450000000,
+    "equity_ratio": 0.31,
+    "roe": 0.056,
+    "per": 14.4,
+    "gross_profit": 217445000000,
+    "operating_income": 45624000000,
+    "income_tax_expense": 20134000000,
+    "depreciation": 14083000000,
+    "capex_ppe": -15958000000,
+    "capex_intangible": -2919000000,
+    "current_assets": 1209766000000,
+    "current_liabilities": 1008816000000,
+    "noncurrent_assets": 499707000000,
+    "noncurrent_liabilities": 51568000000,
+    "trade_payables": 907997000000,
+    "ppe": 264374000000,
+    "goodwill": 604000000,
+    "intangible_assets": 9971000000,
+    "investment_securities": 190773000000,
+    "treasury_stock": -58612000000,
+    "noncontrolling_interests": 118784000000
+  },
+  "segments": [
+    {
+      "key": "AnimalHealthProductsAndFoodProcessingRawMaterialsWholesaleAndRelatedBusiness",
+      "label": null,
+      "external_revenue": 71855000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 2687000000
+    },
+    {
+      "key": "CosmeticsDailyNecessitiesAndOTCPharmaceuticalWholesaleBusiness",
+      "label": null,
+      "external_revenue": 1045386000000,
+      "intersegment_revenue": 349000000,
+      "operating_income": 25921000000
+    },
+    {
+      "key": "PrescriptionPharmaceuticalWholesaleBusiness",
+      "label": null,
+      "external_revenue": 2173679000000,
+      "intersegment_revenue": 3323000000,
+      "operating_income": 16616000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02632-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

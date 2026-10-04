@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E04498",
+    "sec_code": "9501",
+    "company_name": "東京電力ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TVQJ"
+  },
+  "financials": {
+    "net_sales": 6918389000000,
+    "ordinary_income": 425525000000,
+    "net_income": 267850000000,
+    "comprehensive_income": 417549000000,
+    "eps": 167.18,
+    "eps_diluted": 54.27,
+    "operating_cf": 673017000000,
+    "investing_cf": -698790000000,
+    "financing_cf": 541499000000,
+    "net_assets": 3538022000000,
+    "total_assets": 14595480000000,
+    "bps": 1567.47,
+    "cash_end": 1235128000000,
+    "equity_ratio": 0.241,
+    "roe": 0.081,
+    "per": 5.65,
+    "operating_income": 278856000000,
+    "income_tax_expense": 34938000000,
+    "interest_bearing_debt_current": 2636216000000,
+    "interest_bearing_debt_noncurrent": 66406000000,
+    "bonds_payable": 3065000000000,
+    "depreciation": 358207000000,
+    "current_assets": 2622978000000,
+    "current_liabilities": 4671006000000,
+    "noncurrent_assets": 11972501000000,
+    "noncurrent_liabilities": 6386451000000,
+    "inventories": 121615000000,
+    "trade_payables": 388920000000,
+    "treasury_stock": -8516000000,
+    "noncontrolling_interests": 26759000000
+  },
+  "segments": [
+    {
+      "key": "EnergyPartnerCompany",
+      "label": "エナジーパートナー",
+      "external_revenue": 5661658000000,
+      "intersegment_revenue": 82657000000,
+      "ordinary_income": 326149000000,
+      "equity_method_income": 845000000
+    },
+    {
+      "key": "FuelAndPowerCompany",
+      "label": "フュエル＆パワー",
+      "external_revenue": 3890000000,
+      "ordinary_income": 174933000000,
+      "equity_method_income": 187073000000
+    },
+    {
+      "key": "Holdings",
+      "label": "ホールディングス",
+      "external_revenue": 133528000000,
+      "intersegment_revenue": 575050000000,
+      "ordinary_income": -127119000000,
+      "equity_method_income": 4630000000
+    },
+    {
+      "key": "PowerGridCompany",
+      "label": "パワーグリッド",
+      "external_revenue": 1101151000000,
+      "intersegment_revenue": 1103939000000,
+      "ordinary_income": 156799000000,
+      "equity_method_income": 9378000000
+    },
+    {
+      "key": "RenewablePowerCompany",
+      "label": "リニューアブルパワー",
+      "external_revenue": 18161000000,
+      "intersegment_revenue": 140000000000,
+      "ordinary_income": 45148000000,
+      "equity_method_income": 138000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04498-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

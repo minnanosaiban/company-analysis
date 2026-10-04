@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E34064",
+    "sec_code": "4385",
+    "company_name": "株式会社メルカリ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-09-17",
+    "doc_id": "S100Z2BE"
+  },
+  "financials": {
+    "net_sales": 229293000000,
+    "net_income": 35401000000,
+    "comprehensive_income": 36384000000,
+    "net_assets": 137069000000,
+    "total_assets": 726622000000,
+    "equity_ratio": 0.189,
+    "bps": 829.62,
+    "eps": 214.74,
+    "eps_diluted": 209.06,
+    "roe": 0.3,
+    "per": 19.05,
+    "operating_cf": -9512000000,
+    "investing_cf": -29240000000,
+    "financing_cf": 73473000000,
+    "cash_end": 184069000000,
+    "operating_income": 43905000000,
+    "gross_profit": 168906000000,
+    "income_tax_expense": 8760000000,
+    "interest_bearing_debt_current": 143243000000,
+    "interest_bearing_debt_noncurrent": 122886000000,
+    "lease_liabilities_current": 1571000000,
+    "lease_liabilities_noncurrent": 6621000000,
+    "sga_expense": 124724000000,
+    "profit_before_tax": 44188000000,
+    "depreciation": 2876000000,
+    "capex_ppe": -1413000000,
+    "capex_intangible": -3686000000,
+    "current_assets": 682996000000,
+    "current_liabilities": 458373000000,
+    "noncurrent_assets": 43626000000,
+    "trade_receivables": 363953000000,
+    "trade_payables": 19154000000,
+    "ppe": 2621000000,
+    "intangible_assets": 4088000000,
+    "treasury_stock": -2000000,
+    "noncontrolling_interests": 398000000
+  },
+  "segments": [
+    {
+      "key": "JapanBusiness",
+      "label": null,
+      "external_revenue": 180858000000,
+      "revenue": 180858000000,
+      "operating_income": 51316000000
+    },
+    {
+      "key": "US",
+      "label": null,
+      "external_revenue": 40782000000,
+      "revenue": 40782000000,
+      "operating_income": 1664000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E34064-000_2026-06-30_01_2026-09-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E03061",
+    "sec_code": "8267",
+    "company_name": "イオン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-29",
+    "doc_id": "S100QUGV"
+  },
+  "financials": {
+    "ordinary_income": 215117000000,
+    "net_income": 23637000000,
+    "comprehensive_income": 36604000000,
+    "eps": 28.11,
+    "eps_diluted": 27.62,
+    "dps": 34,
+    "operating_cf": 469874000000,
+    "investing_cf": -662416000000,
+    "financing_cf": 143792000000,
+    "net_assets": 1875364000000,
+    "total_assets": 10045380000000,
+    "bps": 1299.32,
+    "cash_end": 814479000000,
+    "equity_ratio": 0.109,
+    "roe": 0.021,
+    "per": 83.46
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03061-000_2023-02-28_01_2023-05-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

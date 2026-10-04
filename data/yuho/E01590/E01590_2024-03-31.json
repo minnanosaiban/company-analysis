@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E01590",
+    "sec_code": "6436",
+    "company_name": "アマノ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TWIB"
+  },
+  "financials": {
+    "net_sales": 152864000000,
+    "ordinary_income": 20855000000,
+    "net_income": 13141000000,
+    "comprehensive_income": 19403000000,
+    "eps": 182.48,
+    "dps": 135,
+    "operating_cf": 23771000000,
+    "investing_cf": -10221000000,
+    "financing_cf": -18216000000,
+    "net_assets": 128103000000,
+    "total_assets": 184585000000,
+    "bps": 1779.42,
+    "cash_end": 51648000000,
+    "equity_ratio": 0.691,
+    "roe": 0.106,
+    "per": 21.2,
+    "gross_profit": 68948000000,
+    "operating_income": 19567000000,
+    "income_tax_expense": 6608000000,
+    "interest_bearing_debt_current": 94000000,
+    "lease_liabilities_current": 5407000000,
+    "lease_liabilities_noncurrent": 8356000000,
+    "depreciation": 10256000000,
+    "capex_ppe": -3417000000,
+    "capex_intangible": -2439000000,
+    "current_assets": 120892000000,
+    "current_liabilities": 45289000000,
+    "noncurrent_assets": 63693000000,
+    "noncurrent_liabilities": 11192000000,
+    "trade_payables": 6979000000,
+    "ppe": 31096000000,
+    "goodwill": 1884000000,
+    "intangible_assets": 8742000000,
+    "investment_securities": 16764000000,
+    "treasury_stock": -12668000000,
+    "noncontrolling_interests": 502000000
+  },
+  "segments": [
+    {
+      "key": "EnvironmentRelatedSystemBusiness",
+      "label": "環境関連システム事業",
+      "external_revenue": 36024000000,
+      "operating_income": 4548000000
+    },
+    {
+      "key": "TimeInformationSystemBusiness",
+      "label": "時間情報システム事業",
+      "external_revenue": 116840000000,
+      "operating_income": 19029000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01590-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

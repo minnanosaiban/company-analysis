@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03041",
+    "sec_code": "8253",
+    "company_name": "株式会社クレディセゾン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R0QD"
+  },
+  "financials": {
+    "ordinary_income": 54192000000,
+    "net_income": 34016000000,
+    "comprehensive_income": 22905000000,
+    "eps": 208.27,
+    "dps": 45,
+    "operating_cf": -193846000000,
+    "investing_cf": -40795000000,
+    "financing_cf": 242236000000,
+    "net_assets": 497855000000,
+    "total_assets": 3217448000000,
+    "bps": 3046.68,
+    "cash_end": 82095000000,
+    "equity_ratio": 0.1547,
+    "roe": 0.0697,
+    "per": 7.02,
+    "net_sales": 304855000000,
+    "eps_diluted": 186.84
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03041-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

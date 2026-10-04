@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E04707",
+    "sec_code": "4661",
+    "company_name": "株式会社オリエンタルランド",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YCJX"
+  },
+  "financials": {
+    "net_sales": 704539000000,
+    "ordinary_income": 169641000000,
+    "net_income": 121881000000,
+    "comprehensive_income": 142849000000,
+    "eps": 74.34,
+    "dps": 15,
+    "operating_cf": 181281000000,
+    "investing_cf": -172096000000,
+    "financing_cf": 38556000000,
+    "net_assets": 1100021000000,
+    "total_assets": 1629076000000,
+    "bps": 670.86,
+    "cash_end": 236132000000,
+    "equity_ratio": 0.675,
+    "roe": 0.117,
+    "per": 36.3,
+    "gross_profit": 272959000000,
+    "operating_income": 168413000000,
+    "income_tax_expense": 50955000000,
+    "interest_bearing_debt_noncurrent": 10648000000,
+    "bonds_payable": 290000000000,
+    "current_portion_of_bonds": 20000000000,
+    "current_portion_lt_loans": 6058000000,
+    "depreciation": 66545000000,
+    "capex_ppe": -77025000000,
+    "capex_intangible": -6579000000,
+    "current_assets": 675214000000,
+    "current_liabilities": 206385000000,
+    "noncurrent_assets": 953862000000,
+    "noncurrent_liabilities": 322670000000,
+    "trade_payables": 28142000000,
+    "ppe": 837247000000,
+    "intangible_assets": 18149000000,
+    "investment_securities": 59306000000,
+    "treasury_stock": -150482000000
+  },
+  "segments": [
+    {
+      "key": "HotelBusiness",
+      "label": "ホテル",
+      "external_revenue": 119049000000,
+      "intersegment_revenue": 691000000,
+      "operating_income": 36851000000
+    },
+    {
+      "key": "ThemeParks",
+      "label": "テーマパーク",
+      "external_revenue": 568345000000,
+      "intersegment_revenue": 14446000000,
+      "operating_income": 130488000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04707-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

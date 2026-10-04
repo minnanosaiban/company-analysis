@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00783",
+    "sec_code": "4091",
+    "company_name": "大陽日酸株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2016-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QUTF"
+  },
+  "financials": {
+    "net_sales": 641516000000,
+    "ordinary_income": 43169000000,
+    "net_income": 25845000000,
+    "comprehensive_income": 3024000000,
+    "eps": 59.72,
+    "dps": 16,
+    "operating_cf": 81555000000,
+    "investing_cf": -82130000000,
+    "financing_cf": -1825000000,
+    "net_assets": 337974000000,
+    "total_assets": 783248000000,
+    "bps": 724.33,
+    "cash_end": 49279000000,
+    "equity_ratio": 0.4,
+    "roe": 0.082,
+    "per": 17.88
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00783-000_2020-03-31_02_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

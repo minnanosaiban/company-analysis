@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E31167",
+    "sec_code": "3132",
+    "company_name": "マクニカホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W3D1"
+  },
+  "financials": {
+    "net_sales": 1034180000000,
+    "ordinary_income": 37318000000,
+    "net_income": 25279000000,
+    "comprehensive_income": 25324000000,
+    "eps": 140.93,
+    "dps": 140,
+    "operating_cf": 24232000000,
+    "investing_cf": -9573000000,
+    "financing_cf": -4229000000,
+    "net_assets": 261477000000,
+    "total_assets": 556438000000,
+    "bps": 1414.76,
+    "cash_end": 48452000000,
+    "equity_ratio": 0.454,
+    "roe": 0.102,
+    "per": 13.7,
+    "gross_profit": 121252000000,
+    "operating_income": 39649000000,
+    "income_tax_expense": 9961000000,
+    "interest_bearing_debt_current": 74728000000,
+    "lease_liabilities_current": 558000000,
+    "lease_liabilities_noncurrent": 638000000,
+    "depreciation": 3897000000,
+    "capex_ppe": -1657000000,
+    "capex_intangible": -1948000000,
+    "current_assets": 524936000000,
+    "current_liabilities": 293061000000,
+    "noncurrent_assets": 31502000000,
+    "noncurrent_liabilities": 1899000000,
+    "trade_payables": 147887000000,
+    "ppe": 9450000000,
+    "goodwill": 579000000,
+    "intangible_assets": 6898000000,
+    "investment_securities": 7958000000,
+    "treasury_stock": -1330000000,
+    "noncontrolling_interests": 9063000000
+  },
+  "segments": [
+    {
+      "key": "IntegratedCircuitElectronicDeviceAndOther",
+      "label": null,
+      "external_revenue": 880242000000,
+      "operating_income": 26328000000
+    },
+    {
+      "key": "Network",
+      "label": null,
+      "external_revenue": 153938000000,
+      "intersegment_revenue": 5000000,
+      "operating_income": 13320000000,
+      "equity_method_income": -10000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31167-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

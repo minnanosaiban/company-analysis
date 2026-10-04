@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02015",
+    "sec_code": "6869",
+    "company_name": "シスメックス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R2BN"
+  },
+  "financials": {
+    "dps": 70,
+    "net_sales": 293506000000,
+    "net_income": 41224000000,
+    "comprehensive_income": 37959000000,
+    "net_assets": 264448000000,
+    "total_assets": 346775000000,
+    "equity_ratio": 0.7626,
+    "bps": 1267.07,
+    "eps": 197.6,
+    "eps_diluted": 197.29,
+    "roe": 0.1632,
+    "per": 33.86,
+    "operating_cf": 44743000000,
+    "investing_cf": -40128000000,
+    "financing_cf": -14090000000,
+    "cash_end": 51062000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02015-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E04462",
+    "sec_code": "4676",
+    "company_name": "株式会社フジ・メディア・ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R1H1"
+  },
+  "financials": {
+    "net_sales": 535641000000,
+    "ordinary_income": 39053000000,
+    "net_income": 46855000000,
+    "comprehensive_income": 48581000000,
+    "eps": 210.69,
+    "dps": 50,
+    "operating_cf": 61779000000,
+    "investing_cf": -32770000000,
+    "financing_cf": -5269000000,
+    "net_assets": 848769000000,
+    "total_assets": 1382646000000,
+    "bps": 3766.83,
+    "cash_end": 130155000000,
+    "equity_ratio": 0.606,
+    "roe": 0.057,
+    "per": 5.7,
+    "gross_profit": 158739000000,
+    "operating_income": 31401000000,
+    "income_tax_expense": 15264000000,
+    "interest_bearing_debt_current": 42702000000,
+    "interest_bearing_debt_noncurrent": 220424000000,
+    "depreciation": 17755000000,
+    "capex_ppe": -49618000000,
+    "capex_intangible": -2352000000,
+    "current_assets": 414797000000,
+    "current_liabilities": 174898000000,
+    "noncurrent_assets": 967849000000,
+    "noncurrent_liabilities": 358978000000,
+    "inventories": 72436000000,
+    "trade_payables": 39040000000,
+    "ppe": 488334000000,
+    "goodwill": 499000000,
+    "intangible_assets": 17800000000,
+    "investment_securities": 418155000000,
+    "treasury_stock": -14113000000,
+    "noncontrolling_interests": 11089000000
+  },
+  "segments": [
+    {
+      "key": "MediaAndContent",
+      "label": null,
+      "external_revenue": 420342000000,
+      "intersegment_revenue": 493000000,
+      "operating_income": 17484000000
+    },
+    {
+      "key": "UrbanDevelopmentHotelsAndResorts",
+      "label": null,
+      "external_revenue": 108275000000,
+      "intersegment_revenue": 565000000,
+      "operating_income": 15070000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04462-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

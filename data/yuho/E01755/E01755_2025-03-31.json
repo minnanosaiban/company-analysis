@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E01755",
+    "sec_code": "6645",
+    "company_name": "オムロン株式会社",
+    "accounting_standard": "US",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-23",
+    "doc_id": "S100W20H"
+  },
+  "financials": {
+    "dps": 104,
+    "net_sales": 801753000000,
+    "profit_before_tax": 29001000000,
+    "net_income": 16271000000,
+    "net_assets": 771885000000,
+    "total_assets": 1361790000000,
+    "bps": 3920.3,
+    "eps": 82.63,
+    "equity_ratio": 0.567,
+    "roe": 0.021,
+    "per": 51,
+    "operating_cf": 55784000000,
+    "investing_cf": -47889000000,
+    "financing_cf": -4608000000,
+    "cash_end": 149023000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01755-000_2025-03-31_01_2025-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

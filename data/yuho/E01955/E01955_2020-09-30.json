@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01955",
+    "sec_code": "6965",
+    "company_name": "浜松ホトニクス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-09-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-12-22",
+    "doc_id": "S100SIVV"
+  },
+  "financials": {
+    "net_sales": 140251000000,
+    "ordinary_income": 22692000000,
+    "net_income": 16523000000,
+    "comprehensive_income": 15904000000,
+    "eps": 106.73,
+    "dps": 40,
+    "operating_cf": 23321000000,
+    "investing_cf": -16215000000,
+    "financing_cf": -6508000000,
+    "net_assets": 213515000000,
+    "total_assets": 271615000000,
+    "bps": 1373.79,
+    "cash_end": 68773000000,
+    "equity_ratio": 0.783,
+    "roe": 0.08,
+    "per": 49.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01955-000_2023-09-30_01_2023-12-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E00462",
+    "sec_code": "2810",
+    "company_name": "ハウス食品グループ本社株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R1XD"
+  },
+  "financials": {
+    "net_sales": 253386000000,
+    "ordinary_income": 21125000000,
+    "net_income": 13956000000,
+    "comprehensive_income": 21581000000,
+    "eps": 139.75,
+    "dps": 46,
+    "operating_cf": 16140000000,
+    "investing_cf": -10398000000,
+    "financing_cf": -10068000000,
+    "net_assets": 298567000000,
+    "total_assets": 382021000000,
+    "bps": 2700.99,
+    "cash_end": 75705000000,
+    "equity_ratio": 0.7041,
+    "roe": 0.053,
+    "per": 20.71,
+    "gross_profit": 95003000000,
+    "operating_income": 19227000000,
+    "income_tax_expense": 7308000000,
+    "interest_bearing_debt_current": 4149000000,
+    "interest_bearing_debt_noncurrent": 177000000,
+    "lease_liabilities_current": 575000000,
+    "lease_liabilities_noncurrent": 963000000,
+    "depreciation": 10941000000,
+    "capex_ppe": -11863000000,
+    "capex_intangible": -1912000000,
+    "current_assets": 157123000000,
+    "current_liabilities": 51609000000,
+    "noncurrent_assets": 224898000000,
+    "noncurrent_liabilities": 31845000000,
+    "trade_receivables": 46446000000,
+    "trade_payables": 18264000000,
+    "ppe": 92024000000,
+    "goodwill": 268000000,
+    "intangible_assets": 43368000000,
+    "investment_securities": 66729000000,
+    "treasury_stock": -3984000000,
+    "noncontrolling_interests": 29601000000
+  },
+  "segments": [
+    {
+      "key": "FoodRestaurant",
+      "label": null,
+      "external_revenue": 45310000000,
+      "intersegment_revenue": 112000000,
+      "operating_income": 1502000000
+    },
+    {
+      "key": "HealthyFood",
+      "label": null,
+      "external_revenue": 14131000000,
+      "intersegment_revenue": 302000000,
+      "operating_income": -138000000
+    },
+    {
+      "key": "OtherFoodsRelated",
+      "label": null,
+      "external_revenue": 42156000000,
+      "intersegment_revenue": 3415000000,
+      "operating_income": 1480000000
+    },
+    {
+      "key": "OverseasFoodProducts",
+      "label": null,
+      "external_revenue": 38976000000,
+      "intersegment_revenue": 134000000,
+      "operating_income": 5250000000
+    },
+    {
+      "key": "SpicesAndProcessedFood",
+      "label": null,
+      "external_revenue": 112714000000,
+      "intersegment_revenue": 4708000000,
+      "operating_income": 12628000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00462-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

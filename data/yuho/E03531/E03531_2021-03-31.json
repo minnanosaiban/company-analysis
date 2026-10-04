@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03531",
+    "sec_code": "8304",
+    "company_name": "株式会社あおぞら銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R24O"
+  },
+  "financials": {
+    "ordinary_income": 38982000000,
+    "net_income": 28972000000,
+    "comprehensive_income": 79781000000,
+    "eps": 248.27,
+    "eps_diluted": 247.9,
+    "dps": 124,
+    "operating_cf": 728732000000,
+    "investing_cf": -223529000000,
+    "financing_cf": -14882000000,
+    "net_assets": 490006000000,
+    "total_assets": 5916866000000,
+    "bps": 4233.53,
+    "cash_end": 847732000000,
+    "equity_ratio": 0.084,
+    "roe": 0.0629,
+    "per": 10.2,
+    "ordinary_revenue": 155755000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03531-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

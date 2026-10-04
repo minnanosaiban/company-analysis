@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E04105",
+    "sec_code": "9045",
+    "company_name": "京阪ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZ05"
+  },
+  "financials": {
+    "ordinary_income": 238000000,
+    "net_income": -4574000000,
+    "comprehensive_income": -3579000000,
+    "eps": -42.68,
+    "dps": 25,
+    "operating_cf": 15282000000,
+    "investing_cf": -24940000000,
+    "financing_cf": 21301000000,
+    "net_assets": 248595000000,
+    "total_assets": 764247000000,
+    "bps": 2279.47,
+    "cash_end": 26554000000,
+    "equity_ratio": 0.32,
+    "roe": -0.019
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04105-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

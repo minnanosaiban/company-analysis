@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02367",
+    "sec_code": "7974",
+    "company_name": "任天堂株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100QY8A"
+  },
+  "financials": {
+    "net_sales": 1308519000000,
+    "ordinary_income": 360461000000,
+    "net_income": 258641000000,
+    "comprehensive_income": 236490000000,
+    "eps": 217.12,
+    "dps": 1090,
+    "operating_cf": 347753000000,
+    "investing_cf": -188433000000,
+    "financing_cf": -111031000000,
+    "net_assets": 1540900000000,
+    "total_assets": 1934087000000,
+    "bps": 1293.35,
+    "cash_end": 621402000000,
+    "equity_ratio": 0.7966,
+    "roe": 0.1753,
+    "per": 19.16
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02367-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

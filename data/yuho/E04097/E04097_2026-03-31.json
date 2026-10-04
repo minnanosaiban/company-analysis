@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E04097",
+    "sec_code": "9003",
+    "company_name": "相鉄ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YFL1"
+  },
+  "financials": {
+    "ordinary_income": 35696000000,
+    "net_income": 24848000000,
+    "comprehensive_income": 30397000000,
+    "eps": 258.56,
+    "dps": 70,
+    "operating_cf": 22792000000,
+    "investing_cf": -30405000000,
+    "financing_cf": 9752000000,
+    "net_assets": 203314000000,
+    "total_assets": 813457000000,
+    "bps": 2117.75,
+    "cash_end": 18019000000,
+    "equity_ratio": 0.25,
+    "roe": 0.129,
+    "per": 11.3,
+    "operating_income": 38833000000,
+    "income_tax_expense": 12757000000,
+    "interest_bearing_debt_current": 67242000000,
+    "interest_bearing_debt_noncurrent": 198355000000,
+    "bonds_payable": 175000000000,
+    "lease_liabilities_current": 1647000000,
+    "lease_liabilities_noncurrent": 14877000000,
+    "depreciation": 24993000000,
+    "capex_ppe": -32229000000,
+    "capex_intangible": -1761000000,
+    "current_assets": 181938000000,
+    "current_liabilities": 144334000000,
+    "noncurrent_assets": 631518000000,
+    "noncurrent_liabilities": 465808000000,
+    "trade_receivables": 20951000000,
+    "inventories": 99551000000,
+    "trade_payables": 9528000000,
+    "ppe": 544281000000,
+    "intangible_assets": 8213000000,
+    "investment_securities": 26602000000,
+    "treasury_stock": -4791000000,
+    "noncontrolling_interests": 76000000
+  },
+  "segments": [
+    {
+      "key": "Hotel",
+      "label": null,
+      "external_revenue": 75060000000,
+      "intersegment_revenue": 408000000,
+      "operating_income": 16448000000
+    },
+    {
+      "key": "Merchandising",
+      "label": null,
+      "external_revenue": 97196000000,
+      "intersegment_revenue": 51000000,
+      "operating_income": 886000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 68798000000,
+      "intersegment_revenue": 4438000000,
+      "operating_income": 13957000000
+    },
+    {
+      "key": "Transportation",
+      "label": null,
+      "external_revenue": 44375000000,
+      "intersegment_revenue": 688000000,
+      "operating_income": 5727000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04097-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

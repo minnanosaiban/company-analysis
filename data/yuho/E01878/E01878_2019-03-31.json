@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01878",
+    "sec_code": "6841",
+    "company_name": "横河電機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3OV"
+  },
+  "financials": {
+    "net_sales": 403711000000,
+    "ordinary_income": 36770000000,
+    "net_income": 28446000000,
+    "comprehensive_income": 27513000000,
+    "eps": 106.54,
+    "dps": 32,
+    "operating_cf": 21410000000,
+    "investing_cf": -4088000000,
+    "financing_cf": -6988000000,
+    "net_assets": 296150000000,
+    "total_assets": 470114000000,
+    "bps": 1085.88,
+    "cash_end": 85701000000,
+    "equity_ratio": 0.6166,
+    "roe": 0.1013,
+    "per": 21.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01878-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

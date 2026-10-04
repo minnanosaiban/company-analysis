@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E02567",
+    "sec_code": "8088",
+    "company_name": "岩谷産業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R0HX"
+  },
+  "financials": {
+    "net_sales": 690392000000,
+    "ordinary_income": 46413000000,
+    "net_income": 29964000000,
+    "comprehensive_income": 31491000000,
+    "eps": 520.98,
+    "dps": 85,
+    "operating_cf": 13075000000,
+    "investing_cf": -31939000000,
+    "financing_cf": 8038000000,
+    "net_assets": 280307000000,
+    "total_assets": 558479000000,
+    "bps": 4696.56,
+    "cash_end": 29574000000,
+    "equity_ratio": 0.484,
+    "roe": 0.117,
+    "per": 9.9,
+    "gross_profit": 191762000000,
+    "operating_income": 40076000000,
+    "income_tax_expense": 14256000000,
+    "interest_bearing_debt_current": 32343000000,
+    "interest_bearing_debt_noncurrent": 55093000000,
+    "bonds_payable": 10000000000,
+    "current_portion_lt_loans": 11222000000,
+    "lease_liabilities_current": 722000000,
+    "lease_liabilities_noncurrent": 1595000000,
+    "depreciation": 21111000000,
+    "capex_ppe": -25707000000,
+    "capex_intangible": -2737000000,
+    "current_assets": 259471000000,
+    "current_liabilities": 186300000000,
+    "noncurrent_assets": 299008000000,
+    "noncurrent_liabilities": 91872000000,
+    "trade_payables": 66480000000,
+    "ppe": 185747000000,
+    "goodwill": 12229000000,
+    "intangible_assets": 16179000000,
+    "investment_securities": 79791000000,
+    "treasury_stock": -1528000000,
+    "noncontrolling_interests": 10179000000
+  },
+  "segments": [
+    {
+      "key": "AgriBioAndFoods",
+      "label": null,
+      "external_revenue": 23376000000,
+      "intersegment_revenue": 50000000,
+      "operating_income": 675000000
+    },
+    {
+      "key": "Energy",
+      "label": null,
+      "external_revenue": 327175000000,
+      "intersegment_revenue": 4991000000,
+      "operating_income": 22655000000
+    },
+    {
+      "key": "IndustrialGasesAndMachinery",
+      "label": null,
+      "external_revenue": 184332000000,
+      "intersegment_revenue": 3063000000,
+      "operating_income": 12467000000
+    },
+    {
+      "key": "Materials",
+      "label": null,
+      "external_revenue": 150974000000,
+      "intersegment_revenue": 1659000000,
+      "operating_income": 7255000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02567-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

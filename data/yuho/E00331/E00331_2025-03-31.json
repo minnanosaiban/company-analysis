@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E00331",
+    "sec_code": "2264",
+    "company_name": "森永乳業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W4TH"
+  },
+  "financials": {
+    "net_sales": 561173000000,
+    "ordinary_income": 29864000000,
+    "net_income": 5459000000,
+    "comprehensive_income": 9116000000,
+    "eps": 64.6,
+    "eps_diluted": 64.53,
+    "dps": 90,
+    "operating_cf": -12456000000,
+    "investing_cf": -18786000000,
+    "financing_cf": -5028000000,
+    "net_assets": 271103000000,
+    "total_assets": 520423000000,
+    "bps": 3187.41,
+    "cash_end": 28559000000,
+    "equity_ratio": 0.512,
+    "roe": 0.02,
+    "per": 48.2,
+    "gross_profit": 135053000000,
+    "operating_income": 29658000000,
+    "income_tax_expense": 10411000000,
+    "interest_bearing_debt_current": 3553000000,
+    "interest_bearing_debt_noncurrent": 10511000000,
+    "bonds_payable": 50000000000,
+    "commercial_papers": 10000000000,
+    "current_portion_of_bonds": 15000000000,
+    "current_portion_lt_loans": 9642000000,
+    "lease_liabilities_current": 1068000000,
+    "lease_liabilities_noncurrent": 4957000000,
+    "depreciation": 23514000000,
+    "current_assets": 198069000000,
+    "current_liabilities": 170112000000,
+    "noncurrent_assets": 322353000000,
+    "noncurrent_liabilities": 79207000000,
+    "trade_payables": 53543000000,
+    "ppe": 273993000000,
+    "goodwill": 417000000,
+    "intangible_assets": 12042000000,
+    "investment_securities": 19703000000,
+    "treasury_stock": -15351000000,
+    "noncontrolling_interests": 4777000000
+  },
+  "segments": [
+    {
+      "key": "Food",
+      "label": null,
+      "external_revenue": 537473000000,
+      "intersegment_revenue": 249000000,
+      "operating_income": 39811000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00331-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

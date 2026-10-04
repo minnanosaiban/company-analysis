@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E31878",
+    "sec_code": "3923",
+    "company_name": "株式会社ラクス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R4DC"
+  },
+  "financials": {
+    "net_sales": 11608000000,
+    "ordinary_income": 1177000000,
+    "net_income": 799000000,
+    "comprehensive_income": 798000000,
+    "eps": 4.41,
+    "dps": 3.2,
+    "operating_cf": 939000000,
+    "investing_cf": -481000000,
+    "financing_cf": -195000000,
+    "net_assets": 5192000000,
+    "total_assets": 7039000000,
+    "bps": 28.65,
+    "cash_end": 2496000000,
+    "equity_ratio": 0.738,
+    "roe": 0.163,
+    "per": 180.87
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31878-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E01950",
+    "sec_code": "6857",
+    "company_name": "株式会社アドバンテスト",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R218"
+  },
+  "financials": {
+    "dps": 135,
+    "net_sales": 560191000000,
+    "net_income": 130400000000,
+    "comprehensive_income": 146882000000,
+    "net_assets": 368694000000,
+    "total_assets": 600224000000,
+    "equity_ratio": 0.614,
+    "bps": 2002.43,
+    "eps": 697.41,
+    "eps_diluted": 694.7,
+    "roe": 0.393,
+    "per": 17.44,
+    "operating_cf": 70224000000,
+    "investing_cf": -26706000000,
+    "financing_cf": -77434000000,
+    "cash_end": 85537000000,
+    "operating_income": 167687000000,
+    "gross_profit": 319061000000,
+    "income_tax_expense": 40870000000,
+    "lease_liabilities_current": 4587000000,
+    "lease_liabilities_noncurrent": 12900000000,
+    "sga_expense": 152042000000,
+    "profit_before_tax": 171270000000,
+    "depreciation": 21396000000,
+    "capex_ppe": -22535000000,
+    "capex_intangible": -1053000000,
+    "current_assets": 374695000000,
+    "current_liabilities": 174689000000,
+    "noncurrent_assets": 225529000000,
+    "trade_receivables": 102152000000,
+    "inventories": 169082000000,
+    "trade_payables": 89262000000,
+    "ppe": 64046000000,
+    "goodwill": 63092000000,
+    "treasury_stock": -59099000000
+  },
+  "segments": [
+    {
+      "key": "MechatronicsSystemBusiness",
+      "label": null,
+      "external_revenue": 59874000000,
+      "operating_income": 14964000000
+    },
+    {
+      "key": "SemiconductorAndComponentTestSystemBusiness",
+      "label": null,
+      "external_revenue": 404213000000,
+      "intersegment_revenue": 39000000,
+      "operating_income": 163186000000
+    },
+    {
+      "key": "ServicesSupportAndOthers",
+      "label": "サービス他",
+      "external_revenue": 96104000000,
+      "operating_income": 7629000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01950-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

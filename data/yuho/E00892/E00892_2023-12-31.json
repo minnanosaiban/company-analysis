@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E00892",
+    "sec_code": "4612",
+    "company_name": "日本ペイントホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T58G"
+  },
+  "financials": {
+    "dps": 14,
+    "net_sales": 1442574000000,
+    "net_income": 118476000000,
+    "comprehensive_income": 249078000000,
+    "net_assets": 1358310000000,
+    "total_assets": 2713341000000,
+    "equity_ratio": 0.501,
+    "bps": 578.35,
+    "eps": 50.45,
+    "eps_diluted": 50.44,
+    "roe": 0.095,
+    "per": 22.6,
+    "operating_cf": 189755000000,
+    "investing_cf": -115975000000,
+    "financing_cf": -38664000000,
+    "cash_end": 289647000000,
+    "operating_income": 168745000000,
+    "gross_profit": 576124000000,
+    "income_tax_expense": 42502000000,
+    "interest_bearing_debt_current": 55995000000,
+    "interest_bearing_debt_noncurrent": 683771000000,
+    "sga_expense": 420247000000,
+    "profit_before_tax": 161500000000,
+    "depreciation": 52275000000,
+    "capex_ppe": -35652000000,
+    "capex_intangible": -2458000000,
+    "current_assets": 889557000000,
+    "current_liabilities": 437701000000,
+    "noncurrent_assets": 1823784000000,
+    "trade_receivables": 317940000000,
+    "inventories": 175617000000,
+    "trade_payables": 262152000000,
+    "ppe": 409984000000,
+    "goodwill": 897751000000,
+    "equity_method_investments": 28198000000,
+    "treasury_stock": -6049000000,
+    "noncontrolling_interests": 9793000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": null,
+      "external_revenue": 109164000000,
+      "intersegment_revenue": 28000000,
+      "revenue": 109193000000,
+      "operating_income": 7149000000
+    },
+    {
+      "key": "DuluxGroup",
+      "label": null,
+      "external_revenue": 360398000000,
+      "intersegment_revenue": 498000000,
+      "revenue": 360896000000,
+      "operating_income": 34619000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 201493000000,
+      "intersegment_revenue": 17345000000,
+      "revenue": 218839000000,
+      "operating_income": 19165000000
+    },
+    {
+      "key": "NIPSEA",
+      "label": null,
+      "external_revenue": 771518000000,
+      "intersegment_revenue": 5614000000,
+      "revenue": 777133000000,
+      "operating_income": 110385000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00892-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

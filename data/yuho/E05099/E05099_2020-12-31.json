@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05099",
+    "sec_code": "4768",
+    "company_name": "株式会社大塚商会",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4MW"
+  },
+  "financials": {
+    "net_sales": 836323000000,
+    "ordinary_income": 57550000000,
+    "net_income": 39309000000,
+    "comprehensive_income": 39410000000,
+    "eps": 207.33,
+    "dps": 115,
+    "operating_cf": 32496000000,
+    "investing_cf": -8716000000,
+    "financing_cf": -20988000000,
+    "net_assets": 280035000000,
+    "total_assets": 471292000000,
+    "bps": 1462.8,
+    "cash_end": 178988000000,
+    "equity_ratio": 0.588,
+    "roe": 0.146,
+    "per": 26.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05099-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

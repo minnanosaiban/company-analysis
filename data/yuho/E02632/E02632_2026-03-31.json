@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E02632",
+    "sec_code": "7459",
+    "company_name": "株式会社メディパルホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YI1C"
+  },
+  "financials": {
+    "net_sales": 3817354000000,
+    "ordinary_income": 75723000000,
+    "net_income": 42534000000,
+    "comprehensive_income": 66766000000,
+    "eps": 206.67,
+    "dps": 66,
+    "operating_cf": 46552000000,
+    "investing_cf": 9299000000,
+    "financing_cf": -29397000000,
+    "net_assets": 795399000000,
+    "total_assets": 1922002000000,
+    "bps": 3186.01,
+    "cash_end": 286539000000,
+    "equity_ratio": 0.339,
+    "roe": 0.067,
+    "per": 14.2,
+    "gross_profit": 260987000000,
+    "operating_income": 53182000000,
+    "income_tax_expense": 29413000000,
+    "depreciation": 17439000000,
+    "capex_ppe": -6619000000,
+    "capex_intangible": -3068000000,
+    "current_assets": 1371025000000,
+    "current_liabilities": 1068041000000,
+    "noncurrent_assets": 550977000000,
+    "noncurrent_liabilities": 58561000000,
+    "trade_payables": 984534000000,
+    "ppe": 261837000000,
+    "goodwill": 12341000000,
+    "intangible_assets": 37458000000,
+    "investment_securities": 212459000000,
+    "treasury_stock": -23437000000,
+    "noncontrolling_interests": 143225000000
+  },
+  "segments": [
+    {
+      "key": "AnimalHealthProductsAndFoodProcessingRawMaterialsWholesaleAndRelatedBusiness",
+      "label": null,
+      "external_revenue": 117326000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 2325000000
+    },
+    {
+      "key": "CosmeticsDailyNecessitiesAndOTCPharmaceuticalWholesaleBusiness",
+      "label": null,
+      "external_revenue": 1237563000000,
+      "intersegment_revenue": 283000000,
+      "operating_income": 26430000000
+    },
+    {
+      "key": "PrescriptionPharmaceuticalWholesaleBusiness",
+      "label": null,
+      "external_revenue": 2462464000000,
+      "intersegment_revenue": 3645000000,
+      "operating_income": 24292000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02632-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

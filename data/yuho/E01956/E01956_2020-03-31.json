@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01956",
+    "sec_code": "9766",
+    "company_name": "コナミグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8NA"
+  },
+  "financials": {
+    "dps": 45,
+    "net_sales": 262810000000,
+    "net_income": 19892000000,
+    "comprehensive_income": 18229000000,
+    "net_assets": 268141000000,
+    "total_assets": 419134000000,
+    "equity_ratio": 0.64,
+    "bps": 2012.85,
+    "eps": 147.26,
+    "eps_diluted": 145.08,
+    "roe": 0.073,
+    "per": 22.51,
+    "operating_cf": 51166000000,
+    "investing_cf": -62147000000,
+    "financing_cf": -15869000000,
+    "cash_end": 131432000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01956-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

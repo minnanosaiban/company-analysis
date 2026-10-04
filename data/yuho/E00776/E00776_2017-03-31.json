@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00776",
+    "sec_code": "4063",
+    "company_name": "信越化学工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QV2A"
+  },
+  "financials": {
+    "net_sales": 1237405000000,
+    "ordinary_income": 242133000000,
+    "net_income": 175912000000,
+    "comprehensive_income": 151953000000,
+    "eps": 412.86,
+    "eps_diluted": 412.83,
+    "dps": 120,
+    "operating_cf": 290872000000,
+    "investing_cf": 1281000000,
+    "financing_cf": -37199000000,
+    "net_assets": 2190082000000,
+    "total_assets": 2655636000000,
+    "bps": 5002.16,
+    "cash_end": 733306000000,
+    "equity_ratio": 0.803,
+    "roe": 0.085,
+    "per": 23.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00776-000_2019-03-31_02_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

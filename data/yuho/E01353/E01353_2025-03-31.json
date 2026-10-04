@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E01353",
+    "sec_code": "5901",
+    "company_name": "東洋製罐グループホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-19",
+    "doc_id": "S100VZP4"
+  },
+  "financials": {
+    "net_sales": 922516000000,
+    "ordinary_income": 37566000000,
+    "net_income": 22394000000,
+    "comprehensive_income": 54778000000,
+    "eps": 134.05,
+    "dps": 91,
+    "operating_cf": 94062000000,
+    "investing_cf": -51109000000,
+    "financing_cf": -18768000000,
+    "net_assets": 694820000000,
+    "total_assets": 1201615000000,
+    "bps": 4192.16,
+    "cash_end": 110007000000,
+    "equity_ratio": 0.555,
+    "roe": 0.0336,
+    "per": 18.24,
+    "gross_profit": 122539000000,
+    "operating_income": 34204000000,
+    "income_tax_expense": 8059000000,
+    "interest_bearing_debt_current": 75872000000,
+    "interest_bearing_debt_noncurrent": 130420000000,
+    "bonds_payable": 20000000000,
+    "depreciation": 55660000000,
+    "capex_ppe": -33621000000,
+    "capex_intangible": -486000000,
+    "current_assets": 594327000000,
+    "current_liabilities": 282472000000,
+    "noncurrent_assets": 607288000000,
+    "noncurrent_liabilities": 224322000000,
+    "trade_payables": 109973000000,
+    "ppe": 350406000000,
+    "goodwill": 7842000000,
+    "intangible_assets": 28005000000,
+    "investment_securities": 167035000000,
+    "treasury_stock": -9351000000,
+    "noncontrolling_interests": 27851000000
+  },
+  "segments": [
+    {
+      "key": "EngineeringFillingAndLogisticsBusinesses",
+      "label": null,
+      "external_revenue": 146407000000,
+      "intersegment_revenue": 50377000000,
+      "operating_income": -9728000000
+    },
+    {
+      "key": "FunctionalMaterialsRelatedBusiness",
+      "label": null,
+      "external_revenue": 51866000000,
+      "intersegment_revenue": 75000000,
+      "operating_income": 6097000000
+    },
+    {
+      "key": "PackagingBusiness",
+      "label": null,
+      "external_revenue": 602447000000,
+      "intersegment_revenue": 5460000000,
+      "operating_income": 27005000000
+    },
+    {
+      "key": "PropertyRelatedBusiness",
+      "label": null,
+      "external_revenue": 8080000000,
+      "intersegment_revenue": 1578000000,
+      "operating_income": 4550000000
+    },
+    {
+      "key": "SteelPlateRelatedBusiness",
+      "label": null,
+      "external_revenue": 89987000000,
+      "intersegment_revenue": 22383000000,
+      "operating_income": 7694000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01353-000_2025-03-31_01_2025-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

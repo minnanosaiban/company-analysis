@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E00334",
+    "sec_code": "2282",
+    "company_name": "日本ハム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YEEQ"
+  },
+  "financials": {
+    "dps": 160,
+    "net_income": 35066000000,
+    "comprehensive_income": 56467000000,
+    "net_assets": 536940000000,
+    "total_assets": 997477000000,
+    "equity_ratio": 0.538,
+    "bps": 5704.03,
+    "eps": 361.13,
+    "roe": 0.0661,
+    "per": 19.47,
+    "operating_cf": 82344000000,
+    "investing_cf": -34044000000,
+    "financing_cf": -56004000000,
+    "cash_end": 68679000000,
+    "income_tax_expense": 17627000000,
+    "sga_expense": 192984000000,
+    "profit_before_tax": 54545000000,
+    "depreciation": 45046000000,
+    "current_assets": 438302000000,
+    "current_liabilities": 247066000000,
+    "noncurrent_assets": 559175000000,
+    "trade_receivables": 157430000000,
+    "inventories": 153504000000,
+    "trade_payables": 114173000000,
+    "ppe": 376092000000,
+    "goodwill": 4763000000,
+    "equity_method_investments": 12448000000,
+    "treasury_stock": -30542000000,
+    "noncontrolling_interests": 14752000000
+  },
+  "segments": [
+    {
+      "key": "BallparkBusinessDivision",
+      "label": "ボールパーク事業",
+      "external_revenue": 27785000000,
+      "intersegment_revenue": 3242000000,
+      "operating_income": 5418000000,
+      "assets": 85962000000
+    },
+    {
+      "key": "FreshMeatsBusinessDivision",
+      "label": "食肉事業本部",
+      "external_revenue": 979609000000,
+      "intersegment_revenue": 54524000000,
+      "operating_income": 61296000000,
+      "assets": 525424000000
+    },
+    {
+      "key": "ProcessedFoodsBusinessDivision",
+      "label": "加工事業本部",
+      "external_revenue": 448366000000,
+      "intersegment_revenue": 81973000000,
+      "operating_income": 7183000000,
+      "assets": 365280000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00334-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

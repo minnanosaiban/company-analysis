@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E01267",
+    "sec_code": "6326",
+    "company_name": "株式会社クボタ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-21",
+    "doc_id": "S100VF2E"
+  },
+  "financials": {
+    "dps": 50,
+    "net_sales": 3016281000000,
+    "net_income": 230437000000,
+    "comprehensive_income": 409490000000,
+    "net_assets": 2477314000000,
+    "total_assets": 6018665000000,
+    "equity_ratio": 0.412,
+    "bps": 2155.29,
+    "eps": 197.61,
+    "roe": 0.099,
+    "per": 9.31,
+    "operating_cf": 282084000000,
+    "investing_cf": -208879000000,
+    "financing_cf": -26276000000,
+    "cash_end": 295130000000,
+    "operating_income": 315636000000,
+    "income_tax_expense": 80732000000,
+    "interest_bearing_debt_current": 903143000000,
+    "interest_bearing_debt_noncurrent": 1374934000000,
+    "sga_expense": 597007000000,
+    "profit_before_tax": 335297000000,
+    "depreciation": 120461000000,
+    "capex_ppe": -181171000000,
+    "capex_intangible": -32826000000,
+    "current_assets": 2867458000000,
+    "current_liabilities": 1775358000000,
+    "noncurrent_assets": 3151207000000,
+    "inventories": 692276000000,
+    "ppe": 861840000000,
+    "goodwill": 143325000000,
+    "intangible_assets": 203863000000,
+    "equity_method_investments": 51664000000,
+    "treasury_stock": -2747000000,
+    "noncontrolling_interests": 262452000000
+  },
+  "segments": [
+    {
+      "key": "Machinery",
+      "label": "機械",
+      "external_revenue": 2636874000000,
+      "intersegment_revenue": 247000000,
+      "operating_income": 347390000000,
+      "assets": 5243464000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 16776000000,
+      "intersegment_revenue": 29421000000,
+      "operating_income": 966000000,
+      "assets": 93176000000
+    },
+    {
+      "key": "WaterAndEnvironment",
+      "label": "水・環境",
+      "external_revenue": 362631000000,
+      "intersegment_revenue": 19000000,
+      "operating_income": 29665000000,
+      "assets": 340851000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01267-000_2024-12-31_01_2025-03-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E23924",
+    "sec_code": "8630",
+    "company_name": "ＳＯＭＰＯホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1LR"
+  },
+  "financials": {
+    "ordinary_income": 315512000000,
+    "net_income": 224842000000,
+    "comprehensive_income": 143823000000,
+    "eps": 644.24,
+    "eps_diluted": 643.86,
+    "dps": 210,
+    "operating_cf": 600021000000,
+    "investing_cf": -348540000000,
+    "financing_cf": -170108000000,
+    "net_assets": 2040789000000,
+    "total_assets": 13787835000000,
+    "bps": 5919.73,
+    "cash_end": 1207306000000,
+    "equity_ratio": 0.1471,
+    "roe": 0.1111,
+    "per": 8.35,
+    "bonds_payable": 539742000000,
+    "depreciation": 53932000000,
+    "capex_ppe": -21497000000,
+    "ppe": 353438000000,
+    "goodwill": 151012000000,
+    "intangible_assets": 428266000000,
+    "treasury_stock": -24965000000,
+    "noncontrolling_interests": 12224000000,
+    "ordinary_revenue": 4167496000000
+  },
+  "segments": [
+    {
+      "key": "DomesticLifeInsuranceBusiness",
+      "label": null,
+      "external_revenue": 318501000000
+    },
+    {
+      "key": "DomesticPAndCInsuranceBusiness",
+      "label": null,
+      "external_revenue": 2217148000000,
+      "equity_method_income": 73000000
+    },
+    {
+      "key": "NursingCareAndSeniorBusiness",
+      "label": null,
+      "external_revenue": 136661000000,
+      "intersegment_revenue": 1000000
+    },
+    {
+      "key": "OverseasInsuranceBusiness",
+      "label": null,
+      "external_revenue": 1005247000000,
+      "equity_method_income": 888000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E23924-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

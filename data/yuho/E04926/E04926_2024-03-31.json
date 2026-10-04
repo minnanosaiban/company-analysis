@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E04926",
+    "sec_code": "4665",
+    "company_name": "株式会社ダスキン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TVR5"
+  },
+  "financials": {
+    "net_sales": 178782000000,
+    "ordinary_income": 7863000000,
+    "net_income": 4574000000,
+    "comprehensive_income": 8141000000,
+    "eps": 95.01,
+    "eps_diluted": 94.97,
+    "dps": 100,
+    "operating_cf": 11093000000,
+    "investing_cf": -16604000000,
+    "financing_cf": -5743000000,
+    "net_assets": 154453000000,
+    "total_assets": 202079000000,
+    "bps": 3202.54,
+    "cash_end": 20024000000,
+    "equity_ratio": 0.763,
+    "roe": 0.03,
+    "per": 34.72,
+    "gross_profit": 76554000000,
+    "operating_income": 5084000000,
+    "income_tax_expense": 1801000000,
+    "interest_bearing_debt_current": 60000000,
+    "interest_bearing_debt_noncurrent": 747000000,
+    "current_portion_lt_loans": 108000000,
+    "lease_liabilities_noncurrent": 9000000,
+    "depreciation": 7841000000,
+    "capex_ppe": -6363000000,
+    "capex_intangible": -2620000000,
+    "current_assets": 59305000000,
+    "current_liabilities": 36778000000,
+    "noncurrent_assets": 142774000000,
+    "noncurrent_liabilities": 10847000000,
+    "trade_payables": 7800000000,
+    "ppe": 50489000000,
+    "goodwill": 326000000,
+    "intangible_assets": 7414000000,
+    "investment_securities": 73862000000,
+    "treasury_stock": -5464000000,
+    "noncontrolling_interests": 296000000
+  },
+  "segments": [
+    {
+      "key": "DirectSellingGroup",
+      "label": null,
+      "external_revenue": 106821000000,
+      "intersegment_revenue": 643000000,
+      "operating_income": 4142000000
+    },
+    {
+      "key": "FoodGroup",
+      "label": null,
+      "external_revenue": 58426000000,
+      "intersegment_revenue": 10000000,
+      "operating_income": 6916000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04926-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

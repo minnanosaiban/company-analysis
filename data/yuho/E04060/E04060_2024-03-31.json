@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "edinet_code": "E04060",
+    "sec_code": "3231",
+    "company_name": "野村不動産ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TONZ"
+  },
+  "financials": {
+    "net_sales": 734715000000,
+    "ordinary_income": 98248000000,
+    "net_income": 68164000000,
+    "comprehensive_income": 66548000000,
+    "eps": 392.29,
+    "eps_diluted": 391.57,
+    "dps": 140,
+    "operating_cf": 70878000000,
+    "investing_cf": -83638000000,
+    "financing_cf": 39921000000,
+    "net_assets": 692440000000,
+    "total_assets": 2251456000000,
+    "bps": 4002.79,
+    "cash_end": 53811000000,
+    "equity_ratio": 0.307,
+    "roe": 0.101,
+    "per": 11.2,
+    "operating_income": 112114000000,
+    "income_tax_expense": 31280000000,
+    "interest_bearing_debt_current": 97688000000,
+    "interest_bearing_debt_noncurrent": 945040000000,
+    "bonds_payable": 140000000000,
+    "current_portion_of_bonds": 10000000000,
+    "depreciation": 20445000000,
+    "current_assets": 1256777000000,
+    "current_liabilities": 331064000000,
+    "noncurrent_assets": 994678000000,
+    "noncurrent_liabilities": 1227951000000,
+    "trade_payables": 78651000000,
+    "ppe": 740301000000,
+    "goodwill": 2173000000,
+    "intangible_assets": 17336000000,
+    "investment_securities": 178949000000,
+    "treasury_stock": -31903000000,
+    "noncontrolling_interests": 1154000000
+  },
+  "segments": [
+    {
+      "key": "CommercialRealEstateBusiness",
+      "label": "都市開発事業",
+      "external_revenue": 221236000000,
+      "intersegment_revenue": 2515000000,
+      "operating_income": 49668000000
+    },
+    {
+      "key": "InvestmentManagementBusiness",
+      "label": "資産運用事業",
+      "external_revenue": 14157000000,
+      "intersegment_revenue": 199000000,
+      "operating_income": 8303000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": "海外事業",
+      "external_revenue": 4616000000,
+      "operating_income": -1248000000
+    },
+    {
+      "key": "PropertyAndFacilityManagementBusiness",
+      "label": "運営管理事業",
+      "external_revenue": 95554000000,
+      "intersegment_revenue": 12636000000,
+      "operating_income": 10050000000
+    },
+    {
+      "key": "PropertyBrokerageAndCREBusiness",
+      "label": "仲介・CRE事業",
+      "external_revenue": 48252000000,
+      "intersegment_revenue": 1336000000,
+      "operating_income": 13444000000
+    },
+    {
+      "key": "ResidentialDevelopmentBusiness",
+      "label": "住宅事業",
+      "external_revenue": 350622000000,
+      "intersegment_revenue": 1189000000,
+      "operating_income": 40803000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04060-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "edinet_code": "E32447",
+    "sec_code": "7189",
+    "company_name": "株式会社　西日本フィナンシャルホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YEOV"
+  },
+  "financials": {
+    "ordinary_income": 58784000000,
+    "net_income": 40116000000,
+    "comprehensive_income": 82364000000,
+    "eps": 288.02,
+    "dps": 118,
+    "operating_cf": -65691000000,
+    "investing_cf": -205882000000,
+    "financing_cf": -13040000000,
+    "net_assets": 627438000000,
+    "total_assets": 13852267000000,
+    "bps": 4429.25,
+    "cash_end": 1384673000000,
+    "equity_ratio": 0.0445,
+    "roe": 0.0689,
+    "per": 12.86,
+    "income_tax_expense": 25927000000,
+    "depreciation": 6582000000,
+    "capex_ppe": -36428000000,
+    "capex_intangible": -3757000000,
+    "ppe": 147013000000,
+    "intangible_assets": 7723000000,
+    "treasury_stock": -7527000000,
+    "noncontrolling_interests": 10521000000,
+    "ordinary_revenue": 246860000000
+  },
+  "segments": [
+    {
+      "key": "Banking",
+      "label": null,
+      "external_revenue": 221971000000,
+      "intersegment_revenue": 1694000000,
+      "ordinary_income": 52037000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E32447-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

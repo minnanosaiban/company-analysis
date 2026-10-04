@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E04089",
+    "sec_code": "9006",
+    "company_name": "京浜急行電鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100T93Y"
+  },
+  "financials": {
+    "ordinary_income": 28402000000,
+    "net_income": 83750000000,
+    "comprehensive_income": 87803000000,
+    "eps": 304.23,
+    "dps": 15,
+    "operating_cf": 66202000000,
+    "investing_cf": 29656000000,
+    "financing_cf": -3751000000,
+    "net_assets": 357684000000,
+    "total_assets": 1086902000000,
+    "bps": 1289.94,
+    "cash_end": 149073000000,
+    "equity_ratio": 0.327,
+    "roe": 0.267,
+    "per": 4.6,
+    "operating_income": 28040000000,
+    "income_tax_expense": 37669000000,
+    "interest_bearing_debt_current": 133256000000,
+    "interest_bearing_debt_noncurrent": 229117000000,
+    "bonds_payable": 125000000000,
+    "depreciation": 28170000000,
+    "capex_ppe": -70532000000,
+    "capex_intangible": -2320000000,
+    "current_assets": 242157000000,
+    "current_liabilities": 259468000000,
+    "noncurrent_assets": 844745000000,
+    "noncurrent_liabilities": 469749000000,
+    "trade_payables": 39206000000,
+    "ppe": 680050000000,
+    "intangible_assets": 8194000000,
+    "investment_securities": 103100000000,
+    "treasury_stock": -809000000,
+    "noncontrolling_interests": 2576000000
+  },
+  "segments": [
+    {
+      "key": "LeisureServices",
+      "label": null,
+      "external_revenue": 26625000000,
+      "intersegment_revenue": 3296000000,
+      "operating_income": 4568000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 54556000000,
+      "intersegment_revenue": 6095000000,
+      "operating_income": 9660000000
+    },
+    {
+      "key": "Retailing",
+      "label": null,
+      "external_revenue": 71270000000,
+      "intersegment_revenue": 1179000000,
+      "operating_income": 2086000000
+    },
+    {
+      "key": "Transportation",
+      "label": null,
+      "external_revenue": 108913000000,
+      "intersegment_revenue": 1312000000,
+      "operating_income": 10841000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04089-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

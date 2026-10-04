@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E05350",
+    "sec_code": "2371",
+    "company_name": "株式会社カカクコム",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QYX3"
+  },
+  "financials": {
+    "dps": 40,
+    "net_sales": 51723000000,
+    "net_income": 14294000000,
+    "comprehensive_income": 14371000000,
+    "net_assets": 47956000000,
+    "total_assets": 70477000000,
+    "equity_ratio": 0.68,
+    "bps": 234.38,
+    "eps": 69.65,
+    "eps_diluted": 69.61,
+    "roe": 0.301,
+    "per": 39.6,
+    "operating_cf": 16033000000,
+    "investing_cf": -1311000000,
+    "financing_cf": -15310000000,
+    "cash_end": 34298000000,
+    "operating_income": 19147000000,
+    "income_tax_expense": 6603000000,
+    "interest_bearing_debt_current": 486000000,
+    "interest_bearing_debt_noncurrent": 40000000,
+    "lease_liabilities_current": 1223000000,
+    "lease_liabilities_noncurrent": 4848000000,
+    "profit_before_tax": 20897000000,
+    "depreciation": 3503000000,
+    "capex_ppe": -380000000,
+    "capex_intangible": -1394000000,
+    "current_assets": 47044000000,
+    "current_liabilities": 16557000000,
+    "noncurrent_assets": 23433000000,
+    "trade_receivables": 7919000000,
+    "trade_payables": 2939000000,
+    "ppe": 2329000000,
+    "goodwill": 3590000000,
+    "equity_method_investments": 781000000,
+    "treasury_stock": -2175000000,
+    "noncontrolling_interests": 208000000
+  },
+  "segments": [
+    {
+      "key": "Finance",
+      "label": null,
+      "external_revenue": 2680000000,
+      "revenue": 2680000000,
+      "operating_income": 658000000,
+      "assets": 3586000000
+    },
+    {
+      "key": "InternetMedia",
+      "label": null,
+      "external_revenue": 49043000000,
+      "intersegment_revenue": 1000000,
+      "revenue": 49044000000,
+      "operating_income": 18488000000,
+      "assets": 67043000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05350-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

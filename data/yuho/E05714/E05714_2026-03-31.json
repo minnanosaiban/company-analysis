@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E05714",
+    "sec_code": "8729",
+    "company_name": "ソニーフィナンシャルグループ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YCL0"
+  },
+  "financials": {
+    "ordinary_income": 84584000000,
+    "net_income": 55498000000,
+    "comprehensive_income": 28989000000,
+    "eps": 7.96,
+    "eps_diluted": 7.75,
+    "dps": 3.8,
+    "operating_cf": 445493000000,
+    "investing_cf": -1191512000000,
+    "financing_cf": 25742000000,
+    "net_assets": 629284000000,
+    "total_assets": 23807190000000,
+    "bps": 93.74,
+    "cash_end": 483159000000,
+    "equity_ratio": 0.0264,
+    "roe": 0.0855,
+    "per": 17.99,
+    "bonds_payable": 180500000000,
+    "depreciation": 19151000000,
+    "capex_ppe": -4532000000,
+    "capex_intangible": -24163000000,
+    "ppe": 106470000000,
+    "goodwill": 2496000000,
+    "intangible_assets": 82111000000,
+    "treasury_stock": -9900000000,
+    "noncontrolling_interests": 24000000,
+    "ordinary_revenue": 2871029000000
+  },
+  "segments": [
+    {
+      "key": "Assurance",
+      "label": null,
+      "external_revenue": 191320000000,
+      "intersegment_revenue": 21000000,
+      "ordinary_income": 12523000000
+    },
+    {
+      "key": "Bank",
+      "label": null,
+      "external_revenue": 129839000000,
+      "intersegment_revenue": 51000000,
+      "ordinary_income": 16718000000,
+      "equity_method_income": 31000000
+    },
+    {
+      "key": "LifeInsurance",
+      "label": null,
+      "external_revenue": 2531621000000,
+      "intersegment_revenue": 3422000000,
+      "ordinary_income": 59407000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05714-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

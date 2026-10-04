@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E04710",
+    "sec_code": "4680",
+    "company_name": "株式会社ラウンドワン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-27",
+    "doc_id": "S100W81W"
+  },
+  "financials": {
+    "net_sales": 177057000000,
+    "ordinary_income": 27227000000,
+    "net_income": 16032000000,
+    "comprehensive_income": 15527000000,
+    "eps": 59.71,
+    "eps_diluted": 59.55,
+    "dps": 16,
+    "operating_cf": 45465000000,
+    "investing_cf": -23368000000,
+    "financing_cf": -7219000000,
+    "net_assets": 72354000000,
+    "total_assets": 213655000000,
+    "bps": 274.8,
+    "cash_end": 51154000000,
+    "equity_ratio": 0.337,
+    "roe": 0.225,
+    "per": 16.5,
+    "operating_income": 26240000000,
+    "gross_profit": 35062000000,
+    "income_tax_expense": 7601000000,
+    "interest_bearing_debt_current": 12921000000,
+    "interest_bearing_debt_noncurrent": 27776000000,
+    "lease_liabilities_current": 28049000000,
+    "lease_liabilities_noncurrent": 88469000000,
+    "sga_expense": 6974000000,
+    "profit_before_tax": 23007000000,
+    "depreciation": 43756000000,
+    "capex_ppe": -21351000000,
+    "capex_intangible": -262000000,
+    "current_assets": 64794000000,
+    "current_liabilities": 67485000000,
+    "noncurrent_assets": 195120000000,
+    "trade_receivables": 3190000000,
+    "inventories": 4908000000,
+    "trade_payables": 7592000000,
+    "ppe": 70268000000,
+    "intangible_assets": 926000000,
+    "equity_method_investments": 1846000000,
+    "treasury_stock": -20005000000,
+    "noncontrolling_interests": 0
+  },
+  "segments": [
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 102488000000,
+      "revenue": 102488000000,
+      "operating_income": 17011000000,
+      "profit_before_tax": 16484000000
+    },
+    {
+      "key": "USA",
+      "label": null,
+      "external_revenue": 73106000000,
+      "revenue": 73106000000,
+      "operating_income": 11548000000,
+      "profit_before_tax": 8711000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04710-000_2025-03-31_01_2025-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

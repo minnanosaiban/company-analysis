@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00824",
+    "sec_code": "4206",
+    "company_name": "アイカ工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2015-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-06-24",
+    "doc_id": "S100TR27"
+  },
+  "financials": {
+    "net_sales": 143843000000,
+    "ordinary_income": 15885000000,
+    "net_income": 10137000000,
+    "comprehensive_income": 15325000000,
+    "eps": 155.99,
+    "eps_diluted": 155.82,
+    "dps": 43,
+    "operating_cf": 13080000000,
+    "investing_cf": -143000000,
+    "financing_cf": -1912000000,
+    "net_assets": 107226000000,
+    "total_assets": 147017000000,
+    "bps": 1581.17,
+    "cash_end": 35220000000,
+    "equity_ratio": 0.702,
+    "roe": 0.104,
+    "per": 17.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00824-000_2019-03-31_02_2024-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

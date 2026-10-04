@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04284",
+    "sec_code": "9302",
+    "company_name": "三井倉庫ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R0UZ"
+  },
+  "financials": {
+    "ordinary_income": 11087000000,
+    "net_income": 5190000000,
+    "comprehensive_income": 4263000000,
+    "eps": 208.99,
+    "dps": 12.5,
+    "operating_cf": 18498000000,
+    "investing_cf": -4043000000,
+    "financing_cf": -16618000000,
+    "net_assets": 52243000000,
+    "total_assets": 252078000000,
+    "bps": 1908.68,
+    "cash_end": 23004000000,
+    "equity_ratio": 0.188,
+    "roe": 0.114,
+    "per": 8.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04284-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

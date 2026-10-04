@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00901",
+    "sec_code": "4631",
+    "company_name": "ＤＩＣ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5HO"
+  },
+  "financials": {
+    "net_sales": 701223000000,
+    "ordinary_income": 36452000000,
+    "net_income": 13233000000,
+    "comprehensive_income": 20396000000,
+    "eps": 139.81,
+    "dps": 100,
+    "operating_cf": 54462000000,
+    "investing_cf": -33037000000,
+    "financing_cf": 6338000000,
+    "net_assets": 351364000000,
+    "total_assets": 817950000000,
+    "bps": 3364.92,
+    "cash_end": 41354000000,
+    "equity_ratio": 0.389,
+    "roe": 0.042,
+    "per": 18.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00901-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

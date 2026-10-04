@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E02349",
+    "sec_code": "7747",
+    "company_name": "朝日インテック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-09-29",
+    "doc_id": "S100RWXB"
+  },
+  "financials": {
+    "net_sales": 90101000000,
+    "ordinary_income": 17635000000,
+    "net_income": 13106000000,
+    "comprehensive_income": 16280000000,
+    "eps": 48.25,
+    "dps": 14.48,
+    "operating_cf": 19138000000,
+    "investing_cf": -15135000000,
+    "financing_cf": -2342000000,
+    "net_assets": 134300000000,
+    "total_assets": 172644000000,
+    "bps": 487.12,
+    "cash_end": 34884000000,
+    "equity_ratio": 0.766,
+    "roe": 0.104,
+    "per": 58.3,
+    "gross_profit": 58832000000,
+    "operating_income": 18030000000,
+    "income_tax_expense": 4715000000,
+    "interest_bearing_debt_current": 10361000000,
+    "interest_bearing_debt_noncurrent": 3892000000,
+    "depreciation": 7513000000,
+    "capex_ppe": -12291000000,
+    "capex_intangible": -422000000,
+    "current_assets": 90261000000,
+    "current_liabilities": 26316000000,
+    "noncurrent_assets": 82383000000,
+    "noncurrent_liabilities": 12028000000,
+    "trade_receivables": 14678000000,
+    "trade_payables": 2856000000,
+    "ppe": 53683000000,
+    "goodwill": 7737000000,
+    "intangible_assets": 18369000000,
+    "investment_securities": 6177000000,
+    "treasury_stock": -7000000,
+    "noncontrolling_interests": 1987000000
+  },
+  "segments": [
+    {
+      "key": "Device",
+      "label": null,
+      "external_revenue": 11549000000,
+      "intersegment_revenue": 14461000000,
+      "operating_income": 6107000000
+    },
+    {
+      "key": "Medical",
+      "label": null,
+      "external_revenue": 78552000000,
+      "operating_income": 16403000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02349-000_2023-06-30_01_2023-09-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

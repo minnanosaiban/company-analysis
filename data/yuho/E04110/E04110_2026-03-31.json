@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E04110",
+    "sec_code": "9031",
+    "company_name": "西日本鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-18",
+    "doc_id": "S100YAAB"
+  },
+  "financials": {
+    "ordinary_income": 37220000000,
+    "net_income": 32155000000,
+    "comprehensive_income": 43279000000,
+    "eps": 423.28,
+    "eps_diluted": 422.68,
+    "dps": 70,
+    "operating_cf": 38609000000,
+    "investing_cf": -30337000000,
+    "financing_cf": -13324000000,
+    "net_assets": 293044000000,
+    "total_assets": 820851000000,
+    "bps": 3759.4,
+    "cash_end": 45770000000,
+    "equity_ratio": 0.346,
+    "roe": 0.121,
+    "per": 7.11,
+    "operating_income": 30210000000,
+    "income_tax_expense": 11436000000,
+    "interest_bearing_debt_current": 44773000000,
+    "interest_bearing_debt_noncurrent": 151213000000,
+    "bonds_payable": 147000000000,
+    "current_portion_of_bonds": 20000000000,
+    "depreciation": 23923000000,
+    "current_assets": 220184000000,
+    "current_liabilities": 163463000000,
+    "noncurrent_assets": 600667000000,
+    "noncurrent_liabilities": 364342000000,
+    "trade_payables": 44677000000,
+    "ppe": 467636000000,
+    "goodwill": 3986000000,
+    "intangible_assets": 10207000000,
+    "investment_securities": 77894000000,
+    "treasury_stock": -8436000000,
+    "noncontrolling_interests": 8958000000
+  },
+  "segments": [
+    {
+      "key": "Distribution",
+      "label": null,
+      "external_revenue": 73877000000,
+      "intersegment_revenue": 94000000,
+      "operating_income": 670000000
+    },
+    {
+      "key": "LeisureAndService",
+      "label": null,
+      "external_revenue": 54237000000,
+      "intersegment_revenue": 4850000000,
+      "operating_income": 6371000000
+    },
+    {
+      "key": "Logistics",
+      "label": null,
+      "external_revenue": 152348000000,
+      "intersegment_revenue": 663000000,
+      "operating_income": 6080000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 83029000000,
+      "intersegment_revenue": 11980000000,
+      "operating_income": 11624000000
+    },
+    {
+      "key": "Transportation",
+      "label": null,
+      "external_revenue": 82291000000,
+      "intersegment_revenue": 880000000,
+      "operating_income": 4055000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04110-000_2026-03-31_01_2026-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

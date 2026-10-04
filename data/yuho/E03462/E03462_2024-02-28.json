@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "edinet_code": "E03462",
+    "sec_code": "3382",
+    "company_name": "株式会社セブン＆アイ・ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-05-23",
+    "doc_id": "S100VT7P"
+  },
+  "financials": {
+    "ordinary_income": 507086000000,
+    "net_income": 224623000000,
+    "comprehensive_income": 424311000000,
+    "eps": 84.88,
+    "eps_diluted": 84.87,
+    "dps": 113,
+    "operating_cf": 673015000000,
+    "investing_cf": -431809000000,
+    "financing_cf": -377065000000,
+    "net_assets": 3900624000000,
+    "total_assets": 10592117000000,
+    "bps": 1416.94,
+    "cash_end": 1562493000000,
+    "equity_ratio": 0.351,
+    "roe": 0.062,
+    "per": 26.3,
+    "gross_profit": 1789551000000,
+    "operating_income": 534248000000,
+    "income_tax_expense": 63116000000,
+    "interest_bearing_debt_current": 84882000000,
+    "interest_bearing_debt_noncurrent": 824616000000,
+    "bonds_payable": 1356585000000,
+    "current_portion_of_bonds": 334039000000,
+    "current_portion_lt_loans": 138530000000,
+    "lease_liabilities_current": 132392000000,
+    "lease_liabilities_noncurrent": 931759000000,
+    "depreciation": 400789000000,
+    "capex_ppe": -337439000000,
+    "capex_intangible": -120202000000,
+    "current_assets": 3035666000000,
+    "current_liabilities": 3073252000000,
+    "noncurrent_assets": 7555469000000,
+    "noncurrent_liabilities": 3618240000000,
+    "trade_payables": 334121000000,
+    "ppe": 4362500000000,
+    "goodwill": 1928916000000,
+    "intangible_assets": 2356578000000,
+    "investment_securities": 277526000000,
+    "treasury_stock": -16368000000,
+    "noncontrolling_interests": 184041000000
+  },
+  "segments": [
+    {
+      "key": "DomesticCVSOperations",
+      "label": "国内コンビニエンスストア事業",
+      "external_revenue": 919354000000,
+      "intersegment_revenue": 2351000000,
+      "operating_income": 250544000000
+    },
+    {
+      "key": "FinancialServices",
+      "label": "金融関連事業",
+      "external_revenue": 178031000000,
+      "intersegment_revenue": 29447000000,
+      "operating_income": 38172000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 386356000000,
+      "intersegment_revenue": 24949000000,
+      "operating_income": 2688000000
+    },
+    {
+      "key": "OverseasCVSOperations",
+      "label": "海外コンビニエンスストア事業",
+      "external_revenue": 8514152000000,
+      "intersegment_revenue": 2787000000,
+      "operating_income": 301628000000
+    },
+    {
+      "key": "SuperstoreOperations",
+      "label": "スーパーストア事業",
+      "external_revenue": 1473259000000,
+      "intersegment_revenue": 4125000000,
+      "operating_income": 13588000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03462-000_2025-02-28_01_2025-05-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

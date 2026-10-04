@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E01920",
+    "sec_code": "6586",
+    "company_name": "株式会社マキタ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R22E"
+  },
+  "financials": {
+    "dps": 53,
+    "net_sales": 492617000000,
+    "net_income": 47731000000,
+    "comprehensive_income": 15271000000,
+    "net_assets": 571275000000,
+    "total_assets": 674564000000,
+    "equity_ratio": 0.847,
+    "bps": 2104.01,
+    "eps": 175.8,
+    "roe": 0.083,
+    "per": 18.9,
+    "operating_cf": 57310000000,
+    "investing_cf": -30506000000,
+    "financing_cf": -22931000000,
+    "cash_end": 143439000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01920-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

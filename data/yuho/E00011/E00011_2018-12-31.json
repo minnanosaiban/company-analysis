@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00011",
+    "sec_code": "1911",
+    "company_name": "住友林業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T4YC"
+  },
+  "financials": {
+    "net_sales": 1308893000000,
+    "ordinary_income": 51436000000,
+    "net_income": 29160000000,
+    "comprehensive_income": 24899000000,
+    "eps": 160.8,
+    "eps_diluted": 155.32,
+    "dps": 40,
+    "operating_cf": 40689000000,
+    "investing_cf": -71659000000,
+    "financing_cf": 11523000000,
+    "net_assets": 353489000000,
+    "total_assets": 970976000000,
+    "bps": 1755.06,
+    "cash_end": 105102000000,
+    "equity_ratio": 0.328,
+    "roe": 0.093,
+    "per": 9.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00011-000_2022-12-31_02_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

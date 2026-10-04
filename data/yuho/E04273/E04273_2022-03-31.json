@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E04273",
+    "sec_code": "9202",
+    "company_name": "ＡＮＡホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R7LB"
+  },
+  "financials": {
+    "net_sales": 1020324000000,
+    "ordinary_income": -184935000000,
+    "net_income": -143628000000,
+    "comprehensive_income": -93764000000,
+    "eps": -305.37,
+    "operating_cf": -76413000000,
+    "investing_cf": 230019000000,
+    "financing_cf": 93646000000,
+    "net_assets": 803415000000,
+    "total_assets": 3218433000000,
+    "bps": 1695.06,
+    "cash_end": 621037000000,
+    "equity_ratio": 0.248,
+    "roe": -0.159,
+    "gross_profit": -29090000000,
+    "operating_income": -173127000000,
+    "income_tax_expense": 2682000000,
+    "interest_bearing_debt_current": 100070000000,
+    "interest_bearing_debt_noncurrent": 1102218000000,
+    "bonds_payable": 185000000000,
+    "current_portion_lt_loans": 62775000000,
+    "lease_liabilities_current": 4057000000,
+    "lease_liabilities_noncurrent": 5988000000,
+    "depreciation": 157505000000,
+    "capex_ppe": -120591000000,
+    "capex_intangible": -12773000000,
+    "current_assets": 1293921000000,
+    "current_liabilities": 687889000000,
+    "noncurrent_assets": 1922885000000,
+    "noncurrent_liabilities": 1727129000000,
+    "ppe": 1350337000000,
+    "goodwill": 20230000000,
+    "intangible_assets": 93280000000,
+    "investment_securities": 140746000000,
+    "treasury_stock": -59350000000,
+    "noncontrolling_interests": 6166000000
+  },
+  "segments": [
+    {
+      "key": "AirTransportation",
+      "label": "航空事業",
+      "external_revenue": 857460000000,
+      "intersegment_revenue": 27636000000,
+      "operating_income": -162932000000
+    },
+    {
+      "key": "AirlineRelated",
+      "label": "航空関連事業",
+      "external_revenue": 43613000000,
+      "intersegment_revenue": 163193000000,
+      "operating_income": -660000000
+    },
+    {
+      "key": "TradeAndRetail",
+      "label": "商社事業",
+      "external_revenue": 72380000000,
+      "intersegment_revenue": 9314000000,
+      "operating_income": 549000000
+    },
+    {
+      "key": "TravelServices",
+      "label": "旅行事業",
+      "external_revenue": 32130000000,
+      "intersegment_revenue": 14152000000,
+      "operating_income": -2105000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04273-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

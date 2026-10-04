@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "edinet_code": "E01542",
+    "sec_code": "6361",
+    "company_name": "株式会社荏原製作所",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XS6E"
+  },
+  "financials": {
+    "dps": 59,
+    "net_sales": 958285000000,
+    "net_income": 76633000000,
+    "comprehensive_income": 82287000000,
+    "net_assets": 508875000000,
+    "total_assets": 1082201000000,
+    "equity_ratio": 0.47,
+    "bps": 1114.52,
+    "eps": 166.31,
+    "eps_diluted": 166.15,
+    "roe": 0.156,
+    "per": 22.2,
+    "operating_cf": 40755000000,
+    "investing_cf": -91232000000,
+    "financing_cf": 16836000000,
+    "cash_end": 143485000000,
+    "operating_income": 113802000000,
+    "gross_profit": 311944000000,
+    "income_tax_expense": 31384000000,
+    "sga_expense": 197892000000,
+    "profit_before_tax": 110977000000,
+    "depreciation": 34804000000,
+    "current_assets": 717392000000,
+    "current_liabilities": 448343000000,
+    "noncurrent_assets": 364808000000,
+    "trade_receivables": 209180000000,
+    "inventories": 197695000000,
+    "trade_payables": 148175000000,
+    "ppe": 258032000000,
+    "goodwill": 10261000000,
+    "intangible_assets": 61459000000,
+    "equity_method_investments": 8001000000,
+    "treasury_stock": -20326000000,
+    "noncontrolling_interests": 12790000000
+  },
+  "segments": [
+    {
+      "key": "BuildingServiceAndIndustrial",
+      "label": null,
+      "external_revenue": 241938000000,
+      "intersegment_revenue": 1549000000,
+      "revenue": 243488000000,
+      "operating_income": 15251000000
+    },
+    {
+      "key": "Energy",
+      "label": null,
+      "external_revenue": 217845000000,
+      "intersegment_revenue": 1049000000,
+      "revenue": 218894000000,
+      "operating_income": 25943000000
+    },
+    {
+      "key": "Environmental",
+      "label": null,
+      "external_revenue": 97864000000,
+      "intersegment_revenue": 117000000,
+      "revenue": 97981000000,
+      "operating_income": 13003000000
+    },
+    {
+      "key": "PrecisionMachinery",
+      "label": null,
+      "external_revenue": 342267000000,
+      "intersegment_revenue": 1000000,
+      "revenue": 342268000000,
+      "operating_income": 57773000000
+    },
+    {
+      "key": "WaterAndInfrastracture",
+      "label": null,
+      "external_revenue": 57143000000,
+      "intersegment_revenue": 49000000,
+      "revenue": 57192000000,
+      "operating_income": 4680000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01542-000_2025-12-31_01_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

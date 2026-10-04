@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00147",
+    "sec_code": "1860",
+    "company_name": "戸田建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R9O5"
+  },
+  "financials": {
+    "net_sales": 518683000000,
+    "ordinary_income": 38272000000,
+    "net_income": 25845000000,
+    "comprehensive_income": 10456000000,
+    "eps": 84.3,
+    "dps": 26,
+    "operating_cf": 77271000000,
+    "investing_cf": -21762000000,
+    "financing_cf": -26685000000,
+    "net_assets": 273496000000,
+    "total_assets": 634557000000,
+    "bps": 883.35,
+    "cash_end": 125418000000,
+    "equity_ratio": 0.4268,
+    "roe": 0.0963,
+    "per": 7.46
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00147-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

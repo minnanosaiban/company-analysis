@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E00369",
+    "sec_code": "2201",
+    "company_name": "森永製菓株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8FN"
+  },
+  "financials": {
+    "net_sales": 181251000000,
+    "ordinary_income": 18247000000,
+    "net_income": 27773000000,
+    "comprehensive_income": 13037000000,
+    "eps": 552.59,
+    "dps": 90,
+    "operating_cf": 24825000000,
+    "investing_cf": 9312000000,
+    "financing_cf": -5943000000,
+    "net_assets": 131174000000,
+    "total_assets": 214300000000,
+    "bps": 2603.95,
+    "cash_end": 60146000000,
+    "equity_ratio": 0.607,
+    "roe": 0.22,
+    "per": 6.89,
+    "gross_profit": 75826000000,
+    "operating_income": 17685000000,
+    "income_tax_expense": 11279000000,
+    "current_portion_lt_loans": 10000000000,
+    "lease_liabilities_current": 367000000,
+    "lease_liabilities_noncurrent": 616000000,
+    "depreciation": 10032000000,
+    "capex_ppe": -15307000000,
+    "capex_intangible": -15000000,
+    "current_assets": 112067000000,
+    "current_liabilities": 70147000000,
+    "noncurrent_assets": 102233000000,
+    "noncurrent_liabilities": 12978000000,
+    "trade_receivables": 22313000000,
+    "trade_payables": 20392000000,
+    "ppe": 85053000000,
+    "goodwill": 98000000,
+    "intangible_assets": 309000000,
+    "investment_securities": 10447000000,
+    "treasury_stock": -12717000000,
+    "noncontrolling_interests": 1139000000
+  },
+  "segments": [
+    {
+      "key": "GroceryManufacturing",
+      "label": null,
+      "external_revenue": 172750000000,
+      "intersegment_revenue": 161000000,
+      "operating_income": 17439000000
+    },
+    {
+      "key": "GroceryWholesale",
+      "label": null,
+      "external_revenue": 5935000000,
+      "intersegment_revenue": 249000000,
+      "operating_income": 346000000
+    },
+    {
+      "key": "RealEstateAndService",
+      "label": null,
+      "external_revenue": 1915000000,
+      "intersegment_revenue": 0,
+      "operating_income": 873000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00369-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

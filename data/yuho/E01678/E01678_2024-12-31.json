@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "edinet_code": "E01678",
+    "sec_code": "6481",
+    "company_name": "ＴＨＫ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-17",
+    "doc_id": "S100VEQZ"
+  },
+  "financials": {
+    "dps": 146.5,
+    "net_sales": 352759000000,
+    "net_income": 10439000000,
+    "comprehensive_income": 34505000000,
+    "net_assets": 383645000000,
+    "total_assets": 567418000000,
+    "equity_ratio": 0.676,
+    "bps": 3157.34,
+    "eps": 85.17,
+    "roe": 0.028,
+    "per": 43.2,
+    "operating_cf": 28412000000,
+    "investing_cf": -34223000000,
+    "financing_cf": -22652000000,
+    "cash_end": 138293000000,
+    "operating_income": 17349000000,
+    "gross_profit": 81784000000,
+    "income_tax_expense": 8125000000,
+    "interest_bearing_debt_current": 23371000000,
+    "interest_bearing_debt_noncurrent": 73143000000,
+    "sga_expense": 64639000000,
+    "profit_before_tax": 18782000000,
+    "depreciation": 23981000000,
+    "capex_ppe": -29563000000,
+    "current_assets": 326804000000,
+    "current_liabilities": 80929000000,
+    "noncurrent_assets": 240613000000,
+    "trade_receivables": 81474000000,
+    "inventories": 91660000000,
+    "trade_payables": 34040000000,
+    "ppe": 203783000000,
+    "goodwill": 3048000000,
+    "equity_method_investments": 6709000000,
+    "treasury_stock": -21104000000,
+    "noncontrolling_interests": 6149000000
+  },
+  "segments": [
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 62525000000,
+      "intersegment_revenue": 3634000000,
+      "revenue": 66160000000,
+      "operating_income": 7202000000,
+      "profit_before_tax": 7805000000,
+      "assets": 106215000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 67599000000,
+      "intersegment_revenue": 813000000,
+      "revenue": 68413000000,
+      "operating_income": -407000000,
+      "profit_before_tax": -1049000000,
+      "assets": 126646000000
+    },
+    {
+      "key": "Jaopan",
+      "label": null,
+      "external_revenue": 112905000000,
+      "intersegment_revenue": 60752000000,
+      "revenue": 173658000000,
+      "operating_income": 7845000000,
+      "profit_before_tax": 19515000000,
+      "assets": 428762000000,
+      "equity_method_income": 55000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 17972000000,
+      "intersegment_revenue": 4643000000,
+      "revenue": 22615000000,
+      "operating_income": 746000000,
+      "profit_before_tax": 858000000,
+      "assets": 56432000000
+    },
+    {
+      "key": "TheAmericas",
+      "label": null,
+      "external_revenue": 91756000000,
+      "intersegment_revenue": 189000000,
+      "revenue": 91945000000,
+      "operating_income": 2408000000,
+      "profit_before_tax": 3337000000,
+      "assets": 95393000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01678-000_2024-12-31_01_2025-03-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

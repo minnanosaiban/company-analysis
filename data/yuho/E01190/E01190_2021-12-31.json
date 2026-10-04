@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01190",
+    "sec_code": "5214",
+    "company_name": "日本電気硝子株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T66Z"
+  },
+  "financials": {
+    "net_sales": 292033000000,
+    "ordinary_income": 44979000000,
+    "net_income": 27904000000,
+    "comprehensive_income": 42847000000,
+    "eps": 290.98,
+    "dps": 110,
+    "operating_cf": 69881000000,
+    "investing_cf": -31754000000,
+    "financing_cf": -29178000000,
+    "net_assets": 499742000000,
+    "total_assets": 698129000000,
+    "bps": 5321.77,
+    "cash_end": 134723000000,
+    "equity_ratio": 0.709,
+    "roe": 0.058,
+    "per": 10.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01190-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

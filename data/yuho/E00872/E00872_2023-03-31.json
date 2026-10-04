@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E00872",
+    "sec_code": "3401",
+    "company_name": "帝人株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZX0"
+  },
+  "financials": {
+    "net_sales": 1018751000000,
+    "ordinary_income": 9100000000,
+    "net_income": -17695000000,
+    "comprehensive_income": -1910000000,
+    "eps": -92.04,
+    "dps": 40,
+    "operating_cf": 55086000000,
+    "investing_cf": -52427000000,
+    "financing_cf": 7180000000,
+    "net_assets": 451084000000,
+    "total_assets": 1242433000000,
+    "bps": 2209.82,
+    "cash_end": 140307000000,
+    "equity_ratio": 0.342,
+    "roe": -0.041,
+    "gross_profit": 248136000000,
+    "operating_income": 12863000000,
+    "income_tax_expense": 12109000000,
+    "interest_bearing_debt_current": 132619000000,
+    "interest_bearing_debt_noncurrent": 194332000000,
+    "bonds_payable": 105000000000,
+    "current_portion_lt_loans": 75278000000,
+    "lease_liabilities_noncurrent": 18933000000,
+    "capex_ppe": -51512000000,
+    "capex_intangible": -6224000000,
+    "current_assets": 613341000000,
+    "current_liabilities": 414836000000,
+    "noncurrent_assets": 629093000000,
+    "noncurrent_liabilities": 376513000000,
+    "trade_payables": 103041000000,
+    "ppe": 347857000000,
+    "goodwill": 13987000000,
+    "intangible_assets": 160550000000,
+    "investment_securities": 82139000000,
+    "treasury_stock": -12299000000,
+    "noncontrolling_interests": 25420000000
+  },
+  "segments": [
+    {
+      "key": "Healthcare",
+      "label": null,
+      "external_revenue": 152377000000,
+      "intersegment_revenue": 16000000,
+      "operating_income": 23490000000
+    },
+    {
+      "key": "Material",
+      "label": null,
+      "external_revenue": 456032000000,
+      "intersegment_revenue": 10767000000,
+      "operating_income": -20409000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00872-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

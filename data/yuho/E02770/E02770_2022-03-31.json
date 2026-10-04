@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E02770",
+    "sec_code": "9962",
+    "company_name": "株式会社ミスミグループ本社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1SZ"
+  },
+  "financials": {
+    "net_sales": 366160000000,
+    "ordinary_income": 52500000000,
+    "net_income": 37557000000,
+    "comprehensive_income": 53528000000,
+    "eps": 132.15,
+    "eps_diluted": 131.72,
+    "dps": 33.04,
+    "operating_cf": 55391000000,
+    "investing_cf": -22761000000,
+    "financing_cf": -9609000000,
+    "net_assets": 279959000000,
+    "total_assets": 347390000000,
+    "bps": 975.04,
+    "cash_end": 101443000000,
+    "equity_ratio": 0.798,
+    "roe": 0.148,
+    "per": 27.7,
+    "gross_profit": 166863000000,
+    "operating_income": 52210000000,
+    "income_tax_expense": 13975000000,
+    "lease_liabilities_current": 1775000000,
+    "lease_liabilities_noncurrent": 5409000000,
+    "depreciation": 15341000000,
+    "current_assets": 253123000000,
+    "current_liabilities": 52410000000,
+    "noncurrent_assets": 94266000000,
+    "noncurrent_liabilities": 15019000000,
+    "trade_receivables": 76819000000,
+    "trade_payables": 21617000000,
+    "ppe": 46520000000,
+    "intangible_assets": 35719000000,
+    "investment_securities": 6000000,
+    "treasury_stock": -79000000,
+    "noncontrolling_interests": 797000000
+  },
+  "segments": [
+    {
+      "key": "FABusinesses",
+      "label": "ＦＡ事業",
+      "external_revenue": 119253000000,
+      "operating_income": 23381000000
+    },
+    {
+      "key": "MoldComponent",
+      "label": "金型部品事業",
+      "external_revenue": 75108000000,
+      "operating_income": 9542000000
+    },
+    {
+      "key": "VONABusinesses",
+      "label": "ＶＯＮＡ事業",
+      "external_revenue": 171799000000,
+      "operating_income": 19287000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02770-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

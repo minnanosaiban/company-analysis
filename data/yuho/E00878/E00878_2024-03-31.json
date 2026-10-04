@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E00878",
+    "sec_code": "4401",
+    "company_name": "株式会社ＡＤＥＫＡ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TOJC"
+  },
+  "financials": {
+    "net_sales": 399770000000,
+    "ordinary_income": 35763000000,
+    "net_income": 22977000000,
+    "comprehensive_income": 39160000000,
+    "eps": 224.87,
+    "dps": 90,
+    "operating_cf": 41954000000,
+    "investing_cf": -23069000000,
+    "financing_cf": -4559000000,
+    "net_assets": 339682000000,
+    "total_assets": 543057000000,
+    "bps": 2791.92,
+    "cash_end": 96901000000,
+    "equity_ratio": 0.5251,
+    "roe": 0.0842,
+    "per": 14.34,
+    "gross_profit": 104691000000,
+    "operating_income": 35428000000,
+    "income_tax_expense": 8934000000,
+    "interest_bearing_debt_current": 26780000000,
+    "interest_bearing_debt_noncurrent": 22283000000,
+    "bonds_payable": 14381000000,
+    "current_portion_lt_loans": 11885000000,
+    "lease_liabilities_current": 245000000,
+    "lease_liabilities_noncurrent": 461000000,
+    "depreciation": 17065000000,
+    "capex_ppe": -19471000000,
+    "capex_intangible": -2280000000,
+    "current_assets": 346598000000,
+    "current_liabilities": 134427000000,
+    "noncurrent_assets": 196458000000,
+    "noncurrent_liabilities": 68947000000,
+    "trade_payables": 64903000000,
+    "ppe": 126840000000,
+    "intangible_assets": 16497000000,
+    "investment_securities": 42013000000,
+    "treasury_stock": -3375000000,
+    "noncontrolling_interests": 54539000000
+  },
+  "segments": [
+    {
+      "key": "Chemicals",
+      "label": null,
+      "external_revenue": 204130000000,
+      "intersegment_revenue": 150000000,
+      "operating_income": 23699000000
+    },
+    {
+      "key": "FoodProducts",
+      "label": null,
+      "external_revenue": 84012000000,
+      "intersegment_revenue": 323000000,
+      "operating_income": 4111000000
+    },
+    {
+      "key": "Lifesciemce",
+      "label": null,
+      "external_revenue": 103021000000,
+      "intersegment_revenue": 11000000,
+      "operating_income": 5907000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00878-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

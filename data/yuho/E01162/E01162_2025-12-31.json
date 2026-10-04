@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E01162",
+    "sec_code": "5301",
+    "company_name": "東海カーボン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-26",
+    "doc_id": "S100XU85"
+  },
+  "financials": {
+    "net_sales": 322960000000,
+    "ordinary_income": 26312000000,
+    "net_income": 20078000000,
+    "comprehensive_income": 40577000000,
+    "eps": 94.05,
+    "dps": 30,
+    "operating_cf": 55872000000,
+    "investing_cf": -51052000000,
+    "financing_cf": -7689000000,
+    "net_assets": 352846000000,
+    "total_assets": 664033000000,
+    "bps": 1491.09,
+    "cash_end": 64327000000,
+    "equity_ratio": 0.479,
+    "roe": 0.066,
+    "per": 10.3,
+    "gross_profit": 79740000000,
+    "operating_income": 25850000000,
+    "income_tax_expense": 7935000000,
+    "interest_bearing_debt_current": 7814000000,
+    "interest_bearing_debt_noncurrent": 65015000000,
+    "bonds_payable": 65000000000,
+    "commercial_papers": 47000000000,
+    "current_portion_of_bonds": 10000000000,
+    "current_portion_lt_loans": 3282000000,
+    "lease_liabilities_noncurrent": 9230000000,
+    "depreciation": 27700000000,
+    "capex_ppe": -41100000000,
+    "capex_intangible": -1807000000,
+    "current_assets": 258828000000,
+    "current_liabilities": 126726000000,
+    "noncurrent_assets": 405204000000,
+    "noncurrent_liabilities": 184460000000,
+    "trade_receivables": 66781000000,
+    "trade_payables": 20381000000,
+    "ppe": 290429000000,
+    "goodwill": 26684000000,
+    "intangible_assets": 61520000000,
+    "investment_securities": 40257000000,
+    "treasury_stock": -7047000000,
+    "noncontrolling_interests": 34488000000
+  },
+  "segments": [
+    {
+      "key": "SmeltingAndLining",
+      "label": null,
+      "external_revenue": 61751000000,
+      "intersegment_revenue": 259000000,
+      "operating_income": 1503000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01162-000_2025-12-31_01_2026-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

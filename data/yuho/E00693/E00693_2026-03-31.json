@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E00693",
+    "sec_code": "7912",
+    "company_name": "大日本印刷株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YF74"
+  },
+  "financials": {
+    "net_sales": 1512571000000,
+    "ordinary_income": 119239000000,
+    "net_income": 103959000000,
+    "comprehensive_income": 126630000000,
+    "eps": 235.48,
+    "eps_diluted": 235.45,
+    "dps": 40,
+    "operating_cf": 40367000000,
+    "investing_cf": -73641000000,
+    "financing_cf": 23331000000,
+    "net_assets": 1267106000000,
+    "total_assets": 2034110000000,
+    "bps": 2759.41,
+    "cash_end": 243564000000,
+    "equity_ratio": 0.5853,
+    "roe": 0.0894,
+    "per": 12.01,
+    "gross_profit": 365983000000,
+    "operating_income": 101039000000,
+    "income_tax_expense": 37577000000,
+    "interest_bearing_debt_current": 32963000000,
+    "interest_bearing_debt_noncurrent": 24028000000,
+    "bonds_payable": 200000000000,
+    "current_portion_lt_loans": 6569000000,
+    "lease_liabilities_noncurrent": 12695000000,
+    "depreciation": 52815000000,
+    "capex_ppe": -60030000000,
+    "capex_intangible": -12953000000,
+    "current_assets": 859436000000,
+    "current_liabilities": 380179000000,
+    "noncurrent_assets": 1174674000000,
+    "noncurrent_liabilities": 386824000000,
+    "trade_payables": 191394000000,
+    "ppe": 420768000000,
+    "goodwill": 30554000000,
+    "intangible_assets": 71828000000,
+    "investment_securities": 369504000000,
+    "treasury_stock": -16116000000,
+    "noncontrolling_interests": 76602000000
+  },
+  "segments": [
+    {
+      "key": "Electronics",
+      "label": null,
+      "external_revenue": 251804000000,
+      "operating_income": 50702000000
+    },
+    {
+      "key": "LifeAndHealthcare",
+      "label": null,
+      "external_revenue": 512092000000,
+      "intersegment_revenue": 256000000,
+      "operating_income": 37260000000
+    },
+    {
+      "key": "SmartCommunication",
+      "label": null,
+      "external_revenue": 748674000000,
+      "intersegment_revenue": 1704000000,
+      "operating_income": 40002000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00693-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E02349",
+    "sec_code": "7747",
+    "company_name": "朝日インテック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-09-27",
+    "doc_id": "S100UFF7"
+  },
+  "financials": {
+    "net_sales": 107547000000,
+    "ordinary_income": 21968000000,
+    "net_income": 15808000000,
+    "comprehensive_income": 22873000000,
+    "eps": 58.2,
+    "dps": 20.37,
+    "operating_cf": 34708000000,
+    "investing_cf": -21222000000,
+    "financing_cf": -13878000000,
+    "net_assets": 151961000000,
+    "total_assets": 191614000000,
+    "bps": 556.71,
+    "cash_end": 35658000000,
+    "equity_ratio": 0.789,
+    "roe": 0.112,
+    "per": 38.8,
+    "gross_profit": 69053000000,
+    "operating_income": 22135000000,
+    "income_tax_expense": 5630000000,
+    "interest_bearing_debt_current": 5615000000,
+    "interest_bearing_debt_noncurrent": 1087000000,
+    "depreciation": 8464000000,
+    "capex_ppe": -9877000000,
+    "capex_intangible": -667000000,
+    "current_assets": 94696000000,
+    "current_liabilities": 29494000000,
+    "noncurrent_assets": 96917000000,
+    "noncurrent_liabilities": 10157000000,
+    "trade_receivables": 17676000000,
+    "trade_payables": 2289000000,
+    "ppe": 60129000000,
+    "goodwill": 6910000000,
+    "intangible_assets": 16959000000,
+    "investment_securities": 15185000000,
+    "treasury_stock": -7000000,
+    "noncontrolling_interests": 744000000
+  },
+  "segments": [
+    {
+      "key": "Device",
+      "label": null,
+      "external_revenue": 11892000000,
+      "intersegment_revenue": 14257000000,
+      "operating_income": 4733000000
+    },
+    {
+      "key": "Medical",
+      "label": null,
+      "external_revenue": 95654000000,
+      "operating_income": 22664000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02349-000_2024-06-30_01_2024-09-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

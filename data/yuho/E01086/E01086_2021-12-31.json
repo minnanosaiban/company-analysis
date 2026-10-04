@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01086",
+    "sec_code": "5108",
+    "company_name": "株式会社ブリヂストン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-26",
+    "doc_id": "S100T41V"
+  },
+  "financials": {
+    "dps": 170,
+    "net_sales": 3246057000000,
+    "net_income": 394037000000,
+    "comprehensive_income": 581731000000,
+    "net_assets": 2629883000000,
+    "total_assets": 4574892000000,
+    "equity_ratio": 0.575,
+    "bps": 3734.23,
+    "eps": 559.56,
+    "eps_diluted": 558.71,
+    "roe": 0.165,
+    "per": 8.8,
+    "operating_cf": 281538000000,
+    "investing_cf": 131701000000,
+    "financing_cf": -379321000000,
+    "cash_end": 787542000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01086-000_2023-12-31_01_2024-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

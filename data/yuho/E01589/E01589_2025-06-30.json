@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E01589",
+    "sec_code": "6728",
+    "company_name": "株式会社　アルバック",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-09-26",
+    "doc_id": "S100WQX1"
+  },
+  "financials": {
+    "net_sales": 251184000000,
+    "ordinary_income": 28605000000,
+    "net_income": 16687000000,
+    "comprehensive_income": 11663000000,
+    "eps": 338.74,
+    "dps": 164,
+    "operating_cf": 34811000000,
+    "investing_cf": -10800000000,
+    "financing_cf": -14215000000,
+    "net_assets": 231080000000,
+    "total_assets": 375062000000,
+    "bps": 4537.99,
+    "cash_end": 92609000000,
+    "equity_ratio": 0.596,
+    "roe": 0.075,
+    "per": 15.66,
+    "gross_profit": 79862000000,
+    "operating_income": 26523000000,
+    "income_tax_expense": 8685000000,
+    "interest_bearing_debt_current": 9774000000,
+    "interest_bearing_debt_noncurrent": 32354000000,
+    "lease_liabilities_current": 947000000,
+    "lease_liabilities_noncurrent": 3524000000,
+    "depreciation": 10805000000,
+    "current_assets": 270077000000,
+    "current_liabilities": 100655000000,
+    "noncurrent_assets": 104985000000,
+    "noncurrent_liabilities": 43328000000,
+    "trade_payables": 38873000000,
+    "ppe": 76920000000,
+    "intangible_assets": 5685000000,
+    "investment_securities": 7996000000,
+    "treasury_stock": -498000000,
+    "noncontrolling_interests": 7615000000
+  },
+  "segments": [
+    {
+      "key": "VacuumApplicationBusiness",
+      "label": null,
+      "external_revenue": 52134000000,
+      "intersegment_revenue": 3185000000,
+      "operating_income": 4533000000
+    },
+    {
+      "key": "VacuumEquipmentBusiness",
+      "label": null,
+      "external_revenue": 199050000000,
+      "intersegment_revenue": 634000000,
+      "operating_income": 21877000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01589-000_2025-06-30_01_2025-09-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

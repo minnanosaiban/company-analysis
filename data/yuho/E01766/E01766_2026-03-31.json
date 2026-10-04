@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E01766",
+    "sec_code": "6702",
+    "company_name": "富士通株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-26",
+    "doc_id": "S100YM3K"
+  },
+  "financials": {
+    "dps": 50,
+    "net_sales": 3502971000000,
+    "net_income": 449408000000,
+    "comprehensive_income": 510953000000,
+    "net_assets": 2024915000000,
+    "total_assets": 3399745000000,
+    "equity_ratio": 0.596,
+    "bps": 1167.25,
+    "eps": 254.83,
+    "eps_diluted": 254.05,
+    "roe": 0.239,
+    "per": 12.45,
+    "operating_cf": 338130000000,
+    "investing_cf": 144491000000,
+    "financing_cf": -379748000000,
+    "cash_end": 450366000000,
+    "operating_income": 348329000000,
+    "gross_profit": 1246867000000,
+    "income_tax_expense": 100737000000,
+    "sga_expense": 886714000000,
+    "profit_before_tax": 409034000000,
+    "depreciation": 129639000000,
+    "current_assets": 1942811000000,
+    "current_liabilities": 1110463000000,
+    "noncurrent_assets": 1456934000000,
+    "inventories": 204090000000,
+    "ppe": 360881000000,
+    "goodwill": 133055000000,
+    "intangible_assets": 236404000000,
+    "investment_securities": 157580000000,
+    "equity_method_investments": 84551000000,
+    "treasury_stock": -10827000000,
+    "noncontrolling_interests": 19672000000
+  },
+  "segments": [
+    {
+      "key": "HardwareSolutions",
+      "label": "ハードウェアソリューション",
+      "external_revenue": 933329000000,
+      "intersegment_revenue": 76528000000,
+      "revenue": 1009857000000
+    },
+    {
+      "key": "ServiceSolutions",
+      "label": "サービスソリューション",
+      "external_revenue": 2314793000000,
+      "intersegment_revenue": 32139000000,
+      "revenue": 2346932000000
+    },
+    {
+      "key": "UbiquitousSolutions",
+      "label": "ユビキタスソリューション",
+      "external_revenue": 229533000000,
+      "intersegment_revenue": 272000000,
+      "revenue": 229805000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01766-000_2026-03-31_01_2026-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

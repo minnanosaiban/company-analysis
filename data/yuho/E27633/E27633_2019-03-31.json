@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E27633",
+    "sec_code": "3289",
+    "company_name": "東急不動産ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R64J"
+  },
+  "financials": {
+    "ordinary_income": 70744000000,
+    "net_income": 37459000000,
+    "comprehensive_income": 35379000000,
+    "eps": 56.84,
+    "dps": 15.5,
+    "operating_cf": 44522000000,
+    "investing_cf": -60389000000,
+    "financing_cf": 139093000000,
+    "net_assets": 568698000000,
+    "total_assets": 2405249000000,
+    "bps": 780.78,
+    "cash_end": 184800000000,
+    "equity_ratio": 0.233,
+    "roe": 0.073,
+    "per": 11.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27633-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

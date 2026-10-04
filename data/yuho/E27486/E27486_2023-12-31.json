@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E27486",
+    "sec_code": "4587",
+    "company_name": "ペプチドリーム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T61M"
+  },
+  "financials": {
+    "net_sales": 28712194000,
+    "net_income": 3035832000,
+    "comprehensive_income": 8760519000,
+    "net_assets": 40349709000,
+    "total_assets": 69464013000,
+    "equity_ratio": 0.581,
+    "bps": 311.16,
+    "eps": 23.41,
+    "eps_diluted": 23.38,
+    "roe": 0.084,
+    "per": 63.5,
+    "operating_cf": 12420969000,
+    "investing_cf": 1302539000,
+    "financing_cf": 264191000,
+    "cash_end": 19507861000,
+    "operating_income": 6773047000,
+    "gross_profit": 17218717000,
+    "income_tax_expense": 1317636000,
+    "sga_expense": 7256195000,
+    "profit_before_tax": 4353469000,
+    "depreciation": 2433182000,
+    "capex_ppe": -1212857000,
+    "capex_intangible": -156105000,
+    "current_assets": 27225082000,
+    "current_liabilities": 8617088000,
+    "noncurrent_assets": 42238930000,
+    "trade_receivables": 4970860000,
+    "inventories": 2404156000,
+    "trade_payables": 3203559000,
+    "ppe": 17358317000,
+    "goodwill": 8370677000,
+    "intangible_assets": 2211452000,
+    "equity_method_investments": 81067000,
+    "treasury_stock": -1085546000
+  },
+  "segments": [
+    {
+      "key": "DrugDiscoveryAndDevelopmentBusiness",
+      "label": null,
+      "external_revenue": 12702965000,
+      "revenue": 12702965000,
+      "operating_income": 6387902000
+    },
+    {
+      "key": "RadiopharmaceuticalsBusiness",
+      "label": null,
+      "external_revenue": 16009228000,
+      "intersegment_revenue": 86960000,
+      "revenue": 16096188000,
+      "operating_income": 475145000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27486-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

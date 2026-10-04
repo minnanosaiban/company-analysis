@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01571",
+    "sec_code": "6368",
+    "company_name": "オルガノ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8AX"
+  },
+  "financials": {
+    "net_sales": 92273000000,
+    "ordinary_income": 6538000000,
+    "net_income": 4452000000,
+    "comprehensive_income": 4057000000,
+    "eps": 97.12,
+    "dps": 73,
+    "operating_cf": 5646000000,
+    "investing_cf": -153000000,
+    "financing_cf": -2759000000,
+    "net_assets": 54795000000,
+    "total_assets": 101257000000,
+    "bps": 1196.2,
+    "cash_end": 11276000000,
+    "equity_ratio": 0.54,
+    "roe": 0.084,
+    "per": 8.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01571-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

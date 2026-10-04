@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04896",
+    "sec_code": "9627",
+    "company_name": "株式会社アインホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-04-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-07-31",
+    "doc_id": "S100RHMW"
+  },
+  "financials": {
+    "net_sales": 292615000000,
+    "ordinary_income": 16822000000,
+    "net_income": 9179000000,
+    "comprehensive_income": 9030000000,
+    "eps": 259.11,
+    "dps": 55,
+    "operating_cf": 17747000000,
+    "investing_cf": -11474000000,
+    "financing_cf": -7837000000,
+    "net_assets": 111003000000,
+    "total_assets": 193451000000,
+    "bps": 3130.77,
+    "cash_end": 45931000000,
+    "equity_ratio": 0.573,
+    "roe": 0.085,
+    "per": 23.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04896-000_2023-04-30_01_2023-07-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

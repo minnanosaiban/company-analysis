@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01600",
+    "sec_code": "6471",
+    "company_name": "日本精工株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R29U"
+  },
+  "financials": {
+    "dps": 30,
+    "net_sales": 831034000000,
+    "net_income": 17412000000,
+    "comprehensive_income": -11075000000,
+    "net_assets": 505505000000,
+    "total_assets": 1029884000000,
+    "equity_ratio": 0.491,
+    "bps": 987.01,
+    "eps": 34,
+    "eps_diluted": 33.91,
+    "roe": 0.033,
+    "per": 20.45,
+    "operating_cf": 72387000000,
+    "investing_cf": -39784000000,
+    "financing_cf": -21333000000,
+    "cash_end": 137298000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01600-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01232",
+    "sec_code": "5631",
+    "company_name": "株式会社日本製鋼所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R38W"
+  },
+  "financials": {
+    "net_sales": 198041000000,
+    "ordinary_income": 10724000000,
+    "net_income": 6893000000,
+    "comprehensive_income": 12166000000,
+    "eps": 93.76,
+    "dps": 35,
+    "operating_cf": 14712000000,
+    "investing_cf": -3243000000,
+    "financing_cf": 2767000000,
+    "net_assets": 141985000000,
+    "total_assets": 316249000000,
+    "bps": 1908.76,
+    "cash_end": 88759000000,
+    "equity_ratio": 0.444,
+    "roe": 0.051,
+    "per": 28.02
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01232-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

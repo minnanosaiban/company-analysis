@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E00041",
+    "sec_code": "1662",
+    "company_name": "石油資源開発株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2025-07-11",
+    "doc_id": "S100WCJK"
+  },
+  "financials": {
+    "net_sales": 325863000000,
+    "ordinary_income": 68808000000,
+    "net_income": 53661000000,
+    "comprehensive_income": 108087000000,
+    "eps": 198.89,
+    "dps": 300,
+    "operating_cf": 90564000000,
+    "investing_cf": -99659000000,
+    "financing_cf": -28596000000,
+    "net_assets": 537574000000,
+    "total_assets": 660928000000,
+    "bps": 1906.49,
+    "cash_end": 152598000000,
+    "equity_ratio": 0.762,
+    "roe": 0.115,
+    "per": 6.9,
+    "gross_profit": 87296000000,
+    "operating_income": 55247000000,
+    "income_tax_expense": 10895000000,
+    "current_portion_lt_loans": 250000000,
+    "depreciation": 27646000000,
+    "capex_ppe": -65924000000,
+    "capex_intangible": -317000000,
+    "current_assets": 249768000000,
+    "current_liabilities": 49095000000,
+    "noncurrent_assets": 411160000000,
+    "noncurrent_liabilities": 74258000000,
+    "trade_receivables": 40790000000,
+    "trade_payables": 9520000000,
+    "ppe": 176300000000,
+    "intangible_assets": 5265000000,
+    "investment_securities": 180415000000,
+    "treasury_stock": -8094000000,
+    "noncontrolling_interests": 33671000000
+  },
+  "segments": [
+    {
+      "key": "Eourope",
+      "label": "欧州",
+      "external_revenue": 2609000000,
+      "operating_income": 426000000,
+      "equity_method_income": -529000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 256463000000,
+      "intersegment_revenue": 6000000,
+      "operating_income": 51130000000,
+      "equity_method_income": 168000000
+    },
+    {
+      "key": "MiddleEast",
+      "label": "中東",
+      "external_revenue": 36182000000,
+      "operating_income": 4750000000,
+      "equity_method_income": 2000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": "北米",
+      "external_revenue": 30607000000,
+      "operating_income": 11417000000,
+      "equity_method_income": -49000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00041-000_2025-03-31_02_2025-07-11.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02386",
+    "sec_code": "7988",
+    "company_name": "株式会社ニフコ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R1SP"
+  },
+  "financials": {
+    "net_sales": 288902000000,
+    "ordinary_income": 28778000000,
+    "net_income": 20753000000,
+    "comprehensive_income": 14802000000,
+    "eps": 199.9,
+    "eps_diluted": 192.73,
+    "dps": 62,
+    "operating_cf": 37371000000,
+    "investing_cf": -14884000000,
+    "financing_cf": -7076000000,
+    "net_assets": 160690000000,
+    "total_assets": 284842000000,
+    "bps": 1538.96,
+    "cash_end": 74200000000,
+    "equity_ratio": 0.557,
+    "roe": 0.132,
+    "per": 14.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02386-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

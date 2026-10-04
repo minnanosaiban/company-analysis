@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E02475",
+    "sec_code": "6460",
+    "company_name": "セガサミーホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R28G"
+  },
+  "financials": {
+    "net_sales": 389635000000,
+    "ordinary_income": 49473000000,
+    "net_income": 45938000000,
+    "comprehensive_income": 52057000000,
+    "eps": 208.07,
+    "eps_diluted": 207.13,
+    "dps": 59,
+    "operating_cf": 44704000000,
+    "investing_cf": -2351000000,
+    "financing_cf": -15358000000,
+    "net_assets": 331347000000,
+    "total_assets": 501566000000,
+    "bps": 1498.75,
+    "cash_end": 179509000000,
+    "equity_ratio": 0.66,
+    "roe": 0.147,
+    "per": 12.1,
+    "gross_profit": 158067000000,
+    "operating_income": 46789000000,
+    "income_tax_expense": 4137000000,
+    "interest_bearing_debt_current": 17000000000,
+    "interest_bearing_debt_noncurrent": 25000000000,
+    "bonds_payable": 10000000000,
+    "lease_liabilities_noncurrent": 5352000000,
+    "depreciation": 10669000000,
+    "capex_ppe": -4944000000,
+    "capex_intangible": -5875000000,
+    "current_assets": 353862000000,
+    "current_liabilities": 120332000000,
+    "noncurrent_assets": 147703000000,
+    "noncurrent_liabilities": 49886000000,
+    "trade_payables": 30556000000,
+    "ppe": 60482000000,
+    "goodwill": 2592000000,
+    "intangible_assets": 13247000000,
+    "investment_securities": 39538000000,
+    "treasury_stock": -37251000000,
+    "noncontrolling_interests": 24000000
+  },
+  "segments": [
+    {
+      "key": "EntertainmentContentsBusiness",
+      "label": null,
+      "external_revenue": 282881000000,
+      "intersegment_revenue": 311000000,
+      "ordinary_income": 41181000000,
+      "equity_method_income": 1069000000
+    },
+    {
+      "key": "PachislotAndPachinkoMachines",
+      "label": null,
+      "external_revenue": 94253000000,
+      "intersegment_revenue": 575000000,
+      "ordinary_income": 20713000000,
+      "equity_method_income": 303000000
+    },
+    {
+      "key": "ResortBusiness",
+      "label": null,
+      "external_revenue": 11540000000,
+      "intersegment_revenue": 79000000,
+      "ordinary_income": -3217000000,
+      "equity_method_income": -1893000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02475-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04908",
+    "sec_code": "9616",
+    "company_name": "株式会社共立メンテナンス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R7CL"
+  },
+  "financials": {
+    "net_sales": 162811000000,
+    "ordinary_income": 14321000000,
+    "net_income": 9567000000,
+    "comprehensive_income": 9374000000,
+    "eps": 245.41,
+    "eps_diluted": 245.37,
+    "dps": 45,
+    "operating_cf": 17963000000,
+    "investing_cf": -21474000000,
+    "financing_cf": 2606000000,
+    "net_assets": 79570000000,
+    "total_assets": 202531000000,
+    "bps": 2040.75,
+    "cash_end": 16070000000,
+    "equity_ratio": 0.393,
+    "roe": 0.126,
+    "per": 22.37
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04908-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04060",
+    "sec_code": "3231",
+    "company_name": "野村不動産ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1SN"
+  },
+  "financials": {
+    "net_sales": 668510000000,
+    "ordinary_income": 69323000000,
+    "net_income": 45873000000,
+    "comprehensive_income": 47795000000,
+    "eps": 245.99,
+    "eps_diluted": 244.55,
+    "dps": 75,
+    "operating_cf": 89964000000,
+    "investing_cf": -46699000000,
+    "financing_cf": 13723000000,
+    "net_assets": 541562000000,
+    "total_assets": 1759455000000,
+    "bps": 2854.21,
+    "cash_end": 118330000000,
+    "equity_ratio": 0.299,
+    "roe": 0.089,
+    "per": 8.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04060-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E32292",
+    "sec_code": "9143",
+    "company_name": "ＳＧホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-10",
+    "doc_id": "S100Y9P7"
+  },
+  "financials": {
+    "ordinary_income": 91782000000,
+    "net_income": 59066000000,
+    "comprehensive_income": 73202000000,
+    "eps": 98.17,
+    "dps": 53,
+    "operating_cf": 124824000000,
+    "investing_cf": -216758000000,
+    "financing_cf": 65765000000,
+    "net_assets": 548672000000,
+    "total_assets": 1229017000000,
+    "bps": 915.31,
+    "cash_end": 92896000000,
+    "equity_ratio": 0.444,
+    "roe": 0.105,
+    "per": 15.06,
+    "operating_income": 90247000000,
+    "income_tax_expense": 35847000000,
+    "interest_bearing_debt_current": 204787000000,
+    "interest_bearing_debt_noncurrent": 126020000000,
+    "current_portion_lt_loans": 19140000000,
+    "lease_liabilities_current": 9662000000,
+    "lease_liabilities_noncurrent": 34815000000,
+    "depreciation": 47563000000,
+    "capex_ppe": -79220000000,
+    "capex_intangible": -4673000000,
+    "current_assets": 383486000000,
+    "current_liabilities": 445272000000,
+    "noncurrent_assets": 845530000000,
+    "noncurrent_liabilities": 235072000000,
+    "ppe": 544391000000,
+    "goodwill": 145562000000,
+    "intangible_assets": 217192000000,
+    "investment_securities": 25645000000,
+    "treasury_stock": -66149000000,
+    "noncontrolling_interests": 2474000000
+  },
+  "segments": [
+    {
+      "key": "Delivery",
+      "label": "デリバリー事業",
+      "external_revenue": 1048510000000,
+      "intersegment_revenue": 44748000000,
+      "operating_income": 70140000000
+    },
+    {
+      "key": "GlobalLogistics",
+      "label": "グローバル物流事業",
+      "external_revenue": 321596000000,
+      "intersegment_revenue": 6350000000,
+      "operating_income": 137000000
+    },
+    {
+      "key": "Logistics",
+      "label": "グローバル物流事業",
+      "external_revenue": 202798000000,
+      "intersegment_revenue": 20164000000,
+      "operating_income": 6278000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産事業",
+      "external_revenue": 15434000000,
+      "intersegment_revenue": 2583000000,
+      "operating_income": 10374000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E32292-000_2026-03-31_01_2026-06-10.csv",
+    "parser_version": "0.1.3"
+  }
+}

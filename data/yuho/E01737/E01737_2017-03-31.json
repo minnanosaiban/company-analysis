@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01737",
+    "sec_code": "6501",
+    "company_name": "株式会社日立製作所",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2025-07-31",
+    "doc_id": "S100WFVB"
+  },
+  "financials": {
+    "dps": 13,
+    "net_sales": 9162264000000,
+    "net_income": 231261000000,
+    "comprehensive_income": 299397000000,
+    "net_assets": 2967085000000,
+    "total_assets": 9663917000000,
+    "equity_ratio": 0.307,
+    "bps": 3072.79,
+    "eps": 239.49,
+    "eps_diluted": 239.42,
+    "roe": 0.081,
+    "per": 12.6,
+    "operating_cf": 629582000000,
+    "investing_cf": -337955000000,
+    "financing_cf": -209536000000,
+    "cash_end": 765242000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01737-000_2021-03-31_02_2025-07-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

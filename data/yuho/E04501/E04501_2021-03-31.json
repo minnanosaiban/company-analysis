@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04501",
+    "sec_code": "9506",
+    "company_name": "東北電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R42K"
+  },
+  "financials": {
+    "net_sales": 2286803000000,
+    "ordinary_income": 67522000000,
+    "net_income": 29380000000,
+    "comprehensive_income": 59284000000,
+    "eps": 58.81,
+    "eps_diluted": 55.88,
+    "dps": 40,
+    "operating_cf": 217617000000,
+    "investing_cf": -254961000000,
+    "financing_cf": -5774000000,
+    "net_assets": 901534000000,
+    "total_assets": 4471081000000,
+    "bps": 1654.46,
+    "cash_end": 209593000000,
+    "equity_ratio": 0.185,
+    "roe": 0.036,
+    "per": 17.77
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04501-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

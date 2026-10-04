@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "edinet_code": "E00893",
+    "sec_code": "4613",
+    "company_name": "関西ペイント株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YHKQ"
+  },
+  "financials": {
+    "net_sales": 589795000000,
+    "ordinary_income": 54713000000,
+    "net_income": 31641000000,
+    "comprehensive_income": 47310000000,
+    "eps": 179.65,
+    "eps_diluted": 148.44,
+    "dps": 110,
+    "operating_cf": 52616000000,
+    "investing_cf": -27026000000,
+    "financing_cf": -22182000000,
+    "net_assets": 381203000000,
+    "total_assets": 801693000000,
+    "bps": 1703.16,
+    "cash_end": 67230000000,
+    "equity_ratio": 0.374,
+    "roe": 0.111,
+    "per": 13,
+    "gross_profit": 191345000000,
+    "operating_income": 49726000000,
+    "income_tax_expense": 20638000000,
+    "interest_bearing_debt_current": 19604000000,
+    "interest_bearing_debt_noncurrent": 2646000000,
+    "bonds_payable": 60000000000,
+    "current_portion_lt_loans": 167000000,
+    "lease_liabilities_current": 1955000000,
+    "lease_liabilities_noncurrent": 4697000000,
+    "depreciation": 23280000000,
+    "capex_ppe": -26065000000,
+    "capex_intangible": -5622000000,
+    "current_assets": 376241000000,
+    "current_liabilities": 195748000000,
+    "noncurrent_assets": 425451000000,
+    "noncurrent_liabilities": 224741000000,
+    "trade_payables": 83170000000,
+    "ppe": 203833000000,
+    "goodwill": 34046000000,
+    "intangible_assets": 82154000000,
+    "investment_securities": 58285000000,
+    "treasury_stock": -2584000000,
+    "noncontrolling_interests": 81145000000
+  },
+  "segments": [
+    {
+      "key": "AFRICA",
+      "label": null,
+      "external_revenue": 51748000000,
+      "intersegment_revenue": 130000000,
+      "operating_income": 6176000000,
+      "equity_method_income": 160000000
+    },
+    {
+      "key": "ASIA",
+      "label": null,
+      "external_revenue": 68064000000,
+      "intersegment_revenue": 2950000000,
+      "operating_income": 5972000000,
+      "equity_method_income": 3109000000
+    },
+    {
+      "key": "EUROPE",
+      "label": null,
+      "external_revenue": 162738000000,
+      "intersegment_revenue": 213000000,
+      "operating_income": 2514000000,
+      "equity_method_income": -1568000000
+    },
+    {
+      "key": "INDIA",
+      "label": null,
+      "external_revenue": 138358000000,
+      "intersegment_revenue": 125000000,
+      "operating_income": 13627000000,
+      "equity_method_income": -60000000
+    },
+    {
+      "key": "JAPAN",
+      "label": null,
+      "external_revenue": 159888000000,
+      "intersegment_revenue": 15741000000,
+      "operating_income": 20673000000,
+      "equity_method_income": 1295000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00893-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01879",
+    "sec_code": "6845",
+    "company_name": "アズビル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R46X"
+  },
+  "financials": {
+    "net_sales": 262054000000,
+    "ordinary_income": 27664000000,
+    "net_income": 18951000000,
+    "comprehensive_income": 16694000000,
+    "eps": 132.03,
+    "dps": 69,
+    "operating_cf": 16112000000,
+    "investing_cf": -4075000000,
+    "financing_cf": -12024000000,
+    "net_assets": 183097000000,
+    "total_assets": 275518000000,
+    "bps": 1264.88,
+    "cash_end": 68134000000,
+    "equity_ratio": 0.657,
+    "roe": 0.106,
+    "per": 19.61
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01879-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

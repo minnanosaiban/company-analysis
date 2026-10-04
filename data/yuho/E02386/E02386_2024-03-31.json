@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E02386",
+    "sec_code": "7988",
+    "company_name": "株式会社ニフコ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TOUT"
+  },
+  "financials": {
+    "net_sales": 371639000000,
+    "ordinary_income": 49665000000,
+    "net_income": 18252000000,
+    "comprehensive_income": 30491000000,
+    "eps": 183.26,
+    "dps": 64,
+    "operating_cf": 47257000000,
+    "investing_cf": -8135000000,
+    "financing_cf": -26024000000,
+    "net_assets": 247052000000,
+    "total_assets": 380405000000,
+    "bps": 2455.97,
+    "cash_end": 142024000000,
+    "equity_ratio": 0.641,
+    "roe": 0.078,
+    "per": 21.1,
+    "gross_profit": 101703000000,
+    "operating_income": 43925000000,
+    "income_tax_expense": 13901000000,
+    "interest_bearing_debt_current": 5529000000,
+    "interest_bearing_debt_noncurrent": 285000000,
+    "bonds_payable": 35000000000,
+    "current_portion_lt_loans": 10075000000,
+    "depreciation": 14256000000,
+    "current_assets": 269806000000,
+    "current_liabilities": 84091000000,
+    "noncurrent_assets": 110599000000,
+    "noncurrent_liabilities": 49262000000,
+    "trade_payables": 26601000000,
+    "ppe": 96953000000,
+    "intangible_assets": 1407000000,
+    "investment_securities": 4764000000,
+    "treasury_stock": -3608000000,
+    "noncontrolling_interests": 3356000000
+  },
+  "segments": [
+    {
+      "key": "BeddingAndFurniture",
+      "label": null,
+      "external_revenue": 36910000000,
+      "intersegment_revenue": 0,
+      "operating_income": 6544000000
+    },
+    {
+      "key": "IndustrialPlasticPartsAndComponents",
+      "label": null,
+      "external_revenue": 334729000000,
+      "operating_income": 42840000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02386-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

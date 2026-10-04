@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04102",
+    "sec_code": "9041",
+    "company_name": "近鉄グループホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R63S"
+  },
+  "financials": {
+    "ordinary_income": 47224000000,
+    "net_income": 20561000000,
+    "comprehensive_income": 2816000000,
+    "eps": 108.16,
+    "dps": 50,
+    "operating_cf": 58266000000,
+    "investing_cf": -57440000000,
+    "financing_cf": -12952000000,
+    "net_assets": 405295000000,
+    "total_assets": 1891300000000,
+    "bps": 1983.12,
+    "cash_end": 39787000000,
+    "equity_ratio": 0.199,
+    "roe": 0.054,
+    "per": 46.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04102-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

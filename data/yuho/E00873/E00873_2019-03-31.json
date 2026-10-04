@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00873",
+    "sec_code": "3402",
+    "company_name": "東レ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R32F"
+  },
+  "financials": {
+    "net_sales": 2388848000000,
+    "ordinary_income": 134518000000,
+    "net_income": 79373000000,
+    "comprehensive_income": 72576000000,
+    "eps": 49.61,
+    "eps_diluted": 49.56,
+    "dps": 16,
+    "operating_cf": 176239000000,
+    "investing_cf": -260247000000,
+    "financing_cf": 118891000000,
+    "net_assets": 1213944000000,
+    "total_assets": 2788351000000,
+    "bps": 706.95,
+    "cash_end": 173078000000,
+    "equity_ratio": 0.406,
+    "roe": 0.071,
+    "per": 14.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00873-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

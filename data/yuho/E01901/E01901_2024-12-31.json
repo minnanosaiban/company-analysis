@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E01901",
+    "sec_code": "6856",
+    "company_name": "株式会社堀場製作所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-31",
+    "doc_id": "S100VIZI"
+  },
+  "financials": {
+    "net_sales": 317369000000,
+    "ordinary_income": 50170000000,
+    "net_income": 33591000000,
+    "comprehensive_income": 48035000000,
+    "eps": 799.44,
+    "eps_diluted": 795.34,
+    "dps": 270,
+    "operating_cf": 40335000000,
+    "investing_cf": -17562000000,
+    "financing_cf": -15933000000,
+    "net_assets": 314704000000,
+    "total_assets": 481616000000,
+    "bps": 7485.06,
+    "cash_end": 143963000000,
+    "equity_ratio": 0.652,
+    "roe": 0.1125,
+    "per": 11.45,
+    "gross_profit": 136854000000,
+    "operating_income": 48340000000,
+    "income_tax_expense": 15759000000,
+    "interest_bearing_debt_current": 9013000000,
+    "interest_bearing_debt_noncurrent": 25391000000,
+    "bonds_payable": 30000000000,
+    "depreciation": 12653000000,
+    "capex_ppe": -18152000000,
+    "capex_intangible": -1295000000,
+    "current_assets": 336801000000,
+    "current_liabilities": 100283000000,
+    "noncurrent_assets": 144814000000,
+    "noncurrent_liabilities": 66627000000,
+    "trade_payables": 20321000000,
+    "ppe": 112972000000,
+    "goodwill": 1061000000,
+    "intangible_assets": 5483000000,
+    "investment_securities": 16014000000,
+    "treasury_stock": -2841000000,
+    "noncontrolling_interests": 14000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveTestSystems",
+      "label": null,
+      "external_revenue": 93498000000,
+      "operating_income": 1493000000
+    },
+    {
+      "key": "MedicalDiagnosticInstrumentsAndSystems",
+      "label": null,
+      "external_revenue": 33706000000,
+      "operating_income": -150000000
+    },
+    {
+      "key": "ProcessAndEnvironmentalInstrumentsAndSystems",
+      "label": null,
+      "external_revenue": 28194000000,
+      "operating_income": 1835000000
+    },
+    {
+      "key": "ScientificInstrumentsAndSystems",
+      "label": null,
+      "external_revenue": 41503000000,
+      "operating_income": 982000000
+    },
+    {
+      "key": "SemiconductorInstrumentsAndSystems",
+      "label": null,
+      "external_revenue": 120466000000,
+      "operating_income": 44178000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01901-000_2024-12-31_01_2025-03-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

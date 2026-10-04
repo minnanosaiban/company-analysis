@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04505",
+    "sec_code": "9507",
+    "company_name": "四国電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7M9"
+  },
+  "financials": {
+    "ordinary_income": 27952000000,
+    "net_income": 18092000000,
+    "comprehensive_income": 11868000000,
+    "eps": 87.92,
+    "dps": 30,
+    "operating_cf": 107313000000,
+    "investing_cf": -99946000000,
+    "financing_cf": 6318000000,
+    "net_assets": 326648000000,
+    "total_assets": 1373640000000,
+    "bps": 1577.57,
+    "cash_end": 54289000000,
+    "equity_ratio": 0.236,
+    "roe": 0.056,
+    "per": 9.71
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04505-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

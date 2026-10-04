@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E01650",
+    "sec_code": "6457",
+    "company_name": "グローリー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2T1"
+  },
+  "financials": {
+    "net_sales": 255857000000,
+    "ordinary_income": -2720000000,
+    "net_income": -9538000000,
+    "comprehensive_income": 3362000000,
+    "eps": -167.02,
+    "dps": 68,
+    "operating_cf": -16486000000,
+    "investing_cf": -9364000000,
+    "financing_cf": 8526000000,
+    "net_assets": 195984000000,
+    "total_assets": 381273000000,
+    "bps": 3474.76,
+    "cash_end": 36693000000,
+    "equity_ratio": 0.507,
+    "roe": -0.048,
+    "gross_profit": 91226000000,
+    "operating_income": 522000000,
+    "income_tax_expense": 4621000000,
+    "interest_bearing_debt_current": 45623000000,
+    "interest_bearing_debt_noncurrent": 12055000000,
+    "bonds_payable": 10000000000,
+    "current_portion_of_bonds": 10000000000,
+    "current_portion_lt_loans": 1481000000,
+    "lease_liabilities_noncurrent": 5412000000,
+    "depreciation": 11762000000,
+    "capex_ppe": -5015000000,
+    "capex_intangible": -1918000000,
+    "current_assets": 203477000000,
+    "current_liabilities": 139501000000,
+    "noncurrent_assets": 177795000000,
+    "noncurrent_liabilities": 45787000000,
+    "trade_payables": 18197000000,
+    "ppe": 42517000000,
+    "goodwill": 55528000000,
+    "intangible_assets": 91725000000,
+    "investment_securities": 14553000000,
+    "treasury_stock": -8161000000,
+    "noncontrolling_interests": 2818000000
+  },
+  "segments": [
+    {
+      "key": "AmusementMarket",
+      "label": null,
+      "external_revenue": 15139000000,
+      "operating_income": 1624000000
+    },
+    {
+      "key": "FinancialMarket",
+      "label": null,
+      "external_revenue": 36248000000,
+      "operating_income": 152000000
+    },
+    {
+      "key": "OverseasMarket",
+      "label": null,
+      "external_revenue": 155902000000,
+      "operating_income": 436000000
+    },
+    {
+      "key": "RetailAndTransportationMarket",
+      "label": null,
+      "external_revenue": 45595000000,
+      "operating_income": -571000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01650-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

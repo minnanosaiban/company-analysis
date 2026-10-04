@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E01514",
+    "sec_code": "6201",
+    "company_name": "株式会社豊田自動織機",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-09",
+    "doc_id": "S100VWD2"
+  },
+  "financials": {
+    "dps": 280,
+    "net_sales": 4084984000000,
+    "net_income": 262312000000,
+    "comprehensive_income": -938140000000,
+    "net_assets": 4904686000000,
+    "total_assets": 9403481000000,
+    "equity_ratio": 0.5216,
+    "bps": 16273,
+    "eps": 856.96,
+    "eps_diluted": 856.96,
+    "roe": 0.0479,
+    "per": 14.83,
+    "operating_cf": 171578000000,
+    "investing_cf": -43403000000,
+    "financing_cf": -198654000000,
+    "cash_end": 378455000000,
+    "operating_income": 221695000000,
+    "gross_profit": 951573000000,
+    "income_tax_expense": 80215000000,
+    "interest_bearing_debt_current": 497293000000,
+    "interest_bearing_debt_noncurrent": 1232789000000,
+    "sga_expense": 723853000000,
+    "profit_before_tax": 351463000000,
+    "depreciation": 324055000000,
+    "capex_ppe": -211032000000,
+    "current_assets": 3109426000000,
+    "current_liabilities": 1622284000000,
+    "noncurrent_assets": 6294055000000,
+    "trade_receivables": 1720610000000,
+    "inventories": 619804000000,
+    "trade_payables": 878848000000,
+    "ppe": 1537333000000,
+    "goodwill": 273099000000,
+    "equity_method_investments": 23797000000,
+    "treasury_stock": -168444000000,
+    "noncontrolling_interests": 110560000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "external_revenue": 1160238000000,
+      "intersegment_revenue": 19562000000,
+      "operating_income": 45057000000,
+      "assets": 941687000000
+    },
+    {
+      "key": "IndustrialVehicle",
+      "label": "産業車両",
+      "external_revenue": 2786321000000,
+      "intersegment_revenue": 3162000000,
+      "operating_income": 166729000000,
+      "assets": 3752654000000
+    },
+    {
+      "key": "TextileMachinery",
+      "label": "繊維機械",
+      "external_revenue": 79994000000,
+      "intersegment_revenue": 161000000,
+      "operating_income": 2513000000,
+      "assets": 112748000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01514-000_2025-03-31_01_2025-06-09.csv",
+    "parser_version": "0.1.3"
+  }
+}

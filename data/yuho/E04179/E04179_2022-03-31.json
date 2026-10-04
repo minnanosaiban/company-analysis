@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E04179",
+    "sec_code": "9069",
+    "company_name": "センコーグループホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R7I1"
+  },
+  "financials": {
+    "ordinary_income": 26103000000,
+    "net_income": 15233000000,
+    "comprehensive_income": 17596000000,
+    "eps": 104.09,
+    "eps_diluted": 91.99,
+    "dps": 34,
+    "operating_cf": 31885000000,
+    "investing_cf": -46141000000,
+    "financing_cf": 5773000000,
+    "net_assets": 160854000000,
+    "total_assets": 480818000000,
+    "bps": 985.67,
+    "cash_end": 42193000000,
+    "equity_ratio": 0.305,
+    "roe": 0.108,
+    "per": 8.63,
+    "operating_income": 24771000000,
+    "income_tax_expense": 8831000000,
+    "interest_bearing_debt_current": 36335000000,
+    "interest_bearing_debt_noncurrent": 86746000000,
+    "bonds_payable": 40000000000,
+    "current_portion_of_bonds": 24000000,
+    "lease_liabilities_current": 4632000000,
+    "lease_liabilities_noncurrent": 15970000000,
+    "depreciation": 19817000000,
+    "capex_ppe": -30311000000,
+    "capex_intangible": -730000000,
+    "current_assets": 171033000000,
+    "current_liabilities": 137646000000,
+    "noncurrent_assets": 309784000000,
+    "noncurrent_liabilities": 182317000000,
+    "ppe": 231639000000,
+    "goodwill": 12104000000,
+    "intangible_assets": 24054000000,
+    "investment_securities": 17957000000,
+    "treasury_stock": -8159000000,
+    "noncontrolling_interests": 13648000000
+  },
+  "segments": [
+    {
+      "key": "BusinessSupport",
+      "label": null,
+      "external_revenue": 7626000000,
+      "intersegment_revenue": 4765000000,
+      "operating_income": 1099000000
+    },
+    {
+      "key": "Distribution",
+      "label": null,
+      "external_revenue": 440565000000,
+      "intersegment_revenue": 4031000000,
+      "operating_income": 23275000000
+    },
+    {
+      "key": "LifeSupport",
+      "label": null,
+      "external_revenue": 28812000000,
+      "intersegment_revenue": 119000000,
+      "operating_income": -708000000
+    },
+    {
+      "key": "TradingAndCommerce",
+      "label": null,
+      "external_revenue": 146123000000,
+      "intersegment_revenue": 11345000000,
+      "operating_income": 2447000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04179-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

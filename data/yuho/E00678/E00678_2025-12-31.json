@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E00678",
+    "sec_code": "8113",
+    "company_name": "ユニ・チャーム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XSEU"
+  },
+  "financials": {
+    "dps": 18,
+    "net_sales": 945268000000,
+    "net_income": 65212000000,
+    "comprehensive_income": 72582000000,
+    "net_assets": 794705000000,
+    "total_assets": 1223176000000,
+    "equity_ratio": 0.65,
+    "bps": 456.75,
+    "eps": 37.3,
+    "roe": 0.083,
+    "per": 24,
+    "operating_cf": 131470000000,
+    "investing_cf": -58712000000,
+    "financing_cf": -83865000000,
+    "cash_end": 253092000000,
+    "gross_profit": 369558000000,
+    "income_tax_expense": 34529000000,
+    "sga_expense": 260674000000,
+    "profit_before_tax": 105386000000,
+    "depreciation": 47808000000,
+    "current_assets": 641644000000,
+    "current_liabilities": 263933000000,
+    "noncurrent_assets": 581532000000,
+    "inventories": 123344000000,
+    "ppe": 275748000000,
+    "goodwill": 50499000000,
+    "intangible_assets": 97059000000,
+    "equity_method_investments": 19584000000,
+    "treasury_stock": -140428000000,
+    "noncontrolling_interests": 96554000000
+  },
+  "segments": [
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 14755000000,
+      "intersegment_revenue": 118000000,
+      "operating_income": 1620000000
+    },
+    {
+      "key": "PersonalCare",
+      "label": "パーソナルケア",
+      "external_revenue": 774428000000,
+      "operating_income": 83197000000
+    },
+    {
+      "key": "PetCare",
+      "label": "ペットケア",
+      "external_revenue": 156084000000,
+      "operating_income": 24067000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00678-000_2025-12-31_01_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

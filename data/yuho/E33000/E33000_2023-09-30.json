@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E33000",
+    "sec_code": "3563",
+    "company_name": "株式会社FOOD &amp; LIFE COMPANIES",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-09-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-12-22",
+    "doc_id": "S100SIR5"
+  },
+  "financials": {
+    "dps": 22.5,
+    "net_sales": 301747000000,
+    "net_income": 7899000000,
+    "comprehensive_income": 8337000000,
+    "net_assets": 71356000000,
+    "total_assets": 350682000000,
+    "equity_ratio": 0.199,
+    "bps": 604.36,
+    "eps": 68.28,
+    "eps_diluted": 67.76,
+    "roe": 0.118,
+    "per": 36.82,
+    "operating_cf": 42360000000,
+    "investing_cf": -17888000000,
+    "financing_cf": -23876000000,
+    "cash_end": 51228000000,
+    "operating_income": 11001000000,
+    "gross_profit": 167518000000,
+    "income_tax_expense": 1605000000,
+    "interest_bearing_debt_current": 24007000000,
+    "interest_bearing_debt_noncurrent": 64952000000,
+    "lease_liabilities_current": 17901000000,
+    "lease_liabilities_noncurrent": 114689000000,
+    "sga_expense": 152437000000,
+    "profit_before_tax": 9864000000,
+    "depreciation": 26586000000,
+    "capex_ppe": -15755000000,
+    "capex_intangible": -957000000,
+    "current_assets": 71401000000,
+    "current_liabilities": 81491000000,
+    "noncurrent_assets": 279280000000,
+    "trade_receivables": 12457000000,
+    "inventories": 3965000000,
+    "trade_payables": 30080000000,
+    "ppe": 176615000000,
+    "goodwill": 30371000000,
+    "intangible_assets": 56332000000,
+    "equity_method_investments": 52000000,
+    "treasury_stock": -1840000000,
+    "noncontrolling_interests": 388000000
+  },
+  "segments": [
+    {
+      "key": "JapanSushiroBusiness",
+      "label": null,
+      "external_revenue": 205906000000,
+      "revenue": 205906000000,
+      "operating_income": 4881000000
+    },
+    {
+      "key": "KyotaruBusiness",
+      "label": null,
+      "external_revenue": 24329000000,
+      "intersegment_revenue": 117000000,
+      "revenue": 24446000000,
+      "operating_income": -653000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 5380000000,
+      "intersegment_revenue": 44000000,
+      "revenue": 5423000000,
+      "operating_income": -380000000
+    },
+    {
+      "key": "OverseasSushiroBusiness",
+      "label": null,
+      "external_revenue": 66132000000,
+      "revenue": 66132000000,
+      "operating_income": 5293000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E33000-000_2023-09-30_01_2023-12-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

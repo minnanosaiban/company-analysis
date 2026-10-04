@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01953",
+    "sec_code": "6963",
+    "company_name": "ローム株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R56A"
+  },
+  "financials": {
+    "net_sales": 362885000000,
+    "ordinary_income": 35774000000,
+    "net_income": 25632000000,
+    "comprehensive_income": 5725000000,
+    "eps": 247.65,
+    "eps_diluted": 244.89,
+    "dps": 150,
+    "operating_cf": 79130000000,
+    "investing_cf": -8676000000,
+    "financing_cf": -17075000000,
+    "net_assets": 715479000000,
+    "total_assets": 848873000000,
+    "bps": 7185.83,
+    "cash_end": 275539000000,
+    "equity_ratio": 0.842,
+    "roe": 0.035,
+    "per": 23.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01953-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

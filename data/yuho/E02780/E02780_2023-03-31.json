@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E02780",
+    "sec_code": "9987",
+    "company_name": "株式会社スズケン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3L5"
+  },
+  "financials": {
+    "net_sales": 2314828000000,
+    "ordinary_income": 36376000000,
+    "net_income": 20345000000,
+    "comprehensive_income": 19170000000,
+    "eps": 236.47,
+    "dps": 72,
+    "operating_cf": 37270000000,
+    "investing_cf": -46361000000,
+    "financing_cf": -26219000000,
+    "net_assets": 411525000000,
+    "total_assets": 1146097000000,
+    "bps": 4970.38,
+    "cash_end": 132872000000,
+    "equity_ratio": 0.359,
+    "roe": 0.049,
+    "per": 14.1,
+    "gross_profit": 179694000000,
+    "operating_income": 32605000000,
+    "income_tax_expense": 10776000000,
+    "depreciation": 8639000000,
+    "capex_ppe": -15058000000,
+    "capex_intangible": -2684000000,
+    "current_assets": 878169000000,
+    "current_liabilities": 711274000000,
+    "noncurrent_assets": 267927000000,
+    "noncurrent_liabilities": 23297000000,
+    "trade_receivables": 521028000000,
+    "trade_payables": 666515000000,
+    "ppe": 124827000000,
+    "goodwill": 965000000,
+    "intangible_assets": 10965000000,
+    "investment_securities": 93602000000,
+    "treasury_stock": -371000000,
+    "noncontrolling_interests": 316000000
+  },
+  "segments": [
+    {
+      "key": "TheHealthcareRelatedServicesBusiness",
+      "label": null,
+      "external_revenue": 39431000000,
+      "intersegment_revenue": 189260000000,
+      "operating_income": 2018000000
+    },
+    {
+      "key": "TheInsurancePharmacyBusiness",
+      "label": null,
+      "external_revenue": 87718000000,
+      "intersegment_revenue": 23000000,
+      "operating_income": 2034000000
+    },
+    {
+      "key": "ThePharmaceuticalDistributionBusiness",
+      "label": null,
+      "external_revenue": 2177030000000,
+      "intersegment_revenue": 49888000000,
+      "operating_income": 27050000000
+    },
+    {
+      "key": "ThePharmaceuticalManufacturingBusiness",
+      "label": null,
+      "external_revenue": 10648000000,
+      "intersegment_revenue": 33734000000,
+      "operating_income": 1221000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02780-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

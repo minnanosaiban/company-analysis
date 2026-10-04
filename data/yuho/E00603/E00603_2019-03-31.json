@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00603",
+    "sec_code": "8111",
+    "company_name": "株式会社ゴールドウイン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R5P4"
+  },
+  "financials": {
+    "net_sales": 84934000000,
+    "ordinary_income": 12982000000,
+    "net_income": 9243000000,
+    "comprehensive_income": 8425000000,
+    "eps": 203.11,
+    "dps": 85,
+    "operating_cf": 13163000000,
+    "investing_cf": -2084000000,
+    "financing_cf": -7933000000,
+    "net_assets": 39609000000,
+    "total_assets": 77544000000,
+    "bps": 873.91,
+    "cash_end": 12356000000,
+    "equity_ratio": 0.51,
+    "roe": 0.247,
+    "per": 39.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00603-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

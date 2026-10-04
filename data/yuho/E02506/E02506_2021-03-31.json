@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02506",
+    "sec_code": "8020",
+    "company_name": "兼松株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W7BP"
+  },
+  "financials": {
+    "dps": 60,
+    "net_sales": 649142000000,
+    "net_income": 13315000000,
+    "comprehensive_income": 18031000000,
+    "net_assets": 143926000000,
+    "total_assets": 557495000000,
+    "equity_ratio": 0.258,
+    "bps": 1723.42,
+    "eps": 159.44,
+    "eps_diluted": 159.34,
+    "roe": 0.097,
+    "per": 9.32,
+    "operating_cf": 36984000000,
+    "investing_cf": -9927000000,
+    "financing_cf": -37497000000,
+    "cash_end": 81045000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02506-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

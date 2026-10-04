@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "edinet_code": "E02497",
+    "sec_code": "8001",
+    "company_name": "伊藤忠商事株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VYN4"
+  },
+  "financials": {
+    "dps": 140,
+    "net_sales": 13945633000000,
+    "net_income": 800519000000,
+    "comprehensive_income": 876260000000,
+    "net_assets": 4823259000000,
+    "total_assets": 13115400000000,
+    "equity_ratio": 0.3678,
+    "bps": 3314.35,
+    "eps": 546.1,
+    "eps_diluted": 546.1,
+    "roe": 0.1774,
+    "per": 7.88,
+    "operating_cf": 938058000000,
+    "investing_cf": -453806000000,
+    "financing_cf": -500081000000,
+    "cash_end": 606002000000
+  },
+  "segments": [
+    {
+      "key": "EnergyAndChemicals",
+      "label": "エネルギー・化学品",
+      "external_revenue": 3388985000000,
+      "intersegment_revenue": 41818000000,
+      "gross_profit": 315356000000,
+      "equity_method_income": 8621000000,
+      "profit_attributable_to_owners": 115792000000,
+      "assets": 1552638000000
+    },
+    {
+      "key": "Food",
+      "label": "食料",
+      "external_revenue": 4626264000000,
+      "intersegment_revenue": 14404000000,
+      "gross_profit": 330913000000,
+      "equity_method_income": 4431000000,
+      "profit_attributable_to_owners": 20191000000,
+      "assets": 2146794000000
+    },
+    {
+      "key": "GeneralProductsAndRealty",
+      "label": "住生活",
+      "external_revenue": 1263457000000,
+      "intersegment_revenue": 21944000000,
+      "gross_profit": 225024000000,
+      "equity_method_income": 38486000000,
+      "profit_attributable_to_owners": 95067000000,
+      "assets": 1223292000000
+    },
+    {
+      "key": "ICTAndFinancialBusiness",
+      "label": "情報・金融",
+      "external_revenue": 875134000000,
+      "intersegment_revenue": 14153000000,
+      "gross_profit": 286125000000,
+      "equity_method_income": 40480000000,
+      "profit_attributable_to_owners": 64551000000,
+      "assets": 1308118000000
+    },
+    {
+      "key": "Machinery",
+      "label": "機械",
+      "external_revenue": 1393501000000,
+      "intersegment_revenue": 124000000,
+      "gross_profit": 234822000000,
+      "equity_method_income": 44749000000,
+      "profit_attributable_to_owners": 107371000000,
+      "assets": 1664644000000
+    },
+    {
+      "key": "MetalsAndMinerals",
+      "label": "金属",
+      "external_revenue": 1268056000000,
+      "gross_profit": 222009000000,
+      "equity_method_income": 61955000000,
+      "profit_attributable_to_owners": 247361000000,
+      "assets": 1274803000000
+    },
+    {
+      "key": "Textile",
+      "label": "繊維",
+      "external_revenue": 530138000000,
+      "intersegment_revenue": 4446000000,
+      "gross_profit": 116523000000,
+      "equity_method_income": 5362000000,
+      "profit_attributable_to_owners": 25477000000,
+      "assets": 457659000000
+    },
+    {
+      "key": "The8th",
+      "label": "第８",
+      "external_revenue": 467105000000,
+      "intersegment_revenue": 4051000000,
+      "gross_profit": 383845000000,
+      "equity_method_income": 327000000,
+      "profit_attributable_to_owners": 16594000000,
+      "assets": 1906655000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02497-000_2025-03-31_01_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

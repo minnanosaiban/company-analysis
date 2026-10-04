@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03521",
+    "sec_code": "3099",
+    "company_name": "株式会社三越伊勢丹ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZ74"
+  },
+  "financials": {
+    "net_sales": 1196803000000,
+    "ordinary_income": 31995000000,
+    "net_income": 13480000000,
+    "comprehensive_income": 2520000000,
+    "eps": 34.58,
+    "eps_diluted": 34.41,
+    "dps": 12,
+    "operating_cf": 28286000000,
+    "investing_cf": -22450000000,
+    "financing_cf": -9063000000,
+    "net_assets": 585715000000,
+    "total_assets": 1247427000000,
+    "bps": 1475.74,
+    "cash_end": 50147000000,
+    "equity_ratio": 0.461,
+    "roe": 0.023,
+    "per": 32.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03521-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

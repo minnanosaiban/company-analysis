@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01130",
+    "sec_code": "5233",
+    "company_name": "太平洋セメント株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R6EO"
+  },
+  "financials": {
+    "net_sales": 916071000000,
+    "ordinary_income": 64306000000,
+    "net_income": 43452000000,
+    "comprehensive_income": 35026000000,
+    "eps": 351.72,
+    "dps": 80,
+    "operating_cf": 97283000000,
+    "investing_cf": -58025000000,
+    "financing_cf": -33753000000,
+    "net_assets": 450645000000,
+    "total_assets": 1034428000000,
+    "bps": 3388.41,
+    "cash_end": 50084000000,
+    "equity_ratio": 0.4009,
+    "roe": 0.1073,
+    "per": 10.49
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01130-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

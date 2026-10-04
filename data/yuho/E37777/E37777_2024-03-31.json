@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "edinet_code": "E37777",
+    "sec_code": "5831",
+    "company_name": "株式会社しずおかフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-17",
+    "doc_id": "S100TLFZ"
+  },
+  "financials": {
+    "ordinary_income": 102224000000,
+    "net_income": 57760000000,
+    "comprehensive_income": 85251000000,
+    "eps": 104.17,
+    "eps_diluted": 104.15,
+    "dps": 39,
+    "operating_cf": 170053000000,
+    "investing_cf": -293497000000,
+    "financing_cf": -24778000000,
+    "net_assets": 1203387000000,
+    "total_assets": 16141589000000,
+    "bps": 2188.01,
+    "cash_end": 1420470000000,
+    "equity_ratio": 0.0745,
+    "roe": 0.0491,
+    "per": 13.88,
+    "income_tax_expense": 27019000000,
+    "bonds_payable": 4000000000,
+    "depreciation": 15229000000,
+    "capex_ppe": -4941000000,
+    "capex_intangible": -7136000000,
+    "ppe": 50262000000,
+    "intangible_assets": 22344000000,
+    "treasury_stock": -36042000000,
+    "noncontrolling_interests": 16000000,
+    "ordinary_revenue": 346526000000
+  },
+  "segments": [
+    {
+      "key": "Banking",
+      "label": null,
+      "external_revenue": 295180000000,
+      "intersegment_revenue": 2352000000,
+      "ordinary_income": 89605000000,
+      "equity_method_income": 50000000
+    },
+    {
+      "key": "Leasing",
+      "label": null,
+      "external_revenue": 32370000000,
+      "intersegment_revenue": 1025000000,
+      "ordinary_income": 1711000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E37777-000_2024-03-31_01_2024-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "edinet_code": "E03321",
+    "sec_code": "7616",
+    "company_name": "株式会社コロワイド",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R6YN"
+  },
+  "financials": {
+    "dps": 5,
+    "net_sales": 175627000000,
+    "net_income": 1437000000,
+    "comprehensive_income": 1610000000,
+    "net_assets": 50300000000,
+    "total_assets": 267698000000,
+    "equity_ratio": 0.188,
+    "bps": 401.4,
+    "eps": 11.31,
+    "eps_diluted": 11.31,
+    "roe": 0.023,
+    "per": 157,
+    "operating_cf": 23830000000,
+    "investing_cf": -3522000000,
+    "financing_cf": -9511000000,
+    "cash_end": 48534000000,
+    "operating_income": 5055000000,
+    "gross_profit": 96688000000,
+    "income_tax_expense": -1017000000,
+    "interest_bearing_debt_current": 30872000000,
+    "interest_bearing_debt_noncurrent": 93463000000,
+    "lease_liabilities_current": 15779000000,
+    "lease_liabilities_noncurrent": 20348000000,
+    "sga_expense": 90555000000,
+    "profit_before_tax": 2051000000,
+    "depreciation": 21765000000,
+    "capex_ppe": -5741000000,
+    "current_assets": 70936000000,
+    "current_liabilities": 78709000000,
+    "noncurrent_assets": 196762000000,
+    "trade_receivables": 14167000000,
+    "inventories": 2804000000,
+    "trade_payables": 17533000000,
+    "ppe": 41501000000,
+    "goodwill": 80218000000,
+    "intangible_assets": 12588000000,
+    "treasury_stock": -159000000,
+    "noncontrolling_interests": 9730000000
+  },
+  "segments": [
+    {
+      "key": "ATOM",
+      "label": "㈱アトム",
+      "external_revenue": 30914000000,
+      "intersegment_revenue": 211000000,
+      "revenue": 31125000000,
+      "operating_income": 757000000,
+      "assets": 35309000000
+    },
+    {
+      "key": "COLOWIDEMD",
+      "label": "㈱コロワイドＭＤ",
+      "external_revenue": 936000000,
+      "intersegment_revenue": 63399000000,
+      "revenue": 64335000000,
+      "operating_income": 1406000000,
+      "assets": 12508000000
+    },
+    {
+      "key": "KAPPACRIATE",
+      "label": "カッパ・クリエイト㈱",
+      "external_revenue": 66613000000,
+      "intersegment_revenue": 594000000,
+      "revenue": 67207000000,
+      "operating_income": 1304000000,
+      "assets": 62847000000
+    },
+    {
+      "key": "OOTOYAHoldingsCoLtd",
+      "label": "㈱大戸屋ホールディングス",
+      "external_revenue": 18749000000,
+      "intersegment_revenue": 85000000,
+      "revenue": 18834000000,
+      "operating_income": 1195000000,
+      "assets": 23256000000
+    },
+    {
+      "key": "REINS",
+      "label": "㈱レインズインターナショナル",
+      "external_revenue": 54731000000,
+      "intersegment_revenue": 1899000000,
+      "revenue": 56630000000,
+      "operating_income": 3545000000,
+      "assets": 112063000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03321-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

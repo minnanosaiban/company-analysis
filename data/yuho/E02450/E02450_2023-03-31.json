@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E02450",
+    "sec_code": "7867",
+    "company_name": "株式会社タカラトミー",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R25K"
+  },
+  "financials": {
+    "net_sales": 187297000000,
+    "ordinary_income": 12043000000,
+    "net_income": 8314000000,
+    "comprehensive_income": 11923000000,
+    "eps": 90.66,
+    "eps_diluted": 90.59,
+    "dps": 32.5,
+    "operating_cf": 16223000000,
+    "investing_cf": -2134000000,
+    "financing_cf": -13689000000,
+    "net_assets": 87167000000,
+    "total_assets": 159519000000,
+    "bps": 950.39,
+    "cash_end": 66360000000,
+    "equity_ratio": 0.545,
+    "roe": 0.1,
+    "per": 16.3,
+    "gross_profit": 72348000000,
+    "operating_income": 13119000000,
+    "income_tax_expense": 3839000000,
+    "interest_bearing_debt_current": 10043000000,
+    "interest_bearing_debt_noncurrent": 10177000000,
+    "current_portion_lt_loans": 8901000000,
+    "lease_liabilities_current": 3198000000,
+    "lease_liabilities_noncurrent": 3669000000,
+    "depreciation": 6216000000,
+    "capex_ppe": -1526000000,
+    "capex_intangible": -1083000000,
+    "current_assets": 111664000000,
+    "current_liabilities": 53056000000,
+    "noncurrent_assets": 47854000000,
+    "noncurrent_liabilities": 19295000000,
+    "trade_payables": 9213000000,
+    "ppe": 15638000000,
+    "goodwill": 15616000000,
+    "intangible_assets": 25731000000,
+    "investment_securities": 2979000000,
+    "treasury_stock": -3587000000
+  },
+  "segments": [
+    {
+      "key": "AmericaS",
+      "label": null,
+      "external_revenue": 29357000000,
+      "intersegment_revenue": 175000000,
+      "operating_income": -725000000
+    },
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 12550000000,
+      "intersegment_revenue": 42914000000,
+      "operating_income": 1895000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 6683000000,
+      "operating_income": -797000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 135965000000,
+      "intersegment_revenue": 12249000000,
+      "operating_income": 16484000000
+    },
+    {
+      "key": "Oceania",
+      "label": null,
+      "external_revenue": 2741000000,
+      "operating_income": 81000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02450-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

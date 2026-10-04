@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E04153",
+    "sec_code": "9023",
+    "company_name": "東京地下鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W3LV"
+  },
+  "financials": {
+    "ordinary_income": 19694000000,
+    "net_income": 27771000000,
+    "comprehensive_income": 24279000000,
+    "eps": 47.8,
+    "dps": 20,
+    "operating_cf": 88177000000,
+    "investing_cf": -269674000000,
+    "financing_cf": 158814000000,
+    "net_assets": 633344000000,
+    "total_assets": 2002821000000,
+    "bps": 1090.09,
+    "cash_end": 88982000000,
+    "equity_ratio": 0.316,
+    "roe": 0.044
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04153-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

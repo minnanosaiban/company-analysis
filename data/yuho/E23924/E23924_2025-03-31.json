@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E23924",
+    "sec_code": "8630",
+    "company_name": "ＳＯＭＰＯホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-30",
+    "doc_id": "S100W7EG"
+  },
+  "financials": {
+    "ordinary_income": 552924000000,
+    "net_income": 422927000000,
+    "comprehensive_income": 281096000000,
+    "eps": 436.45,
+    "eps_diluted": 436.45,
+    "dps": 132,
+    "operating_cf": 430676000000,
+    "investing_cf": -53251000000,
+    "financing_cf": -457402000000,
+    "net_assets": 2865132000000,
+    "total_assets": 15030015000000,
+    "bps": 3029.56,
+    "cash_end": 1149338000000,
+    "equity_ratio": 0.1894,
+    "roe": 0.1484,
+    "per": 10.36,
+    "income_tax_expense": 85068000000,
+    "profit_before_tax": 330279000000,
+    "depreciation": 103363000000,
+    "capex_ppe": -25357000000,
+    "capex_intangible": -32425000000,
+    "ppe": 619769000000,
+    "goodwill": 189925000000,
+    "equity_method_investments": 42175000000,
+    "treasury_stock": -188418000000,
+    "noncontrolling_interests": 20961000000,
+    "ordinary_revenue": 5453769000000
+  },
+  "segments": [
+    {
+      "key": "DomesticLifeInsuranceBusiness",
+      "label": null,
+      "external_revenue": 254716000000,
+      "operating_income": 29876000000,
+      "assets": 3392431000000
+    },
+    {
+      "key": "DomesticPAndCInsuranceBusiness",
+      "label": null,
+      "external_revenue": 2590896000000,
+      "intersegment_revenue": 43581000000,
+      "operating_income": 58338000000,
+      "equity_method_income": 147000000,
+      "assets": 6311943000000
+    },
+    {
+      "key": "NursingCareBusiness",
+      "label": null,
+      "external_revenue": 181364000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 5303000000,
+      "assets": 429136000000
+    },
+    {
+      "key": "OverseasInsuranceBusiness",
+      "label": null,
+      "external_revenue": 2219907000000,
+      "intersegment_revenue": 7796000000,
+      "operating_income": 177771000000,
+      "equity_method_income": -111000000,
+      "assets": 5243189000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E23924-000_2025-03-31_01_2025-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

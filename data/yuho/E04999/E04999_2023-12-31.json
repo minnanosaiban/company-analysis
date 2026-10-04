@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E04999",
+    "sec_code": "4704",
+    "company_name": "トレンドマイクロ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5XZ"
+  },
+  "financials": {
+    "net_sales": 248691000000,
+    "ordinary_income": 36181000000,
+    "net_income": 10731000000,
+    "comprehensive_income": 29157000000,
+    "eps": 78.45,
+    "eps_diluted": 78.38,
+    "dps": 738,
+    "operating_cf": 57227000000,
+    "investing_cf": 31000000000,
+    "financing_cf": -43433000000,
+    "net_assets": 214423000000,
+    "total_assets": 492628000000,
+    "bps": 1562.72,
+    "cash_end": 261265000000,
+    "equity_ratio": 0.43,
+    "roe": 0.049,
+    "per": 96.21,
+    "gross_profit": 185028000000,
+    "operating_income": 32602000000,
+    "income_tax_expense": 19723000000,
+    "depreciation": 26575000000,
+    "capex_ppe": -2178000000,
+    "capex_intangible": -24183000000,
+    "current_assets": 388885000000,
+    "current_liabilities": 265077000000,
+    "noncurrent_assets": 103743000000,
+    "noncurrent_liabilities": 13127000000,
+    "inventories": 6662000000,
+    "trade_payables": 2727000000,
+    "ppe": 6489000000,
+    "goodwill": 3662000000,
+    "intangible_assets": 31883000000,
+    "investment_securities": 16908000000,
+    "treasury_stock": -33836000000,
+    "noncontrolling_interests": 33000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": null,
+      "external_revenue": 57643000000,
+      "intersegment_revenue": 10072000000,
+      "operating_income": 5789000000
+    },
+    {
+      "key": "AsiaPacific",
+      "label": null,
+      "external_revenue": 57401000000,
+      "intersegment_revenue": 58185000000,
+      "operating_income": 9866000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 50643000000,
+      "intersegment_revenue": 5786000000,
+      "operating_income": 6086000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 83002000000,
+      "intersegment_revenue": 86000000,
+      "operating_income": 10763000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04999-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

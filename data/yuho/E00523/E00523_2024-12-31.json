@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E00523",
+    "sec_code": "3003",
+    "company_name": "ヒューリック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-18",
+    "doc_id": "S100VEQB"
+  },
+  "financials": {
+    "ordinary_income": 154329000000,
+    "net_income": 102341000000,
+    "comprehensive_income": 108241000000,
+    "eps": 134.42,
+    "eps_diluted": 134.42,
+    "dps": 54,
+    "operating_cf": 353388000000,
+    "investing_cf": -602020000000,
+    "financing_cf": 300589000000,
+    "net_assets": 856344000000,
+    "total_assets": 3048935000000,
+    "bps": 1093.78,
+    "cash_end": 134326000000,
+    "equity_ratio": 0.273,
+    "roe": 0.128,
+    "per": 10.1,
+    "operating_income": 163360000000,
+    "income_tax_expense": 41423000000,
+    "interest_bearing_debt_current": 166957000000,
+    "interest_bearing_debt_noncurrent": 1037369000000,
+    "bonds_payable": 444000000000,
+    "current_portion_lt_loans": 192762000000,
+    "depreciation": 17881000000,
+    "capex_ppe": -364708000000,
+    "capex_intangible": -10059000000,
+    "current_assets": 583864000000,
+    "current_liabilities": 462754000000,
+    "noncurrent_assets": 2463680000000,
+    "noncurrent_liabilities": 1729837000000,
+    "ppe": 1723825000000,
+    "goodwill": 117160000000,
+    "intangible_assets": 216886000000,
+    "investment_securities": 420487000000,
+    "treasury_stock": -3094000000,
+    "noncontrolling_interests": 23278000000
+  },
+  "segments": [
+    {
+      "key": "HotelRyokanBusiness",
+      "label": "ホテル・旅館事業",
+      "external_revenue": 48770000000,
+      "intersegment_revenue": 322000000,
+      "operating_income": 1675000000
+    },
+    {
+      "key": "InsuranceAgencyBusiness",
+      "label": "保険事業",
+      "external_revenue": 3699000000,
+      "operating_income": 997000000
+    },
+    {
+      "key": "RealEstateBusiness",
+      "label": "不動産事業",
+      "external_revenue": 517262000000,
+      "intersegment_revenue": 9942000000,
+      "operating_income": 170428000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00523-000_2024-12-31_01_2025-03-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

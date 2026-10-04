@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "edinet_code": "E04806",
+    "sec_code": "8595",
+    "company_name": "ジャフコ グループ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VYZC"
+  },
+  "financials": {
+    "net_sales": 29685000000,
+    "ordinary_income": 13205000000,
+    "net_income": 9576000000,
+    "comprehensive_income": 8824000000,
+    "eps": 175.59,
+    "dps": 88,
+    "operating_cf": 10442000000,
+    "investing_cf": 134000000,
+    "financing_cf": -5447000000,
+    "net_assets": 141126000000,
+    "total_assets": 169970000000,
+    "bps": 2586.26,
+    "cash_end": 72486000000,
+    "equity_ratio": 0.83,
+    "roe": 0.069,
+    "per": 11.8,
+    "gross_profit": 17397000000,
+    "operating_income": 12520000000,
+    "income_tax_expense": 3844000000,
+    "interest_bearing_debt_noncurrent": 149000000,
+    "current_portion_lt_loans": 34000000,
+    "depreciation": 148000000,
+    "capex_ppe": -23000000,
+    "current_assets": 165355000000,
+    "current_liabilities": 7520000000,
+    "noncurrent_assets": 4615000000,
+    "noncurrent_liabilities": 21323000000,
+    "ppe": 318000000,
+    "intangible_assets": 16000000,
+    "investment_securities": 3377000000,
+    "treasury_stock": -3664000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04806-000_2025-03-31_01_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

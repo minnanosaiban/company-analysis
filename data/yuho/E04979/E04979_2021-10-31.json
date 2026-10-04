@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E04979",
+    "sec_code": "4666",
+    "company_name": "パーク２４株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-10-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-01-26",
+    "doc_id": "S100SNVV"
+  },
+  "financials": {
+    "net_sales": 251102000000,
+    "ordinary_income": -11619000000,
+    "net_income": -11658000000,
+    "comprehensive_income": -14685000000,
+    "eps": -75.45,
+    "operating_cf": 34818000000,
+    "investing_cf": -12349000000,
+    "financing_cf": 13167000000,
+    "net_assets": 16432000000,
+    "total_assets": 319628000000,
+    "bps": 105.93,
+    "cash_end": 91795000000,
+    "equity_ratio": 0.051,
+    "roe": -0.492
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04979-000_2023-10-31_01_2024-01-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

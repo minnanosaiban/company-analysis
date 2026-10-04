@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01939",
+    "sec_code": "6806",
+    "company_name": "ヒロセ電機株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1BM"
+  },
+  "financials": {
+    "net_sales": 124350000000,
+    "ordinary_income": 25571000000,
+    "net_income": 17860000000,
+    "comprehensive_income": 17127000000,
+    "eps": 488.62,
+    "eps_diluted": 488.6,
+    "dps": 240,
+    "operating_cf": 28254000000,
+    "investing_cf": -31154000000,
+    "financing_cf": -14298000000,
+    "net_assets": 308119000000,
+    "total_assets": 341332000000,
+    "bps": 8450.25,
+    "cash_end": 52322000000,
+    "equity_ratio": 0.903,
+    "roe": 0.058,
+    "per": 23.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01939-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

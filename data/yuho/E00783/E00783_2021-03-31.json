@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "edinet_code": "E00783",
+    "sec_code": "4091",
+    "company_name": "日本酸素ホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QUTB"
+  },
+  "financials": {
+    "dps": 30,
+    "net_sales": 818238000000,
+    "net_income": 55214000000,
+    "comprehensive_income": 116598000000,
+    "net_assets": 513164000000,
+    "total_assets": 1836294000000,
+    "equity_ratio": 0.279,
+    "bps": 1185.82,
+    "eps": 127.59,
+    "roe": 0.12,
+    "per": 16.49,
+    "operating_cf": 149231000000,
+    "investing_cf": -59686000000,
+    "financing_cf": -103159000000,
+    "cash_end": 91058000000,
+    "operating_income": 88846000000,
+    "gross_profit": 317439000000,
+    "income_tax_expense": 20842000000,
+    "interest_bearing_debt_current": 131721000000,
+    "interest_bearing_debt_noncurrent": 780895000000,
+    "sga_expense": 233276000000,
+    "profit_before_tax": 77706000000,
+    "depreciation": 86380000000,
+    "capex_ppe": -60075000000,
+    "current_assets": 368901000000,
+    "current_liabilities": 326019000000,
+    "noncurrent_assets": 1467393000000,
+    "inventories": 69613000000,
+    "ppe": 685733000000,
+    "goodwill": 455036000000,
+    "intangible_assets": 237751000000,
+    "equity_method_investments": 32295000000,
+    "treasury_stock": -273000000,
+    "noncontrolling_interests": 30736000000
+  },
+  "segments": [
+    {
+      "key": "GasBusinessInAsiaAndOceania",
+      "label": null,
+      "external_revenue": 102036000000,
+      "intersegment_revenue": 2179000000,
+      "revenue": 104215000000,
+      "operating_income": 8921000000
+    },
+    {
+      "key": "GasBusinessInEurope",
+      "label": null,
+      "external_revenue": 160035000000,
+      "intersegment_revenue": 42000000,
+      "revenue": 160077000000,
+      "operating_income": 21015000000
+    },
+    {
+      "key": "GasBusinessInJapan",
+      "label": null,
+      "external_revenue": 341990000000,
+      "intersegment_revenue": 13675000000,
+      "revenue": 355665000000,
+      "operating_income": 29889000000
+    },
+    {
+      "key": "GasBusinessInTheUnitedStates",
+      "label": null,
+      "external_revenue": 189994000000,
+      "intersegment_revenue": 18182000000,
+      "revenue": 208177000000,
+      "operating_income": 23129000000
+    },
+    {
+      "key": "ThermosBusiness",
+      "label": null,
+      "external_revenue": 23964000000,
+      "intersegment_revenue": 25000000,
+      "revenue": 23989000000,
+      "operating_income": 5168000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00783-000_2022-03-31_02_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

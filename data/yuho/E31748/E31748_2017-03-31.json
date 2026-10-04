@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E31748",
+    "sec_code": "6178",
+    "company_name": "日本郵政株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-06-08",
+    "doc_id": "S100QWQH"
+  },
+  "financials": {
+    "ordinary_income": 795237000000,
+    "net_income": -28976000000,
+    "comprehensive_income": 8867000000,
+    "eps": -7.04,
+    "dps": 50,
+    "operating_cf": -991123000000,
+    "investing_cf": 6300698000000,
+    "financing_cf": -225199000000,
+    "net_assets": 14954581000000,
+    "total_assets": 293162545000000,
+    "bps": 3268.19,
+    "cash_end": 53225675000000,
+    "equity_ratio": 0.046,
+    "roe": -0.002,
+    "ordinary_revenue": 13326534000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31748-000_2021-03-31_04_2023-06-08.csv",
+    "parser_version": "0.1.3"
+  }
+}

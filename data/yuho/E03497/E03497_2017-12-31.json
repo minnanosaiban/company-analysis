@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03497",
+    "sec_code": "3064",
+    "company_name": "株式会社ＭｏｎｏｔａＲＯ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-02-29",
+    "doc_id": "S100SZCY"
+  },
+  "financials": {
+    "net_sales": 88347000000,
+    "ordinary_income": 11858000000,
+    "net_income": 8464000000,
+    "comprehensive_income": 8414000000,
+    "eps": 17.06,
+    "eps_diluted": 17.04,
+    "dps": 22,
+    "operating_cf": 6097000000,
+    "investing_cf": -3284000000,
+    "financing_cf": -1379000000,
+    "net_assets": 23216000000,
+    "total_assets": 42861000000,
+    "bps": 46.48,
+    "cash_end": 8688000000,
+    "equity_ratio": 0.538,
+    "roe": 0.422,
+    "per": 52.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03497-000_2021-12-31_02_2024-02-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E03693",
+    "sec_code": "8572",
+    "company_name": "アコム株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TO17"
+  },
+  "financials": {
+    "ordinary_income": 86715000000,
+    "net_income": 53091000000,
+    "comprehensive_income": 72242000000,
+    "eps": 33.89,
+    "dps": 12,
+    "operating_cf": -36759000000,
+    "investing_cf": -6178000000,
+    "financing_cf": 57163000000,
+    "net_assets": 674175000000,
+    "total_assets": 1417403000000,
+    "bps": 400.87,
+    "cash_end": 71900000000,
+    "equity_ratio": 0.4431,
+    "roe": 0.0878,
+    "per": 11.89,
+    "operating_income": 86347000000,
+    "income_tax_expense": 18699000000,
+    "interest_bearing_debt_current": 19242000000,
+    "interest_bearing_debt_noncurrent": 325553000000,
+    "bonds_payable": 104086000000,
+    "commercial_papers": 29989000000,
+    "current_portion_of_bonds": 60650000000,
+    "current_portion_lt_loans": 123808000000,
+    "lease_liabilities_current": 350000000,
+    "lease_liabilities_noncurrent": 1070000000,
+    "depreciation": 3462000000,
+    "capex_ppe": -1252000000,
+    "capex_intangible": -3383000000,
+    "current_assets": 1330190000000,
+    "current_liabilities": 275732000000,
+    "noncurrent_assets": 87213000000,
+    "noncurrent_liabilities": 467495000000,
+    "trade_payables": 769000000,
+    "ppe": 8384000000,
+    "goodwill": 215000000,
+    "intangible_assets": 8985000000,
+    "investment_securities": 1414000000,
+    "treasury_stock": 0,
+    "noncontrolling_interests": 46164000000
+  },
+  "segments": [
+    {
+      "key": "GuaranteeBusiness",
+      "label": null,
+      "external_revenue": 70787000000,
+      "operating_income": 22673000000
+    },
+    {
+      "key": "LoanAndCreditCardBusiness",
+      "label": null,
+      "external_revenue": 156029000000,
+      "intersegment_revenue": 7000000,
+      "operating_income": 41771000000
+    },
+    {
+      "key": "LoanServicingBusiness",
+      "label": null,
+      "external_revenue": 5864000000,
+      "operating_income": 1182000000
+    },
+    {
+      "key": "OverseasFinance",
+      "label": null,
+      "external_revenue": 61890000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 22374000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03693-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

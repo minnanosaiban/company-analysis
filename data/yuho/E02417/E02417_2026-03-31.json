@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E02417",
+    "sec_code": "9697",
+    "company_name": "株式会社カプコン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-16",
+    "doc_id": "S100YCGO"
+  },
+  "financials": {
+    "net_sales": 195365000000,
+    "ordinary_income": 74134000000,
+    "net_income": 54587000000,
+    "comprehensive_income": 59032000000,
+    "eps": 130.5,
+    "eps_diluted": 130.47,
+    "dps": 45,
+    "operating_cf": 31380000000,
+    "investing_cf": -55862000000,
+    "financing_cf": -26069000000,
+    "net_assets": 267716000000,
+    "total_assets": 339307000000,
+    "bps": 639.03,
+    "cash_end": 102833000000,
+    "equity_ratio": 0.788,
+    "roe": 0.221,
+    "per": 25.7,
+    "gross_profit": 110217000000,
+    "operating_income": 75295000000,
+    "income_tax_expense": 23149000000,
+    "lease_liabilities_current": 1544000000,
+    "lease_liabilities_noncurrent": 3553000000,
+    "depreciation": 5200000000,
+    "capex_ppe": -13593000000,
+    "capex_intangible": -705000000,
+    "current_assets": 257940000000,
+    "current_liabilities": 56257000000,
+    "noncurrent_assets": 81367000000,
+    "noncurrent_liabilities": 15334000000,
+    "trade_payables": 4082000000,
+    "ppe": 45305000000,
+    "goodwill": 280000000,
+    "intangible_assets": 1600000000,
+    "investment_securities": 15053000000,
+    "treasury_stock": -49893000000,
+    "noncontrolling_interests": 14000000
+  },
+  "segments": [
+    {
+      "key": "AmusementEquipments",
+      "label": null,
+      "external_revenue": 17780000000,
+      "operating_income": 10033000000
+    },
+    {
+      "key": "ArcadeOperations",
+      "label": null,
+      "external_revenue": 25656000000,
+      "operating_income": 3201000000
+    },
+    {
+      "key": "DegitalContents",
+      "label": null,
+      "external_revenue": 144277000000,
+      "operating_income": 70618000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02417-000_2026-03-31_01_2026-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

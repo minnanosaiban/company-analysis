@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "edinet_code": "E01777",
+    "sec_code": "6758",
+    "company_name": "ソニーグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-18",
+    "doc_id": "S100YE2C"
+  },
+  "financials": {
+    "dps": 25,
+    "net_income": -326865000000,
+    "comprehensive_income": 1497997000000,
+    "net_assets": 8119011000000,
+    "total_assets": 15683490000000,
+    "equity_ratio": 0.518,
+    "bps": 1374.32,
+    "eps": -54.7,
+    "eps_diluted": -54.36,
+    "operating_cf": 1945617000000,
+    "investing_cf": -1970542000000,
+    "financing_cf": -842761000000,
+    "cash_end": 2208879000000,
+    "operating_income": 1447507000000,
+    "income_tax_expense": 367108000000,
+    "lease_liabilities_current": 94160000000,
+    "lease_liabilities_noncurrent": 533523000000,
+    "sga_expense": 2298638000000,
+    "profit_before_tax": 1422374000000,
+    "depreciation": 1180655000000,
+    "current_assets": 5949991000000,
+    "current_liabilities": 5032624000000,
+    "noncurrent_assets": 9733499000000,
+    "inventories": 1227351000000,
+    "trade_payables": 2240566000000,
+    "ppe": 1453805000000,
+    "goodwill": 1673906000000,
+    "equity_method_investments": 483709000000,
+    "treasury_stock": -752106000000,
+    "noncontrolling_interests": 394578000000,
+    "current_portion_lt_debt": 166410000000
+  },
+  "segments": [
+    {
+      "key": "EntertainmentTechnologyAndServices",
+      "label": "エンタテインメント・テクノロジー＆サービス",
+      "external_revenue": 2184815000000,
+      "intersegment_revenue": 75717000000,
+      "operating_income": 158584000000,
+      "equity_method_income": 1310000000
+    },
+    {
+      "key": "GameAndNetworkServices",
+      "label": "ゲーム＆ネットワークサービス",
+      "external_revenue": 4570053000000,
+      "intersegment_revenue": 115598000000,
+      "operating_income": 463258000000,
+      "equity_method_income": 871000000
+    },
+    {
+      "key": "ImagingAndSensingSolutions",
+      "label": "イメージング＆センシング・ソリューション",
+      "external_revenue": 2059020000000,
+      "intersegment_revenue": 92513000000,
+      "operating_income": 357318000000,
+      "equity_method_income": -81000000
+    },
+    {
+      "key": "Music",
+      "label": "音楽",
+      "external_revenue": 2090534000000,
+      "intersegment_revenue": 29576000000,
+      "operating_income": 446986000000,
+      "equity_method_income": 12165000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 74564000000,
+      "intersegment_revenue": 14508000000,
+      "operating_income": -74646000000,
+      "equity_method_income": -69583000000
+    },
+    {
+      "key": "Pictures",
+      "label": "映画",
+      "external_revenue": 1486296000000,
+      "intersegment_revenue": 12994000000,
+      "operating_income": 104872000000,
+      "equity_method_income": -180000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01777-000_2026-03-31_01_2026-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

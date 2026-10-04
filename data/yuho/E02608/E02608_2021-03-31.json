@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02608",
+    "sec_code": "8129",
+    "company_name": "東邦ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R9FR"
+  },
+  "financials": {
+    "net_sales": 1210274000000,
+    "ordinary_income": 10289000000,
+    "net_income": 4989000000,
+    "comprehensive_income": 8027000000,
+    "eps": 70.77,
+    "eps_diluted": 64.97,
+    "dps": 30,
+    "operating_cf": 8768000000,
+    "investing_cf": 680000000,
+    "financing_cf": -680000000,
+    "net_assets": 237405000000,
+    "total_assets": 683181000000,
+    "bps": 3364.65,
+    "cash_end": 88882000000,
+    "equity_ratio": 0.3473,
+    "roe": 0.0213,
+    "per": 28.69
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02608-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

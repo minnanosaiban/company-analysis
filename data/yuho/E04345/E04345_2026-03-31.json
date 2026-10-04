@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "edinet_code": "E04345",
+    "sec_code": "9364",
+    "company_name": "株式会社上組",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YG9D"
+  },
+  "financials": {
+    "ordinary_income": 40685000000,
+    "net_income": 31262000000,
+    "comprehensive_income": 43425000000,
+    "eps": 311.26,
+    "dps": 205,
+    "operating_cf": 35717000000,
+    "investing_cf": -60608000000,
+    "financing_cf": -1613000000,
+    "net_assets": 397859000000,
+    "total_assets": 538407000000,
+    "bps": 4006.48,
+    "cash_end": 69189000000,
+    "equity_ratio": 0.735,
+    "roe": 0.08,
+    "per": 17.5,
+    "operating_income": 36544000000,
+    "income_tax_expense": 13404000000,
+    "interest_bearing_debt_noncurrent": 50422000000,
+    "current_portion_lt_loans": 20169000000,
+    "depreciation": 13839000000,
+    "current_assets": 149534000000,
+    "current_liabilities": 63654000000,
+    "noncurrent_assets": 388872000000,
+    "noncurrent_liabilities": 76893000000,
+    "inventories": 1177000000,
+    "ppe": 225404000000,
+    "goodwill": 11081000000,
+    "intangible_assets": 25865000000,
+    "investment_securities": 129088000000,
+    "treasury_stock": -28468000000,
+    "noncontrolling_interests": 2336000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04345-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

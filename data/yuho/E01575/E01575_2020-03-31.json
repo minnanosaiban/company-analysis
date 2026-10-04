@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01575",
+    "sec_code": "1963",
+    "company_name": "日揮ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R865"
+  },
+  "financials": {
+    "net_sales": 480809000000,
+    "ordinary_income": 22367000000,
+    "net_income": 4117000000,
+    "comprehensive_income": -14271000000,
+    "eps": 16.32,
+    "dps": 12,
+    "operating_cf": 92442000000,
+    "investing_cf": 19364000000,
+    "financing_cf": -7699000000,
+    "net_assets": 390979000000,
+    "total_assets": 671273000000,
+    "bps": 1547.45,
+    "cash_end": 261898000000,
+    "equity_ratio": 0.582,
+    "roe": 0.01,
+    "per": 53.19
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01575-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

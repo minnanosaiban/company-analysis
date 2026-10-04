@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E21902",
+    "sec_code": "2269",
+    "company_name": "明治ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R9C9"
+  },
+  "financials": {
+    "net_sales": 1013092000000,
+    "ordinary_income": 93985000000,
+    "net_income": 87497000000,
+    "comprehensive_income": 109008000000,
+    "eps": 303.62,
+    "dps": 170,
+    "operating_cf": 127526000000,
+    "investing_cf": -27614000000,
+    "financing_cf": -76997000000,
+    "net_assets": 713021000000,
+    "total_assets": 1117459000000,
+    "bps": 2390.76,
+    "cash_end": 64872000000,
+    "equity_ratio": 0.603,
+    "roe": 0.135,
+    "per": 10.9,
+    "gross_profit": 323249000000,
+    "operating_income": 92922000000,
+    "income_tax_expense": 37311000000,
+    "interest_bearing_debt_current": 18227000000,
+    "interest_bearing_debt_noncurrent": 33039000000,
+    "bonds_payable": 20000000000,
+    "current_portion_of_bonds": 10000000000,
+    "depreciation": 50103000000,
+    "capex_ppe": -88320000000,
+    "capex_intangible": -4845000000,
+    "current_assets": 455611000000,
+    "current_liabilities": 286811000000,
+    "noncurrent_assets": 661848000000,
+    "noncurrent_liabilities": 117626000000,
+    "trade_receivables": 173949000000,
+    "trade_payables": 107634000000,
+    "ppe": 483491000000,
+    "goodwill": 26000000,
+    "intangible_assets": 18150000000,
+    "investment_securities": 124127000000,
+    "treasury_stock": -37868000000,
+    "noncontrolling_interests": 39684000000
+  },
+  "segments": [
+    {
+      "key": "Food",
+      "label": null,
+      "external_revenue": 825451000000,
+      "intersegment_revenue": 629000000,
+      "operating_income": 75973000000
+    },
+    {
+      "key": "Pharmaceuticals",
+      "label": null,
+      "external_revenue": 187641000000,
+      "intersegment_revenue": 340000000,
+      "operating_income": 18658000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21902-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

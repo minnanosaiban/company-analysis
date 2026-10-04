@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00464",
+    "sec_code": "2809",
+    "company_name": "キユーピー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-11-30",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-02-29",
+    "doc_id": "S100SY9K"
+  },
+  "financials": {
+    "net_sales": 573525000000,
+    "ordinary_income": 34349000000,
+    "net_income": 18320000000,
+    "comprehensive_income": 17786000000,
+    "eps": 124.85,
+    "dps": 38,
+    "operating_cf": 41778000000,
+    "investing_cf": -20199000000,
+    "financing_cf": -15293000000,
+    "net_assets": 266100000000,
+    "total_assets": 419736000000,
+    "bps": 1582.27,
+    "cash_end": 47970000000,
+    "equity_ratio": 0.539,
+    "roe": 0.081,
+    "per": 22.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00464-000_2022-11-30_03_2024-02-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E01878",
+    "sec_code": "6841",
+    "company_name": "横河電機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3OV"
+  },
+  "financials": {
+    "net_sales": 456479000000,
+    "ordinary_income": 48608000000,
+    "net_income": 38920000000,
+    "comprehensive_income": 58314000000,
+    "eps": 145.81,
+    "dps": 34,
+    "operating_cf": 40422000000,
+    "investing_cf": -32939000000,
+    "financing_cf": -10932000000,
+    "net_assets": 386825000000,
+    "total_assets": 618637000000,
+    "bps": 1422.2,
+    "cash_end": 116378000000,
+    "equity_ratio": 0.6136,
+    "roe": 0.1091,
+    "per": 14.75,
+    "gross_profit": 204459000000,
+    "operating_income": 44409000000,
+    "income_tax_expense": 11662000000,
+    "interest_bearing_debt_current": 20475000000,
+    "interest_bearing_debt_noncurrent": 4087000000,
+    "commercial_papers": 25000000000,
+    "lease_liabilities_current": 2219000000,
+    "lease_liabilities_noncurrent": 5292000000,
+    "depreciation": 18037000000,
+    "capex_ppe": -8637000000,
+    "capex_intangible": -12205000000,
+    "current_assets": 397261000000,
+    "current_liabilities": 213097000000,
+    "noncurrent_assets": 221375000000,
+    "noncurrent_liabilities": 18713000000,
+    "trade_payables": 31226000000,
+    "ppe": 87559000000,
+    "goodwill": 14614000000,
+    "intangible_assets": 48534000000,
+    "investment_securities": 70786000000,
+    "treasury_stock": -1410000000,
+    "noncontrolling_interests": 7200000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialAutomationAndControl",
+      "label": null,
+      "external_revenue": 427569000000,
+      "operating_income": 41081000000
+    },
+    {
+      "key": "NewBussinessesOther",
+      "label": null,
+      "external_revenue": 3844000000,
+      "operating_income": -1304000000
+    },
+    {
+      "key": "TestAndMeasurement",
+      "label": null,
+      "external_revenue": 25065000000,
+      "operating_income": 4632000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01878-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

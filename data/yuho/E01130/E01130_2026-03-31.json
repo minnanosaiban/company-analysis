@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E01130",
+    "sec_code": "5233",
+    "company_name": "太平洋セメント株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YJYE"
+  },
+  "financials": {
+    "net_sales": 898441000000,
+    "ordinary_income": 75087000000,
+    "net_income": 25401000000,
+    "comprehensive_income": 49918000000,
+    "eps": 227.86,
+    "dps": 100,
+    "operating_cf": 114205000000,
+    "investing_cf": -98645000000,
+    "financing_cf": -26761000000,
+    "net_assets": 712237000000,
+    "total_assets": 1479061000000,
+    "bps": 6098.13,
+    "cash_end": 53926000000,
+    "equity_ratio": 0.4601,
+    "roe": 0.0384,
+    "per": 15.36,
+    "gross_profit": 223264000000,
+    "operating_income": 74620000000,
+    "income_tax_expense": 14188000000,
+    "interest_bearing_debt_current": 158500000000,
+    "interest_bearing_debt_noncurrent": 150267000000,
+    "bonds_payable": 42300000000,
+    "commercial_papers": 26000000000,
+    "current_portion_of_bonds": 12700000000,
+    "lease_liabilities_noncurrent": 17692000000,
+    "depreciation": 70518000000,
+    "current_assets": 412601000000,
+    "current_liabilities": 416902000000,
+    "noncurrent_assets": 1066461000000,
+    "noncurrent_liabilities": 349922000000,
+    "trade_payables": 73662000000,
+    "ppe": 749158000000,
+    "goodwill": 81000000,
+    "intangible_assets": 43516000000,
+    "investment_securities": 158763000000,
+    "treasury_stock": -21516000000,
+    "noncontrolling_interests": 31668000000
+  },
+  "segments": [
+    {
+      "key": "Cement",
+      "label": null,
+      "external_revenue": 661724000000,
+      "intersegment_revenue": 6186000000,
+      "operating_income": 49332000000,
+      "equity_method_income": 1232000000
+    },
+    {
+      "key": "ConstructionMaterialsAndConstructionEngineering",
+      "label": null,
+      "external_revenue": 41727000000,
+      "intersegment_revenue": 1701000000,
+      "operating_income": 1891000000,
+      "equity_method_income": 463000000
+    },
+    {
+      "key": "EnvironmentalBusiness",
+      "label": null,
+      "external_revenue": 78368000000,
+      "intersegment_revenue": 3414000000,
+      "operating_income": 9262000000,
+      "equity_method_income": 13000000
+    },
+    {
+      "key": "Resource",
+      "label": null,
+      "external_revenue": 65810000000,
+      "intersegment_revenue": 25045000000,
+      "operating_income": 10045000000,
+      "equity_method_income": 222000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01130-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

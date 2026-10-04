@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05476",
+    "sec_code": "3769",
+    "company_name": "GMOペイメントゲートウェイ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-09-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-12-18",
+    "doc_id": "S100SHAA"
+  },
+  "financials": {
+    "dps": 36,
+    "net_sales": 26922718000,
+    "net_income": 5267465000,
+    "comprehensive_income": 4630496000,
+    "net_assets": 26494633000,
+    "total_assets": 139990599000,
+    "equity_ratio": 0.189,
+    "bps": 360.17,
+    "eps": 71.61,
+    "eps_diluted": 70.09,
+    "roe": 0.205,
+    "per": 100.96,
+    "operating_cf": 1311644000,
+    "investing_cf": 858000000,
+    "financing_cf": 7959019000,
+    "cash_end": 52013447000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05476-000_2023-09-30_01_2023-12-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

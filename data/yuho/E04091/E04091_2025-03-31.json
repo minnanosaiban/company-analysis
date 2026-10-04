@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "edinet_code": "E04091",
+    "sec_code": "9009",
+    "company_name": "京成電鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-27",
+    "doc_id": "S100W81A"
+  },
+  "financials": {
+    "ordinary_income": 61755000000,
+    "net_income": 69961000000,
+    "comprehensive_income": 72920000000,
+    "eps": 143.46,
+    "dps": 33,
+    "operating_cf": 41149000000,
+    "investing_cf": -9245000000,
+    "financing_cf": -62869000000,
+    "net_assets": 524658000000,
+    "total_assets": 1094120000000,
+    "bps": 1055.48,
+    "cash_end": 51369000000,
+    "equity_ratio": 0.465,
+    "roe": 0.146,
+    "per": 9.39,
+    "operating_income": 36008000000,
+    "income_tax_expense": 30365000000,
+    "interest_bearing_debt_current": 68255000000,
+    "interest_bearing_debt_noncurrent": 114345000000,
+    "bonds_payable": 120000000000,
+    "current_portion_of_bonds": 300000000,
+    "lease_liabilities_current": 5186000000,
+    "lease_liabilities_noncurrent": 21317000000,
+    "depreciation": 32600000000,
+    "current_assets": 119084000000,
+    "current_liabilities": 231225000000,
+    "noncurrent_assets": 974604000000,
+    "noncurrent_liabilities": 338237000000,
+    "trade_payables": 28022000000,
+    "ppe": 704321000000,
+    "intangible_assets": 12091000000,
+    "investment_securities": 236626000000,
+    "treasury_stock": -52410000000,
+    "noncontrolling_interests": 15673000000
+  },
+  "segments": [
+    {
+      "key": "Construction",
+      "label": "建設業",
+      "external_revenue": 16941000000,
+      "intersegment_revenue": 19310000000,
+      "operating_income": 2366000000
+    },
+    {
+      "key": "Leisure",
+      "label": "レジャー・サービス業",
+      "external_revenue": 13841000000,
+      "intersegment_revenue": 5274000000,
+      "operating_income": 1643000000
+    },
+    {
+      "key": "MerchandiseSales",
+      "label": "流通業",
+      "external_revenue": 56836000000,
+      "intersegment_revenue": 825000000,
+      "operating_income": 330000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 6208000000,
+      "intersegment_revenue": 5584000000,
+      "operating_income": 481000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産業",
+      "external_revenue": 27624000000,
+      "intersegment_revenue": 7974000000,
+      "operating_income": 10545000000
+    },
+    {
+      "key": "Transportation",
+      "label": "運輸業",
+      "external_revenue": 197861000000,
+      "intersegment_revenue": 399000000,
+      "operating_income": 20939000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04091-000_2025-03-31_01_2025-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00692",
+    "sec_code": "7911",
+    "company_name": "凸版印刷株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R83D"
+  },
+  "financials": {
+    "net_sales": 1466935000000,
+    "ordinary_income": 58053000000,
+    "net_income": 81997000000,
+    "comprehensive_income": 172210000000,
+    "eps": 237.16,
+    "dps": 40,
+    "operating_cf": 76858000000,
+    "investing_cf": 81249000000,
+    "financing_cf": 42215000000,
+    "net_assets": 1453164000000,
+    "total_assets": 2363503000000,
+    "bps": 3870.14,
+    "cash_end": 497237000000,
+    "equity_ratio": 0.56,
+    "roe": 0.065,
+    "per": 7.88
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00692-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

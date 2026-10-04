@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E02272",
+    "sec_code": "7733",
+    "company_name": "オリンパス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZRG"
+  },
+  "financials": {
+    "dps": 16,
+    "net_sales": 881923000000,
+    "net_income": 143432000000,
+    "comprehensive_income": 196481000000,
+    "net_assets": 640085000000,
+    "total_assets": 1508308000000,
+    "equity_ratio": 0.424,
+    "bps": 510.62,
+    "eps": 113.22,
+    "eps_diluted": 113.08,
+    "roe": 0.249,
+    "per": 20.48,
+    "operating_cf": 98490000000,
+    "investing_cf": -58414000000,
+    "financing_cf": -143178000000,
+    "cash_end": 205512000000,
+    "operating_income": 186609000000,
+    "gross_profit": 596849000000,
+    "income_tax_expense": 44304000000,
+    "interest_bearing_debt_current": 49970000000,
+    "interest_bearing_debt_noncurrent": 290087000000,
+    "sga_expense": 420547000000,
+    "profit_before_tax": 182294000000,
+    "depreciation": 66741000000,
+    "capex_ppe": -47570000000,
+    "capex_intangible": -23053000000,
+    "current_assets": 726357000000,
+    "current_liabilities": 461892000000,
+    "noncurrent_assets": 781951000000,
+    "trade_receivables": 174672000000,
+    "inventories": 162994000000,
+    "trade_payables": 62919000000,
+    "ppe": 238731000000,
+    "goodwill": 182505000000,
+    "intangible_assets": 115183000000,
+    "equity_method_investments": 1010000000,
+    "treasury_stock": -28086000000,
+    "noncontrolling_interests": 1149000000
+  },
+  "segments": [
+    {
+      "key": "EndoscopicSolutions",
+      "label": null,
+      "external_revenue": 551823000000,
+      "operating_income": 152769000000,
+      "equity_method_income": 505000000,
+      "assets": 555546000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 11893000000,
+      "intersegment_revenue": 252000000,
+      "operating_income": -914000000,
+      "assets": 20638000000
+    },
+    {
+      "key": "TherapeuticSolutions",
+      "label": null,
+      "external_revenue": 318207000000,
+      "operating_income": 63692000000,
+      "equity_method_income": -14000000,
+      "assets": 452969000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02272-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

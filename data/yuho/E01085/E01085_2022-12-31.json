@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E01085",
+    "sec_code": "5101",
+    "company_name": "横浜ゴム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T56Z"
+  },
+  "financials": {
+    "dps": 66,
+    "net_sales": 860477000000,
+    "net_income": 45918000000,
+    "comprehensive_income": 99561000000,
+    "net_assets": 614424000000,
+    "total_assets": 1151076000000,
+    "equity_ratio": 0.5338,
+    "bps": 3823.47,
+    "eps": 286.38,
+    "eps_diluted": 285.8,
+    "roe": 0.0806,
+    "per": 7.19,
+    "operating_cf": 39231000000,
+    "investing_cf": -46357000000,
+    "financing_cf": 35172000000,
+    "cash_end": 75572000000,
+    "operating_income": 68851000000,
+    "gross_profit": 287674000000,
+    "income_tax_expense": 24473000000,
+    "interest_bearing_debt_current": 117480000000,
+    "interest_bearing_debt_noncurrent": 121221000000,
+    "sga_expense": 217585000000,
+    "profit_before_tax": 71622000000,
+    "depreciation": 49914000000,
+    "capex_ppe": -54378000000,
+    "capex_intangible": -514000000,
+    "current_assets": 503980000000,
+    "current_liabilities": 294508000000,
+    "noncurrent_assets": 647097000000,
+    "trade_receivables": 193749000000,
+    "inventories": 216392000000,
+    "trade_payables": 78131000000,
+    "ppe": 372933000000,
+    "goodwill": 104244000000,
+    "intangible_assets": 37168000000,
+    "treasury_stock": -11650000000,
+    "noncontrolling_interests": 8698000000
+  },
+  "segments": [
+    {
+      "key": "MBMultipleBusiness",
+      "label": null,
+      "external_revenue": 96248000000,
+      "intersegment_revenue": 146000000,
+      "revenue": 96394000000
+    },
+    {
+      "key": "Tires",
+      "label": null,
+      "external_revenue": 754309000000,
+      "intersegment_revenue": 1212000000,
+      "revenue": 755521000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01085-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

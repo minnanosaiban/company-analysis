@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E04091",
+    "sec_code": "9009",
+    "company_name": "京成電鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R39F"
+  },
+  "financials": {
+    "ordinary_income": -32165000000,
+    "net_income": -30289000000,
+    "comprehensive_income": -29403000000,
+    "eps": -179.65,
+    "dps": 17,
+    "operating_cf": 9282000000,
+    "investing_cf": -28678000000,
+    "financing_cf": 21498000000,
+    "net_assets": 396044000000,
+    "total_assets": 900698000000,
+    "bps": 2246.67,
+    "cash_end": 28900000000,
+    "equity_ratio": 0.42,
+    "roe": -0.077
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04091-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

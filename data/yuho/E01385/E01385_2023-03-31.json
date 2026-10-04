@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E01385",
+    "sec_code": "5929",
+    "company_name": "三和ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R3DF"
+  },
+  "financials": {
+    "net_sales": 588159000000,
+    "ordinary_income": 52780000000,
+    "net_income": 33084000000,
+    "comprehensive_income": 48985000000,
+    "eps": 149.71,
+    "eps_diluted": 149.34,
+    "dps": 58,
+    "operating_cf": 34425000000,
+    "investing_cf": -15941000000,
+    "financing_cf": -9887000000,
+    "net_assets": 242350000000,
+    "total_assets": 442274000000,
+    "bps": 1088.87,
+    "cash_end": 71153000000,
+    "equity_ratio": 0.544,
+    "roe": 0.15,
+    "per": 9.5,
+    "gross_profit": 179697000000,
+    "operating_income": 56307000000,
+    "income_tax_expense": 17720000000,
+    "interest_bearing_debt_current": 9895000000,
+    "interest_bearing_debt_noncurrent": 10816000000,
+    "bonds_payable": 20000000000,
+    "current_portion_lt_loans": 8541000000,
+    "lease_liabilities_current": 2569000000,
+    "lease_liabilities_noncurrent": 7773000000,
+    "depreciation": 12020000000,
+    "current_assets": 285416000000,
+    "current_liabilities": 144508000000,
+    "noncurrent_assets": 156857000000,
+    "noncurrent_liabilities": 55414000000,
+    "trade_payables": 66962000000,
+    "ppe": 83364000000,
+    "goodwill": 7601000000,
+    "intangible_assets": 27084000000,
+    "investment_securities": 32054000000,
+    "treasury_stock": -9869000000,
+    "noncontrolling_interests": 1437000000
+  },
+  "segments": [
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 10855000000,
+      "intersegment_revenue": 4000000,
+      "operating_income": 258000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 105394000000,
+      "intersegment_revenue": 62000000,
+      "operating_income": 4268000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 252877000000,
+      "intersegment_revenue": 138000000,
+      "operating_income": 25023000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 218968000000,
+      "intersegment_revenue": 208000000,
+      "operating_income": 29049000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01385-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

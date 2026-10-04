@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03847",
+    "sec_code": "8766",
+    "company_name": "東京海上ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R0BK"
+  },
+  "financials": {
+    "ordinary_income": 363945000000,
+    "net_income": 259763000000,
+    "comprehensive_income": 2737000000,
+    "eps": 123.24,
+    "eps_diluted": 123.15,
+    "dps": 225,
+    "operating_cf": 997623000000,
+    "investing_cf": -2546411000000,
+    "financing_cf": 1543105000000,
+    "net_assets": 3426675000000,
+    "total_assets": 25253966000000,
+    "bps": 1610.68,
+    "cash_end": 1021167000000,
+    "equity_ratio": 0.1335,
+    "roe": 0.0748,
+    "per": 13.39,
+    "ordinary_revenue": 5465432000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03847-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

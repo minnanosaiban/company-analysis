@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03563",
+    "sec_code": "8359",
+    "company_name": "株式会社八十二銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R0C5"
+  },
+  "financials": {
+    "ordinary_income": 34354000000,
+    "net_income": 22492000000,
+    "comprehensive_income": -1101000000,
+    "eps": 45.18,
+    "eps_diluted": 45.12,
+    "dps": 14,
+    "operating_cf": 912580000000,
+    "investing_cf": -277325000000,
+    "financing_cf": -10526000000,
+    "net_assets": 765509000000,
+    "total_assets": 10451533000000,
+    "bps": 1484.9,
+    "cash_end": 1954835000000,
+    "equity_ratio": 0.0704,
+    "roe": 0.0302,
+    "per": 10.15,
+    "ordinary_revenue": 160013000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03563-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

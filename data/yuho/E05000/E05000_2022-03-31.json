@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E05000",
+    "sec_code": "4689",
+    "company_name": "Ｚホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-15",
+    "doc_id": "S100QY1D"
+  },
+  "financials": {
+    "dps": 5.81,
+    "net_sales": 1567421000000,
+    "net_income": 77316000000,
+    "comprehensive_income": 107037000000,
+    "net_assets": 2684377000000,
+    "total_assets": 7110386000000,
+    "equity_ratio": 0.378,
+    "bps": 358.25,
+    "eps": 10.2,
+    "eps_diluted": 10.14,
+    "roe": 0.029,
+    "per": 52.59,
+    "operating_cf": 266314000000,
+    "investing_cf": -303899000000,
+    "financing_cf": 91630000000,
+    "cash_end": 1127523000000,
+    "operating_income": 189503000000,
+    "income_tax_expense": 66911000000,
+    "sga_expense": 895919000000,
+    "profit_before_tax": 158542000000,
+    "depreciation": 135744000000,
+    "capex_ppe": -51772000000,
+    "capex_intangible": -220861000000,
+    "ppe": 164783000000,
+    "goodwill": 1788481000000,
+    "intangible_assets": 1216379000000,
+    "equity_method_investments": 203398000000,
+    "treasury_stock": -54086000000,
+    "noncontrolling_interests": 297819000000
+  },
+  "segments": [
+    {
+      "key": "Commerce",
+      "label": "コマース事業",
+      "external_revenue": 809130000000,
+      "intersegment_revenue": 1790000000,
+      "revenue": 810920000000,
+      "operating_income": 79233000000
+    },
+    {
+      "key": "MediaBusiness",
+      "label": "メディア事業",
+      "external_revenue": 634460000000,
+      "intersegment_revenue": 6741000000,
+      "revenue": 641202000000,
+      "operating_income": 243940000000
+    },
+    {
+      "key": "Stragegy",
+      "label": "戦略事業",
+      "external_revenue": 108991000000,
+      "intersegment_revenue": 1806000000,
+      "revenue": 110797000000,
+      "operating_income": -20972000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05000-000_2023-03-31_01_2023-06-15.csv",
+    "parser_version": "0.1.3"
+  }
+}

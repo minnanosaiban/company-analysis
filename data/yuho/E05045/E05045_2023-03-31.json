@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E05045",
+    "sec_code": "4732",
+    "company_name": "株式会社ユー・エス・エス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100R004"
+  },
+  "financials": {
+    "net_sales": 88778000000,
+    "ordinary_income": 44491000000,
+    "net_income": 30008000000,
+    "comprehensive_income": 30458000000,
+    "eps": 122.69,
+    "eps_diluted": 122.47,
+    "dps": 67.5,
+    "operating_cf": 36907000000,
+    "investing_cf": -9074000000,
+    "financing_cf": -17121000000,
+    "net_assets": 194154000000,
+    "total_assets": 242352000000,
+    "bps": 780.9,
+    "cash_end": 86192000000,
+    "equity_ratio": 0.788,
+    "roe": 0.162,
+    "per": 18.7,
+    "gross_profit": 53642000000,
+    "operating_income": 43778000000,
+    "income_tax_expense": 13924000000,
+    "interest_bearing_debt_current": 340000000,
+    "interest_bearing_debt_noncurrent": 1794000000,
+    "current_portion_lt_loans": 220000000,
+    "lease_liabilities_current": 34000000,
+    "lease_liabilities_noncurrent": 31000000,
+    "capex_ppe": -4100000000,
+    "capex_intangible": -466000000,
+    "current_assets": 116057000000,
+    "current_liabilities": 39273000000,
+    "noncurrent_assets": 126295000000,
+    "noncurrent_liabilities": 8925000000,
+    "inventories": 1843000000,
+    "trade_payables": 855000000,
+    "ppe": 100604000000,
+    "goodwill": 7826000000,
+    "intangible_assets": 13545000000,
+    "investment_securities": 2530000000,
+    "treasury_stock": -12034000000,
+    "noncontrolling_interests": 2699000000
+  },
+  "segments": [
+    {
+      "key": "AutoAuction",
+      "label": null,
+      "external_revenue": 69304000000,
+      "intersegment_revenue": 289000000,
+      "operating_income": 42267000000
+    },
+    {
+      "key": "Recycling",
+      "label": null,
+      "external_revenue": 8982000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 1333000000
+    },
+    {
+      "key": "UsedVehicleSalesPurchases",
+      "label": null,
+      "external_revenue": 10391000000,
+      "operating_income": 130000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05045-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

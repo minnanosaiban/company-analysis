@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00949",
+    "sec_code": "4536",
+    "company_name": "参天製薬株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R54I"
+  },
+  "financials": {
+    "dps": 27,
+    "net_sales": 241555000000,
+    "net_income": 23618000000,
+    "comprehensive_income": 22162000000,
+    "net_assets": 302865000000,
+    "total_assets": 408768000000,
+    "equity_ratio": 0.741,
+    "bps": 758.5,
+    "eps": 59.16,
+    "eps_diluted": 59.01,
+    "roe": 0.08,
+    "per": 31.4,
+    "operating_cf": 39947000000,
+    "investing_cf": -5175000000,
+    "financing_cf": -12729000000,
+    "cash_end": 91430000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00949-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

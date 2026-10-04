@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E04502",
+    "sec_code": "9502",
+    "company_name": "中部電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100T3LA"
+  },
+  "financials": {
+    "ordinary_income": 509295000000,
+    "net_income": 403140000000,
+    "comprehensive_income": 574106000000,
+    "eps": 533.17,
+    "eps_diluted": 533.16,
+    "dps": 55,
+    "operating_cf": 344074000000,
+    "investing_cf": -388330000000,
+    "financing_cf": 87084000000,
+    "net_assets": 2695071000000,
+    "total_assets": 7108617000000,
+    "bps": 3419.42,
+    "cash_end": 418518000000,
+    "equity_ratio": 0.364,
+    "roe": 0.174,
+    "per": 3.73,
+    "operating_income": 343339000000,
+    "income_tax_expense": 72402000000,
+    "interest_bearing_debt_current": 319534000000,
+    "interest_bearing_debt_noncurrent": 1750583000000,
+    "bonds_payable": 728039000000,
+    "depreciation": 172046000000,
+    "current_assets": 1289873000000,
+    "current_liabilities": 1296356000000,
+    "noncurrent_assets": 5818743000000,
+    "noncurrent_liabilities": 3115679000000,
+    "inventories": 270501000000,
+    "trade_payables": 271297000000,
+    "treasury_stock": -2790000000,
+    "noncontrolling_interests": 109618000000
+  },
+  "segments": [
+    {
+      "key": "JERA",
+      "label": "ＪＥＲＡ",
+      "ordinary_income": 178851000000,
+      "equity_method_income": 178851000000
+    },
+    {
+      "key": "Miraiz",
+      "label": "ミライズ",
+      "external_revenue": 2848984000000,
+      "intersegment_revenue": 40274000000,
+      "ordinary_income": 203836000000,
+      "equity_method_income": 1055000000
+    },
+    {
+      "key": "Powergrid",
+      "label": "パワーグリッド",
+      "external_revenue": 347359000000,
+      "intersegment_revenue": 559163000000,
+      "ordinary_income": 95633000000,
+      "equity_method_income": 229000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04502-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

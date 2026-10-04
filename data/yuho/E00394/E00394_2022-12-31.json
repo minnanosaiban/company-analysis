@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "edinet_code": "E00394",
+    "sec_code": "2502",
+    "company_name": "アサヒグループホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4G7"
+  },
+  "financials": {
+    "dps": 113,
+    "net_sales": 2511108000000,
+    "net_income": 151555000000,
+    "comprehensive_income": 361604000000,
+    "net_assets": 2060734000000,
+    "total_assets": 4830344000000,
+    "equity_ratio": 0.427,
+    "bps": 4067.12,
+    "eps": 299.1,
+    "eps_diluted": 299.06,
+    "roe": 0.079,
+    "per": 13.8,
+    "operating_cf": 265991000000,
+    "investing_cf": -69186000000,
+    "financing_cf": -219556000000,
+    "cash_end": 37438000000,
+    "operating_income": 217048000000,
+    "gross_profit": 921835000000,
+    "income_tax_expense": 54275000000,
+    "interest_bearing_debt_current": 367267000000,
+    "interest_bearing_debt_noncurrent": 1130042000000,
+    "sga_expense": 678018000000,
+    "profit_before_tax": 205992000000,
+    "depreciation": 140419000000,
+    "capex_ppe": -83049000000,
+    "capex_intangible": -16796000000,
+    "current_assets": 737529000000,
+    "current_liabilities": 1265946000000,
+    "noncurrent_assets": 4092815000000,
+    "trade_receivables": 415676000000,
+    "inventories": 234969000000,
+    "trade_payables": 591869000000,
+    "ppe": 834721000000,
+    "goodwill": 1966971000000,
+    "equity_method_investments": 6722000000,
+    "treasury_stock": -1178000000,
+    "noncontrolling_interests": 2210000000
+  },
+  "segments": [
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 572662000000,
+      "intersegment_revenue": 1213000000,
+      "revenue": 573875000000,
+      "operating_income": 55163000000,
+      "assets": 1798105000000,
+      "equity_method_income": 467000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 1297197000000,
+      "intersegment_revenue": 4534000000,
+      "revenue": 1301731000000,
+      "operating_income": 96417000000,
+      "assets": 997249000000,
+      "equity_method_income": 171000000
+    },
+    {
+      "key": "Oceania",
+      "label": null,
+      "external_revenue": 580845000000,
+      "intersegment_revenue": 2321000000,
+      "revenue": 583167000000,
+      "operating_income": 80177000000,
+      "assets": 1918822000000,
+      "equity_method_income": 28000000
+    },
+    {
+      "key": "SoutheastAsia",
+      "label": null,
+      "external_revenue": 51639000000,
+      "intersegment_revenue": 40000000,
+      "revenue": 51680000000,
+      "operating_income": 633000000,
+      "assets": 45472000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00394-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

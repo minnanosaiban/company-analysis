@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E00052",
+    "sec_code": "1801",
+    "company_name": "大成建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TL7V"
+  },
+  "financials": {
+    "net_sales": 1765023000000,
+    "ordinary_income": 38910000000,
+    "net_income": 40272000000,
+    "comprehensive_income": 146396000000,
+    "eps": 215.75,
+    "dps": 130,
+    "operating_cf": 40611000000,
+    "investing_cf": -138747000000,
+    "financing_cf": 109392000000,
+    "net_assets": 961000000000,
+    "total_assets": 2583641000000,
+    "bps": 5039.98,
+    "cash_end": 430754000000,
+    "equity_ratio": 0.36,
+    "roe": 0.046,
+    "per": 26,
+    "gross_profit": 127400000000,
+    "operating_income": 26480000000,
+    "income_tax_expense": 48482000000,
+    "interest_bearing_debt_current": 110530000000,
+    "interest_bearing_debt_noncurrent": 142787000000,
+    "bonds_payable": 50000000000,
+    "lease_liabilities_current": 731000000,
+    "lease_liabilities_noncurrent": 1533000000,
+    "depreciation": 13110000000,
+    "current_assets": 1631175000000,
+    "current_liabilities": 1302713000000,
+    "noncurrent_assets": 952466000000,
+    "noncurrent_liabilities": 319927000000,
+    "ppe": 332715000000,
+    "intangible_assets": 27151000000,
+    "investment_securities": 478191000000,
+    "treasury_stock": -898000000,
+    "noncontrolling_interests": 31666000000
+  },
+  "segments": [
+    {
+      "key": "BuildingConstruction",
+      "label": null,
+      "external_revenue": 1117280000000,
+      "intersegment_revenue": 23694000000,
+      "operating_income": -56143000000
+    },
+    {
+      "key": "CivilEngineering",
+      "label": null,
+      "external_revenue": 505504000000,
+      "intersegment_revenue": 34834000000,
+      "operating_income": 61454000000
+    },
+    {
+      "key": "RealEstateDevelopment",
+      "label": null,
+      "external_revenue": 129726000000,
+      "intersegment_revenue": 8556000000,
+      "operating_income": 23369000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00052-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

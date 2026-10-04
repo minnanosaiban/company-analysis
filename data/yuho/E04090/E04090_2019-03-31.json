@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04090",
+    "sec_code": "9005",
+    "company_name": "東急株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7UU"
+  },
+  "financials": {
+    "ordinary_income": 81907000000,
+    "net_income": 57824000000,
+    "comprehensive_income": 53616000000,
+    "eps": 95.14,
+    "dps": 20,
+    "operating_cf": 138435000000,
+    "investing_cf": -225098000000,
+    "financing_cf": 82115000000,
+    "net_assets": 796164000000,
+    "total_assets": 2412876000000,
+    "bps": 1225.85,
+    "cash_end": 33302000000,
+    "equity_ratio": 0.309,
+    "roe": 0.08,
+    "per": 20.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04090-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

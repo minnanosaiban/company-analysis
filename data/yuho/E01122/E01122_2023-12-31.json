@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E01122",
+    "sec_code": "5201",
+    "company_name": "ＡＧＣ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T59J"
+  },
+  "financials": {
+    "dps": 210,
+    "net_sales": 2019254000000,
+    "net_income": 65798000000,
+    "comprehensive_income": 152463000000,
+    "net_assets": 1447080000000,
+    "total_assets": 2932991000000,
+    "equity_ratio": 0.4934,
+    "bps": 6831.89,
+    "eps": 304.73,
+    "eps_diluted": 304.01,
+    "roe": 0.0464,
+    "per": 17.18,
+    "operating_cf": 212546000000,
+    "investing_cf": -179790000000,
+    "financing_cf": -108021000000,
+    "cash_end": 146061000000,
+    "operating_income": 128779000000,
+    "gross_profit": 481356000000,
+    "income_tax_expense": 40291000000,
+    "sga_expense": 354559000000,
+    "profit_before_tax": 122775000000,
+    "depreciation": 175346000000,
+    "current_assets": 1041878000000,
+    "current_liabilities": 717298000000,
+    "noncurrent_assets": 1891112000000,
+    "inventories": 454056000000,
+    "ppe": 1457950000000,
+    "goodwill": 101130000000,
+    "intangible_assets": 72093000000,
+    "equity_method_investments": 27633000000,
+    "treasury_stock": -27338000000,
+    "noncontrolling_interests": 207258000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": null,
+      "external_revenue": 499392000000,
+      "intersegment_revenue": 316000000,
+      "operating_income": 21786000000
+    },
+    {
+      "key": "Glass",
+      "label": null,
+      "external_revenue": 474646000000,
+      "intersegment_revenue": 1648000000,
+      "operating_income": 32763000000
+    },
+    {
+      "key": "Lifescience",
+      "label": null,
+      "external_revenue": 123933000000,
+      "intersegment_revenue": 2882000000,
+      "operating_income": -12378000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01122-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

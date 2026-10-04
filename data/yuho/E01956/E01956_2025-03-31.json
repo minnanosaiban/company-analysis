@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E01956",
+    "sec_code": "9766",
+    "company_name": "コナミグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-27",
+    "doc_id": "S100W7UN"
+  },
+  "financials": {
+    "dps": 165.5,
+    "net_sales": 421602000000,
+    "net_income": 74692000000,
+    "comprehensive_income": 72804000000,
+    "net_assets": 481852000000,
+    "total_assets": 665040000000,
+    "equity_ratio": 0.725,
+    "bps": 3554.61,
+    "eps": 551,
+    "eps_diluted": 551,
+    "roe": 0.164,
+    "per": 31.91,
+    "operating_cf": 114620000000,
+    "investing_cf": -67885000000,
+    "financing_cf": -25784000000,
+    "cash_end": 294216000000,
+    "operating_income": 101944000000,
+    "gross_profit": 198921000000,
+    "income_tax_expense": 29316000000,
+    "interest_bearing_debt_current": 19994000000,
+    "interest_bearing_debt_noncurrent": 39911000000,
+    "sga_expense": 89804000000,
+    "profit_before_tax": 104008000000,
+    "depreciation": 28488000000,
+    "current_assets": 366836000000,
+    "current_liabilities": 116314000000,
+    "noncurrent_assets": 298204000000,
+    "trade_receivables": 47220000000,
+    "inventories": 12108000000,
+    "trade_payables": 45406000000,
+    "ppe": 163617000000,
+    "goodwill": 15795000000,
+    "investment_securities": 1671000000,
+    "equity_method_investments": 4484000000,
+    "treasury_stock": -21617000000,
+    "noncontrolling_interests": 16000000
+  },
+  "segments": [
+    {
+      "key": "Amusement",
+      "label": null,
+      "operating_income": 5938000000,
+      "assets": 58142000000
+    },
+    {
+      "key": "DigitalEntertainment",
+      "label": null,
+      "operating_income": 98935000000,
+      "assets": 329682000000
+    },
+    {
+      "key": "GamingAndSystems",
+      "label": null,
+      "operating_income": 7359000000,
+      "assets": 49133000000
+    },
+    {
+      "key": "Sports",
+      "label": null,
+      "operating_income": 2231000000,
+      "assets": 49200000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01956-000_2025-03-31_01_2025-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

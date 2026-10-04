@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "edinet_code": "E01124",
+    "sec_code": "7741",
+    "company_name": "ＨＯＹＡ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-05",
+    "doc_id": "S100VW2P"
+  },
+  "financials": {
+    "dps": 160,
+    "net_sales": 866032000000,
+    "net_assets": 974023000000,
+    "total_assets": 1234278000000,
+    "equity_ratio": 0.789,
+    "bps": 2841.73,
+    "eps": 581.45,
+    "eps_diluted": 581.26,
+    "roe": 0.208,
+    "per": 28.9,
+    "operating_cf": 235113000000,
+    "investing_cf": -33192000000,
+    "financing_cf": -190352000000,
+    "cash_end": 533967000000,
+    "income_tax_expense": 58215000000,
+    "profit_before_tax": 259965000000,
+    "depreciation": 48577000000,
+    "capex_ppe": -47922000000,
+    "current_assets": 879731000000,
+    "current_liabilities": 179508000000,
+    "noncurrent_assets": 354547000000,
+    "inventories": 124550000000,
+    "ppe": 210890000000,
+    "goodwill": 52174000000,
+    "intangible_assets": 24637000000,
+    "equity_method_investments": 1657000000,
+    "treasury_stock": -57595000000,
+    "noncontrolling_interests": -2394000000
+  },
+  "segments": [
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 4022000000,
+      "intersegment_revenue": 0,
+      "revenue": 4023000000,
+      "profit_before_tax": 611000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01124-000_2025-03-31_01_2025-06-05.csv",
+    "parser_version": "0.1.3"
+  }
+}

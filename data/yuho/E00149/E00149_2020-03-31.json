@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00149",
+    "sec_code": "1969",
+    "company_name": "高砂熱学工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R30N"
+  },
+  "financials": {
+    "net_sales": 320893000000,
+    "ordinary_income": 19286000000,
+    "net_income": 13231000000,
+    "comprehensive_income": 7702000000,
+    "eps": 186.49,
+    "dps": 56,
+    "operating_cf": -6369000000,
+    "investing_cf": -8187000000,
+    "financing_cf": -4199000000,
+    "net_assets": 125861000000,
+    "total_assets": 265649000000,
+    "bps": 1757.68,
+    "cash_end": 36526000000,
+    "equity_ratio": 0.46,
+    "roe": 0.108,
+    "per": 8.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00149-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E01953",
+    "sec_code": "6963",
+    "company_name": "ローム株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W2W6"
+  },
+  "financials": {
+    "net_sales": 448466000000,
+    "ordinary_income": -29698000000,
+    "net_income": -50065000000,
+    "comprehensive_income": -59216000000,
+    "eps": -129.78,
+    "dps": 50,
+    "operating_cf": 83956000000,
+    "investing_cf": -115678000000,
+    "financing_cf": 39052000000,
+    "net_assets": 889655000000,
+    "total_assets": 1440765000000,
+    "bps": 2303.25,
+    "cash_end": 234966000000,
+    "equity_ratio": 0.617,
+    "roe": -0.054,
+    "gross_profit": 74263000000,
+    "operating_income": -40061000000,
+    "income_tax_expense": 5999000000,
+    "interest_bearing_debt_current": 100000000000,
+    "interest_bearing_debt_noncurrent": 100000000000,
+    "bonds_payable": 200000000000,
+    "depreciation": 83418000000,
+    "capex_ppe": -135792000000,
+    "current_assets": 561245000000,
+    "current_liabilities": 219623000000,
+    "noncurrent_assets": 879520000000,
+    "noncurrent_liabilities": 331487000000,
+    "trade_receivables": 77285000000,
+    "trade_payables": 19534000000,
+    "ppe": 491305000000,
+    "intangible_assets": 6369000000,
+    "investment_securities": 351511000000,
+    "treasury_stock": -40836000000,
+    "noncontrolling_interests": 621000000
+  },
+  "segments": [
+    {
+      "key": "DiscreteSemiconductorDevices",
+      "label": null,
+      "external_revenue": 187052000000,
+      "intersegment_revenue": 4520000000,
+      "operating_income": -45899000000
+    },
+    {
+      "key": "ICs",
+      "label": null,
+      "external_revenue": 203833000000,
+      "intersegment_revenue": 1579000000,
+      "operating_income": -767000000
+    },
+    {
+      "key": "Modules",
+      "label": null,
+      "external_revenue": 32557000000,
+      "intersegment_revenue": 134000000,
+      "operating_income": 2691000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01953-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

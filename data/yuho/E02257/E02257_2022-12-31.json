@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E02257",
+    "sec_code": "7309",
+    "company_name": "株式会社シマノ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5J9"
+  },
+  "financials": {
+    "net_sales": 628909000000,
+    "ordinary_income": 176568000000,
+    "net_income": 128178000000,
+    "comprehensive_income": 180405000000,
+    "eps": 1408.22,
+    "dps": 260,
+    "operating_cf": 110684000000,
+    "investing_cf": -33378000000,
+    "financing_cf": -58422000000,
+    "net_assets": 741095000000,
+    "total_assets": 826413000000,
+    "bps": 8166.35,
+    "cash_end": 417266000000,
+    "equity_ratio": 0.896,
+    "roe": 0.189,
+    "per": 14.9,
+    "gross_profit": 265645000000,
+    "operating_income": 169158000000,
+    "income_tax_expense": 46494000000,
+    "interest_bearing_debt_current": 2151000000,
+    "lease_liabilities_current": 928000000,
+    "lease_liabilities_noncurrent": 2298000000,
+    "depreciation": 20992000000,
+    "capex_ppe": -20247000000,
+    "capex_intangible": -7265000000,
+    "current_assets": 628754000000,
+    "current_liabilities": 78608000000,
+    "noncurrent_assets": 197659000000,
+    "noncurrent_liabilities": 6709000000,
+    "trade_receivables": 55201000000,
+    "ppe": 147244000000,
+    "goodwill": 3065000000,
+    "intangible_assets": 19841000000,
+    "investment_securities": 19694000000,
+    "treasury_stock": -12909000000,
+    "noncontrolling_interests": 986000000
+  },
+  "segments": [
+    {
+      "key": "BicycleComponents",
+      "label": "自転車部品",
+      "external_revenue": 517436000000,
+      "operating_income": 144994000000
+    },
+    {
+      "key": "FishingTackle",
+      "label": "釣具",
+      "external_revenue": 110993000000,
+      "operating_income": 24163000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 479000000,
+      "operating_income": 1000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02257-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

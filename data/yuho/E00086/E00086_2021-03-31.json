@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00086",
+    "sec_code": "1893",
+    "company_name": "五洋建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R58A"
+  },
+  "financials": {
+    "net_sales": 471058000000,
+    "ordinary_income": 30545000000,
+    "net_income": 20993000000,
+    "comprehensive_income": 24179000000,
+    "eps": 73.62,
+    "dps": 28,
+    "operating_cf": 30690000000,
+    "investing_cf": -12800000000,
+    "financing_cf": -3111000000,
+    "net_assets": 158403000000,
+    "total_assets": 452248000000,
+    "bps": 555.32,
+    "cash_end": 59197000000,
+    "equity_ratio": 0.35,
+    "roe": 0.14,
+    "per": 11.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00086-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

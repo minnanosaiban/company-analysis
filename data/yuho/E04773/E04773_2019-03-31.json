@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04773",
+    "sec_code": "9735",
+    "company_name": "セコム株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4G7"
+  },
+  "financials": {
+    "net_sales": 1013823000000,
+    "ordinary_income": 144889000000,
+    "net_income": 92009000000,
+    "comprehensive_income": 89913000000,
+    "eps": 421.56,
+    "dps": 165,
+    "operating_cf": 148929000000,
+    "investing_cf": -61393000000,
+    "financing_cf": -54977000000,
+    "net_assets": 1125954000000,
+    "total_assets": 1765105000000,
+    "bps": 4562.08,
+    "cash_end": 339817000000,
+    "equity_ratio": 0.564,
+    "roe": 0.094,
+    "per": 22.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04773-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

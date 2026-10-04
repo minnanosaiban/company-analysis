@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "edinet_code": "E04773",
+    "sec_code": "9735",
+    "company_name": "セコム株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4G7"
+  },
+  "financials": {
+    "net_sales": 1101307000000,
+    "ordinary_income": 156124000000,
+    "net_income": 96085000000,
+    "comprehensive_income": 121492000000,
+    "eps": 445.02,
+    "dps": 185,
+    "operating_cf": 146426000000,
+    "investing_cf": -70446000000,
+    "financing_cf": -77836000000,
+    "net_assets": 1316047000000,
+    "total_assets": 1989062000000,
+    "bps": 5427.63,
+    "cash_end": 513592000000,
+    "equity_ratio": 0.585,
+    "roe": 0.084,
+    "per": 18.3,
+    "gross_profit": 342456000000,
+    "operating_income": 136700000000,
+    "income_tax_expense": 44750000000,
+    "interest_bearing_debt_current": 29085000000,
+    "interest_bearing_debt_noncurrent": 12349000000,
+    "bonds_payable": 3081000000,
+    "current_portion_of_bonds": 407000000,
+    "lease_liabilities_current": 4704000000,
+    "lease_liabilities_noncurrent": 14657000000,
+    "depreciation": 62514000000,
+    "capex_ppe": -49779000000,
+    "capex_intangible": -11559000000,
+    "current_assets": 1007547000000,
+    "current_liabilities": 377482000000,
+    "noncurrent_assets": 981515000000,
+    "noncurrent_liabilities": 295533000000,
+    "trade_payables": 46985000000,
+    "ppe": 403837000000,
+    "goodwill": 70496000000,
+    "intangible_assets": 132772000000,
+    "investment_securities": 298364000000,
+    "treasury_stock": -109224000000,
+    "noncontrolling_interests": 151621000000
+  },
+  "segments": [
+    {
+      "key": "BPOICT",
+      "label": null,
+      "external_revenue": 128082000000,
+      "intersegment_revenue": 10789000000,
+      "operating_income": 11643000000
+    },
+    {
+      "key": "FireProtectionServices",
+      "label": null,
+      "external_revenue": 145662000000,
+      "intersegment_revenue": 3124000000,
+      "operating_income": 11497000000
+    },
+    {
+      "key": "GeospatialInformationServices",
+      "label": null,
+      "external_revenue": 62085000000,
+      "intersegment_revenue": 226000000,
+      "operating_income": 6781000000
+    },
+    {
+      "key": "InsuranceServices",
+      "label": null,
+      "external_revenue": 55560000000,
+      "intersegment_revenue": 3012000000,
+      "operating_income": 1037000000
+    },
+    {
+      "key": "MedicalServices",
+      "label": null,
+      "external_revenue": 77623000000,
+      "intersegment_revenue": 239000000,
+      "operating_income": 5873000000
+    },
+    {
+      "key": "SecurityServices",
+      "label": null,
+      "external_revenue": 583338000000,
+      "intersegment_revenue": 11988000000,
+      "operating_income": 111501000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04773-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

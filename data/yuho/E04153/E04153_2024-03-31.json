@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E04153",
+    "sec_code": "9023",
+    "company_name": "東京地下鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W3LV"
+  },
+  "financials": {
+    "ordinary_income": 65866000000,
+    "net_income": 46262000000,
+    "comprehensive_income": 46671000000,
+    "eps": 79.63,
+    "dps": 32,
+    "operating_cf": 135066000000,
+    "investing_cf": -100230000000,
+    "financing_cf": -33153000000,
+    "net_assets": 668395000000,
+    "total_assets": 2022524000000,
+    "bps": 1150.42,
+    "cash_end": 90665000000,
+    "equity_ratio": 0.33,
+    "roe": 0.071,
+    "operating_income": 76359000000,
+    "income_tax_expense": 10885000000,
+    "interest_bearing_debt_noncurrent": 307692000000,
+    "bonds_payable": 577000000000,
+    "current_portion_of_bonds": 10000000000,
+    "current_portion_lt_loans": 32086000000,
+    "depreciation": 73747000000,
+    "current_assets": 337220000000,
+    "current_liabilities": 173620000000,
+    "noncurrent_assets": 1685303000000,
+    "noncurrent_liabilities": 1180507000000,
+    "trade_payables": 876000000,
+    "ppe": 1515713000000,
+    "intangible_assets": 100579000000,
+    "investment_securities": 2669000000
+  },
+  "segments": [
+    {
+      "key": "LogisticsAndAdvertising",
+      "label": null,
+      "external_revenue": 21121000000,
+      "intersegment_revenue": 2798000000,
+      "operating_income": 7969000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産",
+      "external_revenue": 13482000000,
+      "intersegment_revenue": 171000000,
+      "operating_income": 4563000000
+    },
+    {
+      "key": "Transportation",
+      "label": "運輸",
+      "external_revenue": 354169000000,
+      "intersegment_revenue": 2297000000,
+      "operating_income": 63785000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04153-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

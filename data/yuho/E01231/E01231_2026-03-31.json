@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "edinet_code": "E01231",
+    "sec_code": "5406",
+    "company_name": "株式会社　神戸製鋼所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-18",
+    "doc_id": "S100YCDA"
+  },
+  "financials": {
+    "net_sales": 2436581000000,
+    "ordinary_income": 121336000000,
+    "net_income": 93717000000,
+    "comprehensive_income": 138491000000,
+    "eps": 237.8,
+    "dps": 80,
+    "operating_cf": 201683000000,
+    "investing_cf": -73659000000,
+    "financing_cf": -162410000000,
+    "net_assets": 1330453000000,
+    "total_assets": 2865184000000,
+    "bps": 3189.56,
+    "cash_end": 189028000000,
+    "equity_ratio": 0.44,
+    "roe": 0.0774,
+    "per": 7.95,
+    "gross_profit": 403224000000,
+    "operating_income": 129883000000,
+    "income_tax_expense": 22222000000,
+    "interest_bearing_debt_current": 143700000000,
+    "interest_bearing_debt_noncurrent": 428373000000,
+    "bonds_payable": 135000000000,
+    "commercial_papers": 26000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_current": 6005000000,
+    "lease_liabilities_noncurrent": 20838000000,
+    "depreciation": 123948000000,
+    "current_assets": 1386473000000,
+    "current_liabilities": 850853000000,
+    "noncurrent_assets": 1478711000000,
+    "noncurrent_liabilities": 683877000000,
+    "trade_payables": 363837000000,
+    "ppe": 1020901000000,
+    "goodwill": 1834000000,
+    "intangible_assets": 57680000000,
+    "investment_securities": 215448000000,
+    "treasury_stock": -1288000000,
+    "noncontrolling_interests": 69128000000
+  },
+  "segments": [
+    {
+      "key": "AdvancedMaterials",
+      "label": null,
+      "external_revenue": 320218000000,
+      "intersegment_revenue": 12651000000,
+      "ordinary_income": 8704000000,
+      "equity_method_income": 129000000
+    },
+    {
+      "key": "ConstructionMachinery",
+      "label": null,
+      "external_revenue": 389472000000,
+      "intersegment_revenue": 88000000,
+      "ordinary_income": 12366000000,
+      "equity_method_income": 625000000
+    },
+    {
+      "key": "ElectricPower",
+      "label": null,
+      "external_revenue": 203201000000,
+      "ordinary_income": 34764000000
+    },
+    {
+      "key": "Engineering",
+      "label": null,
+      "external_revenue": 191521000000,
+      "intersegment_revenue": 2376000000,
+      "ordinary_income": 12627000000,
+      "equity_method_income": -491000000
+    },
+    {
+      "key": "Machinery",
+      "label": null,
+      "external_revenue": 269014000000,
+      "intersegment_revenue": 13727000000,
+      "ordinary_income": 46703000000,
+      "equity_method_income": 102000000
+    },
+    {
+      "key": "SteelAndAluminum",
+      "label": null,
+      "external_revenue": 961469000000,
+      "intersegment_revenue": 35447000000,
+      "ordinary_income": 2885000000,
+      "equity_method_income": 9675000000
+    },
+    {
+      "key": "Welding",
+      "label": null,
+      "external_revenue": 95610000000,
+      "intersegment_revenue": 853000000,
+      "ordinary_income": 5861000000,
+      "equity_method_income": 0
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01231-000_2026-03-31_01_2026-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

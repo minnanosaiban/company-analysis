@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E02644",
+    "sec_code": "8060",
+    "company_name": "キヤノンマーケティングジャパン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T53R"
+  },
+  "financials": {
+    "net_sales": 588132000000,
+    "ordinary_income": 50991000000,
+    "net_income": 35552000000,
+    "comprehensive_income": 36710000000,
+    "eps": 274.16,
+    "eps_diluted": 274.1,
+    "dps": 90,
+    "operating_cf": 37725000000,
+    "investing_cf": -10107000000,
+    "financing_cf": -11259000000,
+    "net_assets": 400372000000,
+    "total_assets": 543740000000,
+    "bps": 3081.07,
+    "cash_end": 84632000000,
+    "equity_ratio": 0.735,
+    "roe": 0.092,
+    "per": 10.9,
+    "gross_profit": 199289000000,
+    "operating_income": 49947000000,
+    "income_tax_expense": 14244000000,
+    "lease_liabilities_current": 45000000,
+    "lease_liabilities_noncurrent": 73000000,
+    "depreciation": 9592000000,
+    "capex_ppe": -8889000000,
+    "capex_intangible": -894000000,
+    "current_assets": 419708000000,
+    "current_liabilities": 108062000000,
+    "noncurrent_assets": 124032000000,
+    "noncurrent_liabilities": 35305000000,
+    "trade_payables": 47376000000,
+    "ppe": 85276000000,
+    "goodwill": 327000000,
+    "intangible_assets": 5995000000,
+    "investment_securities": 13312000000,
+    "treasury_stock": -2092000000,
+    "noncontrolling_interests": 801000000
+  },
+  "segments": [
+    {
+      "key": "Area",
+      "label": "エリア",
+      "external_revenue": 215019000000,
+      "intersegment_revenue": 11541000000,
+      "operating_income": 15563000000
+    },
+    {
+      "key": "Consumers",
+      "label": null,
+      "external_revenue": 136574000000,
+      "intersegment_revenue": 37000000,
+      "operating_income": 13940000000
+    },
+    {
+      "key": "Enterprise",
+      "label": "エンタープライズ",
+      "external_revenue": 191507000000,
+      "intersegment_revenue": 11222000000,
+      "operating_income": 17072000000
+    },
+    {
+      "key": "Professional",
+      "label": "プロフェッショナル",
+      "external_revenue": 40377000000,
+      "intersegment_revenue": 1293000000,
+      "operating_income": 5240000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02644-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

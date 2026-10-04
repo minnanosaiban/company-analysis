@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00060",
+    "sec_code": "1820",
+    "company_name": "西松建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R536"
+  },
+  "financials": {
+    "net_sales": 336241000000,
+    "ordinary_income": 21561000000,
+    "net_income": 17166000000,
+    "comprehensive_income": 14066000000,
+    "eps": 313.83,
+    "dps": 105,
+    "operating_cf": 4907000000,
+    "investing_cf": 5302000000,
+    "financing_cf": -12653000000,
+    "net_assets": 207537000000,
+    "total_assets": 472440000000,
+    "bps": 3765.62,
+    "cash_end": 43574000000,
+    "equity_ratio": 0.436,
+    "roe": 0.0852,
+    "per": 8.95
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00060-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

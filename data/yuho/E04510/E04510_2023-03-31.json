@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E04510",
+    "sec_code": "9513",
+    "company_name": "電源開発株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7S6"
+  },
+  "financials": {
+    "ordinary_income": 170792000000,
+    "net_income": 113689000000,
+    "comprehensive_income": 194719000000,
+    "eps": 621.5,
+    "dps": 90,
+    "operating_cf": 155832000000,
+    "investing_cf": -150839000000,
+    "financing_cf": 96021000000,
+    "net_assets": 1192743000000,
+    "total_assets": 3362685000000,
+    "bps": 5931.68,
+    "cash_end": 334294000000,
+    "equity_ratio": 0.323,
+    "roe": 0.114,
+    "per": 3.4,
+    "operating_income": 183867000000,
+    "income_tax_expense": 37935000000,
+    "interest_bearing_debt_current": 10715000000,
+    "interest_bearing_debt_noncurrent": 893363000000,
+    "bonds_payable": 774085000000,
+    "lease_liabilities_noncurrent": 1695000000,
+    "depreciation": 107642000000,
+    "current_assets": 661300000000,
+    "current_liabilities": 372019000000,
+    "noncurrent_assets": 2701385000000,
+    "noncurrent_liabilities": 1797923000000,
+    "inventories": 110315000000,
+    "trade_payables": 53774000000,
+    "treasury_stock": -378000000,
+    "noncontrolling_interests": 108064000000
+  },
+  "segments": [
+    {
+      "key": "ElectricPower",
+      "label": null,
+      "external_revenue": 1417902000000,
+      "intersegment_revenue": 2394000000,
+      "ordinary_income": 54591000000,
+      "equity_method_income": -433000000
+    },
+    {
+      "key": "ElectricPowerRelated",
+      "label": null,
+      "external_revenue": 119203000000,
+      "intersegment_revenue": 202534000000,
+      "ordinary_income": 92831000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 27260000000,
+      "intersegment_revenue": 2062000000,
+      "ordinary_income": 1805000000
+    },
+    {
+      "key": "Overseas",
+      "label": null,
+      "external_revenue": 277555000000,
+      "ordinary_income": 22692000000,
+      "equity_method_income": 9562000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04510-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E04517",
+    "sec_code": "9533",
+    "company_name": "東邦瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TTYV"
+  },
+  "financials": {
+    "net_sales": 632985000000,
+    "ordinary_income": 40797000000,
+    "net_income": 27304000000,
+    "comprehensive_income": 60606000000,
+    "eps": 259.71,
+    "dps": 70,
+    "operating_cf": 47376000000,
+    "investing_cf": -42078000000,
+    "financing_cf": -14243000000,
+    "net_assets": 456852000000,
+    "total_assets": 734524000000,
+    "bps": 4345.14,
+    "cash_end": 25431000000,
+    "equity_ratio": 0.622,
+    "roe": 0.064,
+    "per": 13.3,
+    "gross_profit": 171535000000,
+    "operating_income": 33597000000,
+    "income_tax_expense": 9898000000,
+    "interest_bearing_debt_current": 2088000000,
+    "interest_bearing_debt_noncurrent": 60283000000,
+    "bonds_payable": 67500000000,
+    "depreciation": 38467000000,
+    "current_assets": 180567000000,
+    "current_liabilities": 93045000000,
+    "noncurrent_assets": 553957000000,
+    "noncurrent_liabilities": 184626000000,
+    "inventories": 30609000000,
+    "trade_payables": 35588000000,
+    "ppe": 297784000000,
+    "intangible_assets": 14681000000,
+    "investment_securities": 166985000000,
+    "treasury_stock": -367000000
+  },
+  "segments": [
+    {
+      "key": "Electricity",
+      "label": "電気",
+      "external_revenue": 88279000000,
+      "intersegment_revenue": 318000000,
+      "operating_income": -5974000000
+    },
+    {
+      "key": "Gas",
+      "label": "ガス",
+      "external_revenue": 413674000000,
+      "intersegment_revenue": 5359000000,
+      "operating_income": 29832000000
+    },
+    {
+      "key": "LPGAndOtherEnergy",
+      "label": "LPG・その他エネルギー",
+      "external_revenue": 100123000000,
+      "intersegment_revenue": 1426000000,
+      "operating_income": 3076000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04517-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

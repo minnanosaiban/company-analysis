@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "edinet_code": "E02127",
+    "sec_code": "7012",
+    "company_name": "川崎重工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R4RQ"
+  },
+  "financials": {
+    "net_sales": 1488486000000,
+    "ordinary_income": -2855000000,
+    "net_income": -19332000000,
+    "comprehensive_income": 12848000000,
+    "eps": -115.73,
+    "operating_cf": 34601000000,
+    "investing_cf": -37392000000,
+    "financing_cf": 23093000000,
+    "net_assets": 482775000000,
+    "total_assets": 1963276000000,
+    "bps": 2785.71,
+    "cash_end": 122166000000,
+    "equity_ratio": 0.237,
+    "current_assets": 1224865000000,
+    "current_liabilities": 992187000000,
+    "noncurrent_assets": 865814000000,
+    "trade_receivables": 355061000000,
+    "inventories": 565860000000,
+    "trade_payables": 418070000000,
+    "ppe": 449155000000,
+    "intangible_assets": 62510000000,
+    "equity_method_investments": 73464000000,
+    "treasury_stock": -136000000,
+    "noncontrolling_interests": 17498000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02127-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

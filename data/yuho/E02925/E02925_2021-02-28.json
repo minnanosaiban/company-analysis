@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02925",
+    "sec_code": "2670",
+    "company_name": "株式会社エービーシー・マート",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QUO2"
+  },
+  "financials": {
+    "net_sales": 220267000000,
+    "ordinary_income": 21283000000,
+    "net_income": 19226000000,
+    "comprehensive_income": 21165000000,
+    "eps": 232.94,
+    "dps": 170,
+    "operating_cf": 23487000000,
+    "investing_cf": -11316000000,
+    "financing_cf": -15016000000,
+    "net_assets": 278943000000,
+    "total_assets": 317832000000,
+    "bps": 3363.55,
+    "cash_end": 146454000000,
+    "equity_ratio": 0.873,
+    "roe": 0.07,
+    "per": 26
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02925-000_2023-02-28_01_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

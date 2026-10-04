@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E03753",
+    "sec_code": "8601",
+    "company_name": "株式会社大和証券グループ本社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YCMP"
+  },
+  "financials": {
+    "ordinary_income": 234510000000,
+    "net_income": 175281000000,
+    "comprehensive_income": 271898000000,
+    "eps": 126.04,
+    "eps_diluted": 124.15,
+    "dps": 64,
+    "operating_cf": 438963000000,
+    "investing_cf": -583599000000,
+    "financing_cf": 199423000000,
+    "net_assets": 2045809000000,
+    "total_assets": 38077646000000,
+    "bps": 1272.72,
+    "cash_end": 3772624000000,
+    "equity_ratio": 0.046,
+    "roe": 0.103,
+    "per": 11.6,
+    "operating_income": 207333000000,
+    "income_tax_expense": 75201000000,
+    "interest_bearing_debt_current": 2033926000000,
+    "interest_bearing_debt_noncurrent": 1850739000000,
+    "bonds_payable": 1031024000000,
+    "commercial_papers": 396500000000,
+    "current_portion_of_bonds": 459397000000,
+    "depreciation": 44418000000,
+    "capex_ppe": -68585000000,
+    "capex_intangible": -43156000000,
+    "current_assets": 36219548000000,
+    "current_liabilities": 32979901000000,
+    "noncurrent_assets": 1858097000000,
+    "noncurrent_liabilities": 3043658000000,
+    "trade_payables": 8131000000,
+    "ppe": 977957000000,
+    "goodwill": 16101000000,
+    "intangible_assets": 154732000000,
+    "investment_securities": 673079000000,
+    "treasury_stock": -149544000000,
+    "noncontrolling_interests": 276419000000
+  },
+  "segments": [
+    {
+      "key": "AssetManagement",
+      "label": "アセットマネジメント部門",
+      "external_revenue": 134912000000,
+      "intersegment_revenue": -22982000000,
+      "ordinary_income": 65432000000,
+      "equity_method_income": 12234000000
+    },
+    {
+      "key": "GlobalMarketsInvestmentBanking",
+      "label": "グローバル・マーケッツ インベストメント・バンキング部門",
+      "external_revenue": 255511000000,
+      "intersegment_revenue": 1884000000,
+      "ordinary_income": 58995000000,
+      "equity_method_income": 1614000000
+    },
+    {
+      "key": "WealthManagement",
+      "label": "ウェルスマネジメント部門",
+      "external_revenue": 278025000000,
+      "intersegment_revenue": 17763000000,
+      "ordinary_income": 112033000000,
+      "equity_method_income": 236000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03753-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

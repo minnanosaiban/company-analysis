@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E04514",
+    "sec_code": "9531",
+    "company_name": "東京瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R87L"
+  },
+  "financials": {
+    "net_sales": 2154860000000,
+    "ordinary_income": 136481000000,
+    "net_income": 95702000000,
+    "comprehensive_income": 105816000000,
+    "eps": 217.67,
+    "dps": 65,
+    "operating_cf": 145227000000,
+    "investing_cf": -224656000000,
+    "financing_cf": 90490000000,
+    "net_assets": 1281150000000,
+    "total_assets": 3187627000000,
+    "bps": 2847.88,
+    "cash_end": 179699000000,
+    "equity_ratio": 0.393,
+    "roe": 0.079,
+    "per": 10.3,
+    "gross_profit": 388467000000,
+    "operating_income": 127525000000,
+    "income_tax_expense": 32951000000,
+    "interest_bearing_debt_current": 6385000000,
+    "interest_bearing_debt_noncurrent": 568725000000,
+    "bonds_payable": 548619000000,
+    "current_portion_lt_loans": 48972000000,
+    "depreciation": 196810000000,
+    "capex_ppe": -167197000000,
+    "capex_intangible": -29777000000,
+    "current_assets": 899870000000,
+    "current_liabilities": 551990000000,
+    "noncurrent_assets": 2287757000000,
+    "noncurrent_liabilities": 1354486000000,
+    "trade_payables": 76229000000,
+    "ppe": 1569373000000,
+    "goodwill": 6018000000,
+    "intangible_assets": 300315000000,
+    "investment_securities": 236303000000,
+    "treasury_stock": -3524000000,
+    "noncontrolling_interests": 29368000000
+  },
+  "segments": [
+    {
+      "key": "GasSales",
+      "label": null,
+      "external_revenue": 1288618000000,
+      "intersegment_revenue": 165048000000,
+      "operating_income": 112309000000
+    },
+    {
+      "key": "GlobalBusiness",
+      "label": "海外",
+      "external_revenue": 80257000000,
+      "intersegment_revenue": 5674000000,
+      "operating_income": 25487000000
+    },
+    {
+      "key": "OtherEnergyBusiness",
+      "label": null,
+      "external_revenue": 278211000000,
+      "intersegment_revenue": 53101000000,
+      "operating_income": 12818000000
+    },
+    {
+      "key": "Power",
+      "label": null,
+      "external_revenue": 465066000000,
+      "intersegment_revenue": 2738000000,
+      "operating_income": 11117000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 32194000000,
+      "intersegment_revenue": 25767000000,
+      "operating_income": 12532000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04514-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

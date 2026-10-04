@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E02506",
+    "sec_code": "8020",
+    "company_name": "兼松株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W7BP"
+  },
+  "financials": {
+    "dps": 75,
+    "net_sales": 911408000000,
+    "net_income": 18575000000,
+    "comprehensive_income": 24209000000,
+    "net_assets": 128525000000,
+    "total_assets": 677588000000,
+    "equity_ratio": 0.19,
+    "bps": 1538.42,
+    "eps": 222.38,
+    "eps_diluted": 221.89,
+    "roe": 0.129,
+    "per": 7.38,
+    "operating_cf": -296000000,
+    "investing_cf": -16684000000,
+    "financing_cf": 4751000000,
+    "cash_end": 79462000000
+  },
+  "segments": [
+    {
+      "key": "ElectronicsAndDevices",
+      "label": "電子・デバイス",
+      "external_revenue": 282513000000,
+      "intersegment_revenue": 559000000,
+      "operating_income": 20331000000,
+      "profit_attributable_to_owners": 8776000000,
+      "equity_method_income": -506000000,
+      "assets": 232145000000
+    },
+    {
+      "key": "FoodsAndGrain",
+      "label": "食料",
+      "external_revenue": 340448000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 4063000000,
+      "profit_attributable_to_owners": 2192000000,
+      "equity_method_income": -9000000,
+      "assets": 171901000000
+    },
+    {
+      "key": "MotorVehiclesAndAerospace",
+      "label": "車両・航空",
+      "external_revenue": 81344000000,
+      "intersegment_revenue": 14000000,
+      "operating_income": 1485000000,
+      "profit_attributable_to_owners": 803000000,
+      "assets": 62138000000
+    },
+    {
+      "key": "SteelMaterialsAndPlant",
+      "label": "鉄鋼・素材・プラント",
+      "external_revenue": 193393000000,
+      "intersegment_revenue": 97000000,
+      "operating_income": 12339000000,
+      "profit_attributable_to_owners": 6694000000,
+      "equity_method_income": -296000000,
+      "assets": 161977000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02506-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

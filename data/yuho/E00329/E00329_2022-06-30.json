@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "edinet_code": "E00329",
+    "sec_code": "1414",
+    "company_name": "ショーボンドホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-06-30",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-09-12",
+    "doc_id": "S100RUBR"
+  },
+  "financials": {
+    "net_sales": 81193000000,
+    "ordinary_income": 17669000000,
+    "net_income": 12366000000,
+    "comprehensive_income": 12445000000,
+    "eps": 231.06,
+    "dps": 118,
+    "operating_cf": 7834000000,
+    "investing_cf": 5315000000,
+    "financing_cf": -9177000000,
+    "net_assets": 94247000000,
+    "total_assets": 117423000000,
+    "bps": 1768.42,
+    "cash_end": 27023000000,
+    "equity_ratio": 0.802,
+    "roe": 0.134,
+    "per": 25.8,
+    "gross_profit": 22555000000,
+    "operating_income": 17267000000,
+    "income_tax_expense": 5734000000,
+    "depreciation": 566000000,
+    "capex_ppe": -1836000000,
+    "current_assets": 86297000000,
+    "current_liabilities": 21463000000,
+    "noncurrent_assets": 31126000000,
+    "noncurrent_liabilities": 1712000000,
+    "inventories": 1156000000,
+    "ppe": 14585000000,
+    "goodwill": 426000000,
+    "intangible_assets": 704000000,
+    "investment_securities": 12101000000,
+    "treasury_stock": -5514000000,
+    "noncontrolling_interests": 93000000
+  },
+  "segments": [
+    {
+      "key": "DomesticConstruction",
+      "label": null,
+      "external_revenue": 77820000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 16476000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00329-000_2022-06-30_02_2023-09-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "edinet_code": "E00461",
+    "sec_code": "2875",
+    "company_name": "東洋水産株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YDW0"
+  },
+  "financials": {
+    "net_sales": 536636000000,
+    "ordinary_income": 94050000000,
+    "net_income": 70188000000,
+    "comprehensive_income": 93790000000,
+    "eps": 713.27,
+    "dps": 220,
+    "operating_cf": 85161000000,
+    "investing_cf": -45034000000,
+    "financing_cf": -43761000000,
+    "net_assets": 543927000000,
+    "total_assets": 642877000000,
+    "bps": 5453.98,
+    "cash_end": 35687000000,
+    "equity_ratio": 0.8258,
+    "roe": 0.1387,
+    "per": 15.42,
+    "gross_profit": 165009000000,
+    "operating_income": 85799000000,
+    "income_tax_expense": 23413000000,
+    "interest_bearing_debt_current": 481000000,
+    "lease_liabilities_current": 309000000,
+    "lease_liabilities_noncurrent": 2488000000,
+    "depreciation": 18290000000,
+    "capex_ppe": -41837000000,
+    "capex_intangible": -4413000000,
+    "current_assets": 377642000000,
+    "current_liabilities": 72310000000,
+    "noncurrent_assets": 265235000000,
+    "noncurrent_liabilities": 26639000000,
+    "trade_payables": 32234000000,
+    "ppe": 211099000000,
+    "goodwill": 598000000,
+    "intangible_assets": 8330000000,
+    "investment_securities": 42429000000,
+    "treasury_stock": -55684000000,
+    "noncontrolling_interests": 13024000000
+  },
+  "segments": [
+    {
+      "key": "ColdStorage",
+      "label": null,
+      "external_revenue": 26318000000,
+      "intersegment_revenue": 1161000000,
+      "operating_income": 2822000000
+    },
+    {
+      "key": "DomesticInstantNoodles",
+      "label": null,
+      "external_revenue": 104423000000,
+      "intersegment_revenue": 109000000,
+      "operating_income": 10468000000
+    },
+    {
+      "key": "FrozenAndRefrigeratedFoods",
+      "label": null,
+      "external_revenue": 61543000000,
+      "intersegment_revenue": 10000000,
+      "operating_income": 8093000000
+    },
+    {
+      "key": "OverseasInstantNoodles",
+      "label": null,
+      "external_revenue": 248153000000,
+      "operating_income": 63607000000
+    },
+    {
+      "key": "ProcessedFoods",
+      "label": null,
+      "external_revenue": 23378000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": -441000000
+    },
+    {
+      "key": "Seafood",
+      "label": null,
+      "external_revenue": 32738000000,
+      "intersegment_revenue": 1107000000,
+      "operating_income": 1467000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00461-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

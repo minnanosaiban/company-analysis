@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01766",
+    "sec_code": "6702",
+    "company_name": "富士通株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R3OA"
+  },
+  "financials": {
+    "dps": 180,
+    "net_sales": 3857797000000,
+    "net_income": 160042000000,
+    "comprehensive_income": 171361000000,
+    "net_assets": 1240956000000,
+    "total_assets": 3187445000000,
+    "equity_ratio": 0.389,
+    "bps": 6197.11,
+    "eps": 791.2,
+    "eps_diluted": 790.76,
+    "roe": 0.135,
+    "per": 12.33,
+    "operating_cf": 347263000000,
+    "investing_cf": -114206000000,
+    "financing_cf": -193164000000,
+    "cash_end": 453036000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01766-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

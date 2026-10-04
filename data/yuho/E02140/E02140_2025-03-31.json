@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "edinet_code": "E02140",
+    "sec_code": "7276",
+    "company_name": "株式会社小糸製作所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W48W"
+  },
+  "financials": {
+    "net_sales": 916709000000,
+    "ordinary_income": 49147000000,
+    "net_income": 46240000000,
+    "comprehensive_income": 27184000000,
+    "eps": 156.49,
+    "eps_diluted": 156.47,
+    "dps": 56,
+    "operating_cf": 88363000000,
+    "investing_cf": -40995000000,
+    "financing_cf": -78348000000,
+    "net_assets": 679865000000,
+    "total_assets": 889952000000,
+    "bps": 2210.09,
+    "cash_end": 101265000000,
+    "equity_ratio": 0.7047,
+    "roe": 0.0712,
+    "per": 11.74,
+    "gross_profit": 96671000000,
+    "operating_income": 44873000000,
+    "income_tax_expense": 11986000000,
+    "interest_bearing_debt_current": 5728000000,
+    "depreciation": 43716000000,
+    "capex_ppe": -48286000000,
+    "current_assets": 546361000000,
+    "current_liabilities": 173359000000,
+    "noncurrent_assets": 343590000000,
+    "noncurrent_liabilities": 36726000000,
+    "inventories": 95100000000,
+    "trade_payables": 100990000000,
+    "ppe": 209643000000,
+    "goodwill": 9740000000,
+    "intangible_assets": 15614000000,
+    "investment_securities": 100620000000,
+    "treasury_stock": -49941000000,
+    "noncontrolling_interests": 52663000000
+  },
+  "segments": [
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 155522000000,
+      "intersegment_revenue": 351000000,
+      "operating_income": 16909000000
+    },
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 58303000000,
+      "intersegment_revenue": 10926000000,
+      "operating_income": -1106000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 36182000000,
+      "intersegment_revenue": 212000000,
+      "operating_income": -792000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 351640000000,
+      "intersegment_revenue": 20039000000,
+      "operating_income": 22657000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 297157000000,
+      "intersegment_revenue": 596000000,
+      "operating_income": 3783000000
+    },
+    {
+      "key": "Others",
+      "label": null,
+      "external_revenue": 17903000000,
+      "intersegment_revenue": 0,
+      "operating_income": 1503000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02140-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

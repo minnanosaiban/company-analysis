@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01991",
+    "sec_code": "6920",
+    "company_name": "レーザーテック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-09-28",
+    "doc_id": "S100RWZQ"
+  },
+  "financials": {
+    "net_sales": 28769000000,
+    "ordinary_income": 7834000000,
+    "net_income": 5933000000,
+    "comprehensive_income": 5767000000,
+    "eps": 65.8,
+    "eps_diluted": 65.75,
+    "dps": 47,
+    "operating_cf": 5800000000,
+    "investing_cf": -994000000,
+    "financing_cf": -1715000000,
+    "net_assets": 31107000000,
+    "total_assets": 50055000000,
+    "bps": 344.72,
+    "cash_end": 13120000000,
+    "equity_ratio": 0.621,
+    "roe": 0.204,
+    "per": 32.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01991-000_2023-06-30_01_2023-09-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

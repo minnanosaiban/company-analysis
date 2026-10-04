@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E01888",
+    "sec_code": "6988",
+    "company_name": "日東電工株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R248"
+  },
+  "financials": {
+    "dps": 240,
+    "net_sales": 929036000000,
+    "net_income": 109173000000,
+    "comprehensive_income": 137078000000,
+    "net_assets": 902211000000,
+    "total_assets": 1153647000000,
+    "equity_ratio": 0.782,
+    "bps": 6183.01,
+    "eps": 738.77,
+    "eps_diluted": 738.48,
+    "roe": 0.127,
+    "per": 11.6,
+    "operating_cf": 181702000000,
+    "investing_cf": -159906000000,
+    "financing_cf": -57627000000,
+    "cash_end": 329966000000,
+    "operating_income": 147173000000,
+    "gross_profit": 337443000000,
+    "income_tax_expense": 37576000000,
+    "interest_bearing_debt_current": 272000000,
+    "sga_expense": 145436000000,
+    "profit_before_tax": 146840000000,
+    "depreciation": 57362000000,
+    "current_assets": 677189000000,
+    "current_liabilities": 188248000000,
+    "noncurrent_assets": 476457000000,
+    "inventories": 141101000000,
+    "ppe": 333103000000,
+    "goodwill": 58822000000,
+    "intangible_assets": 21469000000,
+    "equity_method_investments": 2140000000,
+    "treasury_stock": -27631000000,
+    "noncontrolling_interests": 983000000
+  },
+  "segments": [
+    {
+      "key": "HumanLife",
+      "label": "ヒューマンライフ",
+      "external_revenue": 123974000000,
+      "intersegment_revenue": 9403000000,
+      "revenue": 133377000000,
+      "operating_income": 840000000,
+      "assets": 206671000000
+    },
+    {
+      "key": "IndustrialTape",
+      "label": "インダストリアルテープ",
+      "external_revenue": 334456000000,
+      "intersegment_revenue": 4976000000,
+      "revenue": 339433000000,
+      "operating_income": 27553000000,
+      "assets": 282267000000
+    },
+    {
+      "key": "Optronics",
+      "label": "オプトロニクス",
+      "external_revenue": 469330000000,
+      "intersegment_revenue": 13102000000,
+      "revenue": 482432000000,
+      "operating_income": 129867000000,
+      "assets": 588380000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01888-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

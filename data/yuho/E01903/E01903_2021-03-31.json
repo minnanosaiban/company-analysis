@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01903",
+    "sec_code": "6849",
+    "company_name": "日本光電工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8P1"
+  },
+  "financials": {
+    "net_sales": 199727000000,
+    "ordinary_income": 28374000000,
+    "net_income": 18243000000,
+    "comprehensive_income": 20143000000,
+    "eps": 214.21,
+    "dps": 55,
+    "operating_cf": 13945000000,
+    "investing_cf": -2946000000,
+    "financing_cf": -3007000000,
+    "net_assets": 138986000000,
+    "total_assets": 193030000000,
+    "bps": 1631.88,
+    "cash_end": 44356000000,
+    "equity_ratio": 0.72,
+    "roe": 0.14,
+    "per": 15.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01903-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

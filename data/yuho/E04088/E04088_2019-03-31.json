@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04088",
+    "sec_code": "9007",
+    "company_name": "小田急電鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8W0"
+  },
+  "financials": {
+    "ordinary_income": 49687000000,
+    "net_income": 32468000000,
+    "comprehensive_income": 30279000000,
+    "eps": 90.11,
+    "dps": 21,
+    "operating_cf": 72733000000,
+    "investing_cf": -80094000000,
+    "financing_cf": -15083000000,
+    "net_assets": 389180000000,
+    "total_assets": 1312433000000,
+    "bps": 1061.37,
+    "cash_end": 21636000000,
+    "equity_ratio": 0.291,
+    "roe": 0.087,
+    "per": 29.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04088-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

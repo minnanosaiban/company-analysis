@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "edinet_code": "E09753",
+    "sec_code": "7164",
+    "company_name": "全国保証株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-12",
+    "doc_id": "S100YAIZ"
+  },
+  "financials": {
+    "ordinary_income": 46554000000,
+    "net_income": 32526000000,
+    "comprehensive_income": 33786000000,
+    "eps": 243.7,
+    "dps": 120,
+    "operating_cf": 32833000000,
+    "investing_cf": -42356000000,
+    "financing_cf": -27337000000,
+    "net_assets": 245148000000,
+    "total_assets": 500831000000,
+    "bps": 1845.14,
+    "cash_end": 55524000000,
+    "equity_ratio": 0.489,
+    "roe": 0.134,
+    "per": 12.9,
+    "operating_income": 41382000000,
+    "income_tax_expense": 14774000000,
+    "interest_bearing_debt_noncurrent": 30000000000,
+    "depreciation": 1004000000,
+    "capex_ppe": -74000000,
+    "capex_intangible": -319000000,
+    "current_assets": 130927000000,
+    "current_liabilities": 41042000000,
+    "noncurrent_assets": 369903000000,
+    "noncurrent_liabilities": 214640000000,
+    "ppe": 496000000,
+    "intangible_assets": 2446000000,
+    "investment_securities": 309145000000,
+    "treasury_stock": -14673000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E09753-000_2026-03-31_01_2026-06-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

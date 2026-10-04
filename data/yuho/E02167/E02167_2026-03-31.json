@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E02167",
+    "sec_code": "7269",
+    "company_name": "スズキ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YFG2"
+  },
+  "financials": {
+    "dps": 46,
+    "net_sales": 6292967000000,
+    "net_income": 439267000000,
+    "comprehensive_income": 506548000000,
+    "net_assets": 3382083000000,
+    "total_assets": 6636815000000,
+    "equity_ratio": 0.51,
+    "bps": 1753.03,
+    "eps": 227.69,
+    "eps_diluted": 227.66,
+    "roe": 0.138,
+    "per": 8.2,
+    "operating_cf": 717535000000,
+    "investing_cf": -499543000000,
+    "financing_cf": -127287000000,
+    "cash_end": 973291000000,
+    "operating_income": 622909000000,
+    "gross_profit": 1604347000000,
+    "income_tax_expense": 186857000000,
+    "interest_bearing_debt_current": 263394000000,
+    "interest_bearing_debt_noncurrent": 485229000000,
+    "sga_expense": 1012493000000,
+    "profit_before_tax": 730744000000,
+    "depreciation": 277781000000,
+    "capex_ppe": -377403000000,
+    "current_assets": 2913096000000,
+    "current_liabilities": 1676902000000,
+    "noncurrent_assets": 3723719000000,
+    "trade_receivables": 612892000000,
+    "inventories": 692677000000,
+    "trade_payables": 538288000000,
+    "ppe": 1802113000000,
+    "intangible_assets": 185449000000,
+    "equity_method_investments": 141790000000,
+    "treasury_stock": -39168000000,
+    "noncontrolling_interests": 771025000000
+  },
+  "segments": [
+    {
+      "key": "AutomobileBusiness",
+      "label": null,
+      "external_revenue": 5706420000000,
+      "revenue": 5706420000000,
+      "operating_income": 547632000000,
+      "assets": 5066943000000
+    },
+    {
+      "key": "MarineBusiness",
+      "label": null,
+      "external_revenue": 119456000000,
+      "revenue": 119456000000,
+      "operating_income": 26605000000,
+      "assets": 123252000000
+    },
+    {
+      "key": "MotorcycleBusiness",
+      "label": null,
+      "external_revenue": 454488000000,
+      "revenue": 454488000000,
+      "operating_income": 44770000000,
+      "assets": 419115000000
+    },
+    {
+      "key": "OtherBusiness",
+      "label": null,
+      "external_revenue": 12601000000,
+      "revenue": 12601000000,
+      "operating_income": 3900000000,
+      "assets": 40564000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02167-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

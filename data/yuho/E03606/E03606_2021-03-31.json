@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03606",
+    "sec_code": "8306",
+    "company_name": "株式会社 三菱ＵＦＪフィナンシャル・グループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4ZI"
+  },
+  "financials": {
+    "ordinary_income": 1053610000000,
+    "net_income": 777018000000,
+    "comprehensive_income": 1324655000000,
+    "eps": 60.49,
+    "eps_diluted": 60.25,
+    "dps": 25,
+    "operating_cf": 34904946000000,
+    "investing_cf": -10140343000000,
+    "financing_cf": -436071000000,
+    "net_assets": 17716257000000,
+    "total_assets": 359473515000000,
+    "bps": 1308.12,
+    "cash_end": 102980711000000,
+    "equity_ratio": 0.0467,
+    "roe": 0.0473,
+    "per": 9.8,
+    "ordinary_revenue": 6025336000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03606-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

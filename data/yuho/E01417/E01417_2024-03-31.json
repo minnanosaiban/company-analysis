@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E01417",
+    "sec_code": "5947",
+    "company_name": "リンナイ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TQUE"
+  },
+  "financials": {
+    "net_sales": 430186000000,
+    "ordinary_income": 46071000000,
+    "net_income": 26667000000,
+    "comprehensive_income": 51643000000,
+    "eps": 184.75,
+    "dps": 60,
+    "operating_cf": 43347000000,
+    "investing_cf": -19968000000,
+    "financing_cf": -23664000000,
+    "net_assets": 437438000000,
+    "total_assets": 577088000000,
+    "bps": 2707.86,
+    "cash_end": 123829000000,
+    "equity_ratio": 0.672,
+    "roe": 0.071,
+    "per": 18.86,
+    "gross_profit": 137842000000,
+    "operating_income": 39362000000,
+    "income_tax_expense": 10418000000,
+    "depreciation": 14790000000,
+    "capex_ppe": -36747000000,
+    "capex_intangible": -613000000,
+    "current_assets": 341437000000,
+    "current_liabilities": 106890000000,
+    "noncurrent_assets": 235650000000,
+    "noncurrent_liabilities": 32759000000,
+    "trade_payables": 24427000000,
+    "ppe": 147425000000,
+    "intangible_assets": 3642000000,
+    "investment_securities": 40834000000,
+    "treasury_stock": -10936000000,
+    "noncontrolling_interests": 49663000000
+  },
+  "segments": [
+    {
+      "key": "America",
+      "label": null,
+      "external_revenue": 57875000000,
+      "operating_income": -1197000000
+    },
+    {
+      "key": "Australia",
+      "label": null,
+      "external_revenue": 30338000000,
+      "intersegment_revenue": 90000000,
+      "operating_income": 1245000000
+    },
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 71886000000,
+      "intersegment_revenue": 2126000000,
+      "operating_income": 12146000000
+    },
+    {
+      "key": "Indonesia",
+      "label": null,
+      "external_revenue": 14913000000,
+      "intersegment_revenue": 495000000,
+      "operating_income": 2745000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 192354000000,
+      "intersegment_revenue": 29735000000,
+      "operating_income": 17965000000
+    },
+    {
+      "key": "Korea",
+      "label": null,
+      "external_revenue": 31874000000,
+      "intersegment_revenue": 880000000,
+      "operating_income": 16000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01417-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

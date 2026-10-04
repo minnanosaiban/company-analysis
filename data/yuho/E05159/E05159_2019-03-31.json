@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05159",
+    "sec_code": "8473",
+    "company_name": "ＳＢＩホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R9J7"
+  },
+  "financials": {
+    "dps": 100,
+    "net_sales": 351411000000,
+    "net_income": 52548000000,
+    "comprehensive_income": 48320000000,
+    "net_assets": 456675000000,
+    "total_assets": 5034124000000,
+    "equity_ratio": 0.091,
+    "bps": 2000.82,
+    "eps": 231.43,
+    "eps_diluted": 205.42,
+    "roe": 0.119,
+    "per": 10.66,
+    "operating_cf": -71665000000,
+    "investing_cf": -54731000000,
+    "financing_cf": 407746000000,
+    "cash_end": 713974000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05159-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

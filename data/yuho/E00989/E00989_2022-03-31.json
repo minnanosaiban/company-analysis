@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E00989",
+    "sec_code": "4902",
+    "company_name": "コニカミノルタ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZSF"
+  },
+  "financials": {
+    "dps": 30,
+    "net_sales": 911426000000,
+    "net_income": -26123000000,
+    "comprehensive_income": 34397000000,
+    "net_assets": 549810000000,
+    "total_assets": 1338124000000,
+    "equity_ratio": 0.411,
+    "bps": 1113.71,
+    "eps": -52.93,
+    "eps_diluted": -52.93,
+    "roe": -0.048,
+    "operating_cf": 37438000000,
+    "investing_cf": -50999000000,
+    "financing_cf": 2125000000,
+    "cash_end": 117670000000,
+    "operating_income": -22297000000,
+    "gross_profit": 392736000000,
+    "income_tax_expense": 2589000000,
+    "interest_bearing_debt_current": 194597000000,
+    "interest_bearing_debt_noncurrent": 159709000000,
+    "lease_liabilities_current": 17336000000,
+    "lease_liabilities_noncurrent": 77012000000,
+    "sga_expense": 404890000000,
+    "profit_before_tax": -23617000000,
+    "depreciation": 75754000000,
+    "capex_ppe": -41261000000,
+    "capex_intangible": -19784000000,
+    "current_assets": 618851000000,
+    "current_liabilities": 510995000000,
+    "noncurrent_assets": 719272000000,
+    "trade_receivables": 280214000000,
+    "inventories": 185661000000,
+    "trade_payables": 182063000000,
+    "ppe": 287749000000,
+    "goodwill": 246516000000,
+    "equity_method_investments": 9000000,
+    "treasury_stock": -9517000000,
+    "noncontrolling_interests": 11690000000
+  },
+  "segments": [
+    {
+      "key": "DigitalWorkplaceBusiness",
+      "label": null,
+      "external_revenue": 465421000000,
+      "intersegment_revenue": 2595000000,
+      "operating_income": -6200000000
+    },
+    {
+      "key": "HealthcareBusiness",
+      "label": null,
+      "external_revenue": 109930000000,
+      "intersegment_revenue": 719000000,
+      "operating_income": -20330000000
+    },
+    {
+      "key": "IndustryBusiness",
+      "label": null,
+      "external_revenue": 139240000000,
+      "intersegment_revenue": 5088000000,
+      "operating_income": 18538000000
+    },
+    {
+      "key": "ProfessionalPrintBusiness",
+      "label": null,
+      "external_revenue": 194729000000,
+      "intersegment_revenue": 122000000,
+      "operating_income": 1035000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00989-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

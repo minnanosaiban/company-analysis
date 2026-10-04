@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02143",
+    "sec_code": "7202",
+    "company_name": "いすゞ自動車株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R6CY"
+  },
+  "financials": {
+    "net_sales": 2079936000000,
+    "ordinary_income": 150876000000,
+    "net_income": 81232000000,
+    "comprehensive_income": 67526000000,
+    "eps": 110.14,
+    "dps": 38,
+    "operating_cf": 123701000000,
+    "investing_cf": -92659000000,
+    "financing_cf": -25153000000,
+    "net_assets": 1133381000000,
+    "total_assets": 2152090000000,
+    "bps": 1292.05,
+    "cash_end": 303974000000,
+    "equity_ratio": 0.443,
+    "roe": 0.086,
+    "per": 6.49
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02143-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

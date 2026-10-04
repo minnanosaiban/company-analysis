@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04948",
+    "sec_code": "9435",
+    "company_name": "株式会社光通信",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R7FW"
+  },
+  "financials": {
+    "dps": 456,
+    "net_sales": 559429000000,
+    "net_income": 54614000000,
+    "comprehensive_income": 130422000000,
+    "net_assets": 393444000000,
+    "total_assets": 1256844000000,
+    "equity_ratio": 0.313,
+    "bps": 8574.93,
+    "eps": 1190.28,
+    "eps_diluted": 1185.87,
+    "roe": 0.161,
+    "per": 18.7,
+    "operating_cf": 58121000000,
+    "investing_cf": -96645000000,
+    "financing_cf": 89807000000,
+    "cash_end": 324530000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04948-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

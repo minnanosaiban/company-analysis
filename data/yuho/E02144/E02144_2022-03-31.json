@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E02144",
+    "sec_code": "7203",
+    "company_name": "トヨタ自動車株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100QZHY"
+  },
+  "financials": {
+    "dps": 148,
+    "net_income": 2850110000000,
+    "comprehensive_income": 3954350000000,
+    "net_assets": 26245969000000,
+    "total_assets": 67688771000000,
+    "equity_ratio": 0.388,
+    "bps": 1904.88,
+    "eps": 205.23,
+    "eps_diluted": 205.23,
+    "roe": 0.115,
+    "per": 10.8,
+    "operating_cf": 3722615000000,
+    "investing_cf": -577496000000,
+    "financing_cf": -2466516000000,
+    "cash_end": 6113655000000,
+    "operating_income": 2995697000000,
+    "income_tax_expense": 1115918000000,
+    "sga_expense": 2975977000000,
+    "profit_before_tax": 3990532000000,
+    "depreciation": 1821880000000,
+    "current_assets": 23722290000000,
+    "current_liabilities": 21842161000000,
+    "noncurrent_assets": 43966482000000,
+    "trade_receivables": 3142832000000,
+    "inventories": 3821356000000,
+    "trade_payables": 4292092000000,
+    "ppe": 12326640000000,
+    "intangible_assets": 1191966000000,
+    "equity_method_investments": 4837895000000,
+    "treasury_stock": -3306037000000,
+    "noncontrolling_interests": 908851000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "operating_income": 2284290000000,
+      "assets": 24341737000000
+    },
+    {
+      "key": "FinancialServices",
+      "label": "金融",
+      "operating_income": 657001000000,
+      "assets": 31681472000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "operating_income": 42302000000,
+      "assets": 3091011000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02144-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

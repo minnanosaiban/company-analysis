@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E00818",
+    "sec_code": "4202",
+    "company_name": "株式会社ダイセル",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YBO0"
+  },
+  "financials": {
+    "net_sales": 579629000000,
+    "ordinary_income": 45130000000,
+    "net_income": 10180000000,
+    "comprehensive_income": 27343000000,
+    "eps": 38.75,
+    "dps": 60,
+    "operating_cf": 67838000000,
+    "investing_cf": -47702000000,
+    "financing_cf": -22814000000,
+    "net_assets": 370380000000,
+    "total_assets": 833929000000,
+    "bps": 1392.36,
+    "cash_end": 66830000000,
+    "equity_ratio": 0.426,
+    "roe": 0.0285,
+    "per": 31.63,
+    "gross_profit": 146288000000,
+    "operating_income": 42069000000,
+    "income_tax_expense": 13611000000,
+    "interest_bearing_debt_current": 50099000000,
+    "interest_bearing_debt_noncurrent": 169984000000,
+    "bonds_payable": 70000000000,
+    "current_portion_lt_loans": 14168000000,
+    "depreciation": 43326000000,
+    "capex_ppe": -65327000000,
+    "capex_intangible": -2689000000,
+    "current_assets": 403166000000,
+    "current_liabilities": 197583000000,
+    "noncurrent_assets": 430763000000,
+    "noncurrent_liabilities": 265965000000,
+    "inventories": 174515000000,
+    "trade_payables": 60445000000,
+    "ppe": 334363000000,
+    "goodwill": 52000000,
+    "intangible_assets": 11082000000,
+    "investment_securities": 45453000000,
+    "treasury_stock": -15727000000,
+    "noncontrolling_interests": 14780000000
+  },
+  "segments": [
+    {
+      "key": "EngineeringPlastics",
+      "label": null,
+      "external_revenue": 254718000000,
+      "intersegment_revenue": 200000000,
+      "operating_income": 19151000000
+    },
+    {
+      "key": "MedicalHealthcare",
+      "label": null,
+      "external_revenue": 16227000000,
+      "intersegment_revenue": 17000000,
+      "operating_income": 427000000
+    },
+    {
+      "key": "Safety",
+      "label": null,
+      "external_revenue": 104164000000,
+      "operating_income": 6095000000
+    },
+    {
+      "key": "Smart",
+      "label": null,
+      "external_revenue": 37746000000,
+      "intersegment_revenue": 120000000,
+      "operating_income": 536000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00818-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

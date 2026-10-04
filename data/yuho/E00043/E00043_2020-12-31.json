@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E00043",
+    "sec_code": "1605",
+    "company_name": "株式会社INPEX",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-31",
+    "doc_id": "S100VIRD"
+  },
+  "financials": {
+    "net_sales": 771046000000,
+    "ordinary_income": 257335000000,
+    "net_income": -111699000000,
+    "comprehensive_income": -256830000000,
+    "eps": -76.5,
+    "dps": 24,
+    "operating_cf": 292915000000,
+    "investing_cf": -417189000000,
+    "financing_cf": 126747000000,
+    "net_assets": 3001339000000,
+    "total_assets": 4634518000000,
+    "bps": 1874.08,
+    "cash_end": 172405000000,
+    "equity_ratio": 0.59,
+    "roe": -0.039
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00043-000_2024-12-31_01_2025-03-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

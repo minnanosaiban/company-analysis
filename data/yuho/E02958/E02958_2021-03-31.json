@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02958",
+    "sec_code": "2768",
+    "company_name": "双日株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-16",
+    "doc_id": "S100VY7S"
+  },
+  "financials": {
+    "dps": 10,
+    "net_sales": 1602485000000,
+    "net_income": 27001000000,
+    "comprehensive_income": 59111000000,
+    "net_assets": 619111000000,
+    "total_assets": 2300115000000,
+    "equity_ratio": 0.269,
+    "bps": 2581.58,
+    "eps": 112.53,
+    "eps_diluted": 112.53,
+    "roe": 0.045,
+    "per": 13.9,
+    "operating_cf": 84972000000,
+    "investing_cf": -35676000000,
+    "financing_cf": -40621000000,
+    "cash_end": 287597000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02958-000_2025-03-31_01_2025-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E04284",
+    "sec_code": "9302",
+    "company_name": "三井倉庫ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YEZT"
+  },
+  "financials": {
+    "ordinary_income": 21284000000,
+    "net_income": 11151000000,
+    "comprehensive_income": 26733000000,
+    "eps": 148.27,
+    "eps_diluted": 148.21,
+    "dps": 49,
+    "operating_cf": 23697000000,
+    "investing_cf": -9637000000,
+    "financing_cf": -3416000000,
+    "net_assets": 157093000000,
+    "total_assets": 310706000000,
+    "bps": 1849.68,
+    "cash_end": 47698000000,
+    "equity_ratio": 0.457,
+    "roe": 0.086,
+    "per": 26.9,
+    "operating_income": 22111000000,
+    "income_tax_expense": 5925000000,
+    "interest_bearing_debt_current": 550000000,
+    "interest_bearing_debt_noncurrent": 51070000000,
+    "bonds_payable": 16000000000,
+    "current_portion_lt_loans": 12070000000,
+    "lease_liabilities_current": 1545000000,
+    "lease_liabilities_noncurrent": 4484000000,
+    "depreciation": 11406000000,
+    "capex_ppe": -9861000000,
+    "capex_intangible": -1754000000,
+    "current_assets": 100642000000,
+    "current_liabilities": 56527000000,
+    "noncurrent_assets": 210064000000,
+    "noncurrent_liabilities": 97085000000,
+    "inventories": 2219000000,
+    "ppe": 144230000000,
+    "goodwill": 2325000000,
+    "intangible_assets": 13121000000,
+    "investment_securities": 23679000000,
+    "treasury_stock": -4337000000,
+    "noncontrolling_interests": 15022000000
+  },
+  "segments": [
+    {
+      "key": "LogisticsSegment",
+      "label": null,
+      "external_revenue": 291963000000,
+      "operating_income": 24463000000
+    },
+    {
+      "key": "RealEstateSegment",
+      "label": null,
+      "external_revenue": 7509000000,
+      "intersegment_revenue": 1122000000,
+      "operating_income": 3661000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04284-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

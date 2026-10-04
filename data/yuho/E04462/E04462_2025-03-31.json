@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E04462",
+    "sec_code": "4676",
+    "company_name": "株式会社フジ・メディア・ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W5GP"
+  },
+  "financials": {
+    "net_sales": 550761000000,
+    "ordinary_income": 25180000000,
+    "net_income": -20134000000,
+    "comprehensive_income": -13845000000,
+    "eps": -95.74,
+    "dps": 50,
+    "operating_cf": 58449000000,
+    "investing_cf": -37492000000,
+    "financing_cf": 2463000000,
+    "net_assets": 830023000000,
+    "total_assets": 1440296000000,
+    "bps": 3943.8,
+    "cash_end": 123112000000,
+    "equity_ratio": 0.568,
+    "roe": -0.024,
+    "gross_profit": 139175000000,
+    "operating_income": 18293000000,
+    "income_tax_expense": 12453000000,
+    "interest_bearing_debt_current": 69204000000,
+    "interest_bearing_debt_noncurrent": 261690000000,
+    "bonds_payable": 20000000000,
+    "depreciation": 19740000000,
+    "capex_ppe": -61245000000,
+    "capex_intangible": -4585000000,
+    "current_assets": 398592000000,
+    "current_liabilities": 186939000000,
+    "noncurrent_assets": 1041704000000,
+    "noncurrent_liabilities": 423333000000,
+    "inventories": 82864000000,
+    "trade_payables": 42349000000,
+    "ppe": 550469000000,
+    "goodwill": 1600000000,
+    "intangible_assets": 23708000000,
+    "investment_securities": 414896000000,
+    "treasury_stock": -39055000000,
+    "noncontrolling_interests": 11857000000
+  },
+  "segments": [
+    {
+      "key": "MediaAndContent",
+      "label": null,
+      "external_revenue": 403479000000,
+      "intersegment_revenue": 897000000,
+      "operating_income": -4085000000
+    },
+    {
+      "key": "UrbanDevelopmentHotelsAndResorts",
+      "label": null,
+      "external_revenue": 140431000000,
+      "intersegment_revenue": 558000000,
+      "operating_income": 24490000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04462-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

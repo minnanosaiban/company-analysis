@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "edinet_code": "E02529",
+    "sec_code": "8058",
+    "company_name": "三菱商事株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VYM1"
+  },
+  "financials": {
+    "dps": 60,
+    "net_sales": 21571973000000,
+    "net_income": 1180694000000,
+    "comprehensive_income": 1651771000000,
+    "net_assets": 8065640000000,
+    "total_assets": 22147501000000,
+    "equity_ratio": 0.364,
+    "bps": 1881.69,
+    "eps": 269.76,
+    "eps_diluted": 268.56,
+    "roe": 0.158,
+    "per": 5.87,
+    "operating_cf": 1930138000000,
+    "investing_cf": -177466000000,
+    "financing_cf": -1766638000000,
+    "cash_end": 1556999000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveAndMobility",
+      "label": null,
+      "gross_profit": 231795000000,
+      "equity_method_income": 69098000000,
+      "profit_attributable_to_owners": 131575000000,
+      "assets": 2021907000000
+    },
+    {
+      "key": "ChemicalsSolution",
+      "label": null,
+      "gross_profit": 82262000000,
+      "equity_method_income": 9816000000,
+      "profit_attributable_to_owners": 29479000000,
+      "assets": 691522000000
+    },
+    {
+      "key": "ConsumerIndustry",
+      "label": null,
+      "gross_profit": 733277000000,
+      "equity_method_income": 10009000000,
+      "profit_attributable_to_owners": 18861000000,
+      "assets": 3882050000000
+    },
+    {
+      "key": "FoodIndustry",
+      "label": "食品産業",
+      "gross_profit": 314192000000,
+      "equity_method_income": 32318000000,
+      "profit_attributable_to_owners": 63388000000,
+      "assets": 2102969000000
+    },
+    {
+      "key": "IndustrialInfrastructure",
+      "label": null,
+      "gross_profit": 125293000000,
+      "equity_method_income": 21407000000,
+      "profit_attributable_to_owners": 31870000000,
+      "assets": 1329167000000
+    },
+    {
+      "key": "IndustrialMaterials",
+      "label": null,
+      "gross_profit": 175200000000,
+      "equity_method_income": 43993000000,
+      "profit_attributable_to_owners": 61983000000,
+      "assets": 1461661000000
+    },
+    {
+      "key": "MineralResources",
+      "label": "金属資源",
+      "gross_profit": 656828000000,
+      "equity_method_income": 19164000000,
+      "profit_attributable_to_owners": 439331000000,
+      "assets": 4098105000000
+    },
+    {
+      "key": "NaturalGas",
+      "label": null,
+      "gross_profit": 140000000,
+      "equity_method_income": 233173000000,
+      "profit_attributable_to_owners": 170601000000,
+      "assets": 2043043000000
+    },
+    {
+      "key": "PowerSolution",
+      "label": "電力ソリューション",
+      "gross_profit": 170084000000,
+      "equity_method_income": 3514000000,
+      "profit_attributable_to_owners": 61885000000,
+      "assets": 2716166000000
+    },
+    {
+      "key": "UrbanDevelopment",
+      "label": null,
+      "gross_profit": 29967000000,
+      "equity_method_income": 47891000000,
+      "profit_attributable_to_owners": 123256000000,
+      "assets": 1164595000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02529-000_2025-03-31_01_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

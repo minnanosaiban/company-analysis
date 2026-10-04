@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E01259",
+    "sec_code": "5444",
+    "company_name": "大和工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-30",
+    "doc_id": "S100W82O"
+  },
+  "financials": {
+    "net_sales": 168268000000,
+    "ordinary_income": 54402000000,
+    "net_income": 31833000000,
+    "comprehensive_income": 78966000000,
+    "eps": 502.51,
+    "dps": 400,
+    "operating_cf": 71028000000,
+    "investing_cf": -85679000000,
+    "financing_cf": -42987000000,
+    "net_assets": 602940000000,
+    "total_assets": 657481000000,
+    "bps": 8946.06,
+    "cash_end": 124021000000,
+    "equity_ratio": 0.848,
+    "roe": 0.059,
+    "per": 15.7,
+    "gross_profit": 29527000000,
+    "operating_income": 11493000000,
+    "income_tax_expense": 20470000000,
+    "interest_bearing_debt_noncurrent": 782000000,
+    "current_portion_lt_loans": 1174000000,
+    "depreciation": 9348000000,
+    "capex_ppe": -16434000000,
+    "capex_intangible": -370000000,
+    "current_assets": 310115000000,
+    "current_liabilities": 25265000000,
+    "noncurrent_assets": 347365000000,
+    "noncurrent_liabilities": 29275000000,
+    "trade_payables": 10197000000,
+    "ppe": 115119000000,
+    "goodwill": 13895000000,
+    "intangible_assets": 17746000000,
+    "investment_securities": 74427000000,
+    "treasury_stock": -12326000000,
+    "noncontrolling_interests": 45367000000
+  },
+  "segments": [
+    {
+      "key": "RailwayTrackAccessories",
+      "label": "軌道用品事業",
+      "external_revenue": 8725000000,
+      "operating_income": 1430000000
+    },
+    {
+      "key": "SteelIndonesia",
+      "label": "鉄鋼事業(インドネシア)",
+      "external_revenue": 27966000000,
+      "operating_income": 3787000000
+    },
+    {
+      "key": "SteelJapan",
+      "label": "鉄鋼事業（日本）",
+      "external_revenue": 59514000000,
+      "intersegment_revenue": 686000000,
+      "operating_income": 5961000000
+    },
+    {
+      "key": "SteelThailand",
+      "label": "鉄鋼事業（タイ）",
+      "external_revenue": 69115000000,
+      "intersegment_revenue": 169000000,
+      "operating_income": 5345000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01259-000_2025-03-31_01_2025-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

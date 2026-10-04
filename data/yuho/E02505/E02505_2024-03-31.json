@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "edinet_code": "E02505",
+    "sec_code": "8015",
+    "company_name": "豊田通商株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-19",
+    "doc_id": "S100VZM9"
+  },
+  "financials": {
+    "dps": 280,
+    "net_sales": 10188980000000,
+    "net_income": 331444000000,
+    "comprehensive_income": 634387000000,
+    "net_assets": 2467130000000,
+    "total_assets": 7059994000000,
+    "equity_ratio": 0.3495,
+    "bps": 2337.13,
+    "eps": 313.98,
+    "roe": 0.1513,
+    "per": 10.9,
+    "operating_cf": 542125000000,
+    "investing_cf": -219586000000,
+    "financing_cf": -263253000000,
+    "cash_end": 878705000000,
+    "operating_income": 441589000000,
+    "gross_profit": 1052374000000,
+    "income_tax_expense": 129389000000,
+    "interest_bearing_debt_current": 626510000000,
+    "interest_bearing_debt_noncurrent": 1361558000000,
+    "sga_expense": 583702000000,
+    "profit_before_tax": 469639000000,
+    "depreciation": 140172000000,
+    "capex_ppe": -175031000000,
+    "capex_intangible": -23864000000,
+    "current_assets": 4196573000000,
+    "current_liabilities": 2595607000000,
+    "noncurrent_assets": 2863420000000,
+    "trade_receivables": 1797818000000,
+    "inventories": 1203659000000,
+    "trade_payables": 1643777000000,
+    "ppe": 1139178000000,
+    "goodwill": 157194000000,
+    "intangible_assets": 275042000000,
+    "investment_securities": 835601000000,
+    "equity_method_investments": 353080000000,
+    "treasury_stock": -3774000000,
+    "noncontrolling_interests": 152979000000
+  },
+  "segments": [
+    {
+      "key": "Africa",
+      "label": "アフリカ",
+      "external_revenue": 1567745000000,
+      "intersegment_revenue": 105000000,
+      "gross_profit": 300557000000,
+      "profit_attributable_to_owners": 69122000000,
+      "assets": 966367000000,
+      "equity_method_income": -1342000000
+    },
+    {
+      "key": "CircularEconomy",
+      "label": "サーキュラーエコノミー",
+      "external_revenue": 1724720000000,
+      "intersegment_revenue": 7237000000,
+      "gross_profit": 105302000000,
+      "profit_attributable_to_owners": 50022000000,
+      "assets": 914517000000,
+      "equity_method_income": 8546000000
+    },
+    {
+      "key": "DigitalSolutions",
+      "label": "デジタルソリューション",
+      "external_revenue": 1243328000000,
+      "intersegment_revenue": 718000000,
+      "gross_profit": 113221000000,
+      "profit_attributable_to_owners": 29674000000,
+      "assets": 564914000000,
+      "equity_method_income": 485000000
+    },
+    {
+      "key": "GreenInfrastructure",
+      "label": "グリーンインフラ",
+      "external_revenue": 801485000000,
+      "intersegment_revenue": 3574000000,
+      "gross_profit": 100772000000,
+      "profit_attributable_to_owners": 27943000000,
+      "assets": 1236610000000,
+      "equity_method_income": 7219000000
+    },
+    {
+      "key": "Lifestyle",
+      "label": "ライフスタイル",
+      "external_revenue": 691104000000,
+      "intersegment_revenue": 3646000000,
+      "gross_profit": 60880000000,
+      "profit_attributable_to_owners": 11821000000,
+      "assets": 355550000000,
+      "equity_method_income": 14000000
+    },
+    {
+      "key": "MetalPlus",
+      "label": "メタル＋（Plus）",
+      "external_revenue": 1940708000000,
+      "intersegment_revenue": 5645000000,
+      "gross_profit": 97543000000,
+      "profit_attributable_to_owners": 36050000000,
+      "assets": 821856000000,
+      "equity_method_income": 2201000000
+    },
+    {
+      "key": "Mobility",
+      "label": "モビリティ",
+      "external_revenue": 981035000000,
+      "intersegment_revenue": 6980000000,
+      "gross_profit": 158990000000,
+      "profit_attributable_to_owners": 55956000000,
+      "assets": 482710000000,
+      "equity_method_income": 4596000000
+    },
+    {
+      "key": "SupplyChain",
+      "label": "サプライチェーン",
+      "external_revenue": 1229968000000,
+      "intersegment_revenue": 33433000000,
+      "gross_profit": 122090000000,
+      "profit_attributable_to_owners": 45516000000,
+      "assets": 626366000000,
+      "equity_method_income": 4267000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02505-000_2025-03-31_01_2025-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

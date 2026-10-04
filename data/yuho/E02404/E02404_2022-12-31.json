@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E02404",
+    "sec_code": "7956",
+    "company_name": "ピジョン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T5CY"
+  },
+  "financials": {
+    "net_sales": 94921000000,
+    "ordinary_income": 13465000000,
+    "net_income": 8581000000,
+    "comprehensive_income": 12165000000,
+    "eps": 71.72,
+    "dps": 76,
+    "operating_cf": 13210000000,
+    "investing_cf": -5659000000,
+    "financing_cf": -9666000000,
+    "net_assets": 79952000000,
+    "total_assets": 101733000000,
+    "bps": 640.96,
+    "cash_end": 34283000000,
+    "equity_ratio": 0.754,
+    "roe": 0.114,
+    "per": 30.2,
+    "gross_profit": 44834000000,
+    "operating_income": 12195000000,
+    "income_tax_expense": 4678000000,
+    "lease_liabilities_noncurrent": 2057000000,
+    "depreciation": 4758000000,
+    "capex_ppe": -5315000000,
+    "capex_intangible": -249000000,
+    "current_assets": 67143000000,
+    "current_liabilities": 15563000000,
+    "noncurrent_assets": 34590000000,
+    "noncurrent_liabilities": 6217000000,
+    "trade_receivables": 15975000000,
+    "trade_payables": 5066000000,
+    "ppe": 30132000000,
+    "goodwill": 380000000,
+    "intangible_assets": 2308000000,
+    "investment_securities": 547000000,
+    "treasury_stock": -1387000000,
+    "noncontrolling_interests": 3257000000
+  },
+  "segments": [
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 34227000000,
+      "intersegment_revenue": 548000000,
+      "operating_income": 10408000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 34232000000,
+      "intersegment_revenue": 2090000000,
+      "operating_income": 1491000000
+    },
+    {
+      "key": "Lansinoh",
+      "label": null,
+      "external_revenue": 16898000000,
+      "intersegment_revenue": 18000000,
+      "operating_income": 1154000000
+    },
+    {
+      "key": "Singapore",
+      "label": null,
+      "external_revenue": 9562000000,
+      "intersegment_revenue": 4590000000,
+      "operating_income": 2140000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02404-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

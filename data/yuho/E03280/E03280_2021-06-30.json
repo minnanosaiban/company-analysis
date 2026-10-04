@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03280",
+    "sec_code": "7532",
+    "company_name": "株式会社パン・パシフィック・インターナショナルホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-09-27",
+    "doc_id": "S100RX47"
+  },
+  "financials": {
+    "net_sales": 1708635000000,
+    "ordinary_income": 81452000000,
+    "net_income": 53734000000,
+    "comprehensive_income": 58207000000,
+    "eps": 84.74,
+    "eps_diluted": 84.52,
+    "dps": 16,
+    "operating_cf": 79143000000,
+    "investing_cf": -78131000000,
+    "financing_cf": -28954000000,
+    "net_assets": 438628000000,
+    "total_assets": 1370115000000,
+    "bps": 659.9,
+    "cash_end": 160875000000,
+    "equity_ratio": 0.305,
+    "roe": 0.136,
+    "per": 27.21
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03280-000_2023-06-30_01_2023-09-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

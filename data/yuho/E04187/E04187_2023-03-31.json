@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E04187",
+    "sec_code": "9064",
+    "company_name": "ヤマトホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-16",
+    "doc_id": "S100QYKD"
+  },
+  "financials": {
+    "ordinary_income": 58066000000,
+    "net_income": 45898000000,
+    "comprehensive_income": 46114000000,
+    "eps": 126.64,
+    "dps": 46,
+    "operating_cf": 89953000000,
+    "investing_cf": -49420000000,
+    "financing_cf": -38617000000,
+    "net_assets": 616430000000,
+    "total_assets": 1107587000000,
+    "bps": 1684.87,
+    "cash_end": 183225000000,
+    "equity_ratio": 0.551,
+    "roe": 0.076,
+    "per": 17.9,
+    "operating_income": 60085000000,
+    "income_tax_expense": 23017000000,
+    "interest_bearing_debt_current": 10000000000,
+    "lease_liabilities_current": 5415000000,
+    "lease_liabilities_noncurrent": 32858000000,
+    "depreciation": 41626000000,
+    "capex_ppe": -35435000000,
+    "current_assets": 484647000000,
+    "current_liabilities": 344758000000,
+    "noncurrent_assets": 622940000000,
+    "noncurrent_liabilities": 146398000000,
+    "trade_payables": 160766000000,
+    "ppe": 443017000000,
+    "intangible_assets": 43759000000,
+    "investment_securities": 42758000000,
+    "treasury_stock": -39835000000,
+    "noncontrolling_interests": 6049000000
+  },
+  "segments": [
+    {
+      "key": "CorporateBusiness",
+      "label": null,
+      "external_revenue": 846053000000,
+      "intersegment_revenue": 16454000000,
+      "operating_income": 13138000000
+    },
+    {
+      "key": "RetailBusiness",
+      "label": null,
+      "external_revenue": 894574000000,
+      "intersegment_revenue": 323337000000,
+      "operating_income": 32298000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04187-000_2023-03-31_01_2023-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

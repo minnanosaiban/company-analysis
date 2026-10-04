@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "edinet_code": "E37725",
+    "sec_code": "5830",
+    "company_name": "株式会社いよぎんホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RA5R"
+  },
+  "financials": {
+    "ordinary_income": 42415000000,
+    "net_income": 27899000000,
+    "comprehensive_income": 41050000000,
+    "eps": 89.13,
+    "eps_diluted": 89.08,
+    "dps": 9,
+    "operating_cf": -368753000000,
+    "investing_cf": 234070000000,
+    "financing_cf": -12804000000,
+    "net_assets": 759838000000,
+    "total_assets": 8550778000000,
+    "bps": 2462.02,
+    "cash_end": 1364804000000,
+    "equity_ratio": 0.0888,
+    "roe": 0.0376,
+    "per": 8.43,
+    "income_tax_expense": 11332000000,
+    "depreciation": 6141000000,
+    "capex_ppe": -2691000000,
+    "capex_intangible": -5715000000,
+    "ppe": 71400000000,
+    "intangible_assets": 11775000000,
+    "treasury_stock": -3792000000,
+    "noncontrolling_interests": 309000000,
+    "ordinary_revenue": 172954000000
+  },
+  "segments": [
+    {
+      "key": "Banking",
+      "label": "銀行業",
+      "external_revenue": 154880000000,
+      "intersegment_revenue": 1114000000,
+      "ordinary_income": 42292000000
+    },
+    {
+      "key": "Leasing",
+      "label": "リース業",
+      "external_revenue": 16013000000,
+      "intersegment_revenue": 3731000000,
+      "ordinary_income": 4155000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E37725-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

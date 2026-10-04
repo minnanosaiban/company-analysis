@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04926",
+    "sec_code": "4665",
+    "company_name": "株式会社ダスキン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2R2"
+  },
+  "financials": {
+    "net_sales": 153770000000,
+    "ordinary_income": 6633000000,
+    "net_income": 2821000000,
+    "comprehensive_income": 6331000000,
+    "eps": 57.19,
+    "eps_diluted": 57.16,
+    "dps": 40,
+    "operating_cf": 10103000000,
+    "investing_cf": -5019000000,
+    "financing_cf": -2563000000,
+    "net_assets": 145836000000,
+    "total_assets": 188399000000,
+    "bps": 2948.85,
+    "cash_end": 29674000000,
+    "equity_ratio": 0.772,
+    "roe": 0.02,
+    "per": 48.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04926-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

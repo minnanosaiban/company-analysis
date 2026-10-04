@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00792",
+    "sec_code": "4088",
+    "company_name": "エア・ウォーター株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2026-07-31",
+    "doc_id": "S100YTH3"
+  },
+  "financials": {
+    "net_sales": 753559000000,
+    "ordinary_income": 44691000000,
+    "net_income": 25173000000,
+    "comprehensive_income": 27711000000,
+    "eps": 128.95,
+    "eps_diluted": 128.72,
+    "dps": 38,
+    "operating_cf": 47764000000,
+    "investing_cf": -61637000000,
+    "financing_cf": 4489000000,
+    "net_assets": 294644000000,
+    "total_assets": 693101000000,
+    "bps": 1422.6,
+    "cash_end": 22433000000,
+    "equity_ratio": 0.401,
+    "roe": 0.094,
+    "per": 16.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00792-000_2021-03-31_02_2026-07-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

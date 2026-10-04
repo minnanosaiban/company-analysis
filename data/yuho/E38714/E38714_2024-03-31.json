@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "edinet_code": "E38714",
+    "sec_code": "5844",
+    "company_name": "株式会社京都フィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-28",
+    "doc_id": "S100TWKN"
+  },
+  "financials": {
+    "ordinary_income": 43574000000,
+    "net_income": 31572000000,
+    "comprehensive_income": 177237000000,
+    "eps": 106.55,
+    "eps_diluted": 106.47,
+    "dps": 35,
+    "operating_cf": -36759000000,
+    "investing_cf": -175561000000,
+    "financing_cf": -25446000000,
+    "net_assets": 1141082000000,
+    "total_assets": 11576552000000,
+    "bps": 3904.91,
+    "cash_end": 929545000000,
+    "equity_ratio": 0.0985,
+    "roe": 0.0296,
+    "per": 25.91,
+    "income_tax_expense": 11657000000,
+    "depreciation": 3354000000,
+    "capex_ppe": -3811000000,
+    "capex_intangible": -1699000000,
+    "ppe": 76590000000,
+    "intangible_assets": 3416000000,
+    "treasury_stock": -24654000000,
+    "ordinary_revenue": 137691000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E38714-000_2024-03-31_01_2024-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

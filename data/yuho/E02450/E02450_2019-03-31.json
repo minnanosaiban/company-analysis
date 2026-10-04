@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02450",
+    "sec_code": "7867",
+    "company_name": "株式会社タカラトミー",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R25K"
+  },
+  "financials": {
+    "net_sales": 176853000000,
+    "ordinary_income": 14303000000,
+    "net_income": 9302000000,
+    "comprehensive_income": 11653000000,
+    "eps": 97.85,
+    "eps_diluted": 97.63,
+    "dps": 24,
+    "operating_cf": 21492000000,
+    "investing_cf": -4038000000,
+    "financing_cf": -10057000000,
+    "net_assets": 67315000000,
+    "total_assets": 143364000000,
+    "bps": 700.26,
+    "cash_end": 53817000000,
+    "equity_ratio": 0.465,
+    "roe": 0.152,
+    "per": 11.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02450-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E01225",
+    "sec_code": "5401",
+    "company_name": "日本製鉄株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W3AT"
+  },
+  "financials": {
+    "dps": 160,
+    "net_sales": 8695526000000,
+    "net_income": 350227000000,
+    "comprehensive_income": 491606000000,
+    "net_assets": 5383311000000,
+    "total_assets": 10942458000000,
+    "equity_ratio": 0.492,
+    "bps": 5150.56,
+    "eps": 350.92,
+    "eps_diluted": 335.15,
+    "roe": 0.069,
+    "per": 9.1,
+    "operating_cf": 978593000000,
+    "investing_cf": -462428000000,
+    "financing_cf": -313334000000,
+    "cash_end": 672526000000,
+    "operating_income": 547960000000,
+    "gross_profit": 1371651000000,
+    "income_tax_expense": 141405000000,
+    "sga_expense": 815817000000,
+    "profit_before_tax": 524377000000,
+    "depreciation": 385243000000,
+    "current_assets": 4548503000000,
+    "current_liabilities": 2335493000000,
+    "noncurrent_assets": 6393955000000,
+    "trade_receivables": 1430435000000,
+    "inventories": 2199096000000,
+    "trade_payables": 1671352000000,
+    "ppe": 3635585000000,
+    "goodwill": 71639000000,
+    "intangible_assets": 263231000000,
+    "equity_method_investments": 1600366000000,
+    "treasury_stock": -58236000000,
+    "noncontrolling_interests": 520069000000
+  },
+  "segments": [
+    {
+      "key": "ChemicalsAndMaterials",
+      "label": null,
+      "external_revenue": 250873000000,
+      "intersegment_revenue": 18255000000,
+      "revenue": 269128000000,
+      "equity_method_income": 349000000,
+      "assets": 254630000000
+    },
+    {
+      "key": "Engineering",
+      "label": null,
+      "external_revenue": 371309000000,
+      "intersegment_revenue": 29165000000,
+      "revenue": 400474000000,
+      "equity_method_income": 102000000,
+      "assets": 349700000000
+    },
+    {
+      "key": "SteelManufacturing",
+      "label": null,
+      "external_revenue": 7819748000000,
+      "intersegment_revenue": 54629000000,
+      "revenue": 7874377000000,
+      "equity_method_income": 115563000000,
+      "assets": 10115166000000
+    },
+    {
+      "key": "SystemSolution",
+      "label": null,
+      "external_revenue": 253594000000,
+      "intersegment_revenue": 85781000000,
+      "revenue": 339376000000,
+      "equity_method_income": -13000000,
+      "assets": 412336000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01225-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

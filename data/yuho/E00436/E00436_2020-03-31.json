@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E00436",
+    "sec_code": "2802",
+    "company_name": "味の素株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R42S"
+  },
+  "financials": {
+    "dps": 32,
+    "net_sales": 1100039000000,
+    "net_income": 18837000000,
+    "total_assets": 1353616000000,
+    "equity_ratio": 0.398,
+    "bps": 983.19,
+    "eps": 34.37,
+    "eps_diluted": 34.35,
+    "roe": 0.033,
+    "per": 58.5,
+    "operating_cf": 114856000000,
+    "investing_cf": -66651000000,
+    "financing_cf": -52306000000,
+    "cash_end": 141701000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00436-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

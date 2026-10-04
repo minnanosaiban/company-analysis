@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "edinet_code": "E03621",
+    "sec_code": "5838",
+    "company_name": "楽天銀行株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TREI"
+  },
+  "financials": {
+    "ordinary_income": 48367000000,
+    "net_income": 34436000000,
+    "comprehensive_income": 34534000000,
+    "eps": 198.42,
+    "eps_diluted": 198.41,
+    "operating_cf": 1027880000000,
+    "investing_cf": -301058000000,
+    "financing_cf": 13324000000,
+    "net_assets": 279587000000,
+    "total_assets": 13480473000000,
+    "bps": 1493.84,
+    "cash_end": 4791091000000,
+    "equity_ratio": 0.019,
+    "roe": 0.145,
+    "per": 15.5,
+    "income_tax_expense": 16684000000,
+    "depreciation": 5073000000,
+    "capex_ppe": -1308000000,
+    "capex_intangible": -8061000000,
+    "ppe": 4336000000,
+    "goodwill": 26000000,
+    "intangible_assets": 23488000000,
+    "treasury_stock": 0,
+    "noncontrolling_interests": 18894000000,
+    "ordinary_revenue": 137950000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03621-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

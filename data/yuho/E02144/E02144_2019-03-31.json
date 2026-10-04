@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E02144",
+    "sec_code": "7203",
+    "company_name": "トヨタ自動車株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100QZHY"
+  },
+  "financials": {
+    "dps": 220,
+    "net_assets": 19907100000000,
+    "total_assets": 53416405000000,
+    "equity_ratio": 0.373,
+    "bps": 1405.65,
+    "cash_end": 3602805000000,
+    "net_sales": 30225681000000,
+    "profit_before_tax": 2285465000000,
+    "net_income": 1882873000000,
+    "eps": 130.11,
+    "eps_diluted": 129.02,
+    "per": 10,
+    "operating_cf": 3766597000000,
+    "investing_cf": -2697241000000,
+    "financing_cf": -540839000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02144-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

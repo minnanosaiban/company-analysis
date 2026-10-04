@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E00819",
+    "sec_code": "4203",
+    "company_name": "住友ベークライト株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TNP6"
+  },
+  "financials": {
+    "dps": 150,
+    "net_sales": 287267000000,
+    "net_income": 21831000000,
+    "comprehensive_income": 55322000000,
+    "net_assets": 301161000000,
+    "total_assets": 441162000000,
+    "equity_ratio": 0.683,
+    "bps": 3233.79,
+    "eps": 233.66,
+    "roe": 0.078,
+    "per": 19.8,
+    "operating_cf": 40217000000,
+    "investing_cf": -21118000000,
+    "financing_cf": -6276000000,
+    "cash_end": 121635000000,
+    "operating_income": 27200000000,
+    "gross_profit": 85710000000,
+    "income_tax_expense": 9549000000,
+    "sga_expense": 58252000000,
+    "profit_before_tax": 31489000000,
+    "depreciation": 13640000000,
+    "capex_ppe": -21947000000,
+    "current_assets": 250739000000,
+    "current_liabilities": 94256000000,
+    "noncurrent_assets": 190423000000,
+    "trade_receivables": 64981000000,
+    "inventories": 58848000000,
+    "trade_payables": 54893000000,
+    "ppe": 122684000000,
+    "goodwill": 1504000000,
+    "treasury_stock": -1020000000,
+    "noncontrolling_interests": 2566000000
+  },
+  "segments": [
+    {
+      "key": "HighPerformancePlastics",
+      "label": null,
+      "external_revenue": 101401000000,
+      "intersegment_revenue": 173000000,
+      "revenue": 101574000000,
+      "assets": 141733000000
+    },
+    {
+      "key": "QualityOfLifeProducts",
+      "label": null,
+      "external_revenue": 102186000000,
+      "intersegment_revenue": 2000000,
+      "revenue": 102188000000,
+      "assets": 126650000000
+    },
+    {
+      "key": "SemiconductorMaterials",
+      "label": null,
+      "external_revenue": 82917000000,
+      "revenue": 82917000000,
+      "assets": 141167000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00819-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

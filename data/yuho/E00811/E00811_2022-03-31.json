@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E00811",
+    "sec_code": "4114",
+    "company_name": "株式会社日本触媒",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QYAE"
+  },
+  "financials": {
+    "dps": 180,
+    "net_sales": 369293000000,
+    "net_income": 23720000000,
+    "comprehensive_income": 31497000000,
+    "net_assets": 343882000000,
+    "total_assets": 518151000000,
+    "equity_ratio": 0.664,
+    "bps": 8624.02,
+    "eps": 594.86,
+    "roe": 0.072,
+    "per": 9,
+    "operating_cf": 35058000000,
+    "investing_cf": -23158000000,
+    "financing_cf": -10751000000,
+    "cash_end": 39363000000,
+    "operating_income": 29062000000,
+    "gross_profit": 77707000000,
+    "income_tax_expense": 9204000000,
+    "sga_expense": 48992000000,
+    "profit_before_tax": 33675000000,
+    "depreciation": 28875000000,
+    "capex_ppe": -20189000000,
+    "capex_intangible": -2067000000,
+    "current_assets": 237656000000,
+    "current_liabilities": 109014000000,
+    "noncurrent_assets": 280495000000,
+    "inventories": 75311000000,
+    "ppe": 191143000000,
+    "intangible_assets": 7895000000,
+    "equity_method_investments": 22868000000,
+    "treasury_stock": -6291000000,
+    "noncontrolling_interests": 7241000000
+  },
+  "segments": [
+    {
+      "key": "Materials",
+      "label": null,
+      "external_revenue": 262904000000,
+      "intersegment_revenue": 14529000000,
+      "revenue": 277433000000,
+      "operating_income": 20947000000,
+      "assets": 333603000000
+    },
+    {
+      "key": "Solutions",
+      "label": null,
+      "external_revenue": 106389000000,
+      "intersegment_revenue": 2485000000,
+      "revenue": 108874000000,
+      "operating_income": 7841000000,
+      "assets": 138495000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00811-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

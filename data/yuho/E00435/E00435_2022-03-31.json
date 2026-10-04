@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E00435",
+    "sec_code": "2801",
+    "company_name": "キッコーマン株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R6C4"
+  },
+  "financials": {
+    "dps": 61,
+    "net_sales": 516440000000,
+    "net_income": 38903000000,
+    "comprehensive_income": 61686000000,
+    "net_assets": 357816000000,
+    "total_assets": 503061000000,
+    "equity_ratio": 0.711,
+    "bps": 1868.13,
+    "eps": 202.94,
+    "roe": 0.117,
+    "per": 40.1,
+    "operating_cf": 52093000000,
+    "investing_cf": -16105000000,
+    "financing_cf": -17900000000,
+    "cash_end": 79229000000,
+    "operating_income": 50682000000,
+    "gross_profit": 178829000000,
+    "income_tax_expense": 14885000000,
+    "lease_liabilities_current": 4313000000,
+    "lease_liabilities_noncurrent": 21643000000,
+    "sga_expense": 126555000000,
+    "profit_before_tax": 54231000000,
+    "depreciation": 20030000000,
+    "capex_ppe": -18697000000,
+    "capex_intangible": -867000000,
+    "current_assets": 240192000000,
+    "current_liabilities": 83225000000,
+    "noncurrent_assets": 262868000000,
+    "trade_receivables": 69407000000,
+    "inventories": 82700000000,
+    "trade_payables": 59573000000,
+    "ppe": 136291000000,
+    "goodwill": 4626000000,
+    "intangible_assets": 4947000000,
+    "equity_method_investments": 3939000000,
+    "treasury_stock": -6808000000,
+    "noncontrolling_interests": 6091000000
+  },
+  "segments": [
+    {
+      "key": "DomesticFoodsManufacturingAndSales",
+      "label": "国内食料品製造・販売",
+      "external_revenue": 145867000000,
+      "intersegment_revenue": 2947000000,
+      "revenue": 148815000000,
+      "operating_income": 11622000000
+    },
+    {
+      "key": "DomesticOthers",
+      "label": "国内その他",
+      "external_revenue": 7915000000,
+      "intersegment_revenue": 13727000000,
+      "revenue": 21643000000,
+      "operating_income": 1870000000
+    },
+    {
+      "key": "OverseasFoodsManufacturingAndSales",
+      "label": "海外食料品製造・販売",
+      "external_revenue": 100792000000,
+      "intersegment_revenue": 15000000000,
+      "revenue": 115793000000,
+      "operating_income": 22711000000
+    },
+    {
+      "key": "OverseasFoodsWholesale",
+      "label": "海外食料品卸売",
+      "external_revenue": 261864000000,
+      "intersegment_revenue": 204000000,
+      "revenue": 262068000000,
+      "operating_income": 17686000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00435-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

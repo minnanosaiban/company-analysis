@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E03051",
+    "sec_code": "8174",
+    "company_name": "日本瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4MS"
+  },
+  "financials": {
+    "net_sales": 162552000000,
+    "ordinary_income": 12930000000,
+    "net_income": 9972000000,
+    "comprehensive_income": 9397000000,
+    "eps": 86.24,
+    "dps": 50,
+    "operating_cf": 20694000000,
+    "investing_cf": -8792000000,
+    "financing_cf": -7407000000,
+    "net_assets": 71890000000,
+    "total_assets": 153811000000,
+    "bps": 624.79,
+    "cash_end": 16912000000,
+    "equity_ratio": 0.467,
+    "roe": 0.141,
+    "per": 17.3,
+    "gross_profit": 66593000000,
+    "operating_income": 12786000000,
+    "income_tax_expense": 5460000000,
+    "interest_bearing_debt_noncurrent": 24476000000,
+    "current_portion_lt_loans": 14764000000,
+    "lease_liabilities_current": 1348000000,
+    "lease_liabilities_noncurrent": 5351000000,
+    "depreciation": 10466000000,
+    "capex_ppe": -7376000000,
+    "capex_intangible": -2132000000,
+    "current_assets": 49467000000,
+    "current_liabilities": 45751000000,
+    "noncurrent_assets": 104344000000,
+    "noncurrent_liabilities": 36169000000,
+    "trade_receivables": 21474000000,
+    "trade_payables": 14651000000,
+    "ppe": 85230000000,
+    "goodwill": 2981000000,
+    "intangible_assets": 7805000000,
+    "investment_securities": 2091000000,
+    "treasury_stock": -5795000000,
+    "noncontrolling_interests": 3000000
+  },
+  "segments": [
+    {
+      "key": "ElectricPower",
+      "label": "電気事業",
+      "external_revenue": 27593000000
+    },
+    {
+      "key": "LPGas",
+      "label": "LPガス事業",
+      "external_revenue": 76254000000
+    },
+    {
+      "key": "TownGas",
+      "label": "都市ガス事業",
+      "external_revenue": 58704000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03051-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

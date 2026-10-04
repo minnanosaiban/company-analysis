@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E01953",
+    "sec_code": "6963",
+    "company_name": "ローム株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R56A"
+  },
+  "financials": {
+    "net_sales": 507882000000,
+    "ordinary_income": 109530000000,
+    "net_income": 80375000000,
+    "comprehensive_income": 95709000000,
+    "eps": 818.65,
+    "eps_diluted": 793.36,
+    "dps": 200,
+    "operating_cf": 98628000000,
+    "investing_cf": -88738000000,
+    "financing_cf": -22153000000,
+    "net_assets": 915465000000,
+    "total_assets": 1123283000000,
+    "bps": 9321.95,
+    "cash_end": 294254000000,
+    "equity_ratio": 0.814,
+    "roe": 0.092,
+    "per": 13.4,
+    "gross_profit": 193661000000,
+    "operating_income": 92316000000,
+    "income_tax_expense": 28981000000,
+    "bonds_payable": 40336000000,
+    "depreciation": 56140000000,
+    "capex_ppe": -100769000000,
+    "current_assets": 653979000000,
+    "current_liabilities": 131907000000,
+    "noncurrent_assets": 469303000000,
+    "noncurrent_liabilities": 75910000000,
+    "trade_receivables": 100472000000,
+    "trade_payables": 16157000000,
+    "ppe": 363771000000,
+    "goodwill": 497000000,
+    "intangible_assets": 5722000000,
+    "investment_securities": 76976000000,
+    "treasury_stock": -39880000000,
+    "noncontrolling_interests": 552000000
+  },
+  "segments": [
+    {
+      "key": "DiscreteSemiconductorDevices",
+      "label": null,
+      "external_revenue": 212241000000,
+      "intersegment_revenue": 3541000000,
+      "operating_income": 34529000000
+    },
+    {
+      "key": "ICs",
+      "label": null,
+      "external_revenue": 233704000000,
+      "intersegment_revenue": 2675000000,
+      "operating_income": 48158000000
+    },
+    {
+      "key": "Modules",
+      "label": null,
+      "external_revenue": 34326000000,
+      "intersegment_revenue": 4000000,
+      "operating_income": 4284000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01953-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

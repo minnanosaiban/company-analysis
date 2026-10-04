@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E00872",
+    "sec_code": "3401",
+    "company_name": "帝人株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZX0"
+  },
+  "financials": {
+    "net_sales": 836512000000,
+    "ordinary_income": 53658000000,
+    "net_income": -6662000000,
+    "comprehensive_income": 25363000000,
+    "eps": -34.7,
+    "dps": 50,
+    "operating_cf": 107729000000,
+    "investing_cf": -79587000000,
+    "financing_cf": -20878000000,
+    "net_assets": 430364000000,
+    "total_assets": 1041131000000,
+    "bps": 2115.61,
+    "cash_end": 166455000000,
+    "equity_ratio": 0.39,
+    "roe": -0.017
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00872-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E32022",
+    "sec_code": "7186",
+    "company_name": "株式会社コンコルディア・フィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YDH5"
+  },
+  "financials": {
+    "ordinary_income": 98022000000,
+    "net_income": 66413000000,
+    "comprehensive_income": 72343000000,
+    "eps": 52.36,
+    "eps_diluted": 52.32,
+    "dps": 15.5,
+    "operating_cf": -606618000000,
+    "investing_cf": 281992000000,
+    "financing_cf": -12067000000,
+    "net_assets": 1154002000000,
+    "total_assets": 18660581000000,
+    "bps": 916.55,
+    "cash_end": 2806276000000,
+    "equity_ratio": 0.0615,
+    "roe": 0.0588,
+    "per": 11.21,
+    "ordinary_revenue": 327600000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E32022-000_2022-03-31_04_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

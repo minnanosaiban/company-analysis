@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E04926",
+    "sec_code": "4665",
+    "company_name": "株式会社ダスキン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-18",
+    "doc_id": "S100YEAI"
+  },
+  "financials": {
+    "net_sales": 194554000000,
+    "ordinary_income": 12964000000,
+    "net_income": 9180000000,
+    "comprehensive_income": 11709000000,
+    "eps": 195.31,
+    "eps_diluted": 195.28,
+    "dps": 118,
+    "operating_cf": 13792000000,
+    "investing_cf": -5608000000,
+    "financing_cf": -5042000000,
+    "net_assets": 158297000000,
+    "total_assets": 210288000000,
+    "bps": 3354.74,
+    "cash_end": 24183000000,
+    "equity_ratio": 0.751,
+    "roe": 0.059,
+    "per": 21.55,
+    "gross_profit": 85844000000,
+    "operating_income": 8748000000,
+    "income_tax_expense": 3144000000,
+    "interest_bearing_debt_noncurrent": 2000000,
+    "current_portion_lt_loans": 1000000,
+    "lease_liabilities_noncurrent": 0,
+    "depreciation": 7367000000,
+    "capex_ppe": -4942000000,
+    "capex_intangible": -5192000000,
+    "current_assets": 66320000000,
+    "current_liabilities": 41908000000,
+    "noncurrent_assets": 143967000000,
+    "noncurrent_liabilities": 10082000000,
+    "trade_payables": 8594000000,
+    "ppe": 48412000000,
+    "goodwill": 304000000,
+    "intangible_assets": 11191000000,
+    "investment_securities": 67730000000,
+    "treasury_stock": -3031000000,
+    "noncontrolling_interests": 349000000
+  },
+  "segments": [
+    {
+      "key": "DirectSellingGroup",
+      "label": null,
+      "external_revenue": 110643000000,
+      "intersegment_revenue": 605000000,
+      "operating_income": 5639000000
+    },
+    {
+      "key": "FoodGroup",
+      "label": null,
+      "external_revenue": 68903000000,
+      "intersegment_revenue": 11000000,
+      "operating_income": 10023000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04926-000_2026-03-31_01_2026-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

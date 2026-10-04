@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E05099",
+    "sec_code": "4768",
+    "company_name": "株式会社大塚商会",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4MW"
+  },
+  "financials": {
+    "net_sales": 977370000000,
+    "ordinary_income": 64517000000,
+    "net_income": 47448000000,
+    "comprehensive_income": 48066000000,
+    "eps": 250.26,
+    "dps": 135,
+    "operating_cf": 71649000000,
+    "investing_cf": -21473000000,
+    "financing_cf": -23839000000,
+    "net_assets": 346950000000,
+    "total_assets": 561805000000,
+    "bps": 1809.66,
+    "cash_end": 229615000000,
+    "equity_ratio": 0.611,
+    "roe": 0.143,
+    "per": 23.2,
+    "gross_profit": 203978000000,
+    "operating_income": 62959000000,
+    "income_tax_expense": 17542000000,
+    "interest_bearing_debt_current": 4400000000,
+    "interest_bearing_debt_noncurrent": 1700000000,
+    "lease_liabilities_noncurrent": 1204000000,
+    "depreciation": 7934000000,
+    "capex_ppe": -3990000000,
+    "current_assets": 459794000000,
+    "current_liabilities": 203263000000,
+    "noncurrent_assets": 102010000000,
+    "noncurrent_liabilities": 11591000000,
+    "trade_payables": 105485000000,
+    "ppe": 34674000000,
+    "intangible_assets": 16065000000,
+    "investment_securities": 26306000000,
+    "treasury_stock": -141000000,
+    "noncontrolling_interests": 3838000000
+  },
+  "segments": [
+    {
+      "key": "ServiceAndSupportBusiness",
+      "label": "サービス＆サポート事業",
+      "external_revenue": 347185000000,
+      "intersegment_revenue": 609000000,
+      "operating_income": 15836000000
+    },
+    {
+      "key": "SystemIntegrationBusiness",
+      "label": "システムインテグレーション事業",
+      "external_revenue": 630185000000,
+      "intersegment_revenue": 97000000,
+      "operating_income": 57581000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05099-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

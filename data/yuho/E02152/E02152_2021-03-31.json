@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E02152",
+    "sec_code": "7270",
+    "company_name": "株式会社ＳＵＢＡＲＵ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R15B"
+  },
+  "financials": {
+    "dps": 56,
+    "net_sales": 2830210000000,
+    "net_income": 76510000000,
+    "comprehensive_income": 107690000000,
+    "net_assets": 1777735000000,
+    "total_assets": 3411712000000,
+    "equity_ratio": 0.521,
+    "bps": 2318.17,
+    "eps": 99.77,
+    "roe": 0.044,
+    "per": 22.09,
+    "operating_cf": 289376000000,
+    "investing_cf": -272174000000,
+    "financing_cf": 13966000000,
+    "cash_end": 907326000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02152-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

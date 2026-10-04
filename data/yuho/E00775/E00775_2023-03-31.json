@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E00775",
+    "sec_code": "4062",
+    "company_name": "イビデン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-15",
+    "doc_id": "S100QXXT"
+  },
+  "financials": {
+    "net_sales": 417549000000,
+    "ordinary_income": 76176000000,
+    "net_income": 52187000000,
+    "comprehensive_income": 61749000000,
+    "eps": 373.73,
+    "dps": 50,
+    "operating_cf": 125748000000,
+    "investing_cf": -104019000000,
+    "financing_cf": 92585000000,
+    "net_assets": 425606000000,
+    "total_assets": 857508000000,
+    "bps": 3002.08,
+    "cash_end": 302419000000,
+    "equity_ratio": 0.4889,
+    "roe": 0.1332,
+    "per": 14.07,
+    "gross_profit": 127515000000,
+    "operating_income": 72362000000,
+    "income_tax_expense": 23773000000,
+    "interest_bearing_debt_current": 65030000000,
+    "interest_bearing_debt_noncurrent": 105000000000,
+    "bonds_payable": 100000000000,
+    "lease_liabilities_noncurrent": 167000000,
+    "depreciation": 54914000000,
+    "capex_ppe": -103233000000,
+    "capex_intangible": -799000000,
+    "current_assets": 476825000000,
+    "current_liabilities": 223321000000,
+    "noncurrent_assets": 380682000000,
+    "noncurrent_liabilities": 208581000000,
+    "trade_payables": 28262000000,
+    "ppe": 306967000000,
+    "intangible_assets": 5179000000,
+    "investment_securities": 61342000000,
+    "treasury_stock": -3126000000,
+    "noncontrolling_interests": 6367000000
+  },
+  "segments": [
+    {
+      "key": "Ceramics",
+      "label": null,
+      "external_revenue": 89930000000,
+      "intersegment_revenue": 84000000,
+      "operating_income": 6129000000
+    },
+    {
+      "key": "Electronics",
+      "label": null,
+      "external_revenue": 250708000000,
+      "operating_income": 60647000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00775-000_2023-03-31_01_2023-06-15.csv",
+    "parser_version": "0.1.3"
+  }
+}

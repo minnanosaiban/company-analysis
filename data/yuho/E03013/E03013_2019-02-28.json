@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03013",
+    "sec_code": "8233",
+    "company_name": "株式会社髙島屋",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-25",
+    "doc_id": "S100QT8M"
+  },
+  "financials": {
+    "net_sales": 846894000000,
+    "ordinary_income": 31234000000,
+    "net_income": 16443000000,
+    "comprehensive_income": 9250000000,
+    "eps": 94.1,
+    "eps_diluted": 81.44,
+    "dps": 18,
+    "operating_cf": 67913000000,
+    "investing_cf": -85815000000,
+    "financing_cf": 17226000000,
+    "net_assets": 461585000000,
+    "total_assets": 1078130000000,
+    "bps": 2540.54,
+    "cash_end": 94692000000,
+    "equity_ratio": 0.412,
+    "roe": 0.037,
+    "per": 15.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03013-000_2023-02-28_01_2023-05-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

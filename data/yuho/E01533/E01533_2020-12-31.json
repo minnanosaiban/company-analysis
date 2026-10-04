@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01533",
+    "sec_code": "6302",
+    "company_name": "住友重機械工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T4PX"
+  },
+  "financials": {
+    "net_sales": 849065000000,
+    "ordinary_income": 49544000000,
+    "net_income": 26764000000,
+    "comprehensive_income": 32162000000,
+    "eps": 218.46,
+    "dps": 65,
+    "operating_cf": 64131000000,
+    "investing_cf": -43729000000,
+    "financing_cf": -7959000000,
+    "net_assets": 504928000000,
+    "total_assets": 1030684000000,
+    "bps": 4005.43,
+    "cash_end": 96242000000,
+    "equity_ratio": 0.476,
+    "roe": 0.056,
+    "per": 14.08
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01533-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

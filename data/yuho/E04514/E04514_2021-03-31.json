@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04514",
+    "sec_code": "9531",
+    "company_name": "東京瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R87L"
+  },
+  "financials": {
+    "net_sales": 1765146000000,
+    "ordinary_income": 70500000000,
+    "net_income": 49505000000,
+    "comprehensive_income": 34259000000,
+    "eps": 112.26,
+    "dps": 60,
+    "operating_cf": 255574000000,
+    "investing_cf": -295911000000,
+    "financing_cf": 52009000000,
+    "net_assets": 1178271000000,
+    "total_assets": 2738348000000,
+    "bps": 2616.37,
+    "cash_end": 157811000000,
+    "equity_ratio": 0.421,
+    "roe": 0.043,
+    "per": 21.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04514-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

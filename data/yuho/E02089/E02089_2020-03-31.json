@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02089",
+    "sec_code": "6674",
+    "company_name": "株式会社 ジーエス・ユアサ コーポレーション",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R915"
+  },
+  "financials": {
+    "net_sales": 395553000000,
+    "ordinary_income": 23109000000,
+    "net_income": 13674000000,
+    "comprehensive_income": 4873000000,
+    "eps": 168.23,
+    "dps": 50,
+    "operating_cf": 33119000000,
+    "investing_cf": -20690000000,
+    "financing_cf": -10245000000,
+    "net_assets": 205318000000,
+    "total_assets": 385416000000,
+    "bps": 2173.37,
+    "cash_end": 24748000000,
+    "equity_ratio": 0.458,
+    "roe": 0.077,
+    "per": 8.64
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02089-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

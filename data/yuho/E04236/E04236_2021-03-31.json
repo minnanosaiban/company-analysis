@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04236",
+    "sec_code": "9104",
+    "company_name": "株式会社　商船三井",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZLI"
+  },
+  "financials": {
+    "net_sales": 991426000000,
+    "ordinary_income": 133604000000,
+    "net_income": 90052000000,
+    "comprehensive_income": 75332000000,
+    "eps": 250.99,
+    "eps_diluted": 250.22,
+    "dps": 150,
+    "operating_cf": 98898000000,
+    "investing_cf": -54660000000,
+    "financing_cf": -61705000000,
+    "net_assets": 699150000000,
+    "total_assets": 2095559000000,
+    "bps": 1610.04,
+    "cash_end": 83436000000,
+    "equity_ratio": 0.2757,
+    "roe": 0.1651,
+    "per": 5.15
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04236-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

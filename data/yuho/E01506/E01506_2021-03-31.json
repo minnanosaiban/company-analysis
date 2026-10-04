@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01506",
+    "sec_code": "6146",
+    "company_name": "株式会社ディスコ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R389"
+  },
+  "financials": {
+    "net_sales": 182857000000,
+    "ordinary_income": 53629000000,
+    "net_income": 39091000000,
+    "comprehensive_income": 41131000000,
+    "eps": 361.82,
+    "eps_diluted": 360.27,
+    "dps": 677,
+    "operating_cf": 56709000000,
+    "investing_cf": -13107000000,
+    "financing_cf": -15825000000,
+    "net_assets": 252352000000,
+    "total_assets": 329026000000,
+    "bps": 2322.43,
+    "cash_end": 109809000000,
+    "equity_ratio": 0.763,
+    "roe": 0.164,
+    "per": 32
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01506-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

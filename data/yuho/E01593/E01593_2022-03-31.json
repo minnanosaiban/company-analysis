@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E01593",
+    "sec_code": "7259",
+    "company_name": "株式会社アイシン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-19",
+    "doc_id": "S100QYVI"
+  },
+  "financials": {
+    "dps": 170,
+    "net_sales": 3917434000000,
+    "net_income": 141941000000,
+    "comprehensive_income": 266744000000,
+    "net_assets": 1756516000000,
+    "total_assets": 4205801000000,
+    "equity_ratio": 0.418,
+    "bps": 6517.34,
+    "eps": 526.66,
+    "eps_diluted": 526.66,
+    "roe": 0.086,
+    "per": 8,
+    "operating_cf": 193343000000,
+    "investing_cf": -204952000000,
+    "financing_cf": -135859000000,
+    "cash_end": 386906000000,
+    "operating_income": 182011000000,
+    "gross_profit": 448492000000,
+    "income_tax_expense": 62971000000,
+    "interest_bearing_debt_current": 111759000000,
+    "interest_bearing_debt_noncurrent": 770910000000,
+    "lease_liabilities_current": 21544000000,
+    "lease_liabilities_noncurrent": 40094000000,
+    "sga_expense": 292484000000,
+    "profit_before_tax": 219983000000,
+    "depreciation": 258619000000,
+    "capex_ppe": -217783000000,
+    "capex_intangible": -16252000000,
+    "current_assets": 1732172000000,
+    "current_liabilities": 1070993000000,
+    "noncurrent_assets": 2473629000000,
+    "trade_receivables": 635728000000,
+    "inventories": 568866000000,
+    "trade_payables": 828524000000,
+    "ppe": 1468607000000,
+    "goodwill": 1314000000,
+    "intangible_assets": 45745000000,
+    "equity_method_investments": 132211000000,
+    "treasury_stock": -115723000000,
+    "noncontrolling_interests": 239992000000
+  },
+  "segments": [
+    {
+      "key": "China",
+      "label": "中国",
+      "external_revenue": 456957000000,
+      "intersegment_revenue": 12796000000,
+      "revenue": 469753000000,
+      "operating_income": 34989000000
+    },
+    {
+      "key": "Europe",
+      "label": "欧州",
+      "external_revenue": 332313000000,
+      "intersegment_revenue": 9734000000,
+      "revenue": 342047000000,
+      "operating_income": 5106000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 2172137000000,
+      "intersegment_revenue": 680272000000,
+      "revenue": 2852410000000,
+      "operating_income": 116522000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": "北米",
+      "external_revenue": 585732000000,
+      "intersegment_revenue": 12406000000,
+      "revenue": 598139000000,
+      "operating_income": -16622000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01593-000_2023-03-31_01_2023-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

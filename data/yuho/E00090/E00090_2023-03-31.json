@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E00090",
+    "sec_code": "1808",
+    "company_name": "株式会社長谷工コーポレーション",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R9ZC"
+  },
+  "financials": {
+    "net_sales": 1027277000000,
+    "ordinary_income": 88265000000,
+    "net_income": 59326000000,
+    "comprehensive_income": 63316000000,
+    "eps": 216.1,
+    "dps": 80,
+    "operating_cf": -51909000000,
+    "investing_cf": -55446000000,
+    "financing_cf": 50785000000,
+    "net_assets": 454088000000,
+    "total_assets": 1198105000000,
+    "bps": 1666.3,
+    "cash_end": 208333000000,
+    "equity_ratio": 0.379,
+    "roe": 0.136,
+    "per": 7.12,
+    "gross_profit": 161309000000,
+    "operating_income": 90162000000,
+    "income_tax_expense": 29115000000,
+    "interest_bearing_debt_current": 31500000000,
+    "interest_bearing_debt_noncurrent": 230000000000,
+    "bonds_payable": 100000000000,
+    "current_portion_of_bonds": 20000000000,
+    "current_portion_lt_loans": 10000000000,
+    "depreciation": 6179000000,
+    "current_assets": 869199000000,
+    "current_liabilities": 378802000000,
+    "noncurrent_assets": 328906000000,
+    "noncurrent_liabilities": 365215000000,
+    "ppe": 211618000000,
+    "goodwill": 2184000000,
+    "intangible_assets": 10163000000,
+    "investment_securities": 61218000000,
+    "treasury_stock": -37630000000,
+    "noncontrolling_interests": 4000000
+  },
+  "segments": [
+    {
+      "key": "ConstructionRelatedBusiness",
+      "label": null,
+      "external_revenue": 689187000000,
+      "intersegment_revenue": 57481000000,
+      "operating_income": 66939000000
+    },
+    {
+      "key": "OverseasRelatedBusiness",
+      "label": null,
+      "external_revenue": 33000000,
+      "operating_income": -2893000000
+    },
+    {
+      "key": "RealEstateRelatedBusiness",
+      "label": null,
+      "external_revenue": 115910000000,
+      "intersegment_revenue": 518000000,
+      "operating_income": 19071000000
+    },
+    {
+      "key": "ServiceRelatedBusiness",
+      "label": null,
+      "external_revenue": 222147000000,
+      "intersegment_revenue": 11067000000,
+      "operating_income": 14907000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00090-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

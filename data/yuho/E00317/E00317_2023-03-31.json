@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E00317",
+    "sec_code": "1719",
+    "company_name": "株式会社 安藤・間（呼称：安藤ハザマ）",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8S4"
+  },
+  "financials": {
+    "net_sales": 372146000000,
+    "ordinary_income": 19608000000,
+    "net_income": 15187000000,
+    "comprehensive_income": 16985000000,
+    "eps": 94.02,
+    "dps": 40,
+    "operating_cf": 32272000000,
+    "investing_cf": -4740000000,
+    "financing_cf": -18425000000,
+    "net_assets": 141324000000,
+    "total_assets": 318014000000,
+    "bps": 897.84,
+    "cash_end": 74326000000,
+    "equity_ratio": 0.442,
+    "roe": 0.108,
+    "per": 9.1,
+    "gross_profit": 42023000000,
+    "operating_income": 19853000000,
+    "income_tax_expense": 6978000000,
+    "interest_bearing_debt_current": 16489000000,
+    "interest_bearing_debt_noncurrent": 7463000000,
+    "bonds_payable": 35000000,
+    "current_portion_of_bonds": 127000000,
+    "depreciation": 2100000000,
+    "capex_ppe": -2999000000,
+    "current_assets": 245379000000,
+    "current_liabilities": 164217000000,
+    "noncurrent_assets": 72634000000,
+    "noncurrent_liabilities": 12472000000,
+    "ppe": 31355000000,
+    "intangible_assets": 1610000000,
+    "investment_securities": 25020000000,
+    "treasury_stock": -21106000000,
+    "noncontrolling_interests": 839000000
+  },
+  "segments": [
+    {
+      "key": "BuildingConstruction",
+      "label": null,
+      "external_revenue": 206148000000,
+      "intersegment_revenue": 55000000,
+      "operating_income": 9390000000
+    },
+    {
+      "key": "CivilEngineering",
+      "label": null,
+      "external_revenue": 133438000000,
+      "operating_income": 14999000000
+    },
+    {
+      "key": "ConsolidatedSubsidiaries",
+      "label": null,
+      "external_revenue": 27405000000,
+      "intersegment_revenue": 66010000000,
+      "operating_income": 1597000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00317-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E03855",
+    "sec_code": "8801",
+    "company_name": "三井不動産株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YHUO"
+  },
+  "financials": {
+    "net_sales": 2709747000000,
+    "ordinary_income": 313319000000,
+    "net_income": 278684000000,
+    "comprehensive_income": 318406000000,
+    "eps": 101.04,
+    "eps_diluted": 101,
+    "dps": 35,
+    "operating_cf": 145270000000,
+    "investing_cf": -179014000000,
+    "financing_cf": -59118000000,
+    "net_assets": 3384844000000,
+    "total_assets": 10103474000000,
+    "bps": 1206.06,
+    "cash_end": 82317000000,
+    "equity_ratio": 0.324,
+    "roe": 0.087,
+    "per": 16.4,
+    "operating_income": 397788000000,
+    "income_tax_expense": 126859000000,
+    "interest_bearing_debt_current": 792271000000,
+    "interest_bearing_debt_noncurrent": 2357874000000,
+    "bonds_payable": 996935000000,
+    "commercial_papers": 132794000000,
+    "depreciation": 150976000000,
+    "current_assets": 3245095000000,
+    "current_liabilities": 1847702000000,
+    "noncurrent_assets": 6858379000000,
+    "noncurrent_liabilities": 4870928000000,
+    "inventories": 8895000000,
+    "trade_payables": 185403000000,
+    "ppe": 4551721000000,
+    "intangible_assets": 127389000000,
+    "investment_securities": 1480844000000,
+    "treasury_stock": -67463000000,
+    "noncontrolling_interests": 106750000000
+  },
+  "segments": [
+    {
+      "key": "FacilityOperations",
+      "label": null,
+      "external_revenue": 244146000000,
+      "intersegment_revenue": 807000000,
+      "operating_income": 46345000000
+    },
+    {
+      "key": "Leasing",
+      "label": null,
+      "external_revenue": 936601000000,
+      "intersegment_revenue": 23081000000,
+      "operating_income": 181565000000,
+      "equity_method_income": -4554000000
+    },
+    {
+      "key": "Management",
+      "label": null,
+      "external_revenue": 511470000000,
+      "intersegment_revenue": 98531000000,
+      "operating_income": 80891000000
+    },
+    {
+      "key": "PropertySales",
+      "label": null,
+      "external_revenue": 729271000000,
+      "intersegment_revenue": 48000000,
+      "operating_income": 143501000000,
+      "equity_method_income": -2073000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03855-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

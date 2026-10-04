@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E00942",
+    "sec_code": "4527",
+    "company_name": "ロート製薬株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8E4"
+  },
+  "financials": {
+    "net_sales": 238664000000,
+    "ordinary_income": 35568000000,
+    "net_income": 26377000000,
+    "comprehensive_income": 36544000000,
+    "eps": 115.62,
+    "eps_diluted": 115.29,
+    "dps": 32,
+    "operating_cf": 30924000000,
+    "investing_cf": -13176000000,
+    "financing_cf": -16199000000,
+    "net_assets": 215078000000,
+    "total_assets": 309677000000,
+    "bps": 916.93,
+    "cash_end": 77691000000,
+    "equity_ratio": 0.676,
+    "roe": 0.136,
+    "per": 24,
+    "gross_profit": 137421000000,
+    "operating_income": 33959000000,
+    "income_tax_expense": 9022000000,
+    "interest_bearing_debt_current": 4177000000,
+    "interest_bearing_debt_noncurrent": 7516000000,
+    "depreciation": 7418000000,
+    "capex_ppe": -8473000000,
+    "capex_intangible": -1435000000,
+    "current_assets": 190246000000,
+    "current_liabilities": 80162000000,
+    "noncurrent_assets": 119431000000,
+    "noncurrent_liabilities": 14436000000,
+    "trade_receivables": 39686000000,
+    "trade_payables": 16025000000,
+    "ppe": 66182000000,
+    "goodwill": 2564000000,
+    "intangible_assets": 9561000000,
+    "investment_securities": 33637000000,
+    "treasury_stock": -4938000000,
+    "noncontrolling_interests": 5508000000
+  },
+  "segments": [
+    {
+      "key": "America",
+      "label": null,
+      "external_revenue": 16655000000,
+      "intersegment_revenue": 1421000000,
+      "operating_income": 724000000
+    },
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 70773000000,
+      "intersegment_revenue": 3622000000,
+      "operating_income": 10392000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 12231000000,
+      "intersegment_revenue": 16000000,
+      "operating_income": 978000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 136668000000,
+      "intersegment_revenue": 3842000000,
+      "operating_income": 21150000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00942-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

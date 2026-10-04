@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E01905",
+    "sec_code": "6951",
+    "company_name": "日本電子株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YIDD"
+  },
+  "financials": {
+    "net_sales": 179353000000,
+    "ordinary_income": 28610000000,
+    "net_income": 22097000000,
+    "comprehensive_income": 26796000000,
+    "eps": 432.58,
+    "dps": 132,
+    "operating_cf": 16000000000,
+    "investing_cf": -13762000000,
+    "financing_cf": -1552000000,
+    "net_assets": 144898000000,
+    "total_assets": 242026000000,
+    "bps": 2975.26,
+    "cash_end": 37326000000,
+    "equity_ratio": 0.599,
+    "roe": 0.157,
+    "per": 13.22,
+    "gross_profit": 83030000000,
+    "operating_income": 26017000000,
+    "income_tax_expense": 7435000000,
+    "interest_bearing_debt_current": 14000000000,
+    "interest_bearing_debt_noncurrent": 7903000000,
+    "current_portion_lt_loans": 3267000000,
+    "lease_liabilities_current": 601000000,
+    "lease_liabilities_noncurrent": 1331000000,
+    "depreciation": 5369000000,
+    "capex_ppe": -13489000000,
+    "capex_intangible": -1606000000,
+    "current_assets": 170545000000,
+    "current_liabilities": 79462000000,
+    "noncurrent_assets": 71481000000,
+    "noncurrent_liabilities": 17665000000,
+    "trade_payables": 9412000000,
+    "ppe": 37927000000,
+    "goodwill": 785000000,
+    "intangible_assets": 4895000000,
+    "investment_securities": 16753000000,
+    "treasury_stock": -13327000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialEquipment",
+      "label": null,
+      "external_revenue": 48131000000,
+      "operating_income": 19363000000
+    },
+    {
+      "key": "MedicalEquipment",
+      "label": null,
+      "external_revenue": 14926000000,
+      "operating_income": 64000000
+    },
+    {
+      "key": "ScientificAndMeasurementInstruments",
+      "label": null,
+      "external_revenue": 116295000000,
+      "operating_income": 13069000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01905-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E31612",
+    "sec_code": "7180",
+    "company_name": "株式会社九州フィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-17",
+    "doc_id": "S100TMNK"
+  },
+  "financials": {
+    "ordinary_income": 38438000000,
+    "net_income": 26394000000,
+    "comprehensive_income": 71869000000,
+    "eps": 61.01,
+    "dps": 18,
+    "operating_cf": -153188000000,
+    "investing_cf": 144976000000,
+    "financing_cf": -6502000000,
+    "net_assets": 717615000000,
+    "total_assets": 13521248000000,
+    "bps": 1657.2,
+    "cash_end": 2209694000000,
+    "equity_ratio": 0.053,
+    "roe": 0.038,
+    "per": 18.7,
+    "income_tax_expense": 12178000000,
+    "depreciation": 9327000000,
+    "capex_ppe": -4032000000,
+    "capex_intangible": -5998000000,
+    "ppe": 108886000000,
+    "intangible_assets": 16119000000,
+    "treasury_stock": -13959000000,
+    "noncontrolling_interests": 688000000,
+    "ordinary_revenue": 222551000000
+  },
+  "segments": [
+    {
+      "key": "Leasing",
+      "label": null,
+      "external_revenue": 37276000000,
+      "intersegment_revenue": 1014000000,
+      "ordinary_income": 2057000000
+    },
+    {
+      "key": "TheHigoBankBank",
+      "label": null,
+      "external_revenue": 98446000000,
+      "intersegment_revenue": 746000000,
+      "ordinary_income": 19368000000
+    },
+    {
+      "key": "TheKagoshimaBankBank",
+      "label": null,
+      "external_revenue": 80826000000,
+      "intersegment_revenue": 1903000000,
+      "ordinary_income": 18848000000
+    },
+    {
+      "key": "TotalBank",
+      "label": null,
+      "external_revenue": 179273000000,
+      "intersegment_revenue": 2650000000,
+      "ordinary_income": 38217000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31612-000_2024-03-31_01_2024-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

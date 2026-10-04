@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E24558",
+    "sec_code": "1417",
+    "company_name": "株式会社ミライト・ワン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R79T"
+  },
+  "financials": {
+    "net_sales": 441166000000,
+    "ordinary_income": 23207000000,
+    "net_income": 15220000000,
+    "comprehensive_income": 17156000000,
+    "eps": 149.93,
+    "dps": 40,
+    "operating_cf": 7936000000,
+    "investing_cf": -9176000000,
+    "financing_cf": -2814000000,
+    "net_assets": 218710000000,
+    "total_assets": 352134000000,
+    "bps": 2006.42,
+    "cash_end": 31632000000,
+    "equity_ratio": 0.612,
+    "roe": 0.074,
+    "per": 9.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24558-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

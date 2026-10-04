@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "edinet_code": "E03563",
+    "sec_code": "8359",
+    "company_name": "株式会社八十二長野銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-16",
+    "doc_id": "S100YAUN"
+  },
+  "financials": {
+    "ordinary_income": 81533000000,
+    "net_income": 64572000000,
+    "comprehensive_income": 221096000000,
+    "eps": 141.18,
+    "eps_diluted": 141.1,
+    "dps": 60,
+    "operating_cf": -440464000000,
+    "investing_cf": 276491000000,
+    "financing_cf": -32608000000,
+    "net_assets": 1156165000000,
+    "total_assets": 13554489000000,
+    "bps": 2534.41,
+    "cash_end": 2803142000000,
+    "equity_ratio": 0.0849,
+    "roe": 0.061,
+    "per": 13.64,
+    "income_tax_expense": 15475000000,
+    "depreciation": 6088000000,
+    "ppe": 38749000000,
+    "intangible_assets": 4803000000,
+    "treasury_stock": -35216000000,
+    "noncontrolling_interests": 4099000000,
+    "ordinary_revenue": 305443000000
+  },
+  "segments": [
+    {
+      "key": "Banking",
+      "label": null,
+      "external_revenue": 263251000000,
+      "intersegment_revenue": 758000000,
+      "ordinary_income": 79448000000
+    },
+    {
+      "key": "Leasing",
+      "label": null,
+      "external_revenue": 39065000000,
+      "intersegment_revenue": 419000000,
+      "ordinary_income": 2277000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03563-000_2026-03-31_01_2026-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

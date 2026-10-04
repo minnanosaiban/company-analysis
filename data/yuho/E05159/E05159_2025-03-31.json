@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E05159",
+    "sec_code": "8473",
+    "company_name": "ＳＢＩホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W739"
+  },
+  "financials": {
+    "dps": 170,
+    "net_sales": 1443733000000,
+    "net_income": 162120000000,
+    "comprehensive_income": 103768000000,
+    "net_assets": 1261408000000,
+    "total_assets": 32113430000000,
+    "equity_ratio": 0.039,
+    "bps": 4162.73,
+    "eps": 536.09,
+    "eps_diluted": 512.67,
+    "roe": 0.128,
+    "per": 7.43,
+    "operating_cf": 1508745000000,
+    "investing_cf": -1060455000000,
+    "financing_cf": 445892000000,
+    "cash_end": 5500548000000,
+    "income_tax_expense": 93132000000,
+    "sga_expense": 441660000000,
+    "profit_before_tax": 282290000000,
+    "depreciation": 60794000000,
+    "capex_intangible": -51757000000,
+    "ppe": 144938000000,
+    "goodwill": 243567000000,
+    "intangible_assets": 429866000000,
+    "equity_method_investments": 345353000000,
+    "treasury_stock": -96000000,
+    "noncontrolling_interests": 502385000000
+  },
+  "segments": [
+    {
+      "key": "AssetManagementBusiness",
+      "label": "資産運用事業",
+      "external_revenue": 33338000000,
+      "intersegment_revenue": 473000000,
+      "profit_before_tax": 5447000000,
+      "equity_method_income": -6000000
+    },
+    {
+      "key": "CryptoAssetBusiness",
+      "label": "暗号資産事業",
+      "external_revenue": 80652000000,
+      "intersegment_revenue": 145000000,
+      "profit_before_tax": 21220000000
+    },
+    {
+      "key": "FinancialServicesBusiness",
+      "label": "金融サービス事業",
+      "external_revenue": 1190164000000,
+      "intersegment_revenue": 12042000000,
+      "profit_before_tax": 225369000000,
+      "equity_method_income": 29398000000
+    },
+    {
+      "key": "InvestmentBusiness",
+      "label": null,
+      "external_revenue": 111313000000,
+      "intersegment_revenue": 1395000000,
+      "profit_before_tax": 67188000000,
+      "equity_method_income": 693000000
+    },
+    {
+      "key": "NextGenBusiness",
+      "label": "次世代事業",
+      "external_revenue": 27234000000,
+      "intersegment_revenue": 3428000000,
+      "profit_before_tax": -9944000000,
+      "equity_method_income": -611000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05159-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

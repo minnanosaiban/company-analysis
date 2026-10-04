@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E03481",
+    "sec_code": "3048",
+    "company_name": "株式会社ビックカメラ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-08-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-11-22",
+    "doc_id": "S100UTTK"
+  },
+  "financials": {
+    "net_sales": 922572000000,
+    "ordinary_income": 26674000000,
+    "net_income": 13908000000,
+    "comprehensive_income": 21016000000,
+    "eps": 81.25,
+    "eps_diluted": 81.19,
+    "dps": 33,
+    "operating_cf": 41994000000,
+    "investing_cf": -30073000000,
+    "financing_cf": -23659000000,
+    "net_assets": 193179000000,
+    "total_assets": 478248000000,
+    "bps": 889.58,
+    "cash_end": 63396000000,
+    "equity_ratio": 0.318,
+    "roe": 0.096,
+    "per": 20.5,
+    "gross_profit": 243646000000,
+    "operating_income": 24388000000,
+    "income_tax_expense": 7234000000,
+    "interest_bearing_debt_current": 61190000000,
+    "interest_bearing_debt_noncurrent": 25559000000,
+    "current_portion_of_bonds": 200000000,
+    "current_portion_lt_loans": 16788000000,
+    "lease_liabilities_current": 265000000,
+    "lease_liabilities_noncurrent": 280000000,
+    "depreciation": 10737000000,
+    "capex_ppe": -3517000000,
+    "capex_intangible": -3482000000,
+    "current_assets": 263467000000,
+    "current_liabilities": 213009000000,
+    "noncurrent_assets": 214780000000,
+    "noncurrent_liabilities": 72059000000,
+    "ppe": 80031000000,
+    "goodwill": 9649000000,
+    "intangible_assets": 39354000000,
+    "investment_securities": 25468000000,
+    "treasury_stock": -21670000000,
+    "noncontrolling_interests": 40729000000
+  },
+  "segments": [
+    {
+      "key": "BSDigitalBroadcasting",
+      "label": null,
+      "external_revenue": 11296000000,
+      "intersegment_revenue": 61000000,
+      "ordinary_income": 2073000000
+    },
+    {
+      "key": "MerchandiseSales",
+      "label": null,
+      "external_revenue": 909694000000,
+      "intersegment_revenue": 54000000,
+      "ordinary_income": 24490000000,
+      "equity_method_income": 119000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03481-000_2024-08-31_01_2024-11-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

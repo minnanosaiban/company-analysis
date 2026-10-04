@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E01630",
+    "sec_code": "4543",
+    "company_name": "テルモ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R4TX"
+  },
+  "financials": {
+    "dps": 40,
+    "net_sales": 820209000000,
+    "net_income": 89325000000,
+    "net_assets": 1111063000000,
+    "total_assets": 1602225000000,
+    "equity_ratio": 0.693,
+    "bps": 1492.15,
+    "eps": 119,
+    "eps_diluted": 118.95,
+    "roe": 0.084,
+    "per": 30.03,
+    "operating_cf": 117536000000,
+    "investing_cf": -59121000000,
+    "financing_cf": -86559000000,
+    "cash_end": 187322000000,
+    "operating_income": 117332000000,
+    "gross_profit": 417369000000,
+    "income_tax_expense": 26811000000,
+    "interest_bearing_debt_current": 11223000000,
+    "interest_bearing_debt_noncurrent": 220714000000,
+    "sga_expense": 299861000000,
+    "profit_before_tax": 116137000000,
+    "depreciation": 70238000000,
+    "capex_ppe": -52697000000,
+    "capex_intangible": -19476000000,
+    "current_assets": 611396000000,
+    "current_liabilities": 218001000000,
+    "noncurrent_assets": 990829000000,
+    "trade_receivables": 150635000000,
+    "inventories": 249618000000,
+    "trade_payables": 97736000000,
+    "ppe": 370869000000,
+    "goodwill": 267705000000,
+    "equity_method_investments": 3680000000,
+    "treasury_stock": -11539000000
+  },
+  "segments": [
+    {
+      "key": "BloodAndCellTechnologiesCompany",
+      "label": null,
+      "external_revenue": 147605000000,
+      "operating_income": 11163000000
+    },
+    {
+      "key": "CardiacAndVascularCompany",
+      "label": null,
+      "external_revenue": 480610000000,
+      "operating_income": 112155000000
+    },
+    {
+      "key": "MedicalCareSolutionsCompany",
+      "label": null,
+      "external_revenue": 191749000000,
+      "operating_income": 14848000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01630-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

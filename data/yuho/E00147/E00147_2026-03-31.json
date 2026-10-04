@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "edinet_code": "E00147",
+    "sec_code": "1860",
+    "company_name": "戸田建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YG3E"
+  },
+  "financials": {
+    "net_sales": 645737000000,
+    "ordinary_income": 43984000000,
+    "net_income": 36981000000,
+    "comprehensive_income": 65788000000,
+    "eps": 123.34,
+    "dps": 58,
+    "operating_cf": 62460000000,
+    "investing_cf": -20504000000,
+    "financing_cf": -43806000000,
+    "net_assets": 403161000000,
+    "total_assets": 998399000000,
+    "bps": 1320.15,
+    "cash_end": 84629000000,
+    "equity_ratio": 0.3914,
+    "roe": 0.1009,
+    "per": 11.74,
+    "gross_profit": 92221000000,
+    "operating_income": 38215000000,
+    "income_tax_expense": 12992000000,
+    "interest_bearing_debt_current": 52839000000,
+    "interest_bearing_debt_noncurrent": 113702000000,
+    "bonds_payable": 53000000000,
+    "current_portion_of_bonds": 10050000000,
+    "depreciation": 10411000000,
+    "capex_ppe": -27229000000,
+    "capex_intangible": -1066000000,
+    "current_assets": 479351000000,
+    "current_liabilities": 351704000000,
+    "noncurrent_assets": 519047000000,
+    "noncurrent_liabilities": 243533000000,
+    "ppe": 262157000000,
+    "goodwill": 1032000000,
+    "intangible_assets": 11930000000,
+    "investment_securities": 220780000000,
+    "treasury_stock": -19814000000,
+    "noncontrolling_interests": 12343000000
+  },
+  "segments": [
+    {
+      "key": "Construction",
+      "label": null,
+      "external_revenue": 360837000000,
+      "intersegment_revenue": 1720000000,
+      "operating_income": 26972000000
+    },
+    {
+      "key": "DomesticAssociateCompanies",
+      "label": null,
+      "external_revenue": 61033000000,
+      "intersegment_revenue": 6827000000,
+      "operating_income": 2779000000
+    },
+    {
+      "key": "DomesticRealEstateInvestmentAndDevelopmentBusiness",
+      "label": null,
+      "external_revenue": 31276000000,
+      "intersegment_revenue": 2152000000,
+      "operating_income": 2060000000
+    },
+    {
+      "key": "Engineering",
+      "label": null,
+      "external_revenue": 121562000000,
+      "intersegment_revenue": 6284000000,
+      "operating_income": 4620000000
+    },
+    {
+      "key": "EnvironmentEnergy",
+      "label": null,
+      "external_revenue": 3327000000,
+      "intersegment_revenue": 46000000,
+      "operating_income": -1282000000
+    },
+    {
+      "key": "OverseasAssociateCompanies",
+      "label": null,
+      "external_revenue": 67699000000,
+      "operating_income": 5623000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00147-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

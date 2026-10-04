@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E02505",
+    "sec_code": "8015",
+    "company_name": "豊田通商株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TO14"
+  },
+  "financials": {
+    "dps": 110,
+    "net_sales": 6694071000000,
+    "net_income": 135551000000,
+    "comprehensive_income": 41297000000,
+    "net_assets": 1196635000000,
+    "total_assets": 4545210000000,
+    "equity_ratio": 0.2633,
+    "bps": 3401.02,
+    "eps": 385.25,
+    "roe": 0.1133,
+    "per": 6.61,
+    "operating_cf": 267809000000,
+    "investing_cf": -173910000000,
+    "financing_cf": -53679000000,
+    "cash_end": 496372000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02505-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

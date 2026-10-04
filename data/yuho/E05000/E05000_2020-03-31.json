@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05000",
+    "sec_code": "4689",
+    "company_name": "Ｚホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-15",
+    "doc_id": "S100QY1D"
+  },
+  "financials": {
+    "dps": 8.86,
+    "net_sales": 1052943000000,
+    "net_income": 81675000000,
+    "comprehensive_income": 73822000000,
+    "net_assets": 771548000000,
+    "total_assets": 3933910000000,
+    "equity_ratio": 0.196,
+    "bps": 162.01,
+    "eps": 16.88,
+    "eps_diluted": 16.88,
+    "roe": 0.103,
+    "per": 20.62,
+    "operating_cf": 241578000000,
+    "investing_cf": -503734000000,
+    "financing_cf": 595809000000,
+    "cash_end": 880100000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05000-000_2023-03-31_01_2023-06-15.csv",
+    "parser_version": "0.1.3"
+  }
+}

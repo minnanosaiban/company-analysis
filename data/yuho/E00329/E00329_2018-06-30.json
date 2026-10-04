@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00329",
+    "sec_code": "1414",
+    "company_name": "ショーボンドホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-06-30",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-09-12",
+    "doc_id": "S100RUBR"
+  },
+  "financials": {
+    "net_sales": 59682000000,
+    "ordinary_income": 11187000000,
+    "net_income": 7301000000,
+    "comprehensive_income": 7922000000,
+    "eps": 135.64,
+    "dps": 125,
+    "operating_cf": 1734000000,
+    "investing_cf": -2063000000,
+    "financing_cf": -3147000000,
+    "net_assets": 74096000000,
+    "total_assets": 90976000000,
+    "bps": 1376.52,
+    "cash_end": 14594000000,
+    "equity_ratio": 0.814,
+    "roe": 0.102,
+    "per": 28.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00329-000_2022-06-30_02_2023-09-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

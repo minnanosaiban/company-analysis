@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E03863",
+    "sec_code": "9706",
+    "company_name": "日本空港ビルデング株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YGGN"
+  },
+  "financials": {
+    "net_sales": 289823000000,
+    "ordinary_income": 43704000000,
+    "net_income": 29139000000,
+    "comprehensive_income": 40792000000,
+    "eps": 313.95,
+    "dps": 95,
+    "operating_cf": 71569000000,
+    "investing_cf": -39442000000,
+    "financing_cf": -21168000000,
+    "net_assets": 229885000000,
+    "total_assets": 491972000000,
+    "bps": 2265.71,
+    "cash_end": 96837000000,
+    "equity_ratio": 0.4275,
+    "roe": 0.1465,
+    "per": 16.43,
+    "operating_income": 45043000000,
+    "income_tax_expense": 9165000000,
+    "interest_bearing_debt_current": 14897000000,
+    "interest_bearing_debt_noncurrent": 102617000000,
+    "bonds_payable": 76675000000,
+    "lease_liabilities_noncurrent": 755000000,
+    "depreciation": 29793000000,
+    "capex_ppe": -36128000000,
+    "capex_intangible": -1557000000,
+    "current_assets": 143429000000,
+    "current_liabilities": 72952000000,
+    "noncurrent_assets": 348542000000,
+    "noncurrent_liabilities": 189133000000,
+    "ppe": 271676000000,
+    "intangible_assets": 28914000000,
+    "investment_securities": 27904000000,
+    "treasury_stock": -1556000000,
+    "noncontrolling_interests": 19573000000
+  },
+  "segments": [
+    {
+      "key": "FacilitiesManagement",
+      "label": "施設管理運営業",
+      "external_revenue": 117765000000,
+      "intersegment_revenue": 3439000000,
+      "operating_income": 28312000000
+    },
+    {
+      "key": "FoodAndBeverage",
+      "label": "飲食業",
+      "external_revenue": 18004000000,
+      "intersegment_revenue": 1004000000,
+      "operating_income": 1150000000
+    },
+    {
+      "key": "MerchandiseSales",
+      "label": "物品販売業",
+      "external_revenue": 154053000000,
+      "intersegment_revenue": 1529000000,
+      "operating_income": 27489000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03863-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

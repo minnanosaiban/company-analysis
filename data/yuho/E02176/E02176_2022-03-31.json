@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E02176",
+    "sec_code": "7240",
+    "company_name": "ＮＯＫ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R5JS"
+  },
+  "financials": {
+    "net_sales": 682507000000,
+    "ordinary_income": 46168000000,
+    "net_income": 25835000000,
+    "comprehensive_income": 59367000000,
+    "eps": 149.37,
+    "dps": 60,
+    "operating_cf": 54999000000,
+    "investing_cf": -37972000000,
+    "financing_cf": -32070000000,
+    "net_assets": 554355000000,
+    "total_assets": 857324000000,
+    "bps": 2903.78,
+    "cash_end": 111247000000,
+    "equity_ratio": 0.586,
+    "roe": 0.0538,
+    "per": 7.68,
+    "gross_profit": 115321000000,
+    "operating_income": 31337000000,
+    "income_tax_expense": 14383000000,
+    "interest_bearing_debt_current": 60545000000,
+    "interest_bearing_debt_noncurrent": 10398000000,
+    "depreciation": 42591000000,
+    "capex_ppe": -39186000000,
+    "capex_intangible": -190000000,
+    "current_assets": 407043000000,
+    "current_liabilities": 202337000000,
+    "noncurrent_assets": 450280000000,
+    "noncurrent_liabilities": 100632000000,
+    "trade_receivables": 151015000000,
+    "ppe": 249203000000,
+    "goodwill": 421000000,
+    "intangible_assets": 3971000000,
+    "investment_securities": 163644000000,
+    "treasury_stock": -230000000,
+    "noncontrolling_interests": 52092000000
+  },
+  "segments": [
+    {
+      "key": "ElectronicComponentsBusiness",
+      "label": null,
+      "external_revenue": 320942000000,
+      "intersegment_revenue": 17000000,
+      "operating_income": -5040000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 25375000000,
+      "intersegment_revenue": 524000000,
+      "operating_income": 893000000
+    },
+    {
+      "key": "Seal",
+      "label": null,
+      "external_revenue": 336189000000,
+      "intersegment_revenue": 2308000000,
+      "operating_income": 35482000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02176-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

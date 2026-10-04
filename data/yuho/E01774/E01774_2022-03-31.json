@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E01774",
+    "sec_code": "6754",
+    "company_name": "アンリツ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R4SS"
+  },
+  "financials": {
+    "dps": 40,
+    "net_sales": 105387000000,
+    "net_income": 12796000000,
+    "comprehensive_income": 16035000000,
+    "net_assets": 114196000000,
+    "total_assets": 153261000000,
+    "equity_ratio": 0.745,
+    "bps": 846.15,
+    "eps": 93.98,
+    "eps_diluted": 93.95,
+    "roe": 0.115,
+    "per": 16.52,
+    "operating_cf": 16031000000,
+    "investing_cf": -8706000000,
+    "financing_cf": -13395000000,
+    "cash_end": 45689000000,
+    "operating_income": 16499000000,
+    "gross_profit": 55472000000,
+    "income_tax_expense": 4309000000,
+    "interest_bearing_debt_current": 1133000000,
+    "interest_bearing_debt_noncurrent": 2990000000,
+    "sga_expense": 27913000000,
+    "profit_before_tax": 17150000000,
+    "depreciation": 5132000000,
+    "capex_ppe": -2941000000,
+    "current_assets": 101989000000,
+    "current_liabilities": 31290000000,
+    "noncurrent_assets": 51271000000,
+    "trade_receivables": 26622000000,
+    "inventories": 25591000000,
+    "trade_payables": 8426000000,
+    "ppe": 28150000000,
+    "goodwill": 3088000000,
+    "equity_method_investments": 3000000,
+    "treasury_stock": -6199000000,
+    "noncontrolling_interests": 246000000
+  },
+  "segments": [
+    {
+      "key": "PQA",
+      "label": "PQA",
+      "external_revenue": 21978000000,
+      "intersegment_revenue": 3000000,
+      "revenue": 21981000000,
+      "operating_income": 1173000000,
+      "assets": 24124000000
+    },
+    {
+      "key": "TestAndMeasurement",
+      "label": "通信計測",
+      "external_revenue": 73320000000,
+      "intersegment_revenue": 37000000,
+      "revenue": 73357000000,
+      "operating_income": 15202000000,
+      "assets": 102271000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01774-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

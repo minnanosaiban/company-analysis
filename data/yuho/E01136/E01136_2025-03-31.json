@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E01136",
+    "sec_code": "5334",
+    "company_name": "日本特殊陶業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W1AL"
+  },
+  "financials": {
+    "dps": 178,
+    "net_sales": 652993000000,
+    "net_income": 92625000000,
+    "net_assets": 674573000000,
+    "total_assets": 990966000000,
+    "equity_ratio": 0.681,
+    "bps": 3399.43,
+    "eps": 466.34,
+    "roe": 0.141,
+    "per": 9.7,
+    "operating_cf": 132921000000,
+    "investing_cf": -34246000000,
+    "financing_cf": -70995000000,
+    "cash_end": 208192000000,
+    "operating_income": 129660000000,
+    "gross_profit": 258100000000,
+    "income_tax_expense": 40531000000,
+    "interest_bearing_debt_current": 16719000000,
+    "interest_bearing_debt_noncurrent": 139964000000,
+    "sga_expense": 133643000000,
+    "profit_before_tax": 133313000000,
+    "depreciation": 39690000000,
+    "capex_ppe": -30088000000,
+    "capex_intangible": -4690000000,
+    "current_assets": 588518000000,
+    "current_liabilities": 153648000000,
+    "noncurrent_assets": 402448000000,
+    "trade_receivables": 147551000000,
+    "inventories": 183932000000,
+    "trade_payables": 57660000000,
+    "ppe": 219974000000,
+    "goodwill": 13584000000,
+    "equity_method_investments": 19199000000,
+    "treasury_stock": -2199000000,
+    "noncontrolling_interests": 149000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveComponents",
+      "label": "自動車関連",
+      "external_revenue": 538894000000,
+      "revenue": 538894000000,
+      "operating_income": 140856000000,
+      "equity_method_income": 862000000
+    },
+    {
+      "key": "CeramicComponents",
+      "label": "セラミック関連",
+      "external_revenue": 100141000000,
+      "intersegment_revenue": 787000000,
+      "revenue": 100928000000,
+      "operating_income": 39000000,
+      "equity_method_income": 463000000
+    },
+    {
+      "key": "NewBusinessComponents",
+      "label": null,
+      "external_revenue": 6052000000,
+      "revenue": 6052000000,
+      "operating_income": -12987000000,
+      "equity_method_income": -204000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01136-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

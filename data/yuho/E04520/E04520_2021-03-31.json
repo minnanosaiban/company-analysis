@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04520",
+    "sec_code": "9532",
+    "company_name": "大阪瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1CK"
+  },
+  "financials": {
+    "net_sales": 1364106000000,
+    "ordinary_income": 127752000000,
+    "net_income": 80857000000,
+    "comprehensive_income": 108723000000,
+    "eps": 194.48,
+    "dps": 52.5,
+    "operating_cf": 219797000000,
+    "investing_cf": -198354000000,
+    "financing_cf": -1636000000,
+    "net_assets": 1114597000000,
+    "total_assets": 2313357000000,
+    "bps": 2602.18,
+    "cash_end": 166762000000,
+    "equity_ratio": 0.468,
+    "roe": 0.078,
+    "per": 11.09
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04520-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

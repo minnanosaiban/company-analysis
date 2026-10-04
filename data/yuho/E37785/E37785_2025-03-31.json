@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E37785",
+    "sec_code": "5832",
+    "company_name": "株式会社ちゅうぎんフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-19",
+    "doc_id": "S100VZPR"
+  },
+  "financials": {
+    "ordinary_income": 38308000000,
+    "net_income": 27434000000,
+    "comprehensive_income": -23301000000,
+    "eps": 152.61,
+    "eps_diluted": 152.46,
+    "dps": 62,
+    "operating_cf": 46944000000,
+    "investing_cf": -265073000000,
+    "financing_cf": 4214000000,
+    "net_assets": 542366000000,
+    "total_assets": 11045576000000,
+    "bps": 3030.68,
+    "cash_end": 1201718000000,
+    "equity_ratio": 0.049,
+    "roe": 0.0488,
+    "per": 10.94,
+    "income_tax_expense": 13450000000,
+    "bonds_payable": 30000000000,
+    "depreciation": 4249000000,
+    "capex_ppe": -11006000000,
+    "capex_intangible": -899000000,
+    "ppe": 42315000000,
+    "intangible_assets": 2523000000,
+    "treasury_stock": -7637000000,
+    "ordinary_revenue": 211734000000
+  },
+  "segments": [
+    {
+      "key": "Banking",
+      "label": "銀行業",
+      "external_revenue": 190249000000,
+      "intersegment_revenue": 1783000000,
+      "ordinary_income": 35796000000
+    },
+    {
+      "key": "Leasing",
+      "label": "リース業",
+      "external_revenue": 14552000000,
+      "intersegment_revenue": 162000000,
+      "ordinary_income": 685000000
+    },
+    {
+      "key": "Securities",
+      "label": "証券業",
+      "external_revenue": 3878000000,
+      "intersegment_revenue": 96000000,
+      "ordinary_income": 868000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E37785-000_2025-03-31_01_2025-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

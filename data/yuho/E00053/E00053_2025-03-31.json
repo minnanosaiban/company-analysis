@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E00053",
+    "sec_code": "1803",
+    "company_name": "清水建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-27",
+    "doc_id": "S100W7C5"
+  },
+  "financials": {
+    "net_sales": 1944360000000,
+    "ordinary_income": 71664000000,
+    "net_income": 66015000000,
+    "comprehensive_income": 28028000000,
+    "eps": 94.8,
+    "dps": 38,
+    "operating_cf": 159094000000,
+    "investing_cf": 7813000000,
+    "financing_cf": -71102000000,
+    "net_assets": 923809000000,
+    "total_assets": 2523771000000,
+    "bps": 1260.48,
+    "cash_end": 438144000000,
+    "equity_ratio": 0.341,
+    "roe": 0.076,
+    "per": 14,
+    "gross_profit": 195454000000,
+    "operating_income": 71030000000,
+    "income_tax_expense": 31274000000,
+    "interest_bearing_debt_current": 243576000000,
+    "interest_bearing_debt_noncurrent": 132362000000,
+    "bonds_payable": 126000000000,
+    "current_portion_of_bonds": 30000000000,
+    "depreciation": 33478000000,
+    "capex_ppe": -34076000000,
+    "current_assets": 1517057000000,
+    "current_liabilities": 1208382000000,
+    "noncurrent_assets": 1006714000000,
+    "noncurrent_liabilities": 391579000000,
+    "ppe": 628702000000,
+    "intangible_assets": 34041000000,
+    "investment_securities": 299507000000,
+    "treasury_stock": -36903000000,
+    "noncontrolling_interests": 63732000000
+  },
+  "segments": [
+    {
+      "key": "ConstructionBusinessOfTheCorporation",
+      "label": null,
+      "external_revenue": 1366701000000,
+      "intersegment_revenue": 14106000000,
+      "operating_income": 56436000000
+    },
+    {
+      "key": "RealEstateBusinessOfTheCorporation",
+      "label": null,
+      "external_revenue": 53076000000,
+      "intersegment_revenue": 492000000,
+      "operating_income": 16863000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00053-000_2025-03-31_01_2025-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

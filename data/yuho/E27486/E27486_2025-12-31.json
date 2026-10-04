@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E27486",
+    "sec_code": "4587",
+    "company_name": "ペプチドリーム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-18",
+    "doc_id": "S100XRP4"
+  },
+  "financials": {
+    "net_sales": 18521234000,
+    "net_income": -3749204000,
+    "comprehensive_income": -4336617000,
+    "net_assets": 51528263000,
+    "total_assets": 77033187000,
+    "equity_ratio": 0.669,
+    "bps": 398.53,
+    "eps": -28.99,
+    "eps_diluted": -28.99,
+    "roe": -0.069,
+    "operating_cf": -13276876000,
+    "investing_cf": -2053999000,
+    "financing_cf": -4057705000,
+    "cash_end": 28682933000,
+    "operating_income": -5013195000,
+    "gross_profit": 7522350000,
+    "income_tax_expense": -1562924000,
+    "sga_expense": 7473916000,
+    "profit_before_tax": -5312129000,
+    "depreciation": 2126510000,
+    "capex_ppe": -1642938000,
+    "capex_intangible": -111862000,
+    "current_assets": 38919826000,
+    "current_liabilities": 23418542000,
+    "noncurrent_assets": 38113361000,
+    "trade_receivables": 5867315000,
+    "inventories": 3190567000,
+    "trade_payables": 4253389000,
+    "ppe": 18929282000,
+    "goodwill": 8370677000,
+    "intangible_assets": 2016747000,
+    "equity_method_investments": 23567000,
+    "treasury_stock": -1897778000
+  },
+  "segments": [
+    {
+      "key": "DrugDiscoveryAndDevelopmentBusiness",
+      "label": null,
+      "external_revenue": 2793300000,
+      "revenue": 2793300000,
+      "operating_income": -5357999000
+    },
+    {
+      "key": "RadiopharmaceuticalsBusiness",
+      "label": null,
+      "external_revenue": 15727934000,
+      "intersegment_revenue": 1150964000,
+      "revenue": 16878899000,
+      "operating_income": 434803000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27486-000_2025-12-31_01_2026-03-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

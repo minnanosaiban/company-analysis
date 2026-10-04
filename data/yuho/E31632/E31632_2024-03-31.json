@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E31632",
+    "sec_code": "5021",
+    "company_name": "コスモエネルギーホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W3P9"
+  },
+  "financials": {
+    "net_sales": 2729570000000,
+    "ordinary_income": 161615000000,
+    "net_income": 82060000000,
+    "comprehensive_income": 99046000000,
+    "eps": 938.11,
+    "dps": 300,
+    "operating_cf": 177944000000,
+    "investing_cf": -32768000000,
+    "financing_cf": -104178000000,
+    "net_assets": 727415000000,
+    "total_assets": 2212586000000,
+    "bps": 6863.55,
+    "cash_end": 105480000000,
+    "equity_ratio": 0.272,
+    "roe": 0.145,
+    "per": 8.18,
+    "gross_profit": 319643000000,
+    "operating_income": 149200000000,
+    "income_tax_expense": 57394000000,
+    "interest_bearing_debt_current": 245082000000,
+    "interest_bearing_debt_noncurrent": 263669000000,
+    "bonds_payable": 21568000000,
+    "commercial_papers": 88000000000,
+    "depreciation": 55290000000,
+    "capex_ppe": -71113000000,
+    "current_assets": 1122740000000,
+    "current_liabilities": 1007628000000,
+    "noncurrent_assets": 1089767000000,
+    "noncurrent_liabilities": 477542000000,
+    "trade_payables": 346805000000,
+    "ppe": 850239000000,
+    "intangible_assets": 42094000000,
+    "investment_securities": 131147000000,
+    "treasury_stock": -1932000000,
+    "noncontrolling_interests": 126253000000
+  },
+  "segments": [
+    {
+      "key": "OilExplorationAndProductionBusiness",
+      "label": "石油開発事業",
+      "external_revenue": 39141000000,
+      "intersegment_revenue": 88686000000,
+      "ordinary_income": 68262000000,
+      "equity_method_income": 1815000000
+    },
+    {
+      "key": "Petrochemicalbusiness",
+      "label": "石油化学事業",
+      "external_revenue": 313115000000,
+      "intersegment_revenue": 48667000000,
+      "ordinary_income": -7764000000,
+      "equity_method_income": -5702000000
+    },
+    {
+      "key": "PetroleumBusiness",
+      "label": "石油事業",
+      "external_revenue": 2341027000000,
+      "intersegment_revenue": 104524000000,
+      "ordinary_income": 90719000000,
+      "equity_method_income": 2143000000
+    },
+    {
+      "key": "RenewableEnergyBusiness",
+      "label": "再生可能エネルギー事業",
+      "external_revenue": 14156000000,
+      "intersegment_revenue": 150000000,
+      "ordinary_income": 2848000000,
+      "equity_method_income": 68000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31632-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

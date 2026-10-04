@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E01110",
+    "sec_code": "5110",
+    "company_name": "住友ゴム工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T676"
+  },
+  "financials": {
+    "dps": 35,
+    "net_sales": 1098664000000,
+    "net_income": 9415000000,
+    "comprehensive_income": 49752000000,
+    "net_assets": 546200000000,
+    "total_assets": 1225202000000,
+    "equity_ratio": 0.446,
+    "bps": 2076.74,
+    "eps": 35.8,
+    "roe": 0.018,
+    "per": 32.2,
+    "operating_cf": 27869000000,
+    "investing_cf": -78697000000,
+    "financing_cf": 41556000000,
+    "cash_end": 73846000000,
+    "operating_income": 14988000000,
+    "gross_profit": 253222000000,
+    "income_tax_expense": 10083000000,
+    "interest_bearing_debt_current": 100895000000,
+    "interest_bearing_debt_noncurrent": 210907000000,
+    "sga_expense": 231259000000,
+    "profit_before_tax": 22539000000,
+    "depreciation": 75348000000,
+    "capex_ppe": -67324000000,
+    "capex_intangible": -7591000000,
+    "current_assets": 623899000000,
+    "current_liabilities": 352908000000,
+    "noncurrent_assets": 601303000000,
+    "trade_receivables": 209009000000,
+    "inventories": 283501000000,
+    "trade_payables": 176151000000,
+    "ppe": 436307000000,
+    "goodwill": 26412000000,
+    "intangible_assets": 45919000000,
+    "equity_method_investments": 4462000000,
+    "treasury_stock": -61000000,
+    "noncontrolling_interests": 17663000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialAndOtherProducts",
+      "label": null,
+      "external_revenue": 42126000000,
+      "intersegment_revenue": 1190000000,
+      "revenue": 43316000000,
+      "operating_income": 680000000
+    },
+    {
+      "key": "Sports",
+      "label": null,
+      "external_revenue": 116597000000,
+      "intersegment_revenue": 149000000,
+      "revenue": 116746000000,
+      "operating_income": 8943000000
+    },
+    {
+      "key": "Tires",
+      "label": null,
+      "external_revenue": 939941000000,
+      "intersegment_revenue": 1384000000,
+      "revenue": 941325000000,
+      "operating_income": 12311000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01110-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E03863",
+    "sec_code": "9706",
+    "company_name": "日本空港ビルデング株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TTOM"
+  },
+  "financials": {
+    "net_sales": 217578000000,
+    "ordinary_income": 27225000000,
+    "net_income": 19255000000,
+    "comprehensive_income": 28906000000,
+    "eps": 206.75,
+    "dps": 67,
+    "operating_cf": 47761000000,
+    "investing_cf": -42986000000,
+    "financing_cf": -19649000000,
+    "net_assets": 166036000000,
+    "total_assets": 460423000000,
+    "bps": 1805.67,
+    "cash_end": 75395000000,
+    "equity_ratio": 0.3653,
+    "roe": 0.1209,
+    "per": 28.68,
+    "operating_income": 29527000000,
+    "income_tax_expense": 4920000000,
+    "interest_bearing_debt_current": 16615000000,
+    "interest_bearing_debt_noncurrent": 155398000000,
+    "bonds_payable": 44988000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_noncurrent": 811000000,
+    "depreciation": 28232000000,
+    "capex_ppe": -27662000000,
+    "capex_intangible": -1468000000,
+    "current_assets": 120756000000,
+    "current_liabilities": 70594000000,
+    "noncurrent_assets": 339667000000,
+    "noncurrent_liabilities": 223792000000,
+    "ppe": 269932000000,
+    "intangible_assets": 31242000000,
+    "investment_securities": 22248000000,
+    "treasury_stock": -13000000,
+    "noncontrolling_interests": -2135000000
+  },
+  "segments": [
+    {
+      "key": "FacilitiesManagement",
+      "label": "施設管理運営業",
+      "external_revenue": 91736000000,
+      "intersegment_revenue": 3126000000,
+      "operating_income": 17880000000
+    },
+    {
+      "key": "FoodAndBeverage",
+      "label": "飲食業",
+      "external_revenue": 14667000000,
+      "intersegment_revenue": 722000000,
+      "operating_income": 65000000
+    },
+    {
+      "key": "MerchandiseSales",
+      "label": "物品販売業",
+      "external_revenue": 111175000000,
+      "intersegment_revenue": 1561000000,
+      "operating_income": 21084000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03863-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

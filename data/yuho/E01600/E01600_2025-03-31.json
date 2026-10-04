@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E01600",
+    "sec_code": "6471",
+    "company_name": "日本精工株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-23",
+    "doc_id": "S100W12Z"
+  },
+  "financials": {
+    "dps": 34,
+    "net_sales": 796667000000,
+    "net_income": 10647000000,
+    "comprehensive_income": 6740000000,
+    "net_assets": 651462000000,
+    "total_assets": 1219543000000,
+    "equity_ratio": 0.534,
+    "bps": 1332.78,
+    "eps": 21.78,
+    "eps_diluted": 21.71,
+    "roe": 0.016,
+    "per": 29.29,
+    "operating_cf": 82176000000,
+    "investing_cf": -58753000000,
+    "financing_cf": -33741000000,
+    "cash_end": 138253000000,
+    "operating_income": 28457000000,
+    "gross_profit": 172783000000,
+    "income_tax_expense": 12031000000,
+    "sga_expense": 144661000000,
+    "profit_before_tax": 25100000000,
+    "depreciation": 52412000000,
+    "capex_ppe": -38121000000,
+    "capex_intangible": -12234000000,
+    "current_assets": 636662000000,
+    "current_liabilities": 301291000000,
+    "noncurrent_assets": 582881000000,
+    "inventories": 185878000000,
+    "ppe": 344906000000,
+    "goodwill": 17267000000,
+    "intangible_assets": 62728000000,
+    "equity_method_investments": 51540000000,
+    "treasury_stock": -10310000000,
+    "noncontrolling_interests": 17727000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveBusiness",
+      "label": null,
+      "external_revenue": 401677000000,
+      "operating_income": 16096000000,
+      "equity_method_income": 4001000000
+    },
+    {
+      "key": "IndustrialMachineryBusiness",
+      "label": null,
+      "external_revenue": 361478000000,
+      "operating_income": 13944000000,
+      "equity_method_income": 867000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01600-000_2025-03-31_01_2025-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

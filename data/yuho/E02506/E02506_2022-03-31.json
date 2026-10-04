@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E02506",
+    "sec_code": "8020",
+    "company_name": "兼松株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W7BP"
+  },
+  "financials": {
+    "dps": 65,
+    "net_sales": 767963000000,
+    "net_income": 15986000000,
+    "comprehensive_income": 20433000000,
+    "net_assets": 159484000000,
+    "total_assets": 634456000000,
+    "equity_ratio": 0.251,
+    "bps": 1909.64,
+    "eps": 191.42,
+    "eps_diluted": 191.15,
+    "roe": 0.105,
+    "per": 7.01,
+    "operating_cf": 15382000000,
+    "investing_cf": -10547000000,
+    "financing_cf": 4245000000,
+    "cash_end": 91420000000
+  },
+  "segments": [
+    {
+      "key": "ElectronicsAndDevices",
+      "label": "電子・デバイス",
+      "external_revenue": 255463000000,
+      "intersegment_revenue": 501000000,
+      "operating_income": 19064000000,
+      "profit_attributable_to_owners": 7944000000,
+      "equity_method_income": -28000000,
+      "assets": 214649000000
+    },
+    {
+      "key": "FoodsAndGrain",
+      "label": "食料",
+      "external_revenue": 285284000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": 3541000000,
+      "profit_attributable_to_owners": 2519000000,
+      "equity_method_income": 75000000,
+      "assets": 151945000000
+    },
+    {
+      "key": "MotorVehiclesAndAerospace",
+      "label": "車両・航空",
+      "external_revenue": 65827000000,
+      "intersegment_revenue": 6000000,
+      "operating_income": 1663000000,
+      "profit_attributable_to_owners": 1457000000,
+      "equity_method_income": 44000000,
+      "assets": 54186000000
+    },
+    {
+      "key": "SteelMaterialsAndPlant",
+      "label": "鉄鋼・素材・プラント",
+      "external_revenue": 147993000000,
+      "intersegment_revenue": 35000000,
+      "operating_income": 4052000000,
+      "profit_attributable_to_owners": 3259000000,
+      "equity_method_income": 1154000000,
+      "assets": 156952000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02506-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

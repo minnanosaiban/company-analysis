@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03144",
+    "sec_code": "9843",
+    "company_name": "株式会社ニトリホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1N2"
+  },
+  "financials": {
+    "net_sales": 716900000000,
+    "ordinary_income": 138426000000,
+    "net_income": 92114000000,
+    "comprehensive_income": 90944000000,
+    "eps": 817.01,
+    "eps_diluted": 816.66,
+    "dps": 123,
+    "operating_cf": 150879000000,
+    "investing_cf": -195985000000,
+    "financing_cf": 30309000000,
+    "net_assets": 685392000000,
+    "total_assets": 930884000000,
+    "bps": 5691.11,
+    "cash_end": 125487000000,
+    "equity_ratio": 0.69,
+    "roe": 0.153,
+    "per": 25.67
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03144-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

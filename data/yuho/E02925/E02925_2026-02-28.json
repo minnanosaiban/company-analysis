@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E02925",
+    "sec_code": "2670",
+    "company_name": "株式会社エービーシー・マート",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-05-25",
+    "doc_id": "S100Y5F0"
+  },
+  "financials": {
+    "net_sales": 378624000000,
+    "ordinary_income": 67156000000,
+    "net_income": 46346000000,
+    "comprehensive_income": 48825000000,
+    "eps": 187.17,
+    "dps": 75,
+    "operating_cf": 41814000000,
+    "investing_cf": -15403000000,
+    "financing_cf": -18382000000,
+    "net_assets": 401000000000,
+    "total_assets": 455202000000,
+    "bps": 1607.64,
+    "cash_end": 207174000000,
+    "equity_ratio": 0.875,
+    "roe": 0.121,
+    "per": 14,
+    "gross_profit": 191909000000,
+    "operating_income": 63287000000,
+    "income_tax_expense": 19285000000,
+    "interest_bearing_debt_current": 1222000000,
+    "depreciation": 6401000000,
+    "capex_ppe": -13651000000,
+    "capex_intangible": -653000000,
+    "current_assets": 344847000000,
+    "current_liabilities": 52341000000,
+    "noncurrent_assets": 110354000000,
+    "noncurrent_liabilities": 1860000000,
+    "trade_receivables": 16686000000,
+    "inventories": 106562000000,
+    "trade_payables": 16233000000,
+    "ppe": 56015000000,
+    "goodwill": 63000000,
+    "intangible_assets": 3324000000,
+    "investment_securities": 20114000000,
+    "treasury_stock": -4000000,
+    "noncontrolling_interests": 2921000000
+  },
+  "segments": [
+    {
+      "key": "Domestic",
+      "label": "国内",
+      "external_revenue": 272073000000,
+      "intersegment_revenue": 1090000000,
+      "operating_income": 56441000000
+    },
+    {
+      "key": "Overseas",
+      "label": "海外",
+      "external_revenue": 106550000000,
+      "intersegment_revenue": 4827000000,
+      "operating_income": 7031000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02925-000_2026-02-28_01_2026-05-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

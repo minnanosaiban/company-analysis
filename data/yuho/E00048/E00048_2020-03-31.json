@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00048",
+    "sec_code": "1925",
+    "company_name": "大和ハウス工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8MF"
+  },
+  "financials": {
+    "net_sales": 4380209000000,
+    "ordinary_income": 367669000000,
+    "net_income": 233603000000,
+    "comprehensive_income": 216940000000,
+    "eps": 351.84,
+    "eps_diluted": 351.76,
+    "dps": 115,
+    "operating_cf": 149651000000,
+    "investing_cf": -317273000000,
+    "financing_cf": 169128000000,
+    "net_assets": 1773388000000,
+    "total_assets": 4627388000000,
+    "bps": 2600.82,
+    "cash_end": 276068000000,
+    "equity_ratio": 0.373,
+    "roe": 0.1406,
+    "per": 7.61
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00048-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

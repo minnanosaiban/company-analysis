@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00053",
+    "sec_code": "1803",
+    "company_name": "清水建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7BX"
+  },
+  "financials": {
+    "net_sales": 1664960000000,
+    "ordinary_income": 133957000000,
+    "net_income": 99668000000,
+    "comprehensive_income": 101732000000,
+    "eps": 127.04,
+    "eps_diluted": 127.04,
+    "dps": 36,
+    "operating_cf": -14933000000,
+    "investing_cf": -52652000000,
+    "financing_cf": -42404000000,
+    "net_assets": 735242000000,
+    "total_assets": 1860794000000,
+    "bps": 929.72,
+    "cash_end": 229978000000,
+    "equity_ratio": 0.392,
+    "roe": 0.144,
+    "per": 7.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00053-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

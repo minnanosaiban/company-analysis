@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E01210",
+    "sec_code": "5344",
+    "company_name": "株式会社ＭＡＲＵＷＡ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R2QA"
+  },
+  "financials": {
+    "net_sales": 54344000000,
+    "ordinary_income": 19182000000,
+    "net_income": 13350000000,
+    "comprehensive_income": 14186000000,
+    "eps": 1082.11,
+    "dps": 70,
+    "operating_cf": 14757000000,
+    "investing_cf": -3522000000,
+    "financing_cf": -1132000000,
+    "net_assets": 79681000000,
+    "total_assets": 95899000000,
+    "bps": 6458.45,
+    "cash_end": 44385000000,
+    "equity_ratio": 0.831,
+    "roe": 0.183,
+    "per": 15.1,
+    "gross_profit": 27326000000,
+    "operating_income": 18215000000,
+    "income_tax_expense": 6208000000,
+    "interest_bearing_debt_current": 100000000,
+    "interest_bearing_debt_noncurrent": 733000000,
+    "current_portion_lt_loans": 866000000,
+    "depreciation": 2570000000,
+    "capex_ppe": -3738000000,
+    "capex_intangible": -70000000,
+    "current_assets": 70149000000,
+    "current_liabilities": 14953000000,
+    "noncurrent_assets": 25750000000,
+    "noncurrent_liabilities": 1264000000,
+    "trade_payables": 3444000000,
+    "ppe": 23524000000,
+    "intangible_assets": 298000000,
+    "investment_securities": 230000000,
+    "treasury_stock": -207000000
+  },
+  "segments": [
+    {
+      "key": "CeramicComponents",
+      "label": "セラミック部品事業",
+      "external_revenue": 45690000000,
+      "intersegment_revenue": 6000000,
+      "operating_income": 17872000000
+    },
+    {
+      "key": "LightingEquipment",
+      "label": "照明機器事業",
+      "external_revenue": 8653000000,
+      "intersegment_revenue": 18000000,
+      "operating_income": 1180000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01210-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

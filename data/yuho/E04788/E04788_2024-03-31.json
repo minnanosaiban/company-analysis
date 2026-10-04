@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "edinet_code": "E04788",
+    "sec_code": "8593",
+    "company_name": "三菱ＨＣキャピタル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TS4W"
+  },
+  "financials": {
+    "net_sales": 1950583000000,
+    "ordinary_income": 151633000000,
+    "net_income": 123842000000,
+    "comprehensive_income": 220222000000,
+    "eps": 86.3,
+    "eps_diluted": 86.06,
+    "dps": 37,
+    "operating_cf": -49128000000,
+    "investing_cf": 143336000000,
+    "financing_cf": -222977000000,
+    "net_assets": 1705345000000,
+    "total_assets": 11149858000000,
+    "bps": 1174.88,
+    "cash_end": 335307000000,
+    "equity_ratio": 0.151,
+    "roe": 0.077,
+    "per": 12.4,
+    "gross_profit": 380095000000,
+    "operating_income": 146176000000,
+    "income_tax_expense": 27215000000,
+    "interest_bearing_debt_current": 471060000000,
+    "interest_bearing_debt_noncurrent": 3435702000000,
+    "bonds_payable": 1606588000000,
+    "commercial_papers": 784178000000,
+    "current_portion_of_bonds": 563684000000,
+    "current_portion_lt_loans": 1012618000000,
+    "lease_liabilities_current": 17852000000,
+    "lease_liabilities_noncurrent": 37427000000,
+    "current_assets": 6040826000000,
+    "current_liabilities": 3545972000000,
+    "noncurrent_assets": 5105206000000,
+    "noncurrent_liabilities": 5898539000000,
+    "trade_payables": 171616000000,
+    "ppe": 4236715000000,
+    "goodwill": 102091000000,
+    "intangible_assets": 247829000000,
+    "investment_securities": 427529000000,
+    "treasury_stock": -20894000000,
+    "noncontrolling_interests": 18211000000
+  },
+  "segments": [
+    {
+      "key": "Aviation",
+      "label": null,
+      "external_revenue": 208281000000
+    },
+    {
+      "key": "CustomerSolutionsUnit",
+      "label": null,
+      "external_revenue": 1043690000000,
+      "intersegment_revenue": 1343000000
+    },
+    {
+      "key": "EnvironmentEnergyAndInfrastructureBusiness",
+      "label": null,
+      "external_revenue": 49807000000,
+      "intersegment_revenue": 3000000
+    },
+    {
+      "key": "Logistics",
+      "label": null,
+      "external_revenue": 124659000000
+    },
+    {
+      "key": "Mobility",
+      "label": null,
+      "external_revenue": 3845000000
+    },
+    {
+      "key": "OverseasRegionsUnit",
+      "label": null,
+      "external_revenue": 428161000000,
+      "intersegment_revenue": 365000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 90558000000,
+      "intersegment_revenue": 17000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04788-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

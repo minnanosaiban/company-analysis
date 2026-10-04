@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "edinet_code": "E01081",
+    "sec_code": "5016",
+    "company_name": "ＪＸ金属株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W549"
+  },
+  "financials": {
+    "dps": 39.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01081-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

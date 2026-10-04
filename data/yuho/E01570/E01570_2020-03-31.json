@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01570",
+    "sec_code": "6367",
+    "company_name": "ダイキン工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R5QK"
+  },
+  "financials": {
+    "net_sales": 2550305000000,
+    "ordinary_income": 269025000000,
+    "net_income": 170731000000,
+    "comprehensive_income": 73322000000,
+    "eps": 583.61,
+    "eps_diluted": 583.22,
+    "dps": 160,
+    "operating_cf": 302166000000,
+    "investing_cf": -156187000000,
+    "financing_cf": -169933000000,
+    "net_assets": 1462591000000,
+    "total_assets": 2667512000000,
+    "bps": 4904.46,
+    "cash_end": 321151000000,
+    "equity_ratio": 0.538,
+    "roe": 0.12,
+    "per": 22.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01570-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

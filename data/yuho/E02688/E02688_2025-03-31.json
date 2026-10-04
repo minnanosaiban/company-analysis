@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E02688",
+    "sec_code": "8086",
+    "company_name": "ニプロ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W5PM"
+  },
+  "financials": {
+    "net_sales": 644586000000,
+    "ordinary_income": 10817000000,
+    "net_income": 5113000000,
+    "comprehensive_income": 26328000000,
+    "eps": 31.36,
+    "eps_diluted": 27.78,
+    "dps": 25,
+    "operating_cf": 68461000000,
+    "investing_cf": -71876000000,
+    "financing_cf": 5376000000,
+    "net_assets": 311621000000,
+    "total_assets": 1170564000000,
+    "bps": 1547.82,
+    "cash_end": 101661000000,
+    "equity_ratio": 0.216,
+    "roe": 0.021,
+    "per": 43.33,
+    "gross_profit": 190883000000,
+    "operating_income": 26598000000,
+    "income_tax_expense": 12326000000,
+    "interest_bearing_debt_current": 156174000000,
+    "interest_bearing_debt_noncurrent": 309987000000,
+    "bonds_payable": 103000000000,
+    "current_portion_of_bonds": 1000000000,
+    "lease_liabilities_current": 6653000000,
+    "lease_liabilities_noncurrent": 25170000000,
+    "depreciation": 62504000000,
+    "current_assets": 574418000000,
+    "current_liabilities": 350545000000,
+    "noncurrent_assets": 596145000000,
+    "noncurrent_liabilities": 508397000000,
+    "trade_receivables": 166858000000,
+    "trade_payables": 83802000000,
+    "ppe": 503827000000,
+    "goodwill": 14099000000,
+    "intangible_assets": 35505000000,
+    "investment_securities": 15287000000,
+    "treasury_stock": -10749000000,
+    "noncontrolling_interests": 59175000000
+  },
+  "segments": [
+    {
+      "key": "MedicalTreatmentRelated",
+      "label": null,
+      "external_revenue": 505078000000,
+      "intersegment_revenue": 6934000000,
+      "operating_income": 46632000000
+    },
+    {
+      "key": "MedicineRelated",
+      "label": null,
+      "external_revenue": 79125000000,
+      "intersegment_revenue": 63836000000,
+      "operating_income": 10625000000
+    },
+    {
+      "key": "PharmaPackaging",
+      "label": null,
+      "external_revenue": 59262000000,
+      "intersegment_revenue": 6834000000,
+      "operating_income": -272000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02688-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

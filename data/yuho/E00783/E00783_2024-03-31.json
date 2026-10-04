@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "edinet_code": "E00783",
+    "sec_code": "4091",
+    "company_name": "日本酸素ホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TN9T"
+  },
+  "financials": {
+    "dps": 44,
+    "net_sales": 1255081000000,
+    "net_income": 105901000000,
+    "comprehensive_income": 219891000000,
+    "net_assets": 914481000000,
+    "total_assets": 2409083000000,
+    "equity_ratio": 0.38,
+    "bps": 2112.66,
+    "eps": 244.66,
+    "roe": 0.129,
+    "per": 19.41,
+    "operating_cf": 215980000000,
+    "investing_cf": -124654000000,
+    "financing_cf": -110072000000,
+    "cash_end": 126100000000,
+    "operating_income": 172041000000,
+    "gross_profit": 510977000000,
+    "income_tax_expense": 41356000000,
+    "interest_bearing_debt_current": 166219000000,
+    "interest_bearing_debt_noncurrent": 724039000000,
+    "sga_expense": 346405000000,
+    "profit_before_tax": 150720000000,
+    "depreciation": 112440000000,
+    "capex_ppe": -118346000000,
+    "current_assets": 568201000000,
+    "current_liabilities": 498019000000,
+    "noncurrent_assets": 1840881000000,
+    "inventories": 100460000000,
+    "ppe": 877400000000,
+    "goodwill": 575809000000,
+    "intangible_assets": 252348000000,
+    "equity_method_investments": 54673000000,
+    "treasury_stock": -242000000,
+    "noncontrolling_interests": 31630000000
+  },
+  "segments": [
+    {
+      "key": "AsiaAndOceania",
+      "label": null,
+      "external_revenue": 160327000000,
+      "intersegment_revenue": 2983000000,
+      "revenue": 163310000000,
+      "operating_income": 15948000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 302477000000,
+      "intersegment_revenue": 438000000,
+      "revenue": 302916000000,
+      "operating_income": 53259000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 414365000000,
+      "intersegment_revenue": 16583000000,
+      "revenue": 430948000000,
+      "operating_income": 42998000000
+    },
+    {
+      "key": "TheUnitedStates",
+      "label": null,
+      "external_revenue": 347054000000,
+      "intersegment_revenue": 24290000000,
+      "revenue": 371344000000,
+      "operating_income": 50004000000
+    },
+    {
+      "key": "Thermos",
+      "label": null,
+      "external_revenue": 30765000000,
+      "intersegment_revenue": 17000000,
+      "revenue": 30783000000,
+      "operating_income": 5566000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00783-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

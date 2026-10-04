@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E00523",
+    "sec_code": "3003",
+    "company_name": "ヒューリック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-19",
+    "doc_id": "S100T2ID"
+  },
+  "financials": {
+    "ordinary_income": 123222000000,
+    "net_income": 79150000000,
+    "comprehensive_income": 80866000000,
+    "eps": 104,
+    "eps_diluted": 103.96,
+    "dps": 42,
+    "operating_cf": 266108000000,
+    "investing_cf": -345335000000,
+    "financing_cf": 11441000000,
+    "net_assets": 687153000000,
+    "total_assets": 2320337000000,
+    "bps": 902.7,
+    "cash_end": 138300000000,
+    "equity_ratio": 0.295,
+    "roe": 0.119,
+    "per": 9.9,
+    "operating_income": 126147000000,
+    "income_tax_expense": 26666000000,
+    "interest_bearing_debt_current": 660000000,
+    "interest_bearing_debt_noncurrent": 857748000000,
+    "bonds_payable": 371000000000,
+    "current_portion_of_bonds": 50000000000,
+    "current_portion_lt_loans": 161577000000,
+    "depreciation": 16253000000,
+    "capex_ppe": -291108000000,
+    "capex_intangible": -2125000000,
+    "current_assets": 250901000000,
+    "current_liabilities": 245757000000,
+    "noncurrent_assets": 2067114000000,
+    "noncurrent_liabilities": 1387426000000,
+    "ppe": 1644449000000,
+    "goodwill": 4795000000,
+    "intangible_assets": 88228000000,
+    "investment_securities": 284706000000,
+    "treasury_stock": -3971000000,
+    "noncontrolling_interests": 424000000
+  },
+  "segments": [
+    {
+      "key": "HotelRyokanBusiness",
+      "label": "ホテル・旅館事業",
+      "external_revenue": 27332000000,
+      "intersegment_revenue": 302000000,
+      "operating_income": -5099000000
+    },
+    {
+      "key": "InsuranceAgencyBusiness",
+      "label": "保険事業",
+      "external_revenue": 3616000000,
+      "operating_income": 1040000000
+    },
+    {
+      "key": "RealEstateBusiness",
+      "label": "不動産事業",
+      "external_revenue": 487627000000,
+      "intersegment_revenue": 5515000000,
+      "operating_income": 139779000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00523-000_2023-12-31_01_2024-03-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

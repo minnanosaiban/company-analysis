@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E33390",
+    "sec_code": "3994",
+    "company_name": "株式会社マネーフォワード",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-11-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-02-19",
+    "doc_id": "S100XM4Q"
+  },
+  "financials": {
+    "net_sales": 50349943000,
+    "ordinary_income": -3877650000,
+    "net_income": 1587260000,
+    "comprehensive_income": 2462943000,
+    "eps": 28.78,
+    "eps_diluted": 28.58,
+    "operating_cf": 1496692000,
+    "investing_cf": -10339188000,
+    "financing_cf": 4570355000,
+    "net_assets": 55865356000,
+    "total_assets": 127567288000,
+    "bps": 738.62,
+    "cash_end": 40934509000,
+    "equity_ratio": 0.32,
+    "roe": 0.042,
+    "per": 145,
+    "gross_profit": 34230545000,
+    "operating_income": -2653396000,
+    "income_tax_expense": 1310400000,
+    "interest_bearing_debt_current": 5254000000,
+    "interest_bearing_debt_noncurrent": 10994842000,
+    "current_portion_of_bonds": 1000000000,
+    "current_portion_lt_loans": 4600173000,
+    "depreciation": 4118016000,
+    "capex_ppe": -779632000,
+    "capex_intangible": -8318153000,
+    "current_assets": 73269943000,
+    "current_liabilities": 46467560000,
+    "noncurrent_assets": 54297345000,
+    "noncurrent_liabilities": 25234372000,
+    "inventories": 87884000,
+    "ppe": 1596481000,
+    "goodwill": 6731965000,
+    "intangible_assets": 26834974000,
+    "investment_securities": 23193328000,
+    "treasury_stock": -1928000,
+    "noncontrolling_interests": 12020990000
+  },
+  "segments": [
+    {
+      "key": "Business",
+      "label": "Business",
+      "external_revenue": 36050517000,
+      "intersegment_revenue": 36592000,
+      "operating_income": -1212059000
+    },
+    {
+      "key": "Finance",
+      "label": "Finance",
+      "external_revenue": 1549848000,
+      "operating_income": 276155000
+    },
+    {
+      "key": "HOME",
+      "label": "HOME",
+      "external_revenue": 4737818000,
+      "intersegment_revenue": 51969000,
+      "operating_income": 1094348000
+    },
+    {
+      "key": "SaaSMarketing",
+      "label": null,
+      "external_revenue": 4739320000,
+      "intersegment_revenue": 253029000,
+      "operating_income": 478505000
+    },
+    {
+      "key": "X",
+      "label": "X",
+      "external_revenue": 3139363000,
+      "intersegment_revenue": 80711000,
+      "operating_income": 399566000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E33390-000_2025-11-30_01_2026-02-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

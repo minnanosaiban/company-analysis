@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "edinet_code": "E00143",
+    "sec_code": "1928",
+    "company_name": "積水ハウス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-01-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-04-22",
+    "doc_id": "S100VN43"
+  },
+  "financials": {
+    "net_sales": 4058583000000,
+    "ordinary_income": 301627000000,
+    "net_income": 217705000000,
+    "comprehensive_income": 293815000000,
+    "eps": 335.95,
+    "eps_diluted": 335.84,
+    "dps": 135,
+    "operating_cf": 62885000000,
+    "investing_cf": -697687000000,
+    "financing_cf": 720967000000,
+    "net_assets": 2018599000000,
+    "total_assets": 4808848000000,
+    "bps": 3027.64,
+    "cash_end": 390307000000,
+    "equity_ratio": 0.408,
+    "roe": 0.1171,
+    "per": 10.67,
+    "gross_profit": 785993000000,
+    "operating_income": 331366000000,
+    "income_tax_expense": 84687000000,
+    "interest_bearing_debt_current": 477840000000,
+    "interest_bearing_debt_noncurrent": 456321000000,
+    "bonds_payable": 620121000000,
+    "current_portion_of_bonds": 8000000,
+    "current_portion_lt_loans": 252793000000,
+    "depreciation": 35235000000,
+    "capex_ppe": -76693000000,
+    "current_assets": 3712106000000,
+    "current_liabilities": 1555648000000,
+    "noncurrent_assets": 1096742000000,
+    "noncurrent_liabilities": 1234601000000,
+    "inventories": 12164000000,
+    "ppe": 534240000000,
+    "goodwill": 134217000000,
+    "intangible_assets": 221873000000,
+    "investment_securities": 205632000000,
+    "treasury_stock": -40957000000,
+    "noncontrolling_interests": 56311000000
+  },
+  "segments": [
+    {
+      "key": "ArchitecturalCivilEngineering",
+      "label": null,
+      "external_revenue": 322456000000,
+      "intersegment_revenue": 2567000000,
+      "operating_income": 15218000000
+    },
+    {
+      "key": "CustomDetachedHouses",
+      "label": null,
+      "external_revenue": 478998000000,
+      "intersegment_revenue": 93000000,
+      "operating_income": 46069000000
+    },
+    {
+      "key": "Development",
+      "label": null,
+      "external_revenue": 567145000000,
+      "intersegment_revenue": 15430000000,
+      "operating_income": 70285000000
+    },
+    {
+      "key": "Overseas",
+      "label": null,
+      "external_revenue": 1278511000000,
+      "operating_income": 78945000000
+    },
+    {
+      "key": "Remodeling",
+      "label": null,
+      "external_revenue": 182369000000,
+      "intersegment_revenue": 1498000000,
+      "operating_income": 26624000000
+    },
+    {
+      "key": "RentalHousingAndCommercialBuildings",
+      "label": null,
+      "external_revenue": 536984000000,
+      "intersegment_revenue": 7949000000,
+      "operating_income": 81796000000
+    },
+    {
+      "key": "RentalHousingManagement",
+      "label": null,
+      "external_revenue": 680651000000,
+      "intersegment_revenue": 6468000000,
+      "operating_income": 56804000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00143-000_2025-01-31_01_2025-04-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

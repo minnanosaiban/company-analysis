@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E02349",
+    "sec_code": "7747",
+    "company_name": "朝日インテック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-09-28",
+    "doc_id": "S100Z3SS"
+  },
+  "financials": {
+    "net_sales": 145419000000,
+    "ordinary_income": 45185000000,
+    "net_income": 32075000000,
+    "comprehensive_income": 40065000000,
+    "eps": 120.59,
+    "dps": 48.24,
+    "operating_cf": 40095000000,
+    "investing_cf": -11739000000,
+    "financing_cf": -19971000000,
+    "net_assets": 174358000000,
+    "total_assets": 218285000000,
+    "bps": 653.57,
+    "cash_end": 64264000000,
+    "equity_ratio": 0.794,
+    "roe": 0.198,
+    "per": 31.5,
+    "gross_profit": 102447000000,
+    "operating_income": 45218000000,
+    "income_tax_expense": 12581000000,
+    "interest_bearing_debt_current": 2357000000,
+    "interest_bearing_debt_noncurrent": 4275000000,
+    "depreciation": 8799000000,
+    "capex_ppe": -8383000000,
+    "capex_intangible": -549000000,
+    "current_assets": 121569000000,
+    "current_liabilities": 32124000000,
+    "noncurrent_assets": 96716000000,
+    "noncurrent_liabilities": 11803000000,
+    "trade_receivables": 18923000000,
+    "trade_payables": 4652000000,
+    "ppe": 63087000000,
+    "intangible_assets": 5118000000,
+    "investment_securities": 24251000000,
+    "treasury_stock": -18000000,
+    "noncontrolling_interests": 951000000
+  },
+  "segments": [
+    {
+      "key": "Device",
+      "label": null,
+      "external_revenue": 18620000000,
+      "intersegment_revenue": 16765000000,
+      "operating_income": 8485000000
+    },
+    {
+      "key": "Medical",
+      "label": null,
+      "external_revenue": 126798000000,
+      "operating_income": 46190000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02349-000_2026-06-30_01_2026-09-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

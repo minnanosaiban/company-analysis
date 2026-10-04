@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E00094",
+    "sec_code": "1951",
+    "company_name": "エクシオグループ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R2LE"
+  },
+  "financials": {
+    "net_sales": 594840000000,
+    "ordinary_income": 45217000000,
+    "net_income": 27766000000,
+    "comprehensive_income": 28647000000,
+    "eps": 250.64,
+    "eps_diluted": 250.47,
+    "dps": 96,
+    "operating_cf": 26406000000,
+    "investing_cf": -20388000000,
+    "financing_cf": 5023000000,
+    "net_assets": 307053000000,
+    "total_assets": 535617000000,
+    "bps": 2748.21,
+    "cash_end": 53727000000,
+    "equity_ratio": 0.566,
+    "roe": 0.094,
+    "per": 9,
+    "gross_profit": 84323000000,
+    "operating_income": 42380000000,
+    "income_tax_expense": 16430000000,
+    "interest_bearing_debt_current": 30756000000,
+    "interest_bearing_debt_noncurrent": 18006000000,
+    "bonds_payable": 30000000000,
+    "depreciation": 7414000000,
+    "capex_ppe": -17950000000,
+    "capex_intangible": -2221000000,
+    "current_assets": 326660000000,
+    "current_liabilities": 157764000000,
+    "noncurrent_assets": 208957000000,
+    "noncurrent_liabilities": 70800000000,
+    "inventories": 46194000000,
+    "ppe": 126900000000,
+    "goodwill": 9207000000,
+    "intangible_assets": 13745000000,
+    "investment_securities": 34274000000,
+    "treasury_stock": -13063000000,
+    "noncontrolling_interests": 3497000000
+  },
+  "segments": [
+    {
+      "key": "SystemSolution",
+      "label": null,
+      "external_revenue": 154694000000,
+      "operating_income": 5754000000
+    },
+    {
+      "key": "Telecommunication",
+      "label": null,
+      "external_revenue": 289306000000,
+      "operating_income": 23849000000
+    },
+    {
+      "key": "UrbanInfrastracture",
+      "label": null,
+      "external_revenue": 150839000000,
+      "operating_income": 12776000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00094-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

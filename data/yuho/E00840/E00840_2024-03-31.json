@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "edinet_code": "E00840",
+    "sec_code": "4183",
+    "company_name": "三井化学株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TSNO"
+  },
+  "financials": {
+    "dps": 140,
+    "net_sales": 1749743000000,
+    "net_income": 49999000000,
+    "comprehensive_income": 103370000000,
+    "net_assets": 862851000000,
+    "total_assets": 2215819000000,
+    "equity_ratio": 0.389,
+    "bps": 4538.11,
+    "eps": 262.99,
+    "roe": 0.061,
+    "per": 16.47,
+    "operating_cf": 161339000000,
+    "investing_cf": -123939000000,
+    "financing_cf": -26016000000,
+    "cash_end": 210292000000,
+    "operating_income": 74124000000,
+    "gross_profit": 370797000000,
+    "income_tax_expense": 19556000000,
+    "interest_bearing_debt_current": 324088000000,
+    "interest_bearing_debt_noncurrent": 432670000000,
+    "sga_expense": 282657000000,
+    "profit_before_tax": 73331000000,
+    "depreciation": 95249000000,
+    "capex_ppe": -144068000000,
+    "capex_intangible": -9923000000,
+    "current_assets": 1150579000000,
+    "current_liabilities": 676579000000,
+    "noncurrent_assets": 1065240000000,
+    "inventories": 451075000000,
+    "ppe": 605789000000,
+    "goodwill": 21169000000,
+    "intangible_assets": 55241000000,
+    "equity_method_investments": 155924000000,
+    "treasury_stock": -32751000000,
+    "noncontrolling_interests": 121955000000
+  },
+  "segments": [
+    {
+      "key": "BasicGreenMaterials",
+      "label": null,
+      "external_revenue": 681781000000,
+      "intersegment_revenue": 109209000000,
+      "revenue": 790990000000,
+      "operating_income": -10279000000,
+      "assets": 696888000000,
+      "equity_method_income": 3775000000
+    },
+    {
+      "key": "ICTSolutions",
+      "label": null,
+      "external_revenue": 237497000000,
+      "intersegment_revenue": 6265000000,
+      "revenue": 243762000000,
+      "operating_income": 22358000000,
+      "assets": 308766000000,
+      "equity_method_income": 6052000000
+    },
+    {
+      "key": "LifeHealthcareSolutions",
+      "label": null,
+      "external_revenue": 271702000000,
+      "intersegment_revenue": 3990000000,
+      "revenue": 275692000000,
+      "operating_income": 29996000000,
+      "assets": 471117000000,
+      "equity_method_income": 626000000
+    },
+    {
+      "key": "MobilitySolutions",
+      "label": null,
+      "external_revenue": 543978000000,
+      "intersegment_revenue": 3670000000,
+      "revenue": 547648000000,
+      "operating_income": 57706000000,
+      "assets": 513627000000,
+      "equity_method_income": 1227000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00840-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E05159",
+    "sec_code": "8473",
+    "company_name": "ＳＢＩホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R9J7"
+  },
+  "financials": {
+    "dps": 150,
+    "net_sales": 998559000000,
+    "net_income": 35000000000,
+    "comprehensive_income": 51489000000,
+    "net_assets": 1013832000000,
+    "total_assets": 22310728000000,
+    "equity_ratio": 0.045,
+    "bps": 3722.8,
+    "eps": 132.19,
+    "eps_diluted": 116.88,
+    "roe": 0.036,
+    "per": 19.85,
+    "operating_cf": 960743000000,
+    "investing_cf": -1075054000000,
+    "financing_cf": 810425000000,
+    "cash_end": 3200916000000,
+    "income_tax_expense": 29745000000,
+    "sga_expense": 384612000000,
+    "profit_before_tax": 100753000000,
+    "depreciation": 56129000000,
+    "capex_intangible": -37568000000,
+    "ppe": 124655000000,
+    "goodwill": 238198000000,
+    "intangible_assets": 366040000000,
+    "equity_method_investments": 199882000000,
+    "treasury_stock": -76000000,
+    "noncontrolling_interests": 734822000000
+  },
+  "segments": [
+    {
+      "key": "AssetManagementBusiness",
+      "label": "資産運用事業",
+      "external_revenue": 27581000000,
+      "intersegment_revenue": 385000000,
+      "profit_before_tax": 10123000000
+    },
+    {
+      "key": "CryptoAssetBusiness",
+      "label": "暗号資産事業",
+      "external_revenue": 30796000000,
+      "intersegment_revenue": -476000000,
+      "profit_before_tax": -18429000000
+    },
+    {
+      "key": "FinancialServicesBusiness",
+      "label": "金融サービス事業",
+      "external_revenue": 881680000000,
+      "intersegment_revenue": 5068000000,
+      "profit_before_tax": 150653000000,
+      "equity_method_income": 7304000000
+    },
+    {
+      "key": "InvestmentBusiness",
+      "label": null,
+      "external_revenue": 36528000000,
+      "intersegment_revenue": 156000000,
+      "profit_before_tax": -16661000000,
+      "equity_method_income": -612000000
+    },
+    {
+      "key": "NonFinancialBusiness",
+      "label": null,
+      "external_revenue": 24248000000,
+      "intersegment_revenue": 1990000000,
+      "profit_before_tax": -3253000000,
+      "equity_method_income": -316000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05159-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

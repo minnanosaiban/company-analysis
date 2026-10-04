@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E00395",
+    "sec_code": "2503",
+    "company_name": "キリンホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-28",
+    "doc_id": "S100VH7L"
+  },
+  "financials": {
+    "dps": 71,
+    "net_sales": 2338385000000,
+    "net_income": 58214000000,
+    "comprehensive_income": 118626000000,
+    "net_assets": 1181525000000,
+    "total_assets": 3354159000000,
+    "equity_ratio": 0.352,
+    "bps": 1458.68,
+    "eps": 71.87,
+    "eps_diluted": 71.86,
+    "roe": 0.05,
+    "per": 28.51,
+    "operating_cf": 242844000000,
+    "investing_cf": -329375000000,
+    "financing_cf": 58125000000,
+    "cash_end": 118617000000,
+    "operating_income": 125340000000,
+    "gross_profit": 1065955000000,
+    "income_tax_expense": 53910000000,
+    "interest_bearing_debt_current": 77986000000,
+    "interest_bearing_debt_noncurrent": 779583000000,
+    "sga_expense": 854987000000,
+    "profit_before_tax": 139721000000,
+    "depreciation": 95702000000,
+    "current_assets": 1041193000000,
+    "current_liabilities": 744065000000,
+    "noncurrent_assets": 2312966000000,
+    "trade_receivables": 502880000000,
+    "inventories": 358985000000,
+    "trade_payables": 364265000000,
+    "ppe": 674028000000,
+    "goodwill": 501480000000,
+    "intangible_assets": 659561000000,
+    "equity_method_investments": 216205000000,
+    "treasury_stock": -251376000000,
+    "noncontrolling_interests": 352189000000
+  },
+  "segments": [
+    {
+      "key": "AlcoholicBeverages",
+      "label": null,
+      "external_revenue": 1081694000000,
+      "intersegment_revenue": 2319000000,
+      "revenue": 1084013000000,
+      "operating_income": 124045000000,
+      "assets": 1367470000000
+    },
+    {
+      "key": "HealthScience",
+      "label": null,
+      "external_revenue": 175256000000,
+      "intersegment_revenue": 4217000000,
+      "revenue": 179473000000,
+      "operating_income": -10895000000,
+      "assets": 764058000000
+    },
+    {
+      "key": "NonAlcoholicBeverages",
+      "label": null,
+      "external_revenue": 564871000000,
+      "intersegment_revenue": 2967000000,
+      "revenue": 567837000000,
+      "operating_income": 63961000000,
+      "assets": 326366000000
+    },
+    {
+      "key": "Pharmaceuticals",
+      "label": null,
+      "external_revenue": 495295000000,
+      "intersegment_revenue": 264000000,
+      "revenue": 495558000000,
+      "operating_income": 91866000000,
+      "assets": 1012722000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00395-000_2024-12-31_01_2025-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

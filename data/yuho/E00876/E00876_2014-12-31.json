@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00876",
+    "sec_code": "3405",
+    "company_name": "株式会社クラレ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2014-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-02-29",
+    "doc_id": "S100SZA6"
+  },
+  "financials": {
+    "net_sales": 411408000000,
+    "ordinary_income": 40084000000,
+    "net_income": 21296000000,
+    "comprehensive_income": 44533000000,
+    "eps": 60.77,
+    "eps_diluted": 60.65,
+    "dps": 27,
+    "operating_cf": 40840000000,
+    "investing_cf": -105690000000,
+    "financing_cf": -3650000000,
+    "net_assets": 481826000000,
+    "total_assets": 691538000000,
+    "bps": 1354.21,
+    "cash_end": 35388000000,
+    "equity_ratio": 0.687,
+    "roe": 0.046,
+    "per": 22.68
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00876-000_2018-12-31_02_2024-02-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

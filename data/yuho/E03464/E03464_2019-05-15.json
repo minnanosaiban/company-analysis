@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03464",
+    "sec_code": "3391",
+    "company_name": "株式会社ツルハホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-05-15",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-08-10",
+    "doc_id": "S100RNGN"
+  },
+  "financials": {
+    "net_sales": 782447000000,
+    "ordinary_income": 43313000000,
+    "net_income": 24824000000,
+    "comprehensive_income": 22395000000,
+    "eps": 513.84,
+    "eps_diluted": 511.7,
+    "dps": 148,
+    "operating_cf": 33701000000,
+    "investing_cf": -24990000000,
+    "financing_cf": -9136000000,
+    "net_assets": 220214000000,
+    "total_assets": 372293000000,
+    "bps": 4238.15,
+    "cash_end": 43700000000,
+    "equity_ratio": 0.55,
+    "roe": 0.125,
+    "per": 17.57
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03464-000_2023-05-15_01_2023-08-10.csv",
+    "parser_version": "0.1.3"
+  }
+}

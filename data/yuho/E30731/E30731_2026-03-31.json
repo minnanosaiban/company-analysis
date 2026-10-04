@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E30731",
+    "sec_code": "9468",
+    "company_name": "株式会社ＫＡＤＯＫＡＷＡ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YGF5"
+  },
+  "financials": {
+    "net_sales": 282908000000,
+    "ordinary_income": 11701000000,
+    "net_income": 1278000000,
+    "comprehensive_income": 1320000000,
+    "eps": 8.71,
+    "eps_diluted": 7.86,
+    "dps": 30,
+    "operating_cf": 3424000000,
+    "investing_cf": -21042000000,
+    "financing_cf": -22425000000,
+    "net_assets": 276747000000,
+    "total_assets": 394864000000,
+    "bps": 1667.01,
+    "cash_end": 90774000000,
+    "equity_ratio": 0.62,
+    "roe": 0.005,
+    "per": 436.06,
+    "gross_profit": 96753000000,
+    "operating_income": 8102000000,
+    "income_tax_expense": 5012000000,
+    "interest_bearing_debt_current": 115000000,
+    "interest_bearing_debt_noncurrent": 658000000,
+    "current_portion_lt_loans": 10153000000,
+    "depreciation": 8684000000,
+    "capex_ppe": -2735000000,
+    "capex_intangible": -6773000000,
+    "current_assets": 258445000000,
+    "current_liabilities": 111641000000,
+    "noncurrent_assets": 136418000000,
+    "noncurrent_liabilities": 6475000000,
+    "inventories": 41939000000,
+    "trade_payables": 37586000000,
+    "ppe": 67748000000,
+    "goodwill": 5930000000,
+    "intangible_assets": 23421000000,
+    "investment_securities": 30615000000,
+    "treasury_stock": -4838000000,
+    "noncontrolling_interests": 28707000000
+  },
+  "segments": [
+    {
+      "key": "AnimationFilm",
+      "label": null,
+      "external_revenue": 47218000000,
+      "intersegment_revenue": 1038000000,
+      "operating_income": -465000000
+    },
+    {
+      "key": "EducationEdTechBusiness",
+      "label": null,
+      "external_revenue": 17162000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 2844000000
+    },
+    {
+      "key": "Game",
+      "label": null,
+      "external_revenue": 29636000000,
+      "intersegment_revenue": 144000000,
+      "operating_income": 7541000000
+    },
+    {
+      "key": "PublicationIPCreation",
+      "label": null,
+      "external_revenue": 153646000000,
+      "intersegment_revenue": 1987000000,
+      "operating_income": 4054000000
+    },
+    {
+      "key": "WebServices",
+      "label": null,
+      "external_revenue": 20196000000,
+      "intersegment_revenue": 318000000,
+      "operating_income": 2117000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E30731-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E01136",
+    "sec_code": "5334",
+    "company_name": "日本特殊陶業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YJTF"
+  },
+  "financials": {
+    "dps": 205,
+    "net_sales": 731207000000,
+    "net_income": 112892000000,
+    "net_assets": 767419000000,
+    "total_assets": 1221101000000,
+    "equity_ratio": 0.628,
+    "bps": 3910.2,
+    "eps": 570.43,
+    "roe": 0.157,
+    "per": 12.7,
+    "operating_cf": 109384000000,
+    "investing_cf": -165531000000,
+    "financing_cf": 28616000000,
+    "cash_end": 187747000000,
+    "operating_income": 138158000000,
+    "gross_profit": 280866000000,
+    "income_tax_expense": 49014000000,
+    "interest_bearing_debt_current": 31424000000,
+    "interest_bearing_debt_noncurrent": 211037000000,
+    "sga_expense": 140434000000,
+    "profit_before_tax": 165484000000,
+    "depreciation": 45022000000,
+    "capex_ppe": -36759000000,
+    "capex_intangible": -2318000000,
+    "current_assets": 658236000000,
+    "current_liabilities": 195752000000,
+    "noncurrent_assets": 562864000000,
+    "trade_receivables": 172165000000,
+    "inventories": 217748000000,
+    "trade_payables": 69739000000,
+    "ppe": 265650000000,
+    "goodwill": 98112000000,
+    "equity_method_investments": 23764000000,
+    "treasury_stock": -18426000000,
+    "noncontrolling_interests": 3835000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveComponents",
+      "label": "自動車関連",
+      "external_revenue": 587505000000,
+      "revenue": 587505000000,
+      "operating_income": 135302000000,
+      "equity_method_income": 738000000
+    },
+    {
+      "key": "Component",
+      "label": null,
+      "external_revenue": 129935000000,
+      "intersegment_revenue": 806000000,
+      "revenue": 130742000000,
+      "operating_income": -4580000000,
+      "equity_method_income": 549000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01136-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01654",
+    "sec_code": "6465",
+    "company_name": "ホシザキ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4W3"
+  },
+  "financials": {
+    "net_sales": 290136000000,
+    "ordinary_income": 34224000000,
+    "net_income": 24437000000,
+    "comprehensive_income": 24330000000,
+    "eps": 168.72,
+    "dps": 110,
+    "operating_cf": 30455000000,
+    "investing_cf": 29645000000,
+    "financing_cf": -5908000000,
+    "net_assets": 242038000000,
+    "total_assets": 351887000000,
+    "bps": 1660.65,
+    "cash_end": 142803000000,
+    "equity_ratio": 0.684,
+    "roe": 0.1056,
+    "per": 28.98
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01654-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

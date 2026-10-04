@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00143",
+    "sec_code": "1928",
+    "company_name": "積水ハウス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-01-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XS8G"
+  },
+  "financials": {
+    "net_sales": 2160316000000,
+    "ordinary_income": 195190000000,
+    "net_income": 128582000000,
+    "comprehensive_income": 46691000000,
+    "eps": 186.53,
+    "eps_diluted": 186.29,
+    "dps": 79,
+    "operating_cf": 125088000000,
+    "investing_cf": -70184000000,
+    "financing_cf": -31030000000,
+    "net_assets": 1196923000000,
+    "total_assets": 2413035000000,
+    "bps": 1718.82,
+    "cash_end": 342898000000,
+    "equity_ratio": 0.4902,
+    "roe": 0.1082,
+    "per": 8.72
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00143-000_2023-01-31_02_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

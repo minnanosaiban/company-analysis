@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00218",
+    "sec_code": "1878",
+    "company_name": "大東建託株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R80Z"
+  },
+  "financials": {
+    "net_sales": 1586293000000,
+    "ordinary_income": 133028000000,
+    "net_income": 90380000000,
+    "comprehensive_income": 84382000000,
+    "eps": 1306.71,
+    "eps_diluted": 1305.77,
+    "dps": 653,
+    "operating_cf": 102129000000,
+    "investing_cf": -18301000000,
+    "financing_cf": -111410000000,
+    "net_assets": 286161000000,
+    "total_assets": 880289000000,
+    "bps": 4186.91,
+    "cash_end": 159902000000,
+    "equity_ratio": 0.3255,
+    "roe": 0.3062,
+    "per": 7.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00218-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

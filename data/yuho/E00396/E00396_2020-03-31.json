@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00396",
+    "sec_code": "2531",
+    "company_name": "宝ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100QZAK"
+  },
+  "financials": {
+    "net_sales": 281191000000,
+    "ordinary_income": 16269000000,
+    "net_income": 8980000000,
+    "comprehensive_income": 6467000000,
+    "eps": 45.11,
+    "dps": 20,
+    "operating_cf": 11744000000,
+    "investing_cf": -3690000000,
+    "financing_cf": -11653000000,
+    "net_assets": 181329000000,
+    "total_assets": 283882000000,
+    "bps": 747.39,
+    "cash_end": 44541000000,
+    "equity_ratio": 0.521,
+    "roe": 0.061,
+    "per": 18
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00396-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

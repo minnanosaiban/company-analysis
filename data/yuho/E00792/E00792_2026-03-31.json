@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "edinet_code": "E00792",
+    "sec_code": "4088",
+    "company_name": "エア・ウォーター株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-07-31",
+    "doc_id": "S100YTII"
+  },
+  "financials": {
+    "dps": 75,
+    "net_sales": 1066795000000,
+    "net_income": -63949000000,
+    "comprehensive_income": -29720000000,
+    "net_assets": 390229000000,
+    "total_assets": 1216287000000,
+    "equity_ratio": 0.321,
+    "bps": 1702.38,
+    "eps": -279.01,
+    "eps_diluted": -279.01,
+    "roe": -0.154,
+    "operating_cf": 107583000000,
+    "investing_cf": -88611000000,
+    "financing_cf": -5708000000,
+    "cash_end": 87139000000,
+    "operating_income": -37157000000,
+    "gross_profit": 240297000000,
+    "income_tax_expense": 14834000000,
+    "interest_bearing_debt_current": 177019000000,
+    "interest_bearing_debt_noncurrent": 291436000000,
+    "sga_expense": 201529000000,
+    "profit_before_tax": -51447000000,
+    "depreciation": 57056000000,
+    "capex_ppe": -71188000000,
+    "capex_intangible": -2097000000,
+    "current_assets": 466627000000,
+    "current_liabilities": 424602000000,
+    "noncurrent_assets": 749659000000,
+    "trade_receivables": 206928000000,
+    "inventories": 121761000000,
+    "trade_payables": 173432000000,
+    "ppe": 505617000000,
+    "goodwill": 51587000000,
+    "intangible_assets": 31976000000,
+    "equity_method_investments": 32684000000,
+    "treasury_stock": -714000000,
+    "noncontrolling_interests": 20740000000
+  },
+  "segments": [
+    {
+      "key": "AgricultureAndFoods",
+      "label": null,
+      "external_revenue": 152988000000,
+      "intersegment_revenue": 637000000,
+      "revenue": 153625000000,
+      "operating_income": 3664000000,
+      "assets": 108670000000,
+      "equity_method_income": 19000000
+    },
+    {
+      "key": "DigitalAndIndustry",
+      "label": null,
+      "external_revenue": 329938000000,
+      "intersegment_revenue": 9398000000,
+      "revenue": 339336000000,
+      "operating_income": -40888000000,
+      "assets": 437979000000,
+      "equity_method_income": 202000000
+    },
+    {
+      "key": "EnergySolutions",
+      "label": null,
+      "external_revenue": 98502000000,
+      "intersegment_revenue": 9211000000,
+      "revenue": 107713000000,
+      "operating_income": 6394000000,
+      "assets": 80285000000,
+      "equity_method_income": 11000000
+    },
+    {
+      "key": "HealthAndSafety",
+      "label": null,
+      "external_revenue": 268471000000,
+      "intersegment_revenue": 1181000000,
+      "revenue": 269653000000,
+      "operating_income": 10395000000,
+      "assets": 235762000000,
+      "equity_method_income": 1240000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 216894000000,
+      "intersegment_revenue": 11511000000,
+      "revenue": 228406000000,
+      "operating_income": 1475000000,
+      "assets": 158939000000,
+      "equity_method_income": 2548000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00792-000_2026-03-31_01_2026-07-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

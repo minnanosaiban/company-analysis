@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E21261",
+    "sec_code": "2181",
+    "company_name": "パーソルホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-01-19",
+    "doc_id": "S100SN93"
+  },
+  "financials": {
+    "net_sales": 591995000000,
+    "ordinary_income": 34136000000,
+    "net_income": 17820000000,
+    "comprehensive_income": 19550000000,
+    "eps": 75.94,
+    "eps_diluted": 75.77,
+    "dps": 17,
+    "operating_cf": 39617000000,
+    "investing_cf": -9708000000,
+    "financing_cf": -11655000000,
+    "net_assets": 153816000000,
+    "total_assets": 267339000000,
+    "bps": 594.95,
+    "cash_end": 69382000000,
+    "equity_ratio": 0.52,
+    "roe": 0.134,
+    "per": 27.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21261-000_2021-03-31_02_2024-01-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

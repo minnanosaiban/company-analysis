@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E03144",
+    "sec_code": "9843",
+    "company_name": "株式会社ニトリホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1N2"
+  },
+  "financials": {
+    "net_sales": 948094000000,
+    "ordinary_income": 144085000000,
+    "net_income": 95129000000,
+    "comprehensive_income": 99881000000,
+    "eps": 841.9,
+    "dps": 146,
+    "operating_cf": 91398000000,
+    "investing_cf": -132538000000,
+    "financing_cf": 36903000000,
+    "net_assets": 818096000000,
+    "total_assets": 1133771000000,
+    "bps": 7239.04,
+    "cash_end": 125115000000,
+    "equity_ratio": 0.722,
+    "roe": 0.123,
+    "per": 18.92,
+    "gross_profit": 478106000000,
+    "operating_income": 140076000000,
+    "income_tax_expense": 47503000000,
+    "interest_bearing_debt_current": 83068000000,
+    "interest_bearing_debt_noncurrent": 57330000000,
+    "lease_liabilities_current": 1602000000,
+    "lease_liabilities_noncurrent": 4598000000,
+    "depreciation": 26186000000,
+    "capex_ppe": -113933000000,
+    "capex_intangible": -2471000000,
+    "current_assets": 330353000000,
+    "current_liabilities": 221769000000,
+    "noncurrent_assets": 803417000000,
+    "noncurrent_liabilities": 93905000000,
+    "trade_receivables": 57408000000,
+    "trade_payables": 38459000000,
+    "ppe": 649479000000,
+    "goodwill": 19619000000,
+    "intangible_assets": 33005000000,
+    "investment_securities": 39089000000,
+    "treasury_stock": -10111000000
+  },
+  "segments": [
+    {
+      "key": "NITORI",
+      "label": null,
+      "external_revenue": 813734000000,
+      "intersegment_revenue": 8047000000,
+      "operating_income": 135329000000
+    },
+    {
+      "key": "SHIMACHU",
+      "label": null,
+      "external_revenue": 134360000000,
+      "intersegment_revenue": 304000000,
+      "operating_income": 4112000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03144-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

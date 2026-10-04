@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "edinet_code": "E03624",
+    "sec_code": "8354",
+    "company_name": "株式会社ふくおかフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8ZF"
+  },
+  "financials": {
+    "ordinary_income": 76086000000,
+    "net_income": 54118000000,
+    "comprehensive_income": 112000000,
+    "eps": 284.69,
+    "dps": 95,
+    "operating_cf": 2163545000000,
+    "investing_cf": -372639000000,
+    "financing_cf": -26956000000,
+    "net_assets": 941066000000,
+    "total_assets": 29171912000000,
+    "bps": 4949.87,
+    "cash_end": 7840263000000,
+    "equity_ratio": 0.0322,
+    "roe": 0.0569,
+    "per": 8.33,
+    "income_tax_expense": 19238000000,
+    "depreciation": 12278000000,
+    "capex_ppe": -4491000000,
+    "capex_intangible": -6684000000,
+    "ppe": 203117000000,
+    "intangible_assets": 18872000000,
+    "treasury_stock": -2461000000,
+    "noncontrolling_interests": 131000000,
+    "ordinary_revenue": 280427000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03624-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

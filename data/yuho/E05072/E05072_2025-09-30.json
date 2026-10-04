@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E05072",
+    "sec_code": "4751",
+    "company_name": "株式会社サイバーエージェント",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-09-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-12-24",
+    "doc_id": "S100XCU9"
+  },
+  "financials": {
+    "net_sales": 874030000000,
+    "ordinary_income": 71743000000,
+    "net_income": 31667000000,
+    "comprehensive_income": 42430000000,
+    "eps": 62.52,
+    "eps_diluted": 58.96,
+    "dps": 17,
+    "operating_cf": 79518000000,
+    "investing_cf": -30825000000,
+    "financing_cf": -33860000000,
+    "net_assets": 275681000000,
+    "total_assets": 557162000000,
+    "bps": 355.17,
+    "cash_end": 226151000000,
+    "equity_ratio": 0.323,
+    "roe": 0.189,
+    "per": 28.41,
+    "gross_profit": 264051000000,
+    "operating_income": 71702000000,
+    "income_tax_expense": 25883000000,
+    "interest_bearing_debt_current": 600000000,
+    "interest_bearing_debt_noncurrent": 52418000000,
+    "depreciation": 9115000000,
+    "capex_intangible": -17060000000,
+    "current_assets": 390215000000,
+    "current_liabilities": 177791000000,
+    "noncurrent_assets": 166908000000,
+    "noncurrent_liabilities": 103689000000,
+    "inventories": 10304000000,
+    "ppe": 32595000000,
+    "goodwill": 13894000000,
+    "intangible_assets": 56763000000,
+    "investment_securities": 46298000000,
+    "treasury_stock": -1000000,
+    "noncontrolling_interests": 91927000000
+  },
+  "segments": [
+    {
+      "key": "GameBusiness",
+      "label": null,
+      "external_revenue": 216391000000,
+      "intersegment_revenue": 319000000,
+      "operating_income": 60063000000
+    },
+    {
+      "key": "InternetAdvertisementBusiness",
+      "label": null,
+      "external_revenue": 438811000000,
+      "intersegment_revenue": 22409000000,
+      "operating_income": 17602000000
+    },
+    {
+      "key": "InvestmentDevelopmentBusiness",
+      "label": null,
+      "external_revenue": 1663000000,
+      "intersegment_revenue": 0,
+      "operating_income": -1515000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05072-000_2025-09-30_01_2025-12-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

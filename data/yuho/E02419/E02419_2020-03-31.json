@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02419",
+    "sec_code": "6417",
+    "company_name": "株式会社ＳＡＮＫＹＯ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R9UK"
+  },
+  "financials": {
+    "net_sales": 78416000000,
+    "ordinary_income": 13476000000,
+    "net_income": 13045000000,
+    "comprehensive_income": 11114000000,
+    "eps": 183.43,
+    "eps_diluted": 172.69,
+    "dps": 150,
+    "operating_cf": 18971000000,
+    "investing_cf": -21748000000,
+    "financing_cf": -79223000000,
+    "net_assets": 269521000000,
+    "total_assets": 325232000000,
+    "bps": 4380.33,
+    "cash_end": 192294000000,
+    "equity_ratio": 0.824,
+    "roe": 0.043,
+    "per": 17.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02419-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

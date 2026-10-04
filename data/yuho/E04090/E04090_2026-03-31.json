@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E04090",
+    "sec_code": "9005",
+    "company_name": "東急株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YE63"
+  },
+  "financials": {
+    "ordinary_income": 116132000000,
+    "net_income": 87071000000,
+    "comprehensive_income": 109966000000,
+    "eps": 152.25,
+    "dps": 30,
+    "operating_cf": 127747000000,
+    "investing_cf": -174984000000,
+    "financing_cf": 68386000000,
+    "net_assets": 959506000000,
+    "total_assets": 2922828000000,
+    "bps": 1601.67,
+    "cash_end": 79626000000,
+    "equity_ratio": 0.312,
+    "roe": 0.1,
+    "per": 12.2,
+    "operating_income": 103193000000,
+    "income_tax_expense": 25865000000,
+    "interest_bearing_debt_current": 324677000000,
+    "interest_bearing_debt_noncurrent": 534051000000,
+    "bonds_payable": 351000000000,
+    "commercial_papers": 95000000000,
+    "current_portion_of_bonds": 20000000000,
+    "depreciation": 88548000000,
+    "current_assets": 566677000000,
+    "current_liabilities": 767781000000,
+    "noncurrent_assets": 2356150000000,
+    "noncurrent_liabilities": 1195541000000,
+    "trade_receivables": 173761000000,
+    "trade_payables": 103377000000,
+    "ppe": 1856847000000,
+    "intangible_assets": 45550000000,
+    "investment_securities": 316780000000,
+    "treasury_stock": -99199000000,
+    "noncontrolling_interests": 46638000000
+  },
+  "segments": [
+    {
+      "key": "HotelAndResort",
+      "label": null,
+      "external_revenue": 138789000000,
+      "intersegment_revenue": 556000000,
+      "operating_income": 9710000000
+    },
+    {
+      "key": "LifeService",
+      "label": null,
+      "external_revenue": 511523000000,
+      "intersegment_revenue": 21747000000,
+      "operating_income": 21868000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 212736000000,
+      "intersegment_revenue": 50259000000,
+      "operating_income": 43595000000
+    },
+    {
+      "key": "Transportation",
+      "label": null,
+      "external_revenue": 223130000000,
+      "intersegment_revenue": 3815000000,
+      "operating_income": 27341000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04090-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

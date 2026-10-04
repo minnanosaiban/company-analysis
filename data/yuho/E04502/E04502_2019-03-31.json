@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04502",
+    "sec_code": "9502",
+    "company_name": "中部電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R9SJ"
+  },
+  "financials": {
+    "ordinary_income": 112929000000,
+    "net_income": 79422000000,
+    "comprehensive_income": 84509000000,
+    "eps": 104.96,
+    "dps": 45,
+    "operating_cf": 296406000000,
+    "investing_cf": -368361000000,
+    "financing_cf": 337260000000,
+    "net_assets": 1844362000000,
+    "total_assets": 5987526000000,
+    "bps": 2350.52,
+    "cash_end": 550060000000,
+    "equity_ratio": 0.297,
+    "roe": 0.045,
+    "per": 16.47
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04502-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

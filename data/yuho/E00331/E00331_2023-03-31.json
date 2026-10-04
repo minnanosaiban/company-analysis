@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E00331",
+    "sec_code": "2264",
+    "company_name": "森永乳業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RA7X"
+  },
+  "financials": {
+    "net_sales": 525603000000,
+    "ordinary_income": 25218000000,
+    "net_income": 16875000000,
+    "comprehensive_income": 20220000000,
+    "eps": 373.15,
+    "eps_diluted": 372.61,
+    "dps": 90,
+    "operating_cf": 19382000000,
+    "investing_cf": -25463000000,
+    "financing_cf": 2925000000,
+    "net_assets": 227124000000,
+    "total_assets": 485116000000,
+    "bps": 4927.3,
+    "cash_end": 20976000000,
+    "equity_ratio": 0.459,
+    "roe": 0.079,
+    "per": 12.8,
+    "gross_profit": 118295000000,
+    "operating_income": 23939000000,
+    "income_tax_expense": 5447000000,
+    "interest_bearing_debt_current": 5233000000,
+    "interest_bearing_debt_noncurrent": 20196000000,
+    "bonds_payable": 55000000000,
+    "commercial_papers": 10000000000,
+    "current_portion_lt_loans": 7952000000,
+    "lease_liabilities_current": 913000000,
+    "lease_liabilities_noncurrent": 2039000000,
+    "depreciation": 21231000000,
+    "current_assets": 179189000000,
+    "current_liabilities": 156607000000,
+    "noncurrent_assets": 305926000000,
+    "noncurrent_liabilities": 101384000000,
+    "trade_payables": 53844000000,
+    "ppe": 248388000000,
+    "goodwill": 11127000000,
+    "intangible_assets": 21239000000,
+    "investment_securities": 21760000000,
+    "treasury_stock": -14316000000,
+    "noncontrolling_interests": 4097000000
+  },
+  "segments": [
+    {
+      "key": "Food",
+      "label": null,
+      "external_revenue": 502083000000,
+      "intersegment_revenue": 223000000,
+      "operating_income": 33415000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00331-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

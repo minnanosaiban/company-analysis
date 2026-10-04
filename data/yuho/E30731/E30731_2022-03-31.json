@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E30731",
+    "sec_code": "9468",
+    "company_name": "株式会社ＫＡＤＯＫＡＷＡ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1SG"
+  },
+  "financials": {
+    "net_sales": 221208000000,
+    "ordinary_income": 20213000000,
+    "net_income": 14078000000,
+    "comprehensive_income": 18497000000,
+    "eps": 105.96,
+    "eps_diluted": 105.96,
+    "dps": 30,
+    "operating_cf": 21708000000,
+    "investing_cf": -7940000000,
+    "financing_cf": 26690000000,
+    "net_assets": 175740000000,
+    "total_assets": 325319000000,
+    "bps": 1234.46,
+    "cash_end": 97579000000,
+    "equity_ratio": 0.528,
+    "roe": 0.094,
+    "per": 30.39,
+    "gross_profit": 75587000000,
+    "operating_income": 18519000000,
+    "income_tax_expense": 4651000000,
+    "interest_bearing_debt_current": 283000000,
+    "interest_bearing_debt_noncurrent": 65000000000,
+    "depreciation": 5723000000,
+    "capex_ppe": -2211000000,
+    "capex_intangible": -3043000000,
+    "current_assets": 205613000000,
+    "current_liabilities": 77885000000,
+    "noncurrent_assets": 119705000000,
+    "noncurrent_liabilities": 71693000000,
+    "inventories": 23921000000,
+    "trade_payables": 26635000000,
+    "ppe": 71538000000,
+    "goodwill": 429000000,
+    "intangible_assets": 7280000000,
+    "investment_securities": 33957000000,
+    "treasury_stock": -1928000000,
+    "noncontrolling_interests": 3840000000
+  },
+  "segments": [
+    {
+      "key": "EducationBusiness",
+      "label": null,
+      "external_revenue": 10794000000,
+      "intersegment_revenue": 8000000,
+      "operating_income": 742000000
+    },
+    {
+      "key": "Game",
+      "label": null,
+      "external_revenue": 19411000000,
+      "intersegment_revenue": 79000000,
+      "operating_income": 5200000000
+    },
+    {
+      "key": "Publication",
+      "label": null,
+      "external_revenue": 131530000000,
+      "intersegment_revenue": 1442000000,
+      "operating_income": 17370000000
+    },
+    {
+      "key": "Video",
+      "label": null,
+      "external_revenue": 32735000000,
+      "intersegment_revenue": 376000000,
+      "operating_income": 1341000000
+    },
+    {
+      "key": "WebServices",
+      "label": null,
+      "external_revenue": 21175000000,
+      "intersegment_revenue": 166000000,
+      "operating_income": 2013000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E30731-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

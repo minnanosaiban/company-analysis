@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E05025",
+    "sec_code": "4684",
+    "company_name": "株式会社オービック",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R4R5"
+  },
+  "financials": {
+    "net_sales": 89476000000,
+    "ordinary_income": 60174000000,
+    "net_income": 43500000000,
+    "comprehensive_income": 50506000000,
+    "eps": 489.96,
+    "dps": 215,
+    "operating_cf": 38972000000,
+    "investing_cf": -44053000000,
+    "financing_cf": -22965000000,
+    "net_assets": 293567000000,
+    "total_assets": 323927000000,
+    "bps": 3310.49,
+    "cash_end": 122699000000,
+    "equity_ratio": 0.906,
+    "roe": 0.155,
+    "per": 37.6,
+    "gross_profit": 67958000000,
+    "operating_income": 54135000000,
+    "income_tax_expense": 15808000000,
+    "depreciation": 2429000000,
+    "capex_ppe": -1820000000,
+    "capex_intangible": -90000000,
+    "current_assets": 136150000000,
+    "current_liabilities": 21066000000,
+    "noncurrent_assets": 187776000000,
+    "noncurrent_liabilities": 9293000000,
+    "ppe": 56121000000,
+    "intangible_assets": 154000000,
+    "investment_securities": 118570000000,
+    "treasury_stock": -27562000000
+  },
+  "segments": [
+    {
+      "key": "OfficeAutomation",
+      "label": "オフィスオートメーション",
+      "external_revenue": 6863000000,
+      "intersegment_revenue": 281000000,
+      "operating_income": 1743000000
+    },
+    {
+      "key": "SystemIntegration",
+      "label": "システムインテグレーション",
+      "external_revenue": 40238000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 22559000000
+    },
+    {
+      "key": "SystemSupport",
+      "label": "システムサポート",
+      "external_revenue": 42374000000,
+      "operating_income": 29832000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05025-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

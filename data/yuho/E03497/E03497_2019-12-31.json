@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03497",
+    "sec_code": "3064",
+    "company_name": "株式会社ＭｏｎｏｔａＲＯ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-08-25",
+    "doc_id": "S100RR6X"
+  },
+  "financials": {
+    "net_sales": 131463000000,
+    "ordinary_income": 15887000000,
+    "net_income": 10984000000,
+    "comprehensive_income": 10708000000,
+    "eps": 22.12,
+    "eps_diluted": 22.11,
+    "dps": 15,
+    "operating_cf": 9064000000,
+    "investing_cf": -3765000000,
+    "financing_cf": -6562000000,
+    "net_assets": 37512000000,
+    "total_assets": 59691000000,
+    "bps": 74.58,
+    "cash_end": 10746000000,
+    "equity_ratio": 0.621,
+    "roe": 0.33,
+    "per": 66.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03497-000_2022-12-31_02_2023-08-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

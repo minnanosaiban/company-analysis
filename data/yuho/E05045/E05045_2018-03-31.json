@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E05045",
+    "sec_code": "4732",
+    "company_name": "株式会社ユー・エス・エス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-10-07",
+    "doc_id": "S100UHXF"
+  },
+  "financials": {
+    "net_sales": 75153000000,
+    "ordinary_income": 36676000000,
+    "net_income": 24285000000,
+    "comprehensive_income": 25132000000,
+    "eps": 95.59,
+    "eps_diluted": 95.42,
+    "dps": 47.8,
+    "operating_cf": 32505000000,
+    "investing_cf": -34498000000,
+    "financing_cf": -12162000000,
+    "net_assets": 172190000000,
+    "total_assets": 222292000000,
+    "bps": 672.03,
+    "cash_end": 33722000000,
+    "equity_ratio": 0.768,
+    "roe": 0.148,
+    "per": 22.48
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05045-000_2020-03-31_02_2024-10-07.csv",
+    "parser_version": "0.1.3"
+  }
+}

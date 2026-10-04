@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E04501",
+    "sec_code": "9506",
+    "company_name": "東北電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TOO5"
+  },
+  "financials": {
+    "net_sales": 2817813000000,
+    "ordinary_income": 291940000000,
+    "net_income": 226102000000,
+    "comprehensive_income": 285835000000,
+    "eps": 452.13,
+    "dps": 15,
+    "operating_cf": 450160000000,
+    "investing_cf": -333550000000,
+    "financing_cf": -96050000000,
+    "net_assets": 911078000000,
+    "total_assets": 5388723000000,
+    "bps": 1655.09,
+    "cash_end": 529354000000,
+    "equity_ratio": 0.154,
+    "roe": 0.328,
+    "per": 2.65,
+    "operating_income": 322263000000,
+    "income_tax_expense": 43415000000,
+    "interest_bearing_debt_noncurrent": 1383710000000,
+    "bonds_payable": 1570700000000,
+    "depreciation": 191554000000,
+    "current_assets": 1202387000000,
+    "current_liabilities": 1157721000000,
+    "noncurrent_assets": 4186336000000,
+    "noncurrent_liabilities": 3319923000000,
+    "trade_receivables": 262901000000,
+    "inventories": 92806000000,
+    "trade_payables": 231281000000,
+    "treasury_stock": -4154000000,
+    "noncontrolling_interests": 83383000000
+  },
+  "segments": [
+    {
+      "key": "Construction",
+      "label": null,
+      "external_revenue": 158786000000,
+      "intersegment_revenue": 162996000000,
+      "ordinary_income": 14658000000
+    },
+    {
+      "key": "PowerGenerationSales",
+      "label": "発電・販売事業",
+      "external_revenue": 2163720000000,
+      "intersegment_revenue": 117334000000,
+      "ordinary_income": 220201000000,
+      "equity_method_income": 538000000
+    },
+    {
+      "key": "PowerTransmissionAndDistribution",
+      "label": "送配電事業",
+      "external_revenue": 371266000000,
+      "intersegment_revenue": 486801000000,
+      "ordinary_income": 60701000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04501-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

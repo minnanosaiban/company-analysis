@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E32679",
+    "sec_code": "9142",
+    "company_name": "九州旅客鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100QZ5D"
+  },
+  "financials": {
+    "ordinary_income": 35700000000,
+    "net_income": 31166000000,
+    "comprehensive_income": 32480000000,
+    "eps": 198.36,
+    "dps": 93,
+    "operating_cf": 62084000000,
+    "investing_cf": -97581000000,
+    "financing_cf": 8963000000,
+    "net_assets": 406850000000,
+    "total_assets": 996699000000,
+    "bps": 2584.35,
+    "cash_end": 52283000000,
+    "equity_ratio": 0.407,
+    "roe": 0.078,
+    "per": 14.9,
+    "operating_income": 34323000000,
+    "income_tax_expense": 1655000000,
+    "interest_bearing_debt_current": 1996000000,
+    "interest_bearing_debt_noncurrent": 166225000000,
+    "bonds_payable": 125000000000,
+    "commercial_papers": 20000000000,
+    "current_portion_of_bonds": 20000000000,
+    "current_portion_lt_loans": 18392000000,
+    "lease_liabilities_noncurrent": 10452000000,
+    "depreciation": 31836000000,
+    "current_assets": 197145000000,
+    "current_liabilities": 195418000000,
+    "noncurrent_assets": 799554000000,
+    "noncurrent_liabilities": 394431000000,
+    "trade_payables": 27292000000,
+    "ppe": 632205000000,
+    "intangible_assets": 6203000000,
+    "investment_securities": 50381000000,
+    "treasury_stock": -584000000,
+    "noncontrolling_interests": 797000000
+  },
+  "segments": [
+    {
+      "key": "BusinessServices",
+      "label": null,
+      "external_revenue": 40376000000,
+      "intersegment_revenue": 33111000000,
+      "operating_income": 3486000000
+    },
+    {
+      "key": "Construction",
+      "label": null,
+      "external_revenue": 36056000000,
+      "intersegment_revenue": 52313000000,
+      "operating_income": 5442000000
+    },
+    {
+      "key": "RealEstateAndHotels",
+      "label": null,
+      "external_revenue": 118769000000,
+      "intersegment_revenue": 4340000000,
+      "operating_income": 22107000000
+    },
+    {
+      "key": "RetailAndRestaurant",
+      "label": null,
+      "external_revenue": 54480000000,
+      "intersegment_revenue": 300000000,
+      "operating_income": 1410000000
+    },
+    {
+      "key": "Transportation",
+      "label": null,
+      "external_revenue": 133559000000,
+      "intersegment_revenue": 4759000000,
+      "operating_income": 2522000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E32679-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E03531",
+    "sec_code": "8304",
+    "company_name": "株式会社あおぞら銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TV01"
+  },
+  "financials": {
+    "ordinary_income": -54816000000,
+    "net_income": -49904000000,
+    "comprehensive_income": -42703000000,
+    "eps": -427.22,
+    "dps": 76,
+    "operating_cf": 133949000000,
+    "investing_cf": 167439000000,
+    "financing_cf": 2136000000,
+    "net_assets": 391078000000,
+    "total_assets": 7603002000000,
+    "bps": 3285.94,
+    "cash_end": 1499756000000,
+    "equity_ratio": 0.05,
+    "income_tax_expense": 810000000,
+    "bonds_payable": 181397000000,
+    "depreciation": 7174000000,
+    "capex_ppe": -2394000000,
+    "capex_intangible": -5082000000,
+    "ppe": 23159000000,
+    "intangible_assets": 18962000000,
+    "treasury_stock": -3015000000,
+    "noncontrolling_interests": 6673000000,
+    "ordinary_revenue": 246299000000
+  },
+  "segments": [
+    {
+      "key": "CustomerRelationGroup",
+      "label": null,
+      "ordinary_income": -2969000000
+    },
+    {
+      "key": "InstitutionalBankingGroup",
+      "label": null,
+      "ordinary_income": 6566000000
+    },
+    {
+      "key": "InternationalBusinessGroup",
+      "label": null,
+      "ordinary_income": 11209000000
+    },
+    {
+      "key": "MarketGroup",
+      "label": null,
+      "ordinary_income": -45647000000
+    },
+    {
+      "key": "StructuredFinanceGroup",
+      "label": null,
+      "ordinary_income": 27858000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03531-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

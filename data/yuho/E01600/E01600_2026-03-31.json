@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E01600",
+    "sec_code": "6471",
+    "company_name": "日本精工株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YFE3"
+  },
+  "financials": {
+    "dps": 34,
+    "net_sales": 911644000000,
+    "net_income": 22867000000,
+    "comprehensive_income": 36881000000,
+    "net_assets": 671975000000,
+    "total_assets": 1239769000000,
+    "equity_ratio": 0.542,
+    "bps": 1373.28,
+    "eps": 46.75,
+    "eps_diluted": 46.53,
+    "roe": 0.035,
+    "per": 23.26,
+    "operating_cf": 97806000000,
+    "investing_cf": -64751000000,
+    "financing_cf": -37790000000,
+    "cash_end": 142123000000,
+    "operating_income": 38812000000,
+    "gross_profit": 191291000000,
+    "income_tax_expense": 13730000000,
+    "sga_expense": 160886000000,
+    "profit_before_tax": 38039000000,
+    "depreciation": 55115000000,
+    "capex_ppe": -38033000000,
+    "capex_intangible": -12701000000,
+    "current_assets": 651805000000,
+    "current_liabilities": 283477000000,
+    "noncurrent_assets": 587964000000,
+    "inventories": 216209000000,
+    "ppe": 382474000000,
+    "goodwill": 19493000000,
+    "intangible_assets": 71987000000,
+    "equity_method_investments": 38810000000,
+    "treasury_stock": -9820000000,
+    "noncontrolling_interests": 20160000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveBusiness",
+      "label": null,
+      "external_revenue": 403304000000,
+      "operating_income": 17366000000,
+      "equity_method_income": 2186000000
+    },
+    {
+      "key": "IndustrialMachineryBusiness",
+      "label": null,
+      "external_revenue": 377491000000,
+      "operating_income": 12565000000,
+      "equity_method_income": 923000000
+    },
+    {
+      "key": "SteeringSystemsBusiness",
+      "label": null,
+      "external_revenue": 100554000000,
+      "operating_income": 7730000000,
+      "equity_method_income": 44000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01600-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "edinet_code": "E01081",
+    "sec_code": "5016",
+    "company_name": "ＪＸ金属株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W549"
+  },
+  "financials": {
+    "net_income": 36930000000,
+    "comprehensive_income": 42357000000,
+    "net_assets": 492093000000,
+    "total_assets": 1831557000000,
+    "equity_ratio": 0.269,
+    "bps": 530.01,
+    "eps": 39.78,
+    "eps_diluted": 39.78,
+    "roe": 0.077,
+    "operating_cf": 36251000000,
+    "investing_cf": -71283000000,
+    "financing_cf": 51320000000,
+    "cash_end": 58024000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01081-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

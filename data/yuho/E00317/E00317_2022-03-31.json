@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E00317",
+    "sec_code": "1719",
+    "company_name": "株式会社 安藤・間（呼称：安藤ハザマ）",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8S4"
+  },
+  "financials": {
+    "net_sales": 340293000000,
+    "ordinary_income": 25838000000,
+    "net_income": 17671000000,
+    "comprehensive_income": 16740000000,
+    "eps": 98.84,
+    "eps_diluted": 98.84,
+    "dps": 40,
+    "operating_cf": -36086000000,
+    "investing_cf": -4549000000,
+    "financing_cf": -22565000000,
+    "net_assets": 141682000000,
+    "total_assets": 295332000000,
+    "bps": 834,
+    "cash_end": 64739000000,
+    "equity_ratio": 0.477,
+    "roe": 0.123,
+    "per": 9.15,
+    "gross_profit": 46861000000,
+    "operating_income": 26600000000,
+    "income_tax_expense": 6768000000,
+    "interest_bearing_debt_current": 16676000000,
+    "interest_bearing_debt_noncurrent": 7640000000,
+    "bonds_payable": 162000000,
+    "current_portion_of_bonds": 237000000,
+    "depreciation": 2410000000,
+    "capex_ppe": -2558000000,
+    "current_assets": 228070000000,
+    "current_liabilities": 140388000000,
+    "noncurrent_assets": 67262000000,
+    "noncurrent_liabilities": 13261000000,
+    "ppe": 30186000000,
+    "intangible_assets": 1542000000,
+    "investment_securities": 20960000000,
+    "treasury_stock": -10422000000,
+    "noncontrolling_interests": 761000000
+  },
+  "segments": [
+    {
+      "key": "BuildingConstruction",
+      "label": null,
+      "external_revenue": 178526000000,
+      "intersegment_revenue": 0,
+      "operating_income": 13331000000
+    },
+    {
+      "key": "CivilEngineering",
+      "label": null,
+      "external_revenue": 131928000000,
+      "operating_income": 15824000000
+    },
+    {
+      "key": "ConsolidatedSubsidiaries",
+      "label": null,
+      "external_revenue": 24776000000,
+      "intersegment_revenue": 61483000000,
+      "operating_income": 2489000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00317-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

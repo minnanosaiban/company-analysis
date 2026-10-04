@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E23924",
+    "sec_code": "8630",
+    "company_name": "ＳＯＭＰＯホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YC6Z"
+  },
+  "financials": {
+    "dps": 150,
+    "net_income": 640086000000,
+    "comprehensive_income": 1328436000000,
+    "net_assets": 5167823000000,
+    "total_assets": 18603704000000,
+    "equity_ratio": 0.278,
+    "bps": 5791.94,
+    "eps": 701.03,
+    "eps_diluted": 701.03,
+    "roe": 0.137,
+    "per": 8.58,
+    "operating_cf": 706419000000,
+    "investing_cf": -232914000000,
+    "financing_cf": -412697000000,
+    "cash_end": 1134996000000,
+    "income_tax_expense": 200270000000,
+    "profit_before_tax": 843226000000,
+    "depreciation": 107286000000,
+    "capex_ppe": -34772000000,
+    "capex_intangible": -25194000000,
+    "ppe": 646548000000,
+    "goodwill": 229061000000,
+    "equity_method_investments": 42869000000,
+    "treasury_stock": -197905000000,
+    "noncontrolling_interests": 123185000000
+  },
+  "segments": [
+    {
+      "key": "DomesticLifeInsuranceBusiness",
+      "label": null,
+      "external_revenue": 258707000000,
+      "operating_income": 68605000000,
+      "assets": 3029729000000
+    },
+    {
+      "key": "DomesticPAndCInsuranceBusiness",
+      "label": null,
+      "external_revenue": 2685496000000,
+      "intersegment_revenue": 45076000000,
+      "operating_income": 268112000000,
+      "equity_method_income": 77000000,
+      "assets": 6444135000000
+    },
+    {
+      "key": "NursingCareBusiness",
+      "label": null,
+      "external_revenue": 186207000000,
+      "intersegment_revenue": 12000000,
+      "operating_income": 7951000000,
+      "assets": 431191000000
+    },
+    {
+      "key": "OverseasInsuranceBusiness",
+      "label": null,
+      "external_revenue": 2428717000000,
+      "intersegment_revenue": 12435000000,
+      "operating_income": 294489000000,
+      "equity_method_income": 1788000000,
+      "assets": 8164339000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E23924-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

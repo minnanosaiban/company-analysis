@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E00028",
+    "sec_code": "5714",
+    "company_name": "ＤＯＷＡホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TO7R"
+  },
+  "financials": {
+    "net_sales": 717194000000,
+    "ordinary_income": 44745000000,
+    "net_income": 27853000000,
+    "comprehensive_income": 38904000000,
+    "eps": 467.9,
+    "dps": 130,
+    "operating_cf": 118630000000,
+    "investing_cf": -26261000000,
+    "financing_cf": -59204000000,
+    "net_assets": 388790000000,
+    "total_assets": 632770000000,
+    "bps": 6264.96,
+    "cash_end": 73049000000,
+    "equity_ratio": 0.5895,
+    "roe": 0.0776,
+    "per": 11.39,
+    "gross_profit": 81446000000,
+    "operating_income": 30003000000,
+    "income_tax_expense": 14740000000,
+    "interest_bearing_debt_current": 26383000000,
+    "interest_bearing_debt_noncurrent": 20527000000,
+    "bonds_payable": 10000000000,
+    "commercial_papers": 9000000000,
+    "current_portion_of_bonds": 10000000000,
+    "depreciation": 25298000000,
+    "capex_ppe": -36443000000,
+    "capex_intangible": -1914000000,
+    "current_assets": 341851000000,
+    "current_liabilities": 178084000000,
+    "noncurrent_assets": 290919000000,
+    "noncurrent_liabilities": 65895000000,
+    "trade_payables": 51665000000,
+    "ppe": 194120000000,
+    "goodwill": 2223000000,
+    "intangible_assets": 10216000000,
+    "investment_securities": 76144000000,
+    "treasury_stock": -5010000000,
+    "noncontrolling_interests": 15800000000
+  },
+  "segments": [
+    {
+      "key": "EcologyAndRecycle",
+      "label": null,
+      "external_revenue": 89038000000,
+      "intersegment_revenue": 61351000000,
+      "ordinary_income": 11181000000
+    },
+    {
+      "key": "ElectronicMaterials",
+      "label": null,
+      "external_revenue": 178064000000,
+      "intersegment_revenue": 5109000000,
+      "ordinary_income": 3508000000
+    },
+    {
+      "key": "HeatTreat",
+      "label": null,
+      "external_revenue": 32200000000,
+      "intersegment_revenue": 26000000,
+      "ordinary_income": 3218000000
+    },
+    {
+      "key": "Metalworking",
+      "label": null,
+      "external_revenue": 116348000000,
+      "intersegment_revenue": 99000000,
+      "ordinary_income": 5187000000
+    },
+    {
+      "key": "Refinery",
+      "label": null,
+      "external_revenue": 298653000000,
+      "intersegment_revenue": 19195000000,
+      "ordinary_income": 18202000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00028-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

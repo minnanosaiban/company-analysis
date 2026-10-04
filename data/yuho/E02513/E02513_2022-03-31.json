@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E02513",
+    "sec_code": "8031",
+    "company_name": "三井物産株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-17",
+    "doc_id": "S100VYNR"
+  },
+  "financials": {
+    "dps": 105,
+    "net_sales": 11757559000000,
+    "net_income": 914722000000,
+    "comprehensive_income": 1370647000000,
+    "net_assets": 5605205000000,
+    "total_assets": 14923290000000,
+    "equity_ratio": 0.3756,
+    "bps": 1750.61,
+    "eps": 280.81,
+    "eps_diluted": 280.69,
+    "roe": 0.1798,
+    "per": 5.93,
+    "operating_cf": 806896000000,
+    "investing_cf": -181191000000,
+    "financing_cf": -614325000000,
+    "cash_end": 1127868000000
+  },
+  "segments": [
+    {
+      "key": "Chemicals",
+      "label": "化学品",
+      "gross_profit": 182984000000,
+      "equity_method_income": 20714000000,
+      "profit_attributable_to_owners": 68941000000,
+      "assets": 1692949000000
+    },
+    {
+      "key": "Energy",
+      "label": "エネルギー",
+      "gross_profit": 145414000000,
+      "equity_method_income": 32347000000,
+      "profit_attributable_to_owners": 114017000000,
+      "assets": 2960412000000
+    },
+    {
+      "key": "InnovationAndCorporateDevelopment",
+      "label": "次世代・機能推進",
+      "gross_profit": 97743000000,
+      "equity_method_income": 19745000000,
+      "profit_attributable_to_owners": 57591000000,
+      "assets": 1729006000000
+    },
+    {
+      "key": "IronAndSteelProducts",
+      "label": "鉄鋼製品",
+      "gross_profit": 35492000000,
+      "equity_method_income": 26020000000,
+      "profit_attributable_to_owners": 26889000000,
+      "assets": 691630000000
+    },
+    {
+      "key": "Lifestyle",
+      "label": "生活産業",
+      "gross_profit": 142965000000,
+      "equity_method_income": 41087000000,
+      "profit_attributable_to_owners": 61498000000,
+      "assets": 2428573000000
+    },
+    {
+      "key": "MachineryAndInfrastructure",
+      "label": "機械・インフラ",
+      "gross_profit": 142931000000,
+      "equity_method_income": 146029000000,
+      "profit_attributable_to_owners": 120808000000,
+      "assets": 2684478000000
+    },
+    {
+      "key": "MineralAndMetalResources",
+      "label": "金属資源",
+      "gross_profit": 392469000000,
+      "equity_method_income": 145312000000,
+      "profit_attributable_to_owners": 497579000000,
+      "assets": 3180197000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02513-000_2025-03-31_01_2025-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

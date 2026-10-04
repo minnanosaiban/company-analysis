@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01905",
+    "sec_code": "6951",
+    "company_name": "日本電子株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R6SW"
+  },
+  "financials": {
+    "net_sales": 117243000000,
+    "ordinary_income": 7203000000,
+    "net_income": 5359000000,
+    "comprehensive_income": 4657000000,
+    "eps": 110.94,
+    "dps": 24,
+    "operating_cf": 3742000000,
+    "investing_cf": -4172000000,
+    "financing_cf": 5394000000,
+    "net_assets": 45080000000,
+    "total_assets": 136788000000,
+    "bps": 933.07,
+    "cash_end": 14032000000,
+    "equity_ratio": 0.33,
+    "roe": 0.124,
+    "per": 23.77
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01905-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

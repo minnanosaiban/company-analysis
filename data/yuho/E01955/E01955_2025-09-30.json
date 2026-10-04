@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E01955",
+    "sec_code": "6965",
+    "company_name": "浜松ホトニクス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-09-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-12-18",
+    "doc_id": "S100XAWU"
+  },
+  "financials": {
+    "net_sales": 212051000000,
+    "ordinary_income": 18802000000,
+    "net_income": 14203000000,
+    "comprehensive_income": 21955000000,
+    "eps": 47.32,
+    "dps": 38,
+    "operating_cf": 37784000000,
+    "investing_cf": -42166000000,
+    "financing_cf": -2843000000,
+    "net_assets": 323455000000,
+    "total_assets": 455008000000,
+    "bps": 1076.18,
+    "cash_end": 86037000000,
+    "equity_ratio": 0.707,
+    "roe": 0.044,
+    "per": 33.9,
+    "gross_profit": 101381000000,
+    "operating_income": 16163000000,
+    "income_tax_expense": 8287000000,
+    "interest_bearing_debt_current": 53498000000,
+    "interest_bearing_debt_noncurrent": 10567000000,
+    "current_portion_lt_loans": 1996000000,
+    "lease_liabilities_noncurrent": 4935000000,
+    "depreciation": 18892000000,
+    "capex_ppe": -35905000000,
+    "capex_intangible": -1317000000,
+    "current_assets": 236446000000,
+    "current_liabilities": 108532000000,
+    "noncurrent_assets": 218562000000,
+    "noncurrent_liabilities": 23021000000,
+    "trade_receivables": 46606000000,
+    "trade_payables": 6848000000,
+    "ppe": 150652000000,
+    "goodwill": 30064000000,
+    "intangible_assets": 34589000000,
+    "investment_securities": 4726000000,
+    "treasury_stock": -26241000000,
+    "noncontrolling_interests": 1933000000
+  },
+  "segments": [
+    {
+      "key": "ElectronTube",
+      "label": null,
+      "external_revenue": 71906000000,
+      "intersegment_revenue": 560000000,
+      "operating_income": 18953000000
+    },
+    {
+      "key": "ImagingAndMeasurementInstruments",
+      "label": null,
+      "external_revenue": 32703000000,
+      "intersegment_revenue": 77000000,
+      "operating_income": 9698000000
+    },
+    {
+      "key": "Laser",
+      "label": null,
+      "external_revenue": 22255000000,
+      "intersegment_revenue": 199000000,
+      "operating_income": -4365000000
+    },
+    {
+      "key": "OptoSemiconductor",
+      "label": null,
+      "external_revenue": 79505000000,
+      "intersegment_revenue": 967000000,
+      "operating_income": 12583000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01955-000_2025-09-30_01_2025-12-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

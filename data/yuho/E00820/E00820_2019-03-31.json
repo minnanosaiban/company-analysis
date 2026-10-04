@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00820",
+    "sec_code": "4204",
+    "company_name": "積水化学工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R1O0"
+  },
+  "financials": {
+    "net_sales": 1142713000000,
+    "ordinary_income": 93146000000,
+    "net_income": 66093000000,
+    "comprehensive_income": 55648000000,
+    "eps": 141.74,
+    "eps_diluted": 141.64,
+    "dps": 44,
+    "operating_cf": 85213000000,
+    "investing_cf": -62553000000,
+    "financing_cf": -31539000000,
+    "net_assets": 632746000000,
+    "total_assets": 1023706000000,
+    "bps": 1307.75,
+    "cash_end": 68613000000,
+    "equity_ratio": 0.5931,
+    "roe": 0.1106,
+    "per": 12.55
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00820-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

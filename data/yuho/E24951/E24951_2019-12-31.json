@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E24951",
+    "sec_code": "4927",
+    "company_name": "株式会社ポーラ・オルビスホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T3O2"
+  },
+  "financials": {
+    "net_sales": 219920000000,
+    "ordinary_income": 30630000000,
+    "net_income": 19694000000,
+    "comprehensive_income": 19972000000,
+    "eps": 89.04,
+    "eps_diluted": 88.93,
+    "dps": 116,
+    "operating_cf": 21127000000,
+    "investing_cf": -12514000000,
+    "financing_cf": -19336000000,
+    "net_assets": 191069000000,
+    "total_assets": 227256000000,
+    "bps": 862,
+    "cash_end": 65789000000,
+    "equity_ratio": 0.839,
+    "roe": 0.104,
+    "per": 29.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24951-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

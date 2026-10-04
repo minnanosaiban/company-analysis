@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E03856",
+    "sec_code": "8802",
+    "company_name": "三菱地所株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7UL"
+  },
+  "financials": {
+    "ordinary_income": 219572000000,
+    "net_income": 148451000000,
+    "comprehensive_income": 123014000000,
+    "eps": 108.64,
+    "eps_diluted": 108.63,
+    "dps": 33,
+    "operating_cf": 341766000000,
+    "investing_cf": -277440000000,
+    "financing_cf": -28886000000,
+    "net_assets": 1941206000000,
+    "total_assets": 5858236000000,
+    "bps": 1295.83,
+    "cash_end": 213008000000,
+    "equity_ratio": 0.296,
+    "roe": 0.085,
+    "per": 14.68
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03856-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

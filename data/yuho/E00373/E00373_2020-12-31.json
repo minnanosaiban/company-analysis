@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00373",
+    "sec_code": "2206",
+    "company_name": "江崎グリコ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T44E"
+  },
+  "financials": {
+    "net_sales": 344048000000,
+    "ordinary_income": 19641000000,
+    "net_income": 11836000000,
+    "comprehensive_income": 11322000000,
+    "eps": 182.48,
+    "dps": 65,
+    "operating_cf": 17218000000,
+    "investing_cf": -12444000000,
+    "financing_cf": -9738000000,
+    "net_assets": 222551000000,
+    "total_assets": 340081000000,
+    "bps": 3420.92,
+    "cash_end": 92449000000,
+    "equity_ratio": 0.652,
+    "roe": 0.054,
+    "per": 24.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00373-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

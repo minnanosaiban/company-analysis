@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E04430",
+    "sec_code": "9432",
+    "company_name": "NTT株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-16",
+    "doc_id": "S100YCP3"
+  },
+  "financials": {
+    "dps": 5.3,
+    "net_sales": 14409121000000,
+    "net_income": 1037032000000,
+    "comprehensive_income": 1719075000000,
+    "net_assets": 9727623000000,
+    "total_assets": 46721259000000,
+    "equity_ratio": 0.208,
+    "bps": 119.47,
+    "eps": 12.61,
+    "roe": 0.104,
+    "per": 12.5,
+    "operating_cf": 1485190000000,
+    "investing_cf": -1023424000000,
+    "financing_cf": 441332000000,
+    "cash_end": 1921882000000,
+    "operating_income": 1706221000000,
+    "income_tax_expense": 499285000000,
+    "lease_liabilities_current": 249991000000,
+    "lease_liabilities_noncurrent": 957941000000,
+    "profit_before_tax": 1581923000000,
+    "depreciation": 1790983000000,
+    "current_assets": 11344700000000,
+    "current_liabilities": 22332886000000,
+    "noncurrent_assets": 35376559000000,
+    "trade_receivables": 5551177000000,
+    "inventories": 624827000000,
+    "trade_payables": 3073019000000,
+    "ppe": 11276887000000,
+    "goodwill": 2079718000000,
+    "intangible_assets": 2872974000000,
+    "equity_method_investments": 542777000000,
+    "treasury_stock": -1343643000000,
+    "noncontrolling_interests": 489910000000,
+    "interest_bearing_debt_current": 4395648000000
+  },
+  "segments": [
+    {
+      "key": "GlobalSolutionsBusiness",
+      "label": "グローバル・ソリューション事業",
+      "operating_income": 488211000000,
+      "equity_method_income": 4279000000,
+      "assets": 8719754000000
+    },
+    {
+      "key": "IntegratedICTBusiness",
+      "label": "総合ICT事業",
+      "operating_income": 942062000000,
+      "equity_method_income": 20896000000,
+      "assets": 26107756000000
+    },
+    {
+      "key": "OthersRealEstateEnergyAndOthers",
+      "label": "その他（不動産、エネルギー等）",
+      "operating_income": -1572000000,
+      "equity_method_income": 14616000000,
+      "assets": 22516727000000
+    },
+    {
+      "key": "RegionalCommunicationsBusiness",
+      "label": "地域通信事業",
+      "operating_income": 307402000000,
+      "equity_method_income": 1474000000,
+      "assets": 7252758000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04430-000_2026-03-31_01_2026-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

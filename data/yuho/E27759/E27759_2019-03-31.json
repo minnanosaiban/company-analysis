@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E27759",
+    "sec_code": "3291",
+    "company_name": "飯田グループホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R65V"
+  },
+  "financials": {
+    "dps": 62,
+    "net_sales": 1344987000000,
+    "net_income": 65469000000,
+    "comprehensive_income": 65018000000,
+    "net_assets": 758190000000,
+    "total_assets": 1389255000000,
+    "equity_ratio": 0.546,
+    "bps": 2629.12,
+    "eps": 227.02,
+    "roe": 0.089,
+    "per": 8.8,
+    "operating_cf": 46578000000,
+    "investing_cf": -20043000000,
+    "financing_cf": 21807000000,
+    "cash_end": 337110000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27759-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

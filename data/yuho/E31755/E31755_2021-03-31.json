@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E31755",
+    "sec_code": "7181",
+    "company_name": "株式会社かんぽ生命保険",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100QYAP"
+  },
+  "financials": {
+    "ordinary_income": 345736000000,
+    "net_income": 166103000000,
+    "comprehensive_income": 934447000000,
+    "eps": 295.33,
+    "dps": 76,
+    "operating_cf": -2806302000000,
+    "investing_cf": 2554274000000,
+    "financing_cf": 176743000000,
+    "net_assets": 2841475000000,
+    "total_assets": 70172982000000,
+    "bps": 5052.12,
+    "cash_end": 1335014000000,
+    "equity_ratio": 0.04,
+    "roe": 0.07,
+    "per": 7.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31755-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

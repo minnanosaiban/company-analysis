@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E01585",
+    "sec_code": "6305",
+    "company_name": "日立建機株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TS7E"
+  },
+  "financials": {
+    "dps": 150,
+    "net_sales": 1405928000000,
+    "net_income": 93294000000,
+    "comprehensive_income": 133958000000,
+    "net_assets": 763380000000,
+    "total_assets": 1835005000000,
+    "equity_ratio": 0.416,
+    "bps": 3589.46,
+    "eps": 438.68,
+    "eps_diluted": 438.68,
+    "roe": 0.131,
+    "per": 10.3,
+    "operating_cf": 73035000000,
+    "investing_cf": -39035000000,
+    "financing_cf": -8917000000,
+    "cash_end": 143530000000,
+    "operating_income": 162690000000,
+    "gross_profit": 435170000000,
+    "income_tax_expense": 44186000000,
+    "interest_bearing_debt_current": 396302000000,
+    "interest_bearing_debt_noncurrent": 179280000000,
+    "lease_liabilities_current": 11711000000,
+    "lease_liabilities_noncurrent": 62531000000,
+    "sga_expense": 267142000000,
+    "profit_before_tax": 160476000000,
+    "depreciation": 59693000000,
+    "capex_ppe": -45728000000,
+    "capex_intangible": -9875000000,
+    "current_assets": 1077550000000,
+    "current_liabilities": 727748000000,
+    "noncurrent_assets": 757455000000,
+    "inventories": 552319000000,
+    "trade_payables": 261930000000,
+    "ppe": 471287000000,
+    "goodwill": 51536000000,
+    "intangible_assets": 43630000000,
+    "equity_method_investments": 23844000000,
+    "treasury_stock": -3069000000,
+    "noncontrolling_interests": 51033000000
+  },
+  "segments": [
+    {
+      "key": "ConstructionMachineryBusiness",
+      "label": "建設機械ビジネス",
+      "external_revenue": 1282273000000,
+      "intersegment_revenue": 59000000,
+      "revenue": 1282332000000,
+      "operating_income": 148346000000,
+      "equity_method_income": 3442000000,
+      "profit_before_tax": 151788000000
+    },
+    {
+      "key": "SpecializedPartsAndServiceBusiness",
+      "label": "スペシャライズド・パーツ・サービスビジネス",
+      "external_revenue": 123655000000,
+      "intersegment_revenue": 6234000000,
+      "revenue": 129889000000,
+      "operating_income": 14344000000,
+      "profit_before_tax": 14344000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01585-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

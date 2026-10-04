@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00431",
+    "sec_code": "2607",
+    "company_name": "不二製油グループ本社株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R6J1"
+  },
+  "financials": {
+    "net_sales": 300844000000,
+    "ordinary_income": 18176000000,
+    "net_income": 11582000000,
+    "comprehensive_income": 3226000000,
+    "eps": 134.75,
+    "dps": 50,
+    "operating_cf": 22637000000,
+    "investing_cf": -79104000000,
+    "financing_cf": 65487000000,
+    "net_assets": 159227000000,
+    "total_assets": 390524000000,
+    "bps": 1819.74,
+    "cash_end": 21207000000,
+    "equity_ratio": 0.401,
+    "roe": 0.0732,
+    "per": 28.13
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00431-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

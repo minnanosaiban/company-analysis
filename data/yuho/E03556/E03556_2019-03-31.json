@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03556",
+    "sec_code": "8331",
+    "company_name": "株式会社千葉銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R5SW"
+  },
+  "financials": {
+    "ordinary_income": 72467000000,
+    "net_income": 50478000000,
+    "comprehensive_income": 35933000000,
+    "eps": 65.3,
+    "eps_diluted": 65.23,
+    "dps": 16,
+    "operating_cf": 251619000000,
+    "investing_cf": 60524000000,
+    "financing_cf": -27061000000,
+    "net_assets": 952267000000,
+    "total_assets": 14964129000000,
+    "bps": 1250.05,
+    "cash_end": 1982786000000,
+    "equity_ratio": 0.0636,
+    "roe": 0.0532,
+    "per": 9.2,
+    "ordinary_revenue": 238616000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03556-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

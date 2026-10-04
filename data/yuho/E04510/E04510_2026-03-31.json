@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E04510",
+    "sec_code": "9513",
+    "company_name": "電源開発株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YISC"
+  },
+  "financials": {
+    "ordinary_income": 158532000000,
+    "net_income": 58537000000,
+    "comprehensive_income": 125226000000,
+    "eps": 325.51,
+    "dps": 100,
+    "operating_cf": 224265000000,
+    "investing_cf": -193248000000,
+    "financing_cf": -64219000000,
+    "net_assets": 1534476000000,
+    "total_assets": 3739701000000,
+    "bps": 7985.24,
+    "cash_end": 348865000000,
+    "equity_ratio": 0.376,
+    "roe": 0.043,
+    "per": 13.3,
+    "operating_income": 100992000000,
+    "income_tax_expense": 46915000000,
+    "interest_bearing_debt_current": 8270000000,
+    "interest_bearing_debt_noncurrent": 989700000000,
+    "bonds_payable": 678987000000,
+    "lease_liabilities_noncurrent": 1905000000,
+    "depreciation": 116074000000,
+    "current_assets": 666243000000,
+    "current_liabilities": 398227000000,
+    "noncurrent_assets": 3073458000000,
+    "noncurrent_liabilities": 1806997000000,
+    "inventories": 77338000000,
+    "trade_payables": 55644000000,
+    "goodwill": 5689000000,
+    "treasury_stock": -20774000000,
+    "noncontrolling_interests": 129008000000
+  },
+  "segments": [
+    {
+      "key": "ElectricPowerRelated",
+      "label": null,
+      "external_revenue": 49638000000,
+      "intersegment_revenue": 40281000000,
+      "ordinary_income": 16989000000
+    },
+    {
+      "key": "OtherBusinesses",
+      "label": null,
+      "external_revenue": 15009000000,
+      "intersegment_revenue": 992000000,
+      "ordinary_income": 417000000
+    },
+    {
+      "key": "Overseas",
+      "label": null,
+      "external_revenue": 227896000000,
+      "ordinary_income": 94856000000,
+      "equity_method_income": 65308000000
+    },
+    {
+      "key": "PowerGeneration",
+      "label": null,
+      "external_revenue": 840445000000,
+      "intersegment_revenue": 25179000000,
+      "ordinary_income": 45351000000,
+      "equity_method_income": -1430000000
+    },
+    {
+      "key": "TransmissionandTransformation",
+      "label": null,
+      "external_revenue": 49270000000,
+      "intersegment_revenue": 583000000,
+      "ordinary_income": 1776000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04510-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

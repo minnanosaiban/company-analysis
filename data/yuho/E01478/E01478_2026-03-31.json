@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E01478",
+    "sec_code": "6005",
+    "company_name": "三浦工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YEGC"
+  },
+  "financials": {
+    "dps": 72,
+    "net_sales": 268701000000,
+    "net_income": 27621000000,
+    "comprehensive_income": 47055000000,
+    "net_assets": 243157000000,
+    "total_assets": 476425000000,
+    "equity_ratio": 0.51,
+    "bps": 2101.4,
+    "eps": 238.72,
+    "eps_diluted": 238.63,
+    "roe": 0.124,
+    "per": 13.01,
+    "operating_cf": 42445000000,
+    "investing_cf": -7232000000,
+    "financing_cf": -24245000000,
+    "cash_end": 69048000000,
+    "operating_income": 30917000000,
+    "gross_profit": 101616000000,
+    "income_tax_expense": 10286000000,
+    "lease_liabilities_current": 3331000000,
+    "lease_liabilities_noncurrent": 18704000000,
+    "sga_expense": 72101000000,
+    "profit_before_tax": 37854000000,
+    "depreciation": 13906000000,
+    "capex_ppe": -4195000000,
+    "capex_intangible": -1066000000,
+    "current_assets": 203181000000,
+    "current_liabilities": 93057000000,
+    "noncurrent_assets": 273244000000,
+    "trade_receivables": 74368000000,
+    "inventories": 40892000000,
+    "trade_payables": 25753000000,
+    "ppe": 50701000000,
+    "goodwill": 43591000000,
+    "intangible_assets": 124902000000,
+    "equity_method_investments": 58621000000,
+    "treasury_stock": -10626000000,
+    "noncontrolling_interests": 1411000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": null,
+      "external_revenue": 91264000000,
+      "intersegment_revenue": 42000000,
+      "revenue": 91307000000,
+      "operating_income": 10344000000
+    },
+    {
+      "key": "AsiaAndOthers",
+      "label": null,
+      "external_revenue": 38617000000,
+      "intersegment_revenue": 746000000,
+      "revenue": 39364000000,
+      "operating_income": 3851000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 138818000000,
+      "intersegment_revenue": 4415000000,
+      "revenue": 143233000000,
+      "operating_income": 21530000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01478-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

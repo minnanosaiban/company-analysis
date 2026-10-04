@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E24050",
+    "sec_code": "5020",
+    "company_name": "ＥＮＥＯＳホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R6CC"
+  },
+  "financials": {
+    "dps": 21,
+    "net_sales": 11129630000000,
+    "net_income": 322319000000,
+    "comprehensive_income": 297090000000,
+    "net_assets": 2717840000000,
+    "total_assets": 8477811000000,
+    "equity_ratio": 0.321,
+    "bps": 816.39,
+    "eps": 95.36,
+    "eps_diluted": 95.32,
+    "roe": 0.123,
+    "per": 5.31,
+    "operating_cf": 344184000000,
+    "investing_cf": -206900000000,
+    "financing_cf": -196662000000,
+    "cash_end": 378945000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24050-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

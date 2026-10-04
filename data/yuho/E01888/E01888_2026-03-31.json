@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E01888",
+    "sec_code": "6988",
+    "company_name": "日東電工株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YCAR"
+  },
+  "financials": {
+    "dps": 60,
+    "net_sales": 1028171000000,
+    "net_income": 133498000000,
+    "comprehensive_income": 203566000000,
+    "net_assets": 1148027000000,
+    "total_assets": 1441757000000,
+    "equity_ratio": 0.796,
+    "bps": 1704.17,
+    "eps": 197.2,
+    "eps_diluted": 197.11,
+    "roe": 0.122,
+    "per": 15.5,
+    "operating_cf": 192183000000,
+    "investing_cf": -107436000000,
+    "financing_cf": -106597000000,
+    "cash_end": 359805000000,
+    "operating_income": 183615000000,
+    "gross_profit": 390763000000,
+    "income_tax_expense": 51438000000,
+    "sga_expense": 156322000000,
+    "profit_before_tax": 184976000000,
+    "depreciation": 70677000000,
+    "current_assets": 797294000000,
+    "current_liabilities": 225970000000,
+    "noncurrent_assets": 644463000000,
+    "inventories": 157870000000,
+    "ppe": 466960000000,
+    "goodwill": 64125000000,
+    "intangible_assets": 16942000000,
+    "equity_method_investments": 6687000000,
+    "treasury_stock": -13849000000,
+    "noncontrolling_interests": 1075000000
+  },
+  "segments": [
+    {
+      "key": "HumanLife",
+      "label": "ヒューマンライフ",
+      "external_revenue": 137246000000,
+      "intersegment_revenue": 6455000000,
+      "revenue": 143702000000,
+      "operating_income": -5041000000,
+      "assets": 241639000000
+    },
+    {
+      "key": "IndustrialTape",
+      "label": "インダストリアルテープ",
+      "external_revenue": 364827000000,
+      "intersegment_revenue": 1780000000,
+      "revenue": 366607000000,
+      "operating_income": 51662000000,
+      "assets": 343802000000
+    },
+    {
+      "key": "Optronics",
+      "label": "オプトロニクス",
+      "external_revenue": 524598000000,
+      "intersegment_revenue": 3213000000,
+      "revenue": 527812000000,
+      "operating_income": 149871000000,
+      "assets": 831110000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01888-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01929",
+    "sec_code": "6925",
+    "company_name": "ウシオ電機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7CY"
+  },
+  "financials": {
+    "net_sales": 165138000000,
+    "ordinary_income": 11439000000,
+    "net_income": 11326000000,
+    "comprehensive_income": 3198000000,
+    "eps": 88.85,
+    "dps": 50,
+    "operating_cf": 8853000000,
+    "investing_cf": 2719000000,
+    "financing_cf": -3916000000,
+    "net_assets": 213254000000,
+    "total_assets": 306628000000,
+    "bps": 1691.45,
+    "cash_end": 74622000000,
+    "equity_ratio": 0.695,
+    "roe": 0.053,
+    "per": 14.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01929-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

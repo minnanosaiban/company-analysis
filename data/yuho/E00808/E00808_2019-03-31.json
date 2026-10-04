@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00808",
+    "sec_code": "4188",
+    "company_name": "三菱ケミカルグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4IA"
+  },
+  "financials": {
+    "dps": 40,
+    "net_sales": 3840341000000,
+    "net_income": 169530000000,
+    "comprehensive_income": 161655000000,
+    "net_assets": 1377947000000,
+    "total_assets": 5572508000000,
+    "equity_ratio": 0.247,
+    "bps": 970.46,
+    "eps": 119.22,
+    "eps_diluted": 110.05,
+    "roe": 0.127,
+    "per": 6.5,
+    "operating_cf": 415575000000,
+    "investing_cf": -895068000000,
+    "financing_cf": 519062000000,
+    "cash_end": 321541000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00808-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

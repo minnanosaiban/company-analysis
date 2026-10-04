@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "edinet_code": "E03623",
+    "sec_code": "8410",
+    "company_name": "株式会社セブン銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YC1N"
+  },
+  "financials": {
+    "ordinary_income": 30165000000,
+    "net_income": 13476000000,
+    "comprehensive_income": 14415000000,
+    "eps": 12.14,
+    "dps": 11,
+    "operating_cf": 83930000000,
+    "investing_cf": -71453000000,
+    "financing_cf": -11652000000,
+    "net_assets": 286265000000,
+    "total_assets": 1545743000000,
+    "bps": 240.14,
+    "cash_end": 892764000000,
+    "equity_ratio": 0.1814,
+    "roe": 0.0483,
+    "per": 22.06,
+    "income_tax_expense": 8223000000,
+    "bonds_payable": 100000000000,
+    "depreciation": 30980000000,
+    "capex_ppe": -9947000000,
+    "capex_intangible": -16327000000,
+    "ppe": 45812000000,
+    "intangible_assets": 44402000000,
+    "treasury_stock": -3089000000,
+    "noncontrolling_interests": 5766000000,
+    "ordinary_revenue": 220025000000
+  },
+  "segments": [
+    {
+      "key": "CreditCardAndElectronicMoneyBuisiness",
+      "label": "クレジットカード・電子マネー事業",
+      "external_revenue": 30577000000,
+      "intersegment_revenue": 93000000,
+      "ordinary_income": -592000000
+    },
+    {
+      "key": "DomesticBusinessBankingBusinessOther",
+      "label": "国内事業（銀行業その他）",
+      "external_revenue": 145846000000,
+      "intersegment_revenue": 922000000,
+      "ordinary_income": 27172000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": "海外事業",
+      "external_revenue": 43602000000,
+      "ordinary_income": 3583000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03623-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01264",
+    "sec_code": "5411",
+    "company_name": "ＪＦＥホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3KR"
+  },
+  "financials": {
+    "net_sales": 3961762000000,
+    "ordinary_income": 221176000000,
+    "net_income": 164218000000,
+    "comprehensive_income": 126637000000,
+    "eps": 285.04,
+    "eps_diluted": 284.99,
+    "dps": 95,
+    "operating_cf": 235747000000,
+    "investing_cf": -284580000000,
+    "financing_cf": 56984000000,
+    "net_assets": 2079114000000,
+    "total_assets": 4648635000000,
+    "bps": 3495.2,
+    "cash_end": 84728000000,
+    "equity_ratio": 0.433,
+    "roe": 0.083,
+    "per": 6.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01264-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

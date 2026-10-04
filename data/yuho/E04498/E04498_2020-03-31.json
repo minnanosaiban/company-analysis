@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04498",
+    "sec_code": "9501",
+    "company_name": "東京電力ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8P3"
+  },
+  "financials": {
+    "net_sales": 6241422000000,
+    "ordinary_income": 264032000000,
+    "net_income": 50703000000,
+    "comprehensive_income": 11884000000,
+    "eps": 31.65,
+    "eps_diluted": 10.12,
+    "operating_cf": 323493000000,
+    "investing_cf": -508253000000,
+    "financing_cf": 13591000000,
+    "net_assets": 2916886000000,
+    "total_assets": 11957846000000,
+    "bps": 1185.98,
+    "cash_end": 812143000000,
+    "equity_ratio": 0.243,
+    "roe": 0.018,
+    "per": 11.91
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04498-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

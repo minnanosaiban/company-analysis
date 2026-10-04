@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E00880",
+    "sec_code": "4403",
+    "company_name": "日油株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R2TO"
+  },
+  "financials": {
+    "net_sales": 217709000000,
+    "ordinary_income": 43183000000,
+    "net_income": 33973000000,
+    "comprehensive_income": 33389000000,
+    "eps": 417.02,
+    "dps": 108,
+    "operating_cf": 23333000000,
+    "investing_cf": -709000000,
+    "financing_cf": -16170000000,
+    "net_assets": 240002000000,
+    "total_assets": 309438000000,
+    "bps": 2960.56,
+    "cash_end": 89081000000,
+    "equity_ratio": 0.7729,
+    "roe": 0.1477,
+    "per": 14.8,
+    "gross_profit": 75943000000,
+    "operating_income": 40624000000,
+    "income_tax_expense": 14114000000,
+    "interest_bearing_debt_current": 2080000000,
+    "interest_bearing_debt_noncurrent": 2332000000,
+    "current_portion_lt_loans": 150000000,
+    "lease_liabilities_current": 103000000,
+    "lease_liabilities_noncurrent": 178000000,
+    "depreciation": 6359000000,
+    "current_assets": 193750000000,
+    "current_liabilities": 51598000000,
+    "noncurrent_assets": 115688000000,
+    "noncurrent_liabilities": 17837000000,
+    "trade_payables": 18496000000,
+    "ppe": 63863000000,
+    "intangible_assets": 1148000000,
+    "investment_securities": 44719000000,
+    "treasury_stock": -10299000000,
+    "noncontrolling_interests": 825000000
+  },
+  "segments": [
+    {
+      "key": "ExplosiveAndPropulsion",
+      "label": null,
+      "external_revenue": 29871000000,
+      "intersegment_revenue": 16000000,
+      "operating_income": 1751000000
+    },
+    {
+      "key": "FunctionalChemicals",
+      "label": null,
+      "external_revenue": 146422000000,
+      "intersegment_revenue": 1331000000,
+      "operating_income": 22901000000
+    },
+    {
+      "key": "LifeScience",
+      "label": null,
+      "external_revenue": 40907000000,
+      "intersegment_revenue": 7920000000,
+      "operating_income": 18003000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00880-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

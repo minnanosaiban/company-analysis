@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "edinet_code": "E30103",
+    "sec_code": "7167",
+    "company_name": "株式会社めぶきフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-19",
+    "doc_id": "S100VZSO"
+  },
+  "financials": {
+    "ordinary_income": 82801000000,
+    "net_income": 58228000000,
+    "comprehensive_income": 9588000000,
+    "eps": 58.38,
+    "eps_diluted": 58.37,
+    "dps": 16,
+    "operating_cf": -981405000000,
+    "investing_cf": -195558000000,
+    "financing_cf": -32974000000,
+    "net_assets": 966012000000,
+    "total_assets": 21408384000000,
+    "bps": 981.17,
+    "cash_end": 3211554000000,
+    "equity_ratio": 0.0451,
+    "roe": 0.0595,
+    "per": 12.43,
+    "income_tax_expense": 21281000000,
+    "depreciation": 9355000000,
+    "capex_ppe": -4370000000,
+    "capex_intangible": -3589000000,
+    "ppe": 101325000000,
+    "intangible_assets": 12156000000,
+    "treasury_stock": -1598000000,
+    "noncontrolling_interests": 32000000,
+    "ordinary_revenue": 360163000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E30103-000_2025-03-31_01_2025-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

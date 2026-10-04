@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E01790",
+    "sec_code": "6707",
+    "company_name": "サンケン電気株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-06-16",
+    "doc_id": "S100QYNL"
+  },
+  "financials": {
+    "net_sales": 156795000000,
+    "ordinary_income": -3406000000,
+    "net_income": -6952000000,
+    "comprehensive_income": -154000000,
+    "eps": -287.96,
+    "operating_cf": 7629000000,
+    "investing_cf": -12294000000,
+    "financing_cf": 21086000000,
+    "net_assets": 113250000000,
+    "total_assets": 233673000000,
+    "bps": 3463.44,
+    "cash_end": 59812000000,
+    "equity_ratio": 0.358,
+    "roe": -0.104,
+    "gross_profit": 39135000000,
+    "operating_income": -1198000000,
+    "income_tax_expense": 1818000000,
+    "interest_bearing_debt_current": 12357000000,
+    "interest_bearing_debt_noncurrent": 33329000000,
+    "bonds_payable": 5000000000,
+    "commercial_papers": 4000000000,
+    "current_portion_of_bonds": 15000000000,
+    "current_portion_lt_loans": 646000000,
+    "lease_liabilities_current": 31000000,
+    "lease_liabilities_noncurrent": 23000000,
+    "depreciation": 12683000000,
+    "capex_ppe": -10175000000,
+    "capex_intangible": -620000000,
+    "current_assets": 148173000000,
+    "current_liabilities": 76627000000,
+    "noncurrent_assets": 85500000000,
+    "noncurrent_liabilities": 43795000000,
+    "trade_receivables": 36962000000,
+    "trade_payables": 20870000000,
+    "ppe": 67566000000,
+    "goodwill": 1959000000,
+    "intangible_assets": 8141000000,
+    "investment_securities": 990000000,
+    "treasury_stock": -4226000000,
+    "noncontrolling_interests": 29674000000
+  },
+  "segments": [
+    {
+      "key": "POWERSYSTEM",
+      "label": null,
+      "external_revenue": 19561000000,
+      "intersegment_revenue": 533000000,
+      "operating_income": 882000000
+    },
+    {
+      "key": "SemiconductorDevice",
+      "label": null,
+      "external_revenue": 137233000000,
+      "intersegment_revenue": 164000000,
+      "operating_income": 1190000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01790-000_2021-03-31_02_2023-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

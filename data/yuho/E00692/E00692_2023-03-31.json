@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E00692",
+    "sec_code": "7911",
+    "company_name": "凸版印刷株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R83D"
+  },
+  "financials": {
+    "net_sales": 1638833000000,
+    "ordinary_income": 81172000000,
+    "net_income": 60866000000,
+    "comprehensive_income": 13860000000,
+    "eps": 185.07,
+    "dps": 46,
+    "operating_cf": 106080000000,
+    "investing_cf": -31414000000,
+    "financing_cf": -50128000000,
+    "net_assets": 1452169000000,
+    "total_assets": 2238817000000,
+    "bps": 4059.82,
+    "cash_end": 447607000000,
+    "equity_ratio": 0.592,
+    "roe": 0.045,
+    "per": 14.4,
+    "gross_profit": 362162000000,
+    "operating_income": 76636000000,
+    "income_tax_expense": 35742000000,
+    "interest_bearing_debt_current": 27140000000,
+    "interest_bearing_debt_noncurrent": 134243000000,
+    "bonds_payable": 50000000000,
+    "current_portion_lt_loans": 12398000000,
+    "depreciation": 70800000000,
+    "capex_ppe": -65394000000,
+    "capex_intangible": -18701000000,
+    "current_assets": 1106082000000,
+    "current_liabilities": 467394000000,
+    "noncurrent_assets": 1132734000000,
+    "noncurrent_liabilities": 319253000000,
+    "trade_payables": 162517000000,
+    "ppe": 597301000000,
+    "goodwill": 22931000000,
+    "intangible_assets": 85350000000,
+    "investment_securities": 393298000000,
+    "treasury_stock": -43360000000,
+    "noncontrolling_interests": 127051000000
+  },
+  "segments": [
+    {
+      "key": "Electronics",
+      "label": null,
+      "external_revenue": 254654000000,
+      "intersegment_revenue": 731000000,
+      "operating_income": 48208000000
+    },
+    {
+      "key": "InformationAndCommunication",
+      "label": null,
+      "external_revenue": 871508000000,
+      "intersegment_revenue": 15998000000,
+      "operating_income": 42883000000
+    },
+    {
+      "key": "LivingAndIndustry",
+      "label": null,
+      "external_revenue": 512671000000,
+      "intersegment_revenue": 8028000000,
+      "operating_income": 23507000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00692-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

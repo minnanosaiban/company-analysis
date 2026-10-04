@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01122",
+    "sec_code": "5201",
+    "company_name": "ＡＧＣ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T59J"
+  },
+  "financials": {
+    "dps": 210,
+    "net_sales": 1697383000000,
+    "net_income": 123840000000,
+    "comprehensive_income": 231244000000,
+    "net_assets": 1314161000000,
+    "total_assets": 2666031000000,
+    "equity_ratio": 0.4929,
+    "bps": 5930.27,
+    "eps": 559.11,
+    "eps_diluted": 557.1,
+    "roe": 0.102,
+    "per": 9.82,
+    "operating_cf": 326713000000,
+    "investing_cf": -123787000000,
+    "financing_cf": -252259000000,
+    "cash_end": 195830000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01122-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00990",
+    "sec_code": "4911",
+    "company_name": "株式会社資生堂",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-26",
+    "doc_id": "S100T45G"
+  },
+  "financials": {
+    "net_sales": 1131547000000,
+    "ordinary_income": 108739000000,
+    "net_income": 73562000000,
+    "comprehensive_income": 72653000000,
+    "eps": 184.18,
+    "eps_diluted": 183.99,
+    "dps": 60,
+    "operating_cf": 75562000000,
+    "investing_cf": -202823000000,
+    "financing_cf": 113678000000,
+    "net_assets": 517857000000,
+    "total_assets": 1218795000000,
+    "bps": 1242.85,
+    "cash_end": 97466000000,
+    "equity_ratio": 0.407,
+    "roe": 0.156,
+    "per": 42.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00990-000_2023-12-31_01_2024-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

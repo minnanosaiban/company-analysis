@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E00393",
+    "sec_code": "2501",
+    "company_name": "サッポロホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T5WI"
+  },
+  "financials": {
+    "dps": 42,
+    "net_sales": 478422000000,
+    "net_income": 5450000000,
+    "comprehensive_income": 6969000000,
+    "net_assets": 166310000000,
+    "total_assets": 639118000000,
+    "equity_ratio": 0.26,
+    "bps": 2134.98,
+    "eps": 69.96,
+    "eps_diluted": 69.95,
+    "roe": 0.033,
+    "per": 46.9,
+    "operating_cf": 7814000000,
+    "investing_cf": -46137000000,
+    "financing_cf": 36465000000,
+    "cash_end": 15380000000,
+    "operating_income": 10106000000,
+    "gross_profit": 139243000000,
+    "income_tax_expense": 5852000000,
+    "interest_bearing_debt_current": 86524000000,
+    "interest_bearing_debt_noncurrent": 155369000000,
+    "lease_liabilities_current": 3825000000,
+    "lease_liabilities_noncurrent": 17478000000,
+    "sga_expense": 129931000000,
+    "profit_before_tax": 11367000000,
+    "depreciation": 21234000000,
+    "capex_ppe": -8040000000,
+    "capex_intangible": -1580000000,
+    "current_assets": 179431000000,
+    "current_liabilities": 219515000000,
+    "noncurrent_assets": 459687000000,
+    "trade_receivables": 96593000000,
+    "inventories": 47525000000,
+    "trade_payables": 35730000000,
+    "ppe": 129102000000,
+    "goodwill": 33783000000,
+    "intangible_assets": 9328000000,
+    "equity_method_investments": 1370000000,
+    "treasury_stock": -1785000000,
+    "noncontrolling_interests": 891000000
+  },
+  "segments": [
+    {
+      "key": "AlcoholicBeverages",
+      "label": null,
+      "external_revenue": 334644000000,
+      "intersegment_revenue": 12571000000,
+      "revenue": 347215000000,
+      "operating_income": 8908000000,
+      "equity_method_income": 48000000
+    },
+    {
+      "key": "FoodAndSoftDrinks",
+      "label": null,
+      "external_revenue": 122914000000,
+      "intersegment_revenue": 912000000,
+      "revenue": 123826000000,
+      "operating_income": 2270000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 20724000000,
+      "intersegment_revenue": 2332000000,
+      "revenue": 23057000000,
+      "operating_income": 5442000000,
+      "equity_method_income": 60000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00393-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

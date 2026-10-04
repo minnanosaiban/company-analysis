@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E31632",
+    "sec_code": "5021",
+    "company_name": "コスモエネルギーホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W3P9"
+  },
+  "financials": {
+    "net_sales": 2791872000000,
+    "ordinary_income": 164505000000,
+    "net_income": 67935000000,
+    "comprehensive_income": 85626000000,
+    "eps": 811.15,
+    "eps_diluted": 726.65,
+    "dps": 150,
+    "operating_cf": 8122000000,
+    "investing_cf": -81178000000,
+    "financing_cf": 81137000000,
+    "net_assets": 663380000000,
+    "total_assets": 2120763000000,
+    "bps": 6042.41,
+    "cash_end": 61825000000,
+    "equity_ratio": 0.249,
+    "roe": 0.138,
+    "per": 5.28
+  },
+  "segments": [
+    {
+      "key": "OilExplorationAndProductionBusiness",
+      "label": "石油開発事業",
+      "external_revenue": 52593000000,
+      "intersegment_revenue": 85434000000,
+      "ordinary_income": 84512000000,
+      "equity_method_income": 3208000000
+    },
+    {
+      "key": "Petrochemicalbusiness",
+      "label": "石油化学事業",
+      "external_revenue": 370738000000,
+      "intersegment_revenue": 69435000000,
+      "ordinary_income": 3825000000,
+      "equity_method_income": -5301000000
+    },
+    {
+      "key": "PetroleumBusiness",
+      "label": "石油事業",
+      "external_revenue": 2328298000000,
+      "intersegment_revenue": 123201000000,
+      "ordinary_income": 65676000000,
+      "equity_method_income": 2959000000
+    },
+    {
+      "key": "RenewableEnergyBusiness",
+      "label": "再生可能エネルギー事業",
+      "external_revenue": 12119000000,
+      "intersegment_revenue": 106000000,
+      "ordinary_income": 2587000000,
+      "equity_method_income": 31000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31632-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

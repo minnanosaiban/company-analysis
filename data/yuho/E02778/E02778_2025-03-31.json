@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E02778",
+    "sec_code": "9984",
+    "company_name": "ソフトバンクグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W4HN"
+  },
+  "financials": {
+    "dps": 44,
+    "net_sales": 7243752000000,
+    "net_income": 1153332000000,
+    "comprehensive_income": 666237000000,
+    "net_assets": 11561541000000,
+    "total_assets": 45013756000000,
+    "equity_ratio": 0.257,
+    "bps": 7905.39,
+    "eps": 780.82,
+    "eps_diluted": 779.4,
+    "roe": 0.102,
+    "per": 9.6,
+    "operating_cf": 203580000000,
+    "investing_cf": -1631540000000,
+    "financing_cf": -1116384000000,
+    "cash_end": 3713028000000,
+    "gross_profit": 3754203000000,
+    "income_tax_expense": 101613000000,
+    "lease_liabilities_current": 165355000000,
+    "lease_liabilities_noncurrent": 741665000000,
+    "sga_expense": 3024409000000,
+    "profit_before_tax": 1704721000000,
+    "depreciation": 866823000000,
+    "current_assets": 9432918000000,
+    "current_liabilities": 12601670000000,
+    "noncurrent_assets": 35580838000000,
+    "trade_receivables": 3008144000000,
+    "inventories": 198291000000,
+    "trade_payables": 3036349000000,
+    "ppe": 2830185000000,
+    "goodwill": 5781931000000,
+    "intangible_assets": 2414562000000,
+    "equity_method_investments": 502995000000,
+    "treasury_stock": -256251000000,
+    "noncontrolling_interests": 2391485000000
+  },
+  "segments": [
+    {
+      "key": "Arm",
+      "label": null,
+      "external_revenue": 590168000000,
+      "intersegment_revenue": 22179000000,
+      "profit_before_tax": 47667000000
+    },
+    {
+      "key": "HoldingCompanyInvestmentBusiness",
+      "label": null,
+      "profit_before_tax": 794251000000
+    },
+    {
+      "key": "SoftBank",
+      "label": null,
+      "external_revenue": 6541357000000,
+      "intersegment_revenue": 2918000000,
+      "profit_before_tax": 906309000000
+    },
+    {
+      "key": "SoftBankVisionFundsBusiness",
+      "label": null,
+      "profit_before_tax": -115018000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02778-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

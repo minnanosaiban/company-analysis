@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01590",
+    "sec_code": "6436",
+    "company_name": "アマノ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8JA"
+  },
+  "financials": {
+    "net_sales": 131713000000,
+    "ordinary_income": 16090000000,
+    "net_income": 9142000000,
+    "comprehensive_income": 7748000000,
+    "eps": 121.17,
+    "dps": 80,
+    "operating_cf": 15719000000,
+    "investing_cf": -6133000000,
+    "financing_cf": -6800000000,
+    "net_assets": 106592000000,
+    "total_assets": 147609000000,
+    "bps": 1417.86,
+    "cash_end": 42487000000,
+    "equity_ratio": 0.718,
+    "roe": 0.087,
+    "per": 21.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01590-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E03153",
+    "sec_code": "9861",
+    "company_name": "株式会社　吉野家ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-26",
+    "doc_id": "S100QTWV"
+  },
+  "financials": {
+    "net_sales": 153601000000,
+    "ordinary_income": 15642000000,
+    "net_income": 8116000000,
+    "comprehensive_income": 8856000000,
+    "eps": 125.54,
+    "dps": 10,
+    "operating_cf": 23442000000,
+    "investing_cf": -333000000,
+    "financing_cf": -26042000000,
+    "net_assets": 48741000000,
+    "total_assets": 112214000000,
+    "bps": 743.85,
+    "cash_end": 34211000000,
+    "equity_ratio": 0.429,
+    "roe": 0.185,
+    "per": 19,
+    "gross_profit": 101789000000,
+    "operating_income": 2365000000,
+    "income_tax_expense": 3899000000,
+    "interest_bearing_debt_current": 2233000000,
+    "interest_bearing_debt_noncurrent": 22422000000,
+    "current_portion_lt_loans": 10470000000,
+    "lease_liabilities_current": 1962000000,
+    "lease_liabilities_noncurrent": 5023000000,
+    "depreciation": 6292000000,
+    "capex_ppe": -2967000000,
+    "capex_intangible": -304000000,
+    "current_assets": 49731000000,
+    "current_liabilities": 32210000000,
+    "noncurrent_assets": 62482000000,
+    "noncurrent_liabilities": 31263000000,
+    "trade_receivables": 5662000000,
+    "trade_payables": 4081000000,
+    "ppe": 34798000000,
+    "goodwill": 1385000000,
+    "intangible_assets": 3656000000,
+    "investment_securities": 3569000000,
+    "treasury_stock": -572000000,
+    "noncontrolling_interests": 638000000
+  },
+  "segments": [
+    {
+      "key": "Hanamaru",
+      "label": "はなまる",
+      "external_revenue": 21267000000,
+      "intersegment_revenue": 162000000,
+      "operating_income": -1316000000
+    },
+    {
+      "key": "Overseas",
+      "label": "海外",
+      "external_revenue": 22495000000,
+      "operating_income": 1129000000
+    },
+    {
+      "key": "Yoshinoya",
+      "label": "吉野家",
+      "external_revenue": 105978000000,
+      "intersegment_revenue": 1068000000,
+      "operating_income": 7279000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03153-000_2023-02-28_01_2023-05-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

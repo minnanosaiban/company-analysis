@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E30969",
+    "sec_code": "3697",
+    "company_name": "株式会社ＳＨＩＦＴ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-08-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-11-29",
+    "doc_id": "S100UVHV"
+  },
+  "financials": {
+    "net_sales": 110627000000,
+    "ordinary_income": 10753000000,
+    "net_income": 5127000000,
+    "comprehensive_income": 4817000000,
+    "eps": 291.43,
+    "eps_diluted": 291.17,
+    "operating_cf": 9088000000,
+    "investing_cf": -9946000000,
+    "financing_cf": 4154000000,
+    "net_assets": 34522000000,
+    "total_assets": 62717000000,
+    "bps": 1913.21,
+    "cash_end": 20844000000,
+    "equity_ratio": 0.537,
+    "roe": 0.164,
+    "per": 46.8,
+    "gross_profit": 35360000000,
+    "operating_income": 10537000000,
+    "income_tax_expense": 3900000000,
+    "interest_bearing_debt_current": 50000000,
+    "interest_bearing_debt_noncurrent": 6671000000,
+    "current_portion_lt_loans": 2856000000,
+    "depreciation": 1435000000,
+    "capex_ppe": -5652000000,
+    "capex_intangible": -59000000,
+    "current_assets": 37022000000,
+    "current_liabilities": 19653000000,
+    "noncurrent_assets": 25695000000,
+    "noncurrent_liabilities": 8542000000,
+    "inventories": 977000000,
+    "ppe": 6818000000,
+    "goodwill": 9262000000,
+    "intangible_assets": 13877000000,
+    "investment_securities": 1145000000,
+    "treasury_stock": -4940000000,
+    "noncontrolling_interests": 482000000
+  },
+  "segments": [
+    {
+      "key": "OtherProximateServices",
+      "label": null,
+      "external_revenue": 7178000000,
+      "intersegment_revenue": 1149000000,
+      "operating_income": 170000000
+    },
+    {
+      "key": "SoftwareDevelopmentRelatedServices",
+      "label": null,
+      "external_revenue": 32316000000,
+      "intersegment_revenue": 2692000000,
+      "operating_income": 1831000000
+    },
+    {
+      "key": "SoftwareTestingRelatedServices",
+      "label": null,
+      "external_revenue": 71133000000,
+      "intersegment_revenue": 209000000,
+      "operating_income": 16166000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E30969-000_2024-08-31_01_2024-11-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

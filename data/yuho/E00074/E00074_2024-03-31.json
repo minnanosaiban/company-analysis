@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "edinet_code": "E00074",
+    "sec_code": "1942",
+    "company_name": "株式会社関電工",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TPUR"
+  },
+  "financials": {
+    "net_sales": 598427000000,
+    "ordinary_income": 42648000000,
+    "net_income": 27345000000,
+    "comprehensive_income": 44375000000,
+    "eps": 133.8,
+    "dps": 41,
+    "operating_cf": 19841000000,
+    "investing_cf": -19077000000,
+    "financing_cf": 567000000,
+    "net_assets": 345800000000,
+    "total_assets": 567275000000,
+    "bps": 1633.95,
+    "cash_end": 62438000000,
+    "equity_ratio": 0.5887,
+    "roe": 0.0865,
+    "per": 13.07,
+    "operating_income": 40934000000,
+    "income_tax_expense": 16742000000,
+    "interest_bearing_debt_current": 16668000000,
+    "interest_bearing_debt_noncurrent": 5185000000,
+    "lease_liabilities_current": 1213000000,
+    "lease_liabilities_noncurrent": 4202000000,
+    "depreciation": 8859000000,
+    "capex_ppe": -18270000000,
+    "current_assets": 352160000000,
+    "current_liabilities": 193254000000,
+    "noncurrent_assets": 215115000000,
+    "noncurrent_liabilities": 28220000000,
+    "ppe": 127454000000,
+    "intangible_assets": 5306000000,
+    "investment_securities": 72042000000,
+    "treasury_stock": -521000000,
+    "noncontrolling_interests": 11858000000
+  },
+  "segments": [
+    {
+      "key": "ENGINEERING",
+      "label": "設備工事業",
+      "external_revenue": 587553000000,
+      "intersegment_revenue": 135000000,
+      "operating_income": 38997000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00074-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

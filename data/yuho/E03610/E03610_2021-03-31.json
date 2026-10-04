@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03610",
+    "sec_code": "8308",
+    "company_name": "株式会社りそなホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3ZD"
+  },
+  "financials": {
+    "ordinary_income": 190960000000,
+    "net_income": 124481000000,
+    "comprehensive_income": 272200000000,
+    "eps": 54.19,
+    "eps_diluted": 54.19,
+    "dps": 21,
+    "operating_cf": 11394771000000,
+    "investing_cf": -1390998000000,
+    "financing_cf": -114365000000,
+    "net_assets": 2519645000000,
+    "total_assets": 73697682000000,
+    "bps": 1008.82,
+    "cash_end": 25124886000000,
+    "equity_ratio": 0.0314,
+    "roe": 0.0566,
+    "per": 8.57,
+    "ordinary_revenue": 823600000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03610-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

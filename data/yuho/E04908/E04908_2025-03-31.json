@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E04908",
+    "sec_code": "9616",
+    "company_name": "株式会社共立メンテナンス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W29G"
+  },
+  "financials": {
+    "net_sales": 228933000000,
+    "ordinary_income": 21417000000,
+    "net_income": 14562000000,
+    "comprehensive_income": 15164000000,
+    "eps": 186.56,
+    "eps_diluted": 160.15,
+    "dps": 38,
+    "operating_cf": 29449000000,
+    "investing_cf": -43682000000,
+    "financing_cf": 8195000000,
+    "net_assets": 99360000000,
+    "total_assets": 301470000000,
+    "bps": 1272.69,
+    "cash_end": 25349000000,
+    "equity_ratio": 0.33,
+    "roe": 0.157,
+    "per": 16.68,
+    "gross_profit": 55917000000,
+    "operating_income": 20491000000,
+    "income_tax_expense": 5433000000,
+    "interest_bearing_debt_current": 26153000000,
+    "interest_bearing_debt_noncurrent": 78749000000,
+    "bonds_payable": 9020000000,
+    "current_portion_of_bonds": 4680000000,
+    "depreciation": 7716000000,
+    "capex_ppe": -41990000000,
+    "capex_intangible": -1086000000,
+    "current_assets": 69576000000,
+    "current_liabilities": 108093000000,
+    "noncurrent_assets": 231675000000,
+    "noncurrent_liabilities": 94015000000,
+    "trade_payables": 9220000000,
+    "ppe": 154974000000,
+    "intangible_assets": 4801000000,
+    "investment_securities": 16506000000,
+    "treasury_stock": -299000000
+  },
+  "segments": [
+    {
+      "key": "Construction",
+      "label": null,
+      "external_revenue": 7985000000,
+      "intersegment_revenue": 1967000000,
+      "operating_income": 672000000
+    },
+    {
+      "key": "ContractedServices",
+      "label": null,
+      "external_revenue": 8325000000,
+      "intersegment_revenue": 18791000000,
+      "operating_income": 1213000000
+    },
+    {
+      "key": "Dormitories",
+      "label": null,
+      "external_revenue": 54570000000,
+      "intersegment_revenue": 353000000,
+      "operating_income": 6077000000
+    },
+    {
+      "key": "FoodServices",
+      "label": null,
+      "external_revenue": 1933000000,
+      "intersegment_revenue": 10597000000,
+      "operating_income": 244000000
+    },
+    {
+      "key": "Hotels",
+      "label": null,
+      "external_revenue": 139006000000,
+      "intersegment_revenue": 243000000,
+      "operating_income": 18498000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04908-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

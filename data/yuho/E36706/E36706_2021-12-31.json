@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "edinet_code": "E36706",
+    "sec_code": "9147",
+    "company_name": "NIPPON EXPRESSホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-19",
+    "doc_id": "S100QS2V"
+  },
+  "financials": {
+    "ppe": 546145000000,
+    "goodwill": 5092000000,
+    "intangible_assets": 71550000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E36706-000_2022-12-31_02_2023-05-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

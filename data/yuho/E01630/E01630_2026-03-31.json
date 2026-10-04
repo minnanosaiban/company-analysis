@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E01630",
+    "sec_code": "4543",
+    "company_name": "テルモ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YGMG"
+  },
+  "financials": {
+    "dps": 30,
+    "net_sales": 1131877000000,
+    "net_income": 135914000000,
+    "net_assets": 1584509000000,
+    "total_assets": 2312234000000,
+    "equity_ratio": 0.685,
+    "bps": 1074.18,
+    "eps": 92.14,
+    "eps_diluted": 92.12,
+    "roe": 0.092,
+    "per": 22.88,
+    "operating_cf": 230852000000,
+    "investing_cf": -344102000000,
+    "financing_cf": 155503000000,
+    "cash_end": 280494000000,
+    "operating_income": 176320000000,
+    "gross_profit": 594675000000,
+    "income_tax_expense": 42337000000,
+    "interest_bearing_debt_current": 279886000000,
+    "interest_bearing_debt_noncurrent": 99910000000,
+    "sga_expense": 409937000000,
+    "profit_before_tax": 178252000000,
+    "depreciation": 95379000000,
+    "capex_ppe": -85213000000,
+    "capex_intangible": -16750000000,
+    "current_assets": 861040000000,
+    "current_liabilities": 540731000000,
+    "noncurrent_assets": 1451194000000,
+    "trade_receivables": 214927000000,
+    "inventories": 335634000000,
+    "trade_payables": 89756000000,
+    "ppe": 506481000000,
+    "goodwill": 471166000000,
+    "equity_method_investments": 1544000000,
+    "treasury_stock": -14517000000
+  },
+  "segments": [
+    {
+      "key": "BloodAndCellTechnologiesCompany",
+      "label": null,
+      "external_revenue": 231037000000,
+      "operating_income": 33635000000
+    },
+    {
+      "key": "CardiacAndVascularCompany",
+      "label": null,
+      "external_revenue": 676421000000,
+      "operating_income": 163994000000
+    },
+    {
+      "key": "MedicalCareSolutionsCompany",
+      "label": null,
+      "external_revenue": 216138000000,
+      "operating_income": 21568000000
+    },
+    {
+      "key": "TerumoOrganTechnologies",
+      "label": null,
+      "external_revenue": 7985000000,
+      "operating_income": 1665000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01630-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

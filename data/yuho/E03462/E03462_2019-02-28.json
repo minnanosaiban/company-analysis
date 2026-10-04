@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E03462",
+    "sec_code": "3382",
+    "company_name": "株式会社セブン＆アイ・ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-26",
+    "doc_id": "S100QTV0"
+  },
+  "financials": {
+    "ordinary_income": 406523000000,
+    "net_income": 203004000000,
+    "comprehensive_income": 184963000000,
+    "eps": 229.5,
+    "eps_diluted": 229.31,
+    "dps": 95,
+    "operating_cf": 577878000000,
+    "investing_cf": -557497000000,
+    "financing_cf": -5324000000,
+    "net_assets": 2672486000000,
+    "total_assets": 5795065000000,
+    "bps": 2850.42,
+    "cash_end": 1310729000000,
+    "equity_ratio": 0.435,
+    "roe": 0.082,
+    "per": 21.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03462-000_2023-02-28_01_2023-05-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02824",
+    "sec_code": "7458",
+    "company_name": "株式会社第一興商",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R48Z"
+  },
+  "financials": {
+    "net_sales": 143833000000,
+    "ordinary_income": 20881000000,
+    "net_income": 15600000000,
+    "comprehensive_income": 15251000000,
+    "eps": 137.21,
+    "eps_diluted": 137.04,
+    "dps": 112,
+    "operating_cf": 30221000000,
+    "investing_cf": -14192000000,
+    "financing_cf": -9547000000,
+    "net_assets": 132636000000,
+    "total_assets": 188814000000,
+    "bps": 1155.4,
+    "cash_end": 56439000000,
+    "equity_ratio": 0.693,
+    "roe": 0.122,
+    "per": 20.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02824-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

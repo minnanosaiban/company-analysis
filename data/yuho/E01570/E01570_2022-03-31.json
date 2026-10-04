@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E01570",
+    "sec_code": "6367",
+    "company_name": "ダイキン工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R5QK"
+  },
+  "financials": {
+    "net_sales": 3109106000000,
+    "ordinary_income": 327496000000,
+    "net_income": 217709000000,
+    "comprehensive_income": 366141000000,
+    "eps": 743.88,
+    "eps_diluted": 743.46,
+    "dps": 200,
+    "operating_cf": 245071000000,
+    "investing_cf": -180789000000,
+    "financing_cf": -48698000000,
+    "net_assets": 2007149000000,
+    "total_assets": 3823038000000,
+    "bps": 6726.45,
+    "cash_end": 717802000000,
+    "equity_ratio": 0.515,
+    "roe": 0.12,
+    "per": 30.1,
+    "gross_profit": 1057338000000,
+    "operating_income": 316350000000,
+    "income_tax_expense": 110657000000,
+    "interest_bearing_debt_current": 97376000000,
+    "interest_bearing_debt_noncurrent": 140526000000,
+    "bonds_payable": 120000000000,
+    "current_portion_of_bonds": 30000000000,
+    "current_portion_lt_loans": 334528000000,
+    "lease_liabilities_current": 25876000000,
+    "lease_liabilities_noncurrent": 76508000000,
+    "depreciation": 115378000000,
+    "capex_ppe": -114106000000,
+    "current_assets": 2165623000000,
+    "current_liabilities": 1306239000000,
+    "noncurrent_assets": 1657414000000,
+    "noncurrent_liabilities": 509649000000,
+    "trade_payables": 302621000000,
+    "ppe": 743364000000,
+    "goodwill": 270467000000,
+    "intangible_assets": 577007000000,
+    "investment_securities": 200187000000,
+    "treasury_stock": -1846000000,
+    "noncontrolling_interests": 35876000000
+  },
+  "segments": [
+    {
+      "key": "AirConditioningAndRefrigerationEquipment",
+      "label": null,
+      "external_revenue": 2828499000000,
+      "intersegment_revenue": 2167000000,
+      "operating_income": 282404000000
+    },
+    {
+      "key": "Chemicals",
+      "label": null,
+      "external_revenue": 212424000000,
+      "intersegment_revenue": 12222000000,
+      "operating_income": 27301000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01570-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

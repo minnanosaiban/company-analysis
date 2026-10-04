@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E02288",
+    "sec_code": "7735",
+    "company_name": "株式会社SCREENホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R3O2"
+  },
+  "financials": {
+    "net_sales": 411865000000,
+    "ordinary_income": 59438000000,
+    "net_income": 45481000000,
+    "comprehensive_income": 43499000000,
+    "eps": 976.55,
+    "eps_diluted": 926.17,
+    "dps": 293,
+    "operating_cf": 81752000000,
+    "investing_cf": -9952000000,
+    "financing_cf": -4951000000,
+    "net_assets": 247788000000,
+    "total_assets": 459305000000,
+    "bps": 5318.32,
+    "cash_end": 131011000000,
+    "equity_ratio": 0.539,
+    "roe": 0.199,
+    "per": 12.7,
+    "gross_profit": 134367000000,
+    "operating_income": 61273000000,
+    "income_tax_expense": 12854000000,
+    "interest_bearing_debt_noncurrent": 10400000000,
+    "current_portion_lt_loans": 400000000,
+    "lease_liabilities_current": 991000000,
+    "lease_liabilities_noncurrent": 2408000000,
+    "depreciation": 9500000000,
+    "capex_ppe": -8813000000,
+    "capex_intangible": -1338000000,
+    "current_assets": 338367000000,
+    "current_liabilities": 175620000000,
+    "noncurrent_assets": 120938000000,
+    "noncurrent_liabilities": 35896000000,
+    "trade_payables": 33498000000,
+    "ppe": 56524000000,
+    "intangible_assets": 4804000000,
+    "investment_securities": 44370000000,
+    "treasury_stock": -18503000000,
+    "noncontrolling_interests": 72000000
+  },
+  "segments": [
+    {
+      "key": "Ft",
+      "label": null,
+      "external_revenue": 33071000000,
+      "intersegment_revenue": 214000000,
+      "operating_income": 587000000
+    },
+    {
+      "key": "Ga",
+      "label": null,
+      "external_revenue": 43278000000,
+      "intersegment_revenue": 39000000,
+      "operating_income": 1636000000
+    },
+    {
+      "key": "Pe",
+      "label": null,
+      "external_revenue": 13311000000,
+      "operating_income": 2074000000
+    },
+    {
+      "key": "Spe",
+      "label": null,
+      "external_revenue": 319398000000,
+      "intersegment_revenue": 0,
+      "operating_income": 62830000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02288-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

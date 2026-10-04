@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "edinet_code": "E03622",
+    "sec_code": "8418",
+    "company_name": "株式会社山口フィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8EX"
+  },
+  "financials": {
+    "ordinary_income": -7635000000,
+    "net_income": -13005000000,
+    "comprehensive_income": -31335000000,
+    "eps": -53.29,
+    "dps": 28,
+    "operating_cf": -77132000000,
+    "investing_cf": 461973000000,
+    "financing_cf": -13202000000,
+    "net_assets": 636344000000,
+    "total_assets": 12182662000000,
+    "bps": 2652.26,
+    "cash_end": 2151826000000,
+    "equity_ratio": 0.052,
+    "roe": -0.02,
+    "income_tax_expense": 940000000,
+    "bonds_payable": 20000000000,
+    "depreciation": 5400000000,
+    "capex_ppe": -1515000000,
+    "capex_intangible": -1991000000,
+    "ppe": 83132000000,
+    "goodwill": 412000000,
+    "intangible_assets": 6991000000,
+    "treasury_stock": -25045000000,
+    "noncontrolling_interests": 6382000000,
+    "ordinary_revenue": 147016000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03622-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

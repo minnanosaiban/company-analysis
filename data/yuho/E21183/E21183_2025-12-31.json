@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E21183",
+    "sec_code": "4578",
+    "company_name": "大塚ホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-26",
+    "doc_id": "S100XUA7"
+  },
+  "financials": {
+    "dps": 140,
+    "net_sales": 2468892000000,
+    "net_income": 363150000000,
+    "comprehensive_income": 438633000000,
+    "net_assets": 3033444000000,
+    "total_assets": 4197562000000,
+    "equity_ratio": 0.723,
+    "bps": 5743.73,
+    "eps": 685.06,
+    "roe": 0.126,
+    "per": 13,
+    "operating_cf": 403579000000,
+    "investing_cf": -161585000000,
+    "financing_cf": -137344000000,
+    "cash_end": 534645000000,
+    "operating_income": 479375000000,
+    "gross_profit": 1769776000000,
+    "income_tax_expense": 101821000000,
+    "interest_bearing_debt_current": 39150000000,
+    "interest_bearing_debt_noncurrent": 87856000000,
+    "lease_liabilities_current": 21906000000,
+    "lease_liabilities_noncurrent": 79063000000,
+    "sga_expense": 1004505000000,
+    "profit_before_tax": 468037000000,
+    "depreciation": 116167000000,
+    "capex_ppe": -87841000000,
+    "capex_intangible": -53828000000,
+    "current_assets": 1622006000000,
+    "current_liabilities": 749112000000,
+    "noncurrent_assets": 2575556000000,
+    "inventories": 374323000000,
+    "ppe": 696808000000,
+    "goodwill": 509984000000,
+    "intangible_assets": 574134000000,
+    "equity_method_investments": 359036000000,
+    "treasury_stock": -85186000000,
+    "noncontrolling_interests": 66317000000
+  },
+  "segments": [
+    {
+      "key": "ConsumerProducts",
+      "label": "消費者関連事業",
+      "external_revenue": 34610000000,
+      "intersegment_revenue": 24000000,
+      "revenue": 34634000000,
+      "operating_income": 25150000000,
+      "equity_method_income": 26661000000
+    },
+    {
+      "key": "Nutraceuticals",
+      "label": "ニュートラシューティカルズ関連事業",
+      "external_revenue": 577621000000,
+      "intersegment_revenue": 48000000,
+      "revenue": 577669000000,
+      "operating_income": 57719000000,
+      "equity_method_income": 1190000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 112426000000,
+      "intersegment_revenue": 3496000000,
+      "revenue": 115922000000,
+      "operating_income": 7984000000,
+      "equity_method_income": 1983000000
+    },
+    {
+      "key": "Pharmaceuticals",
+      "label": "医療関連事業",
+      "external_revenue": 1744234000000,
+      "revenue": 1744234000000,
+      "operating_income": 445302000000,
+      "equity_method_income": 3860000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21183-000_2025-12-31_01_2026-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

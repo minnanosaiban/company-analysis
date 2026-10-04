@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E00989",
+    "sec_code": "4902",
+    "company_name": "コニカミノルタ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-13",
+    "doc_id": "S100VX9B"
+  },
+  "financials": {
+    "net_sales": 1127882000000,
+    "net_income": -47484000000,
+    "comprehensive_income": -74388000000,
+    "net_assets": 463154000000,
+    "total_assets": 1217641000000,
+    "equity_ratio": 0.38,
+    "bps": 935.99,
+    "eps": -95.98,
+    "eps_diluted": -95.98,
+    "roe": -0.095,
+    "operating_cf": 51093000000,
+    "investing_cf": 24607000000,
+    "financing_cf": -110861000000,
+    "cash_end": 92887000000,
+    "operating_income": -64014000000,
+    "gross_profit": 479420000000,
+    "income_tax_expense": 16229000000,
+    "interest_bearing_debt_current": 129668000000,
+    "interest_bearing_debt_noncurrent": 213616000000,
+    "lease_liabilities_current": 18551000000,
+    "lease_liabilities_noncurrent": 76334000000,
+    "sga_expense": 447492000000,
+    "profit_before_tax": -79156000000,
+    "depreciation": 74588000000,
+    "capex_ppe": -25794000000,
+    "capex_intangible": -15569000000,
+    "current_assets": 687805000000,
+    "current_liabilities": 422053000000,
+    "noncurrent_assets": 529835000000,
+    "trade_receivables": 289640000000,
+    "inventories": 207644000000,
+    "trade_payables": 170722000000,
+    "ppe": 265618000000,
+    "goodwill": 126313000000,
+    "equity_method_investments": 1019000000,
+    "treasury_stock": -8652000000,
+    "noncontrolling_interests": 10924000000
+  },
+  "segments": [
+    {
+      "key": "DigitalWorkplaceBusiness",
+      "label": null,
+      "external_revenue": 616365000000,
+      "intersegment_revenue": 4069000000,
+      "operating_income": 13976000000
+    },
+    {
+      "key": "ImagingSolutionBusiness",
+      "label": null,
+      "external_revenue": 106915000000,
+      "intersegment_revenue": 907000000,
+      "operating_income": -25948000000
+    },
+    {
+      "key": "IndustryBusiness",
+      "label": null,
+      "external_revenue": 119259000000,
+      "intersegment_revenue": 5193000000,
+      "operating_income": -12749000000
+    },
+    {
+      "key": "ProfessionalPrintBusiness",
+      "label": null,
+      "external_revenue": 284668000000,
+      "intersegment_revenue": 178000000,
+      "operating_income": -13197000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00989-000_2025-03-31_01_2025-06-13.csv",
+    "parser_version": "0.1.3"
+  }
+}

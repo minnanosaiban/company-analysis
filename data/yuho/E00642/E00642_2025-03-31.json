@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E00642",
+    "sec_code": "3861",
+    "company_name": "王子ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W463"
+  },
+  "financials": {
+    "net_sales": 1849264000000,
+    "ordinary_income": 68568000000,
+    "net_income": 46171000000,
+    "comprehensive_income": 86645000000,
+    "eps": 47.34,
+    "eps_diluted": 47.33,
+    "dps": 24,
+    "operating_cf": 94420000000,
+    "investing_cf": -154911000000,
+    "financing_cf": 60969000000,
+    "net_assets": 1132791000000,
+    "total_assets": 2635030000000,
+    "bps": 1177.99,
+    "cash_end": 65508000000,
+    "equity_ratio": 0.418,
+    "roe": 0.043,
+    "per": 13.25,
+    "gross_profit": 349395000000,
+    "operating_income": 67686000000,
+    "income_tax_expense": 38003000000,
+    "interest_bearing_debt_current": 236227000000,
+    "interest_bearing_debt_noncurrent": 445161000000,
+    "bonds_payable": 115000000000,
+    "commercial_papers": 77000000000,
+    "current_portion_of_bonds": 30000000000,
+    "depreciation": 89176000000,
+    "current_assets": 806504000000,
+    "current_liabilities": 738818000000,
+    "noncurrent_assets": 1828526000000,
+    "noncurrent_liabilities": 763420000000,
+    "trade_payables": 263763000000,
+    "ppe": 1381399000000,
+    "goodwill": 58303000000,
+    "intangible_assets": 110507000000,
+    "investment_securities": 197835000000,
+    "treasury_stock": -45836000000,
+    "noncontrolling_interests": 30967000000
+  },
+  "segments": [
+    {
+      "key": "ForestResourcesAndEnvironmentalMarketing",
+      "label": null,
+      "external_revenue": 345452000000,
+      "intersegment_revenue": 46893000000,
+      "operating_income": 30505000000
+    },
+    {
+      "key": "FunctionalMaterials",
+      "label": null,
+      "external_revenue": 221405000000,
+      "intersegment_revenue": 14970000000,
+      "operating_income": 9645000000
+    },
+    {
+      "key": "HouseholdAndIndustrialMaterials",
+      "label": null,
+      "external_revenue": 761611000000,
+      "intersegment_revenue": 71114000000,
+      "operating_income": 8467000000
+    },
+    {
+      "key": "PrintingAndCommunicationsMedia",
+      "label": null,
+      "external_revenue": 228922000000,
+      "intersegment_revenue": 64273000000,
+      "operating_income": 8606000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00642-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

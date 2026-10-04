@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E02257",
+    "sec_code": "7309",
+    "company_name": "株式会社シマノ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5J9"
+  },
+  "financials": {
+    "net_sales": 474362000000,
+    "ordinary_income": 103369000000,
+    "net_income": 61142000000,
+    "comprehensive_income": 101862000000,
+    "eps": 676.77,
+    "dps": 285,
+    "operating_cf": 114567000000,
+    "investing_cf": -31760000000,
+    "financing_cf": -43961000000,
+    "net_assets": 802396000000,
+    "total_assets": 871731000000,
+    "bps": 8905.21,
+    "cash_end": 481982000000,
+    "equity_ratio": 0.919,
+    "roe": 0.079,
+    "per": 32.3,
+    "gross_profit": 182515000000,
+    "operating_income": 83653000000,
+    "income_tax_expense": 25234000000,
+    "lease_liabilities_current": 1022000000,
+    "lease_liabilities_noncurrent": 2370000000,
+    "depreciation": 23937000000,
+    "capex_ppe": -24783000000,
+    "capex_intangible": -6532000000,
+    "current_assets": 652753000000,
+    "current_liabilities": 61834000000,
+    "noncurrent_assets": 218977000000,
+    "noncurrent_liabilities": 7500000000,
+    "trade_receivables": 31602000000,
+    "ppe": 157982000000,
+    "goodwill": 1898000000,
+    "intangible_assets": 21989000000,
+    "investment_securities": 23781000000,
+    "treasury_stock": -1264000000,
+    "noncontrolling_interests": 1230000000
+  },
+  "segments": [
+    {
+      "key": "BicycleComponents",
+      "label": "自転車部品",
+      "external_revenue": 364679000000,
+      "operating_income": 65251000000
+    },
+    {
+      "key": "FishingTackle",
+      "label": "釣具",
+      "external_revenue": 109225000000,
+      "operating_income": 18413000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 457000000,
+      "operating_income": -11000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02257-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

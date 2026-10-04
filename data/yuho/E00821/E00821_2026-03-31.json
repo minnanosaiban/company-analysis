@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E00821",
+    "sec_code": "4205",
+    "company_name": "日本ゼオン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YJ12"
+  },
+  "financials": {
+    "net_sales": 411966000000,
+    "ordinary_income": 40038000000,
+    "net_income": 36226000000,
+    "comprehensive_income": 43476000000,
+    "eps": 186.67,
+    "eps_diluted": 186.58,
+    "dps": 76,
+    "operating_cf": 76436000000,
+    "investing_cf": -42439000000,
+    "financing_cf": -34920000000,
+    "net_assets": 378252000000,
+    "total_assets": 548246000000,
+    "bps": 1972.74,
+    "cash_end": 28437000000,
+    "equity_ratio": 0.689,
+    "roe": 0.099,
+    "per": 9.4,
+    "gross_profit": 121202000000,
+    "operating_income": 36377000000,
+    "income_tax_expense": 13922000000,
+    "interest_bearing_debt_current": 8960000000,
+    "commercial_papers": 7000000000,
+    "depreciation": 17230000000,
+    "capex_ppe": -58374000000,
+    "capex_intangible": -2499000000,
+    "current_assets": 257545000000,
+    "current_liabilities": 144250000000,
+    "noncurrent_assets": 290701000000,
+    "noncurrent_liabilities": 25744000000,
+    "trade_receivables": 63776000000,
+    "trade_payables": 58734000000,
+    "ppe": 194116000000,
+    "intangible_assets": 6337000000,
+    "investment_securities": 73712000000,
+    "treasury_stock": -23853000000,
+    "noncontrolling_interests": 689000000
+  },
+  "segments": [
+    {
+      "key": "Elastomer",
+      "label": null,
+      "external_revenue": 221756000000,
+      "intersegment_revenue": 1924000000,
+      "operating_income": 11665000000
+    },
+    {
+      "key": "SpecialtyMaterial",
+      "label": null,
+      "external_revenue": 124163000000,
+      "intersegment_revenue": 53000000,
+      "operating_income": 22421000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00821-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

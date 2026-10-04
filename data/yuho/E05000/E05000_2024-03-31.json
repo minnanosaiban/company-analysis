@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E05000",
+    "sec_code": "4689",
+    "company_name": "LINEヤフー株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-17",
+    "doc_id": "S100TM4A"
+  },
+  "financials": {
+    "dps": 5.56,
+    "net_sales": 1814663000000,
+    "net_income": 113199000000,
+    "comprehensive_income": 144347000000,
+    "net_assets": 3037088000000,
+    "total_assets": 9043969000000,
+    "equity_ratio": 0.336,
+    "bps": 404.89,
+    "eps": 15.1,
+    "eps_diluted": 15.04,
+    "roe": 0.038,
+    "per": 25.68,
+    "operating_cf": 316477000000,
+    "investing_cf": -444060000000,
+    "financing_cf": -81490000000,
+    "cash_end": 1420430000000,
+    "operating_income": 208191000000,
+    "income_tax_expense": 42548000000,
+    "sga_expense": 1095832000000,
+    "profit_before_tax": 181621000000,
+    "depreciation": 162917000000,
+    "capex_ppe": -71009000000,
+    "ppe": 238399000000,
+    "goodwill": 2067862000000,
+    "intangible_assets": 1248923000000,
+    "equity_method_investments": 240342000000,
+    "treasury_stock": -70037000000,
+    "noncontrolling_interests": 409897000000
+  },
+  "segments": [
+    {
+      "key": "Commerce",
+      "label": "コマース事業",
+      "external_revenue": 819663000000,
+      "intersegment_revenue": 1892000000,
+      "revenue": 821556000000,
+      "operating_income": 76671000000
+    },
+    {
+      "key": "MediaBusiness",
+      "label": "メディア事業",
+      "external_revenue": 699906000000,
+      "intersegment_revenue": 7768000000,
+      "revenue": 707674000000,
+      "operating_income": 187350000000
+    },
+    {
+      "key": "Stragegy",
+      "label": "戦略事業",
+      "external_revenue": 288220000000,
+      "intersegment_revenue": 1768000000,
+      "revenue": 289989000000,
+      "operating_income": -31514000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05000-000_2024-03-31_01_2024-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

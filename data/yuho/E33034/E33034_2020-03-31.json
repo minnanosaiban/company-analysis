@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E33034",
+    "sec_code": "6544",
+    "company_name": "ジャパンエレベーターサービスホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R482"
+  },
+  "financials": {
+    "net_sales": 21339756000,
+    "ordinary_income": 2703523000,
+    "net_income": 1700610000,
+    "comprehensive_income": 1690273000,
+    "eps": 21.03,
+    "eps_diluted": 19.64,
+    "dps": 18,
+    "operating_cf": 1963085000,
+    "investing_cf": -2454573000,
+    "financing_cf": 593978000,
+    "net_assets": 5177089000,
+    "total_assets": 14297223000,
+    "bps": 63.34,
+    "cash_end": 1145583000,
+    "equity_ratio": 0.359,
+    "roe": 0.376,
+    "per": 59
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E33034-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04499",
+    "sec_code": "9503",
+    "company_name": "関西電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R4SI"
+  },
+  "financials": {
+    "net_sales": 3092398000000,
+    "ordinary_income": 153850000000,
+    "net_income": 108978000000,
+    "comprehensive_income": 129881000000,
+    "eps": 122.02,
+    "dps": 50,
+    "operating_cf": 369215000000,
+    "investing_cf": -660755000000,
+    "financing_cf": 325643000000,
+    "net_assets": 1725557000000,
+    "total_assets": 8075755000000,
+    "bps": 1886.12,
+    "cash_end": 291266000000,
+    "equity_ratio": 0.209,
+    "roe": 0.066,
+    "per": 9.82
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04499-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E03226",
+    "sec_code": "9989",
+    "company_name": "株式会社サンドラッグ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-24",
+    "doc_id": "S100TP0D"
+  },
+  "financials": {
+    "net_sales": 751777000000,
+    "ordinary_income": 41728000000,
+    "net_income": 29126000000,
+    "comprehensive_income": 29191000000,
+    "eps": 249.07,
+    "dps": 114,
+    "operating_cf": 41188000000,
+    "investing_cf": -74850000000,
+    "financing_cf": 22487000000,
+    "net_assets": 253090000000,
+    "total_assets": 420208000000,
+    "bps": 2164.06,
+    "cash_end": 69698000000,
+    "equity_ratio": 0.602,
+    "roe": 0.119,
+    "per": 18.74,
+    "gross_profit": 189319000000,
+    "operating_income": 40996000000,
+    "income_tax_expense": 13130000000,
+    "interest_bearing_debt_current": 35000000000,
+    "depreciation": 15127000000,
+    "capex_ppe": -36426000000,
+    "capex_intangible": -1799000000,
+    "current_assets": 208243000000,
+    "current_liabilities": 155466000000,
+    "noncurrent_assets": 211964000000,
+    "noncurrent_liabilities": 11651000000,
+    "ppe": 120536000000,
+    "goodwill": 1556000000,
+    "intangible_assets": 9143000000,
+    "investment_securities": 35808000000,
+    "treasury_stock": -3894000000
+  },
+  "segments": [
+    {
+      "key": "DiscountStore",
+      "label": null,
+      "external_revenue": 313826000000,
+      "intersegment_revenue": 11000000,
+      "operating_income": 15288000000
+    },
+    {
+      "key": "DrugStore",
+      "label": null,
+      "external_revenue": 437950000000,
+      "intersegment_revenue": 53463000000,
+      "operating_income": 25707000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03226-000_2024-03-31_01_2024-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

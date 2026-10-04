@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "edinet_code": "E36706",
+    "sec_code": "9147",
+    "company_name": "NIPPON EXPRESSホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-28",
+    "doc_id": "S100VI6W"
+  },
+  "financials": {
+    "dps": 300,
+    "net_sales": 2577643000000,
+    "net_income": 31733000000,
+    "comprehensive_income": 90578000000,
+    "net_assets": 853949000000,
+    "total_assets": 2297146000000,
+    "equity_ratio": 0.372,
+    "bps": 3286.96,
+    "eps": 121.47,
+    "roe": 0.038,
+    "per": 19.7,
+    "operating_cf": 227865000000,
+    "investing_cf": -140742000000,
+    "financing_cf": -164115000000,
+    "cash_end": 251339000000,
+    "operating_income": 49078000000,
+    "gross_profit": 221691000000,
+    "income_tax_expense": 18885000000,
+    "interest_bearing_debt_current": 136244000000,
+    "interest_bearing_debt_noncurrent": 189840000000,
+    "lease_liabilities_current": 120703000000,
+    "lease_liabilities_noncurrent": 349140000000,
+    "sga_expense": 158107000000,
+    "profit_before_tax": 51885000000,
+    "depreciation": 183438000000,
+    "capex_ppe": -57679000000,
+    "capex_intangible": -15316000000,
+    "current_assets": 934863000000,
+    "current_liabilities": 757854000000,
+    "noncurrent_assets": 1362283000000,
+    "trade_receivables": 520340000000,
+    "inventories": 12650000000,
+    "trade_payables": 268423000000,
+    "ppe": 538682000000,
+    "goodwill": 89110000000,
+    "intangible_assets": 97096000000,
+    "equity_method_investments": 41424000000,
+    "treasury_stock": -2941000000,
+    "noncontrolling_interests": 19099000000
+  },
+  "segments": [
+    {
+      "key": "DistributionSupport",
+      "label": null,
+      "external_revenue": 305020000000,
+      "intersegment_revenue": 115469000000,
+      "revenue": 420489000000,
+      "operating_income": 12233000000
+    },
+    {
+      "key": "EastAsia",
+      "label": null,
+      "external_revenue": 161585000000,
+      "intersegment_revenue": 12328000000,
+      "revenue": 173913000000,
+      "operating_income": 4532000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 491505000000,
+      "intersegment_revenue": 10252000000,
+      "revenue": 501757000000,
+      "operating_income": 11247000000
+    },
+    {
+      "key": "HeavyHaulageAndConstruction",
+      "label": null,
+      "external_revenue": 50021000000,
+      "intersegment_revenue": 46000000,
+      "revenue": 50068000000,
+      "operating_income": 5301000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 1228517000000,
+      "intersegment_revenue": 33509000000,
+      "revenue": 1262027000000,
+      "operating_income": 40529000000
+    },
+    {
+      "key": "SecurityTransportation",
+      "label": null,
+      "external_revenue": 67851000000,
+      "intersegment_revenue": 686000000,
+      "revenue": 68538000000,
+      "operating_income": 2407000000
+    },
+    {
+      "key": "SouthAsiaAndOceania",
+      "label": null,
+      "external_revenue": 138752000000,
+      "intersegment_revenue": 18902000000,
+      "revenue": 157655000000,
+      "operating_income": 5472000000
+    },
+    {
+      "key": "TheAmericas",
+      "label": null,
+      "external_revenue": 134388000000,
+      "intersegment_revenue": 18680000000,
+      "revenue": 153068000000,
+      "operating_income": 5363000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E36706-000_2024-12-31_01_2025-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

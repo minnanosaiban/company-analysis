@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "edinet_code": "E03563",
+    "sec_code": "8359",
+    "company_name": "株式会社八十二銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-24",
+    "doc_id": "S100TPHV"
+  },
+  "financials": {
+    "ordinary_income": 35217000000,
+    "net_income": 37071000000,
+    "comprehensive_income": 207392000000,
+    "eps": 76.37,
+    "eps_diluted": 76.31,
+    "dps": 24,
+    "operating_cf": 454973000000,
+    "investing_cf": -335319000000,
+    "financing_cf": -19637000000,
+    "net_assets": 1118275000000,
+    "total_assets": 14827752000000,
+    "bps": 2309.8,
+    "cash_end": 3680144000000,
+    "equity_ratio": 0.0751,
+    "roe": 0.0365,
+    "per": 13.61,
+    "income_tax_expense": 10940000000,
+    "depreciation": 5965000000,
+    "ppe": 37329000000,
+    "intangible_assets": 4458000000,
+    "treasury_stock": -20713000000,
+    "noncontrolling_interests": 4236000000,
+    "ordinary_revenue": 212201000000
+  },
+  "segments": [
+    {
+      "key": "Banking",
+      "label": null,
+      "external_revenue": 175194000000,
+      "intersegment_revenue": 602000000,
+      "ordinary_income": 33392000000
+    },
+    {
+      "key": "Leasing",
+      "label": null,
+      "external_revenue": 33689000000,
+      "intersegment_revenue": 351000000,
+      "ordinary_income": 1621000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03563-000_2024-03-31_01_2024-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

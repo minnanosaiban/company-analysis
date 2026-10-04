@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E04760",
+    "sec_code": "4324",
+    "company_name": "株式会社電通グループ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-28",
+    "doc_id": "S100VHEC"
+  },
+  "financials": {
+    "dps": 139.5,
+    "net_sales": 1410961000000,
+    "net_income": -192172000000,
+    "comprehensive_income": -93032000000,
+    "net_assets": 696838000000,
+    "total_assets": 3507260000000,
+    "equity_ratio": 0.199,
+    "bps": 2684.57,
+    "eps": -734.56,
+    "eps_diluted": -734.56,
+    "operating_cf": 59984000000,
+    "investing_cf": -30908000000,
+    "financing_cf": -65714000000,
+    "cash_end": 371989000000,
+    "operating_income": -124992000000,
+    "gross_profit": 1201647000000,
+    "income_tax_expense": 43605000000,
+    "interest_bearing_debt_current": 173646000000,
+    "interest_bearing_debt_noncurrent": 373627000000,
+    "sga_expense": 1065835000000,
+    "profit_before_tax": -139759000000,
+    "depreciation": 81449000000,
+    "current_assets": 2177355000000,
+    "current_liabilities": 2067395000000,
+    "noncurrent_assets": 1329904000000,
+    "trade_receivables": 1678146000000,
+    "inventories": 6095000000,
+    "trade_payables": 1566979000000,
+    "ppe": 26159000000,
+    "goodwill": 697052000000,
+    "intangible_assets": 203692000000,
+    "equity_method_investments": 54816000000,
+    "treasury_stock": -26559000000,
+    "noncontrolling_interests": 72197000000
+  },
+  "segments": [
+    {
+      "key": "APAC",
+      "label": null,
+      "gross_profit": 116413000000,
+      "operating_income": 1050000000,
+      "assets": 345344000000
+    },
+    {
+      "key": "Americas",
+      "label": null,
+      "gross_profit": 334642000000,
+      "operating_income": 75161000000,
+      "assets": 1414899000000
+    },
+    {
+      "key": "EMEA",
+      "label": null,
+      "gross_profit": 269254000000,
+      "operating_income": 38466000000,
+      "assets": 719650000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "gross_profit": 466746000000,
+      "operating_income": 114184000000,
+      "assets": 1199299000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04760-000_2024-12-31_01_2025-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

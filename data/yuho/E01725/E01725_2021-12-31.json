@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01725",
+    "sec_code": "6269",
+    "company_name": "三井海洋開発株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4HC"
+  },
+  "financials": {
+    "net_sales": 429272000000,
+    "ordinary_income": -47757000000,
+    "net_income": -50359000000,
+    "comprehensive_income": -27216000000,
+    "eps": -893.55,
+    "dps": 15,
+    "operating_cf": 18332000000,
+    "investing_cf": -25424000000,
+    "financing_cf": 30387000000,
+    "net_assets": 60690000000,
+    "total_assets": 390039000000,
+    "bps": 1014.17,
+    "cash_end": 94784000000,
+    "equity_ratio": 0.147,
+    "roe": -0.678,
+    "per": -1.5,
+    "eps_diluted": -742.75
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01725-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

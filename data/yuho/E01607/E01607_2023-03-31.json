@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E01607",
+    "sec_code": "6479",
+    "company_name": "ミネベアミツミ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8J3"
+  },
+  "financials": {
+    "dps": 40,
+    "net_sales": 1292203000000,
+    "net_income": 77010000000,
+    "comprehensive_income": 107167000000,
+    "net_assets": 632856000000,
+    "total_assets": 1303967000000,
+    "equity_ratio": 0.485,
+    "bps": 1549.67,
+    "eps": 187.62,
+    "eps_diluted": 186.74,
+    "roe": 0.131,
+    "per": 13.4,
+    "operating_cf": 44093000000,
+    "investing_cf": -106275000000,
+    "financing_cf": 37875000000,
+    "cash_end": 144671000000,
+    "operating_income": 101522000000,
+    "gross_profit": 220844000000,
+    "income_tax_expense": 18938000000,
+    "interest_bearing_debt_current": 183044000000,
+    "interest_bearing_debt_noncurrent": 171287000000,
+    "sga_expense": 144347000000,
+    "profit_before_tax": 96120000000,
+    "depreciation": 53133000000,
+    "capex_ppe": -134449000000,
+    "capex_intangible": -2268000000,
+    "current_assets": 732692000000,
+    "current_liabilities": 439362000000,
+    "noncurrent_assets": 571275000000,
+    "trade_receivables": 287374000000,
+    "inventories": 263071000000,
+    "trade_payables": 172011000000,
+    "ppe": 455750000000,
+    "goodwill": 47478000000,
+    "intangible_assets": 18131000000,
+    "treasury_stock": -42226000000,
+    "noncontrolling_interests": 10453000000
+  },
+  "segments": [
+    {
+      "key": "ElectronicDevicesAndComponents",
+      "label": null,
+      "external_revenue": 366275000000,
+      "intersegment_revenue": 8329000000,
+      "operating_income": 922000000,
+      "assets": 230562000000
+    },
+    {
+      "key": "MITSUMIBusiness",
+      "label": null,
+      "external_revenue": 530464000000,
+      "intersegment_revenue": 22777000000,
+      "operating_income": 42740000000,
+      "assets": 284581000000
+    },
+    {
+      "key": "MachinedComponents",
+      "label": null,
+      "external_revenue": 197300000000,
+      "intersegment_revenue": 6750000000,
+      "operating_income": 42951000000,
+      "assets": 190153000000
+    },
+    {
+      "key": "UShinBusiness",
+      "label": null,
+      "external_revenue": 194699000000,
+      "intersegment_revenue": 649000000,
+      "operating_income": 22302000000,
+      "assets": 188004000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01607-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

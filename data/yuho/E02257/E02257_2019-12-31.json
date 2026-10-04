@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02257",
+    "sec_code": "7309",
+    "company_name": "株式会社シマノ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5J9"
+  },
+  "financials": {
+    "net_sales": 363230000000,
+    "ordinary_income": 69471000000,
+    "net_income": 51833000000,
+    "comprehensive_income": 50167000000,
+    "eps": 559.15,
+    "dps": 155,
+    "operating_cf": 67897000000,
+    "investing_cf": 34409000000,
+    "financing_cf": -12832000000,
+    "net_assets": 489236000000,
+    "total_assets": 538769000000,
+    "bps": 5275.96,
+    "cash_end": 264738000000,
+    "equity_ratio": 0.908,
+    "roe": 0.11,
+    "per": 31.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02257-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

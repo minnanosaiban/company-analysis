@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02128",
+    "sec_code": "7013",
+    "company_name": "株式会社ＩＨＩ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R30V"
+  },
+  "financials": {
+    "net_sales": 1115077000000,
+    "ordinary_income": 5078000000,
+    "net_income": 2922000000,
+    "comprehensive_income": 13360000000,
+    "eps": 19.67,
+    "eps_diluted": 19.67,
+    "operating_cf": 22841000000,
+    "investing_cf": -37197000000,
+    "financing_cf": -13730000000,
+    "net_assets": 387670000000,
+    "total_assets": 1704525000000,
+    "bps": 2417.16,
+    "cash_end": 120766000000,
+    "equity_ratio": 0.2106,
+    "roe": 0.0085,
+    "per": 114.13
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02128-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

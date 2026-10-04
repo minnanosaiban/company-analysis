@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01151",
+    "sec_code": "5393",
+    "company_name": "ニチアス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R73K"
+  },
+  "financials": {
+    "net_sales": 215495000000,
+    "ordinary_income": 23171000000,
+    "net_income": 15861000000,
+    "comprehensive_income": 13810000000,
+    "eps": 238.7,
+    "dps": 52,
+    "operating_cf": 15833000000,
+    "investing_cf": -11818000000,
+    "financing_cf": -4197000000,
+    "net_assets": 117774000000,
+    "total_assets": 206426000000,
+    "bps": 1760.51,
+    "cash_end": 27730000000,
+    "equity_ratio": 0.566,
+    "roe": 0.14,
+    "per": 9.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01151-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E04504",
+    "sec_code": "9504",
+    "company_name": "中国電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YGCV"
+  },
+  "financials": {
+    "ordinary_income": 80225000000,
+    "net_income": 68539000000,
+    "comprehensive_income": 81003000000,
+    "eps": 190.61,
+    "eps_diluted": 190.6,
+    "dps": 27,
+    "operating_cf": 237289000000,
+    "investing_cf": -236245000000,
+    "financing_cf": 135389000000,
+    "net_assets": 775292000000,
+    "total_assets": 4620500000000,
+    "bps": 2161.55,
+    "cash_end": 423303000000,
+    "equity_ratio": 0.168,
+    "roe": 0.092,
+    "per": 5.2,
+    "operating_income": 90216000000,
+    "income_tax_expense": 12200000000,
+    "interest_bearing_debt_current": 7000000000,
+    "interest_bearing_debt_noncurrent": 1819855000000,
+    "bonds_payable": 1216690000000,
+    "depreciation": 139139000000,
+    "current_assets": 829860000000,
+    "current_liabilities": 652536000000,
+    "noncurrent_assets": 3790640000000,
+    "noncurrent_liabilities": 3192671000000,
+    "inventories": 90593000000,
+    "treasury_stock": -39578000000,
+    "noncontrolling_interests": -1950000000
+  },
+  "segments": [
+    {
+      "key": "ComprehensiveEnergy",
+      "label": "総合エネルギー事業",
+      "external_revenue": 1201930000000,
+      "intersegment_revenue": 112369000000,
+      "operating_income": 70278000000
+    },
+    {
+      "key": "PowerTransmissionAndDistribution",
+      "label": "送配電事業",
+      "external_revenue": 176903000000,
+      "intersegment_revenue": 296951000000,
+      "operating_income": 12095000000
+    },
+    {
+      "key": "Telecommunication",
+      "label": "情報通信事業",
+      "external_revenue": 34005000000,
+      "intersegment_revenue": 15841000000,
+      "operating_income": 4883000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04504-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "edinet_code": "E04506",
+    "sec_code": "9508",
+    "company_name": "九州電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YHHO"
+  },
+  "financials": {
+    "ordinary_income": 207059000000,
+    "net_income": 154535000000,
+    "comprehensive_income": 224528000000,
+    "eps": 314.65,
+    "dps": 50,
+    "operating_cf": 438745000000,
+    "investing_cf": -383738000000,
+    "financing_cf": -57728000000,
+    "net_assets": 1225877000000,
+    "total_assets": 5983340000000,
+    "bps": 2093.78,
+    "cash_end": 351182000000,
+    "equity_ratio": 0.199,
+    "roe": 0.141,
+    "per": 5.75,
+    "operating_income": 224853000000,
+    "income_tax_expense": 54743000000,
+    "interest_bearing_debt_current": 126370000000,
+    "interest_bearing_debt_noncurrent": 1689098000000,
+    "bonds_payable": 1437725000000,
+    "depreciation": 226169000000,
+    "current_assets": 930810000000,
+    "current_liabilities": 1216004000000,
+    "noncurrent_assets": 5052530000000,
+    "noncurrent_liabilities": 3539730000000,
+    "inventories": 105418000000,
+    "trade_payables": 139964000000,
+    "treasury_stock": -1810000000,
+    "noncontrolling_interests": 33082000000
+  },
+  "segments": [
+    {
+      "key": "ElectricityTransmissionAndDistributionBusiness",
+      "label": "送配電事業",
+      "external_revenue": 269736000000,
+      "intersegment_revenue": 450862000000,
+      "ordinary_income": 8297000000
+    },
+    {
+      "key": "ICTServices",
+      "label": "ＩＣＴサービス事業",
+      "external_revenue": 105832000000,
+      "intersegment_revenue": 46231000000,
+      "ordinary_income": 10615000000,
+      "equity_method_income": 513000000
+    },
+    {
+      "key": "OtherEnergyServiceBusiness",
+      "label": "その他エネルギーサービス事業",
+      "external_revenue": 146200000000,
+      "intersegment_revenue": 205559000000,
+      "ordinary_income": 36921000000,
+      "equity_method_income": 7856000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": "海外事業",
+      "external_revenue": 3705000000,
+      "ordinary_income": 12635000000,
+      "equity_method_income": 5254000000
+    },
+    {
+      "key": "PowerGenerationAndRetailElectricityBusiness",
+      "label": "発電・販売事業",
+      "external_revenue": 1701438000000,
+      "intersegment_revenue": 141478000000,
+      "ordinary_income": 136420000000
+    },
+    {
+      "key": "UrbanDevelopmentBusiness",
+      "label": "都市開発事業",
+      "external_revenue": 16051000000,
+      "intersegment_revenue": 11095000000,
+      "ordinary_income": 5166000000,
+      "equity_method_income": 486000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04506-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

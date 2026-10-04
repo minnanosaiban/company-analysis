@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E04283",
+    "sec_code": "9301",
+    "company_name": "三菱倉庫株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W207"
+  },
+  "financials": {
+    "ordinary_income": 18620000000,
+    "net_income": 31864000000,
+    "comprehensive_income": 1111000000,
+    "eps": 85.92,
+    "dps": 32,
+    "operating_cf": 29622000000,
+    "investing_cf": 15500000000,
+    "financing_cf": -44188000000,
+    "net_assets": 379276000000,
+    "total_assets": 626058000000,
+    "bps": 1040.59,
+    "cash_end": 61006000000,
+    "equity_ratio": 0.598,
+    "roe": 0.082,
+    "per": 11.3,
+    "operating_income": 20310000000,
+    "income_tax_expense": 16847000000,
+    "interest_bearing_debt_current": 35580000000,
+    "interest_bearing_debt_noncurrent": 18453000000,
+    "bonds_payable": 48000000000,
+    "lease_liabilities_noncurrent": 8039000000,
+    "depreciation": 17694000000,
+    "current_assets": 125881000000,
+    "current_liabilities": 93158000000,
+    "noncurrent_assets": 500177000000,
+    "noncurrent_liabilities": 153623000000,
+    "ppe": 281711000000,
+    "goodwill": 5834000000,
+    "intangible_assets": 40345000000,
+    "investment_securities": 163716000000,
+    "treasury_stock": -25477000000,
+    "noncontrolling_interests": 4607000000
+  },
+  "segments": [
+    {
+      "key": "Logistics",
+      "label": "物流事業",
+      "external_revenue": 237096000000,
+      "intersegment_revenue": 589000000,
+      "operating_income": 13862000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産事業",
+      "external_revenue": 46972000000,
+      "intersegment_revenue": 803000000,
+      "operating_income": 13697000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04283-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

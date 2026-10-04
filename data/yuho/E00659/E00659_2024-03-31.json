@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E00659",
+    "sec_code": "3941",
+    "company_name": "レンゴー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-28",
+    "doc_id": "S100TURF"
+  },
+  "financials": {
+    "net_sales": 900791000000,
+    "ordinary_income": 47984000000,
+    "net_income": 33025000000,
+    "comprehensive_income": 60415000000,
+    "eps": 133.33,
+    "dps": 30,
+    "operating_cf": 89628000000,
+    "investing_cf": -76033000000,
+    "financing_cf": 17265000000,
+    "net_assets": 438978000000,
+    "total_assets": 1172515000000,
+    "bps": 1716.97,
+    "cash_end": 103782000000,
+    "equity_ratio": 0.363,
+    "roe": 0.083,
+    "per": 8.8,
+    "gross_profit": 175381000000,
+    "operating_income": 48855000000,
+    "income_tax_expense": 17988000000,
+    "interest_bearing_debt_current": 131820000000,
+    "interest_bearing_debt_noncurrent": 188061000000,
+    "bonds_payable": 95055000000,
+    "current_portion_of_bonds": 5010000000,
+    "lease_liabilities_current": 5512000000,
+    "lease_liabilities_noncurrent": 12209000000,
+    "depreciation": 48761000000,
+    "capex_ppe": -63975000000,
+    "capex_intangible": -1060000000,
+    "current_assets": 484196000000,
+    "current_liabilities": 392280000000,
+    "noncurrent_assets": 688318000000,
+    "noncurrent_liabilities": 341257000000,
+    "trade_receivables": 271408000000,
+    "trade_payables": 152857000000,
+    "ppe": 456467000000,
+    "goodwill": 27075000000,
+    "intangible_assets": 48408000000,
+    "investment_securities": 151144000000,
+    "treasury_stock": -12556000000,
+    "noncontrolling_interests": 13684000000
+  },
+  "segments": [
+    {
+      "key": "FlexiblePackagingRelatedBusiness",
+      "label": null,
+      "external_revenue": 121278000000,
+      "intersegment_revenue": 528000000,
+      "operating_income": 4770000000
+    },
+    {
+      "key": "HeavyDutyPackagingRelatedBusiness",
+      "label": null,
+      "external_revenue": 44348000000,
+      "intersegment_revenue": 3355000000,
+      "operating_income": 906000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": null,
+      "external_revenue": 189177000000,
+      "intersegment_revenue": 5615000000,
+      "operating_income": 6781000000
+    },
+    {
+      "key": "PaperboardAndPackagingRelatedBusiness",
+      "label": null,
+      "external_revenue": 510945000000,
+      "intersegment_revenue": 2657000000,
+      "operating_income": 34966000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00659-000_2024-03-31_01_2024-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

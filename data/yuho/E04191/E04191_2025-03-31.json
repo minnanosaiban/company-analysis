@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E04191",
+    "sec_code": "9072",
+    "company_name": "ニッコンホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W5BJ"
+  },
+  "financials": {
+    "net_sales": 247890000000,
+    "ordinary_income": 23969000000,
+    "net_income": 16550000000,
+    "comprehensive_income": 12732000000,
+    "eps": 133.99,
+    "eps_diluted": 123.25,
+    "dps": 81,
+    "operating_cf": 27642000000,
+    "investing_cf": -53978000000,
+    "financing_cf": 19076000000,
+    "net_assets": 249679000000,
+    "total_assets": 428759000000,
+    "bps": 1998.82,
+    "cash_end": 35937000000,
+    "equity_ratio": 0.564,
+    "roe": 0.068,
+    "per": 20.1,
+    "gross_profit": 38803000000,
+    "operating_income": 23155000000,
+    "income_tax_expense": 7977000000,
+    "interest_bearing_debt_current": 20466000000,
+    "interest_bearing_debt_noncurrent": 25743000000,
+    "bonds_payable": 40000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_current": 112000000,
+    "lease_liabilities_noncurrent": 214000000,
+    "depreciation": 14926000000,
+    "capex_ppe": -26688000000,
+    "capex_intangible": -832000000,
+    "current_assets": 87015000000,
+    "current_liabilities": 76641000000,
+    "noncurrent_assets": 341744000000,
+    "noncurrent_liabilities": 102439000000,
+    "trade_receivables": 37079000000,
+    "trade_payables": 11223000000,
+    "ppe": 272162000000,
+    "goodwill": 12167000000,
+    "intangible_assets": 29563000000,
+    "investment_securities": 28031000000,
+    "treasury_stock": -10473000000,
+    "noncontrolling_interests": 7898000000
+  },
+  "segments": [
+    {
+      "key": "PackagingSegment",
+      "label": "梱包事業",
+      "external_revenue": 57364000000,
+      "intersegment_revenue": 532000000,
+      "operating_income": 4248000000
+    },
+    {
+      "key": "TestSegment",
+      "label": "テスト事業",
+      "external_revenue": 24152000000,
+      "intersegment_revenue": 16000000,
+      "operating_income": 3989000000
+    },
+    {
+      "key": "TransportationSegment",
+      "label": "運送事業",
+      "external_revenue": 117963000000,
+      "intersegment_revenue": 409000000,
+      "operating_income": 6314000000
+    },
+    {
+      "key": "WarehouseSegment",
+      "label": "倉庫事業",
+      "external_revenue": 40881000000,
+      "intersegment_revenue": 301000000,
+      "operating_income": 8558000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04191-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

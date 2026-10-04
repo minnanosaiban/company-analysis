@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E03907",
+    "sec_code": "8830",
+    "company_name": "住友不動産株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R7LP"
+  },
+  "financials": {
+    "net_sales": 939430000000,
+    "ordinary_income": 225115000000,
+    "net_income": 150452000000,
+    "comprehensive_income": 151408000000,
+    "eps": 317.45,
+    "dps": 45,
+    "operating_cf": 192967000000,
+    "investing_cf": -209984000000,
+    "financing_cf": -21917000000,
+    "net_assets": 1634049000000,
+    "total_assets": 5806040000000,
+    "bps": 3447.81,
+    "cash_end": 150309000000,
+    "equity_ratio": 0.281,
+    "roe": 0.096,
+    "per": 10.68,
+    "gross_profit": 302442000000,
+    "operating_income": 233882000000,
+    "income_tax_expense": 77311000000,
+    "interest_bearing_debt_current": 28610000000,
+    "interest_bearing_debt_noncurrent": 2667324000000,
+    "bonds_payable": 290000000000,
+    "commercial_papers": 40000000000,
+    "current_portion_lt_loans": 237385000000,
+    "depreciation": 60645000000,
+    "capex_ppe": -179553000000,
+    "current_assets": 941534000000,
+    "current_liabilities": 640029000000,
+    "noncurrent_assets": 4864505000000,
+    "noncurrent_liabilities": 3531960000000,
+    "inventories": 1163000000,
+    "ppe": 4114316000000,
+    "intangible_assets": 63994000000,
+    "investment_securities": 573503000000,
+    "treasury_stock": -4475000000
+  },
+  "segments": [
+    {
+      "key": "CompleteWork",
+      "label": null,
+      "external_revenue": 203307000000,
+      "intersegment_revenue": 1054000000,
+      "operating_income": 18523000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 7462000000,
+      "intersegment_revenue": 1620000000,
+      "operating_income": 617000000
+    },
+    {
+      "key": "RealEstateDistribution",
+      "label": null,
+      "external_revenue": 72311000000,
+      "intersegment_revenue": 1172000000,
+      "operating_income": 18025000000
+    },
+    {
+      "key": "RealEstateLeasing",
+      "label": null,
+      "external_revenue": 422672000000,
+      "intersegment_revenue": 2409000000,
+      "operating_income": 162649000000
+    },
+    {
+      "key": "RealEstateSelling",
+      "label": null,
+      "external_revenue": 233676000000,
+      "intersegment_revenue": 112000000,
+      "operating_income": 50485000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03907-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

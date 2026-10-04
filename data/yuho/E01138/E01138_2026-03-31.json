@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "edinet_code": "E01138",
+    "sec_code": "5332",
+    "company_name": "ＴＯＴＯ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-16",
+    "doc_id": "S100YC72"
+  },
+  "financials": {
+    "net_sales": 737441000000,
+    "ordinary_income": 60689000000,
+    "net_income": 40257000000,
+    "comprehensive_income": 40528000000,
+    "eps": 243.01,
+    "eps_diluted": 242.91,
+    "dps": 110,
+    "operating_cf": 71240000000,
+    "investing_cf": -21816000000,
+    "financing_cf": -38555000000,
+    "net_assets": 533914000000,
+    "total_assets": 827483000000,
+    "bps": 3211.88,
+    "cash_end": 131188000000,
+    "equity_ratio": 0.638,
+    "roe": 0.077,
+    "per": 20.9,
+    "gross_profit": 262579000000,
+    "operating_income": 53759000000,
+    "income_tax_expense": 19443000000,
+    "interest_bearing_debt_current": 23271000000,
+    "interest_bearing_debt_noncurrent": 1314000000,
+    "commercial_papers": 43200000000,
+    "depreciation": 34360000000,
+    "capex_ppe": -36476000000,
+    "capex_intangible": -6682000000,
+    "current_assets": 372102000000,
+    "current_liabilities": 238392000000,
+    "noncurrent_assets": 455380000000,
+    "noncurrent_liabilities": 55176000000,
+    "trade_payables": 80716000000,
+    "ppe": 267941000000,
+    "intangible_assets": 38983000000,
+    "investment_securities": 63431000000,
+    "treasury_stock": -5168000000,
+    "noncontrolling_interests": 5687000000
+  },
+  "segments": [
+    {
+      "key": "AdvancedCeramicsBusiness",
+      "label": "セラミック事業",
+      "external_revenue": 67414000000,
+      "operating_income": 28943000000
+    },
+    {
+      "key": "Americas",
+      "label": "米州事業",
+      "external_revenue": 75623000000,
+      "intersegment_revenue": 5000000,
+      "operating_income": 4790000000
+    },
+    {
+      "key": "AsiaOceania",
+      "label": "アジア・オセアニア事業",
+      "external_revenue": 54914000000,
+      "intersegment_revenue": 48187000000,
+      "operating_income": 10239000000
+    },
+    {
+      "key": "Europe",
+      "label": "欧州事業",
+      "external_revenue": 5677000000,
+      "intersegment_revenue": 0,
+      "operating_income": -428000000
+    },
+    {
+      "key": "GlobalHousingEquipmentBusiness",
+      "label": "グローバル住設事業",
+      "external_revenue": 669742000000,
+      "intersegment_revenue": 85284000000,
+      "operating_income": 27921000000
+    },
+    {
+      "key": "JapanHousingEquipmentBusiness",
+      "label": "日本住設事業",
+      "external_revenue": 479663000000,
+      "intersegment_revenue": 16532000000,
+      "operating_income": 20253000000
+    },
+    {
+      "key": "MainlandChinaBusiness",
+      "label": "中国大陸事業",
+      "external_revenue": 53863000000,
+      "intersegment_revenue": 20558000000,
+      "operating_income": -6934000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01138-000_2026-03-31_01_2026-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

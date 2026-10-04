@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "edinet_code": "E02378",
+    "sec_code": "7936",
+    "company_name": "株式会社アシックス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-04",
+    "doc_id": "S100XOKI"
+  },
+  "financials": {
+    "net_sales": 810916000000,
+    "ordinary_income": 139295000000,
+    "net_income": 98719000000,
+    "comprehensive_income": 102882000000,
+    "eps": 138.13,
+    "eps_diluted": 137.96,
+    "dps": 28,
+    "operating_cf": 109912000000,
+    "investing_cf": -29414000000,
+    "financing_cf": -105875000000,
+    "net_assets": 273355000000,
+    "total_assets": 586480000000,
+    "bps": 383.16,
+    "cash_end": 112221000000,
+    "equity_ratio": 0.463,
+    "roe": 0.391,
+    "per": 27.2,
+    "gross_profit": 460632000000,
+    "operating_income": 142519000000,
+    "income_tax_expense": 41092000000,
+    "interest_bearing_debt_current": 2500000000,
+    "bonds_payable": 10000000000,
+    "current_portion_of_bonds": 25000000000,
+    "lease_liabilities_current": 16000000000,
+    "lease_liabilities_noncurrent": 45029000000,
+    "depreciation": 25266000000,
+    "capex_ppe": -16191000000,
+    "capex_intangible": -14107000000,
+    "current_assets": 409933000000,
+    "current_liabilities": 243726000000,
+    "noncurrent_assets": 176546000000,
+    "noncurrent_liabilities": 69399000000,
+    "trade_receivables": 88803000000,
+    "trade_payables": 73670000000,
+    "ppe": 44688000000,
+    "goodwill": 5716000000,
+    "intangible_assets": 103969000000,
+    "investment_securities": 3707000000,
+    "treasury_stock": -57651000000,
+    "noncontrolling_interests": 1594000000
+  },
+  "segments": [
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 225805000000,
+      "operating_income": 36746000000
+    },
+    {
+      "key": "GreaterChina",
+      "label": null,
+      "external_revenue": 120236000000,
+      "intersegment_revenue": 277000000,
+      "operating_income": 25099000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 156385000000,
+      "intersegment_revenue": 47851000000,
+      "operating_income": 44734000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 141192000000,
+      "operating_income": 16018000000
+    },
+    {
+      "key": "Oceania",
+      "label": null,
+      "external_revenue": 49649000000,
+      "operating_income": 7927000000
+    },
+    {
+      "key": "OtherAreas",
+      "label": null,
+      "external_revenue": 52077000000,
+      "intersegment_revenue": 0,
+      "operating_income": 8107000000
+    },
+    {
+      "key": "SouthEastAndSouthAsian",
+      "label": null,
+      "external_revenue": 49745000000,
+      "intersegment_revenue": 35000000,
+      "operating_income": 10946000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02378-000_2025-12-31_01_2026-03-04.csv",
+    "parser_version": "0.1.3"
+  }
+}

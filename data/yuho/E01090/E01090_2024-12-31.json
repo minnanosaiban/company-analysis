@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E01090",
+    "sec_code": "5105",
+    "company_name": "ＴＯＹＯ　ＴＩＲＥ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-26",
+    "doc_id": "S100VGMV"
+  },
+  "financials": {
+    "net_sales": 565358000000,
+    "ordinary_income": 102117000000,
+    "net_income": 74810000000,
+    "comprehensive_income": 97491000000,
+    "eps": 485.86,
+    "dps": 120,
+    "operating_cf": 67059000000,
+    "investing_cf": -15214000000,
+    "financing_cf": -23077000000,
+    "net_assets": 472552000000,
+    "total_assets": 722666000000,
+    "bps": 3069.02,
+    "cash_end": 86333000000,
+    "equity_ratio": 0.6539,
+    "roe": 0.1724,
+    "per": 5.03,
+    "gross_profit": 230763000000,
+    "operating_income": 93981000000,
+    "income_tax_expense": 29732000000,
+    "interest_bearing_debt_current": 20447000000,
+    "interest_bearing_debt_noncurrent": 41139000000,
+    "bonds_payable": 25000000000,
+    "lease_liabilities_noncurrent": 15467000000,
+    "depreciation": 35106000000,
+    "capex_ppe": -18663000000,
+    "capex_intangible": -9173000000,
+    "current_assets": 373782000000,
+    "current_liabilities": 150892000000,
+    "noncurrent_assets": 348884000000,
+    "noncurrent_liabilities": 99221000000,
+    "trade_receivables": 130369000000,
+    "trade_payables": 37725000000,
+    "ppe": 287153000000,
+    "intangible_assets": 22119000000,
+    "investment_securities": 6710000000,
+    "treasury_stock": -118000000
+  },
+  "segments": [
+    {
+      "key": "AutomotivePartsBusiness",
+      "label": null,
+      "external_revenue": 45526000000,
+      "operating_income": 1880000000
+    },
+    {
+      "key": "TireBusiness",
+      "label": null,
+      "external_revenue": 519832000000,
+      "operating_income": 92089000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01090-000_2024-12-31_01_2025-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

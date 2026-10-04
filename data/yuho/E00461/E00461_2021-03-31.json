@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00461",
+    "sec_code": "2875",
+    "company_name": "東洋水産株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R0BF"
+  },
+  "financials": {
+    "net_sales": 340841000000,
+    "ordinary_income": 38697000000,
+    "net_income": 29070000000,
+    "comprehensive_income": 33642000000,
+    "eps": 284.64,
+    "dps": 90,
+    "operating_cf": 47783000000,
+    "investing_cf": -49985000000,
+    "financing_cf": -8591000000,
+    "net_assets": 343319000000,
+    "total_assets": 428651000000,
+    "bps": 3245.53,
+    "cash_end": 32832000000,
+    "equity_ratio": 0.7733,
+    "roe": 0.0911,
+    "per": 16.34
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00461-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

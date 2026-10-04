@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05425",
+    "sec_code": "2413",
+    "company_name": "エムスリー株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R87E"
+  },
+  "financials": {
+    "dps": 12,
+    "net_sales": 169198000000,
+    "net_income": 37822000000,
+    "comprehensive_income": 40064000000,
+    "net_assets": 199813000000,
+    "total_assets": 273123000000,
+    "equity_ratio": 0.732,
+    "bps": 293.64,
+    "eps": 55.73,
+    "eps_diluted": 55.68,
+    "roe": 0.207,
+    "per": 135.9,
+    "operating_cf": 46627000000,
+    "investing_cf": 3592000000,
+    "financing_cf": -11615000000,
+    "cash_end": 89144000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05425-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02378",
+    "sec_code": "7936",
+    "company_name": "株式会社アシックス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-25",
+    "doc_id": "S100T3S4"
+  },
+  "financials": {
+    "net_sales": 404082000000,
+    "ordinary_income": 22166000000,
+    "net_income": 9402000000,
+    "comprehensive_income": 26033000000,
+    "eps": 51.38,
+    "eps_diluted": 51.33,
+    "dps": 24,
+    "operating_cf": 49146000000,
+    "investing_cf": -10167000000,
+    "financing_cf": -25968000000,
+    "net_assets": 146537000000,
+    "total_assets": 345773000000,
+    "bps": 798.08,
+    "cash_end": 95275000000,
+    "equity_ratio": 0.422,
+    "roe": 0.069,
+    "per": 49.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02378-000_2023-12-31_01_2024-03-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

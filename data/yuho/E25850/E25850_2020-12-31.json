@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E25850",
+    "sec_code": "3659",
+    "company_name": "株式会社ネクソン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5FS"
+  },
+  "financials": {
+    "dps": 5,
+    "net_sales": 293024000000,
+    "net_income": 56220000000,
+    "net_assets": 709882000000,
+    "total_assets": 862161000000,
+    "equity_ratio": 0.823,
+    "bps": 800.35,
+    "eps": 63.57,
+    "eps_diluted": 61.9,
+    "roe": 0.085,
+    "per": 50,
+    "operating_cf": 137603000000,
+    "investing_cf": -140234000000,
+    "financing_cf": -2626000000,
+    "cash_end": 252570000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E25850-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

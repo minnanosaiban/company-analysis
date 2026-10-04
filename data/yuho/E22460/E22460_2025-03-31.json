@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E22460",
+    "sec_code": "3635",
+    "company_name": "株式会社コーエーテクモホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-20",
+    "doc_id": "S100W144"
+  },
+  "financials": {
+    "net_sales": 83150000000,
+    "ordinary_income": 49988000000,
+    "net_income": 37628000000,
+    "comprehensive_income": 30740000000,
+    "eps": 119.14,
+    "eps_diluted": 113.65,
+    "dps": 60,
+    "operating_cf": 34369000000,
+    "investing_cf": 40973000000,
+    "financing_cf": -63175000000,
+    "net_assets": 189421000000,
+    "total_assets": 209828000000,
+    "bps": 596.95,
+    "cash_end": 22552000000,
+    "equity_ratio": 0.899,
+    "roe": 0.207,
+    "per": 16.51,
+    "gross_profit": 52390000000,
+    "operating_income": 32119000000,
+    "income_tax_expense": 12906000000,
+    "depreciation": 1914000000,
+    "capex_ppe": -1553000000,
+    "capex_intangible": -51000000,
+    "current_assets": 61484000000,
+    "current_liabilities": 18914000000,
+    "noncurrent_assets": 148343000000,
+    "noncurrent_liabilities": 1492000000,
+    "ppe": 36509000000,
+    "intangible_assets": 187000000,
+    "investment_securities": 99409000000,
+    "treasury_stock": -37740000000
+  },
+  "segments": [
+    {
+      "key": "Amusement",
+      "label": "アミューズメント",
+      "external_revenue": 4150000000,
+      "intersegment_revenue": 0,
+      "operating_income": 500000000
+    },
+    {
+      "key": "Entertainment",
+      "label": "エンタテインメント",
+      "external_revenue": 77738000000,
+      "intersegment_revenue": 339000000,
+      "operating_income": 31479000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産",
+      "external_revenue": 1232000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": 304000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E22460-000_2025-03-31_01_2025-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

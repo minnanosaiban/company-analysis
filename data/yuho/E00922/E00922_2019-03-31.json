@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E00922",
+    "sec_code": "4506",
+    "company_name": "住友ファーマ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4NL"
+  },
+  "financials": {
+    "dps": 28,
+    "net_sales": 459267000000,
+    "net_income": 48627000000,
+    "comprehensive_income": 56195000000,
+    "net_assets": 498138000000,
+    "total_assets": 834717000000,
+    "equity_ratio": 0.597,
+    "bps": 1253.82,
+    "eps": 122.39,
+    "roe": 0.102,
+    "per": 22.4,
+    "operating_cf": 48711000000,
+    "investing_cf": -35049000000,
+    "financing_cf": -28645000000,
+    "cash_end": 137296000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00922-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

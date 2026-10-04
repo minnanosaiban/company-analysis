@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E30969",
+    "sec_code": "3697",
+    "company_name": "株式会社ＳＨＩＦＴ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-08-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-11-21",
+    "doc_id": "S100X63F"
+  },
+  "financials": {
+    "net_sales": 129819000000,
+    "ordinary_income": 15181000000,
+    "net_income": 8935000000,
+    "comprehensive_income": 9365000000,
+    "eps": 33.93,
+    "eps_diluted": 33.9,
+    "operating_cf": 15652000000,
+    "investing_cf": -11697000000,
+    "financing_cf": -1192000000,
+    "net_assets": 41037000000,
+    "total_assets": 77001000000,
+    "bps": 154.2,
+    "cash_end": 23600000000,
+    "equity_ratio": 0.527,
+    "roe": 0.241,
+    "per": 45.09,
+    "gross_profit": 45016000000,
+    "operating_income": 15628000000,
+    "income_tax_expense": 5069000000,
+    "interest_bearing_debt_noncurrent": 8504000000,
+    "current_portion_lt_loans": 3532000000,
+    "depreciation": 1845000000,
+    "capex_ppe": -1323000000,
+    "capex_intangible": -155000000,
+    "current_assets": 43123000000,
+    "current_liabilities": 25028000000,
+    "noncurrent_assets": 33877000000,
+    "noncurrent_liabilities": 10935000000,
+    "inventories": 1626000000,
+    "ppe": 7923000000,
+    "goodwill": 7866000000,
+    "intangible_assets": 12188000000,
+    "investment_securities": 9583000000,
+    "treasury_stock": -5834000000
+  },
+  "segments": [
+    {
+      "key": "OtherProximateServices",
+      "label": null,
+      "external_revenue": 9264000000,
+      "intersegment_revenue": 1477000000,
+      "operating_income": 736000000
+    },
+    {
+      "key": "SoftwareDevelopmentRelatedServices",
+      "label": null,
+      "external_revenue": 37118000000,
+      "intersegment_revenue": 3010000000,
+      "operating_income": 2610000000
+    },
+    {
+      "key": "SoftwareTestingRelatedServices",
+      "label": null,
+      "external_revenue": 83437000000,
+      "intersegment_revenue": 858000000,
+      "operating_income": 21518000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E30969-000_2025-08-31_01_2025-11-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

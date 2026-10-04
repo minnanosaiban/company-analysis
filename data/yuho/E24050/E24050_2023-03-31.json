@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "edinet_code": "E24050",
+    "sec_code": "5020",
+    "company_name": "ENEOSホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W1E2"
+  },
+  "financials": {
+    "dps": 22,
+    "net_sales": 15016554000000,
+    "net_income": 143766000000,
+    "comprehensive_income": 181466000000,
+    "net_assets": 2859832000000,
+    "total_assets": 9954517000000,
+    "equity_ratio": 0.287,
+    "bps": 948.67,
+    "eps": 46.57,
+    "eps_diluted": 46.47,
+    "roe": 0.05,
+    "per": 9.99,
+    "operating_cf": -110246000000,
+    "investing_cf": -115928000000,
+    "financing_cf": -13316000000,
+    "cash_end": 311517000000
+  },
+  "segments": [
+    {
+      "key": "Energy",
+      "label": null,
+      "external_revenue": 12706468000000,
+      "intersegment_revenue": 4495000000,
+      "operating_income": 50973000000,
+      "assets": 6981731000000,
+      "equity_method_income": 19186000000
+    },
+    {
+      "key": "Metals",
+      "label": null,
+      "external_revenue": 1635428000000,
+      "intersegment_revenue": 2398000000,
+      "operating_income": 68677000000,
+      "assets": 1859238000000,
+      "equity_method_income": 41539000000
+    },
+    {
+      "key": "OilAndNaturalGasExplorationAndProduction",
+      "label": "石油・天然ガス開発",
+      "external_revenue": 200716000000,
+      "intersegment_revenue": 297000000,
+      "operating_income": 114006000000,
+      "assets": 1056341000000,
+      "equity_method_income": 11621000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24050-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

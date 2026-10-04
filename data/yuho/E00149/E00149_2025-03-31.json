@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E00149",
+    "sec_code": "1969",
+    "company_name": "高砂熱学工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-17",
+    "doc_id": "S100VYJS"
+  },
+  "financials": {
+    "net_sales": 381661000000,
+    "ordinary_income": 34970000000,
+    "net_income": 27631000000,
+    "comprehensive_income": 27556000000,
+    "eps": 416.15,
+    "dps": 167,
+    "operating_cf": 5885000000,
+    "investing_cf": -1405000000,
+    "financing_cf": -12713000000,
+    "net_assets": 184283000000,
+    "total_assets": 334949000000,
+    "bps": 2720.64,
+    "cash_end": 41364000000,
+    "equity_ratio": 0.539,
+    "roe": 0.16,
+    "per": 13.3,
+    "gross_profit": 71646000000,
+    "operating_income": 32415000000,
+    "income_tax_expense": 10618000000,
+    "interest_bearing_debt_current": 17737000000,
+    "bonds_payable": 15000000000,
+    "current_portion_of_bonds": 5000000000,
+    "depreciation": 3074000000,
+    "current_assets": 245138000000,
+    "current_liabilities": 130040000000,
+    "noncurrent_assets": 89810000000,
+    "noncurrent_liabilities": 20625000000,
+    "inventories": 3889000000,
+    "ppe": 23919000000,
+    "goodwill": 1419000000,
+    "intangible_assets": 9628000000,
+    "investment_securities": 43220000000,
+    "treasury_stock": -8408000000,
+    "noncontrolling_interests": 3615000000
+  },
+  "segments": [
+    {
+      "key": "EquipmentManufacturingAndSales",
+      "label": null,
+      "external_revenue": 7859000000,
+      "intersegment_revenue": 675000000,
+      "operating_income": 579000000
+    },
+    {
+      "key": "EquipmentWork",
+      "label": null,
+      "external_revenue": 373683000000,
+      "intersegment_revenue": 0,
+      "operating_income": 31738000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00149-000_2025-03-31_01_2025-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

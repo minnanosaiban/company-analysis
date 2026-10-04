@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01673",
+    "sec_code": "6273",
+    "company_name": "ＳＭＣ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2026-05-01",
+    "doc_id": "S100Y29J"
+  },
+  "financials": {
+    "net_sales": 487625000000,
+    "ordinary_income": 148237000000,
+    "net_income": 113095000000,
+    "comprehensive_income": 101936000000,
+    "eps": 1683.12,
+    "dps": 300,
+    "operating_cf": 120949000000,
+    "investing_cf": -90365000000,
+    "financing_cf": -45507000000,
+    "net_assets": 1030369000000,
+    "total_assets": 1192444000000,
+    "bps": 15292.53,
+    "cash_end": 277449000000,
+    "equity_ratio": 0.862,
+    "roe": 0.115,
+    "per": 19.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01673-000_2021-03-31_02_2026-05-01.csv",
+    "parser_version": "0.1.3"
+  }
+}

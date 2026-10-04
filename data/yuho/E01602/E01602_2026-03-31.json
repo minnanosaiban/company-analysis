@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E01602",
+    "sec_code": "6473",
+    "company_name": "株式会社ジェイテクト",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YEL3"
+  },
+  "financials": {
+    "dps": 60,
+    "net_sales": 1924950000000,
+    "net_income": 11974000000,
+    "comprehensive_income": 62404000000,
+    "net_assets": 790206000000,
+    "total_assets": 1577696000000,
+    "equity_ratio": 0.5009,
+    "bps": 2482.33,
+    "eps": 37.62,
+    "eps_diluted": 37.6,
+    "roe": 0.0156,
+    "per": 43.48,
+    "operating_cf": 108495000000,
+    "investing_cf": -52704000000,
+    "financing_cf": -46977000000,
+    "cash_end": 137550000000,
+    "operating_income": 24847000000,
+    "gross_profit": 297035000000,
+    "income_tax_expense": 12968000000,
+    "interest_bearing_debt_current": 70718000000,
+    "interest_bearing_debt_noncurrent": 146404000000,
+    "sga_expense": 221355000000,
+    "profit_before_tax": 27377000000,
+    "depreciation": 71186000000,
+    "capex_ppe": -89491000000,
+    "current_assets": 799218000000,
+    "current_liabilities": 507028000000,
+    "noncurrent_assets": 778477000000,
+    "trade_receivables": 349546000000,
+    "inventories": 244409000000,
+    "trade_payables": 351855000000,
+    "ppe": 498102000000,
+    "goodwill": 8191000000,
+    "equity_method_investments": 18366000000,
+    "treasury_stock": -316000000,
+    "noncontrolling_interests": 35024000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialMachineAndBearing",
+      "label": "産機・軸受",
+      "external_revenue": 347067000000,
+      "intersegment_revenue": 20794000000,
+      "revenue": 367861000000,
+      "operating_income": 11210000000
+    },
+    {
+      "key": "MachineTools",
+      "label": "工作機械",
+      "external_revenue": 210877000000,
+      "intersegment_revenue": 25259000000,
+      "revenue": 236136000000,
+      "operating_income": 17440000000
+    },
+    {
+      "key": "Mobilities",
+      "label": "自動車",
+      "external_revenue": 1367005000000,
+      "intersegment_revenue": 2678000000,
+      "revenue": 1369683000000,
+      "operating_income": 46717000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01602-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

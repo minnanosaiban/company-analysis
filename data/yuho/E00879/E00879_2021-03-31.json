@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00879",
+    "sec_code": "4118",
+    "company_name": "株式会社カネカ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8UA"
+  },
+  "financials": {
+    "net_sales": 577426000000,
+    "ordinary_income": 22066000000,
+    "net_income": 15831000000,
+    "comprehensive_income": 33784000000,
+    "eps": 242.68,
+    "eps_diluted": 242.13,
+    "dps": 100,
+    "operating_cf": 74040000000,
+    "investing_cf": -43229000000,
+    "financing_cf": -21903000000,
+    "net_assets": 381040000000,
+    "total_assets": 667429000000,
+    "bps": 5473.85,
+    "cash_end": 46360000000,
+    "equity_ratio": 0.535,
+    "roe": 0.046,
+    "per": 18.75
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00879-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

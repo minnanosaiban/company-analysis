@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00414",
+    "sec_code": "2593",
+    "company_name": "株式会社伊藤園",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-04-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-07-27",
+    "doc_id": "S100RH38"
+  },
+  "financials": {
+    "net_sales": 504153000000,
+    "ordinary_income": 23211000000,
+    "net_income": 14462000000,
+    "comprehensive_income": 14422000000,
+    "eps": 116.02,
+    "eps_diluted": 115.74,
+    "dps": 40,
+    "operating_cf": 26128000000,
+    "investing_cf": -10635000000,
+    "financing_cf": -15005000000,
+    "net_assets": 150923000000,
+    "total_assets": 303981000000,
+    "bps": 1229.28,
+    "cash_end": 61950000000,
+    "equity_ratio": 0.492,
+    "roe": 0.099,
+    "per": 47.66
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00414-000_2023-04-30_01_2023-07-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01741",
+    "sec_code": "6506",
+    "company_name": "株式会社安川電機",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-25",
+    "doc_id": "S100QTSR"
+  },
+  "financials": {
+    "net_sales": 474638000000,
+    "ordinary_income": 50844000000,
+    "net_income": 41164000000,
+    "comprehensive_income": 34729000000,
+    "eps": 155.86,
+    "dps": 52,
+    "operating_cf": 32832000000,
+    "investing_cf": -27111000000,
+    "financing_cf": -8754000000,
+    "net_assets": 249753000000,
+    "total_assets": 455663000000,
+    "bps": 935.27,
+    "cash_end": 39289000000,
+    "equity_ratio": 0.541,
+    "roe": 0.171,
+    "per": 20.31,
+    "eps_diluted": 160.92
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01741-000_2023-02-28_01_2023-05-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

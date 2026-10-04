@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E00767",
+    "sec_code": "4042",
+    "company_name": "東ソー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100VWX1"
+  },
+  "financials": {
+    "net_sales": 1063382000000,
+    "ordinary_income": 103005000000,
+    "net_income": 58002000000,
+    "comprehensive_income": 77454000000,
+    "eps": 182.13,
+    "eps_diluted": 182.11,
+    "dps": 100,
+    "operating_cf": 106244000000,
+    "investing_cf": -81574000000,
+    "financing_cf": -37925000000,
+    "net_assets": 902418000000,
+    "total_assets": 1327298000000,
+    "bps": 2596.69,
+    "cash_end": 138849000000,
+    "equity_ratio": 0.623,
+    "roe": 0.072,
+    "per": 11.3,
+    "gross_profit": 259006000000,
+    "operating_income": 98906000000,
+    "income_tax_expense": 24645000000,
+    "interest_bearing_debt_current": 133005000000,
+    "interest_bearing_debt_noncurrent": 46099000000,
+    "depreciation": 47508000000,
+    "current_assets": 754383000000,
+    "current_liabilities": 333493000000,
+    "noncurrent_assets": 572914000000,
+    "noncurrent_liabilities": 91387000000,
+    "trade_payables": 117523000000,
+    "ppe": 417338000000,
+    "intangible_assets": 14380000000,
+    "investment_securities": 70132000000,
+    "treasury_stock": -9585000000,
+    "noncontrolling_interests": 75308000000
+  },
+  "segments": [
+    {
+      "key": "ChlorAlkali",
+      "label": null,
+      "external_revenue": 373439000000,
+      "intersegment_revenue": 47102000000,
+      "operating_income": 9469000000
+    },
+    {
+      "key": "Engineering",
+      "label": null,
+      "external_revenue": 169322000000,
+      "intersegment_revenue": 17653000000,
+      "operating_income": 33638000000
+    },
+    {
+      "key": "Petrochemical",
+      "label": null,
+      "external_revenue": 204754000000,
+      "intersegment_revenue": 149694000000,
+      "operating_income": 14280000000
+    },
+    {
+      "key": "Specialty",
+      "label": null,
+      "external_revenue": 270460000000,
+      "intersegment_revenue": 22519000000,
+      "operating_income": 38628000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00767-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

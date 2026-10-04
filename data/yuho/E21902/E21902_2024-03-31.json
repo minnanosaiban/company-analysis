@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E21902",
+    "sec_code": "2269",
+    "company_name": "明治ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TW0N"
+  },
+  "financials": {
+    "net_sales": 1105494000000,
+    "ordinary_income": 76020000000,
+    "net_income": 50675000000,
+    "comprehensive_income": 63401000000,
+    "eps": 181.64,
+    "dps": 95,
+    "operating_cf": 107983000000,
+    "investing_cf": -24604000000,
+    "financing_cf": -43772000000,
+    "net_assets": 787793000000,
+    "total_assets": 1205288000000,
+    "bps": 2674.72,
+    "cash_end": 102832000000,
+    "equity_ratio": 0.619,
+    "roe": 0.069,
+    "per": 18.6,
+    "gross_profit": 327345000000,
+    "operating_income": 84322000000,
+    "income_tax_expense": 35422000000,
+    "interest_bearing_debt_current": 22330000000,
+    "interest_bearing_debt_noncurrent": 17596000000,
+    "bonds_payable": 10000000000,
+    "depreciation": 55317000000,
+    "capex_ppe": -50023000000,
+    "capex_intangible": -3421000000,
+    "current_assets": 563029000000,
+    "current_liabilities": 322345000000,
+    "noncurrent_assets": 642259000000,
+    "noncurrent_liabilities": 95149000000,
+    "trade_receivables": 202239000000,
+    "trade_payables": 127348000000,
+    "ppe": 480507000000,
+    "intangible_assets": 20998000000,
+    "investment_securities": 87935000000,
+    "treasury_stock": -38236000000,
+    "noncontrolling_interests": 41261000000
+  },
+  "segments": [
+    {
+      "key": "Food",
+      "label": null,
+      "external_revenue": 899406000000,
+      "intersegment_revenue": 721000000,
+      "operating_income": 64315000000
+    },
+    {
+      "key": "Pharmaceuticals",
+      "label": null,
+      "external_revenue": 206088000000,
+      "intersegment_revenue": 20000000,
+      "operating_income": 22717000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21902-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

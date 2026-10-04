@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "edinet_code": "E01478",
+    "sec_code": "6005",
+    "company_name": "三浦工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RA2B"
+  },
+  "financials": {
+    "dps": 45,
+    "net_sales": 158377000000,
+    "net_income": 16876000000,
+    "comprehensive_income": 17057000000,
+    "net_assets": 168348000000,
+    "total_assets": 229560000000,
+    "equity_ratio": 0.733,
+    "bps": 1504.02,
+    "eps": 149.52,
+    "eps_diluted": 149.39,
+    "roe": 0.103,
+    "per": 22.61,
+    "operating_cf": 17844000000,
+    "investing_cf": -12535000000,
+    "financing_cf": -13766000000,
+    "cash_end": 30565000000,
+    "operating_income": 21928000000,
+    "gross_profit": 64318000000,
+    "income_tax_expense": 6480000000,
+    "lease_liabilities_current": 2470000000,
+    "lease_liabilities_noncurrent": 3766000000,
+    "sga_expense": 43116000000,
+    "profit_before_tax": 23467000000,
+    "depreciation": 7033000000,
+    "capex_ppe": -1610000000,
+    "capex_intangible": -1048000000,
+    "current_assets": 147904000000,
+    "current_liabilities": 56171000000,
+    "noncurrent_assets": 81655000000,
+    "trade_receivables": 41575000000,
+    "inventories": 26891000000,
+    "trade_payables": 12395000000,
+    "ppe": 39682000000,
+    "intangible_assets": 4085000000,
+    "equity_method_investments": 15205000000,
+    "treasury_stock": -10787000000,
+    "noncontrolling_interests": 564000000
+  },
+  "segments": [
+    {
+      "key": "BoilerSalesBusiness",
+      "label": null,
+      "external_revenue": 66199000000,
+      "intersegment_revenue": 3616000000,
+      "revenue": 69815000000,
+      "operating_income": 6803000000
+    },
+    {
+      "key": "LaundryBusiness",
+      "label": null,
+      "external_revenue": 17421000000,
+      "intersegment_revenue": 122000000,
+      "revenue": 17544000000,
+      "operating_income": 701000000
+    },
+    {
+      "key": "MaintenanceBusiness",
+      "label": null,
+      "external_revenue": 38605000000,
+      "intersegment_revenue": 274000000,
+      "revenue": 38880000000,
+      "operating_income": 10164000000
+    },
+    {
+      "key": "OverseasBoilerSalesBusiness",
+      "label": null,
+      "external_revenue": 26517000000,
+      "intersegment_revenue": 250000000,
+      "revenue": 26767000000,
+      "operating_income": 2972000000
+    },
+    {
+      "key": "OverseasMaintenanceBusiness",
+      "label": null,
+      "external_revenue": 9573000000,
+      "intersegment_revenue": 101000000,
+      "revenue": 9674000000,
+      "operating_income": 1394000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01478-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

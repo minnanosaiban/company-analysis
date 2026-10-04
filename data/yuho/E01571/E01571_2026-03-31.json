@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "edinet_code": "E01571",
+    "sec_code": "6368",
+    "company_name": "オルガノ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YK07"
+  },
+  "financials": {
+    "net_sales": 177654000000,
+    "ordinary_income": 38130000000,
+    "net_income": 28401000000,
+    "comprehensive_income": 30378000000,
+    "eps": 617.74,
+    "dps": 200,
+    "operating_cf": 13099000000,
+    "investing_cf": -2743000000,
+    "financing_cf": 3118000000,
+    "net_assets": 142962000000,
+    "total_assets": 224867000000,
+    "bps": 3109.08,
+    "cash_end": 31055000000,
+    "equity_ratio": 0.636,
+    "roe": 0.215,
+    "per": 22,
+    "gross_profit": 65084000000,
+    "operating_income": 37648000000,
+    "income_tax_expense": 10360000000,
+    "interest_bearing_debt_current": 28402000000,
+    "interest_bearing_debt_noncurrent": 6000000000,
+    "depreciation": 1981000000,
+    "capex_ppe": -2072000000,
+    "capex_intangible": -804000000,
+    "current_assets": 192002000000,
+    "current_liabilities": 70939000000,
+    "noncurrent_assets": 32864000000,
+    "noncurrent_liabilities": 10965000000,
+    "trade_payables": 19953000000,
+    "ppe": 22402000000,
+    "intangible_assets": 1572000000,
+    "investment_securities": 2723000000,
+    "treasury_stock": -642000000
+  },
+  "segments": [
+    {
+      "key": "PerformanceProductsBusinessUnit",
+      "label": null,
+      "external_revenue": 25693000000,
+      "intersegment_revenue": 393000000,
+      "operating_income": 3309000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01571-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

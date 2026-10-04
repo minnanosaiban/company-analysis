@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E00913",
+    "sec_code": "4626",
+    "company_name": "太陽ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-16",
+    "doc_id": "S100YBLG"
+  },
+  "financials": {
+    "net_sales": 137851000000,
+    "ordinary_income": 32244000000,
+    "net_income": 24011000000,
+    "comprehensive_income": 29815000000,
+    "eps": 215.92,
+    "dps": 165,
+    "operating_cf": 30742000000,
+    "investing_cf": -7667000000,
+    "financing_cf": -26002000000,
+    "net_assets": 115757000000,
+    "total_assets": 201928000000,
+    "bps": 1040.16,
+    "cash_end": 42542000000,
+    "equity_ratio": 0.573,
+    "roe": 0.22,
+    "per": 23.1,
+    "gross_profit": 67496000000,
+    "operating_income": 32529000000,
+    "income_tax_expense": 7979000000,
+    "interest_bearing_debt_current": 1273000000,
+    "interest_bearing_debt_noncurrent": 41098000000,
+    "current_portion_lt_loans": 14480000000,
+    "depreciation": 8361000000,
+    "capex_ppe": -7335000000,
+    "capex_intangible": -396000000,
+    "current_assets": 103115000000,
+    "current_liabilities": 40316000000,
+    "noncurrent_assets": 98813000000,
+    "noncurrent_liabilities": 45854000000,
+    "trade_payables": 9501000000,
+    "ppe": 70501000000,
+    "goodwill": 2744000000,
+    "intangible_assets": 14465000000,
+    "investment_securities": 8956000000,
+    "treasury_stock": -7825000000,
+    "noncontrolling_interests": 12000000
+  },
+  "segments": [
+    {
+      "key": "ElectronicsMaterials",
+      "label": "エレクトロニクス事業",
+      "external_revenue": 95285000000,
+      "operating_income": 29177000000
+    },
+    {
+      "key": "MedicalAndPharmaceutical",
+      "label": "医療・医薬品事業",
+      "external_revenue": 36490000000,
+      "operating_income": 5063000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00913-000_2026-03-31_01_2026-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

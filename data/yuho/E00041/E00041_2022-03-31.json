@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "edinet_code": "E00041",
+    "sec_code": "1662",
+    "company_name": "石油資源開発株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2025-07-11",
+    "doc_id": "S100WCJK"
+  },
+  "financials": {
+    "net_sales": 249140000000,
+    "ordinary_income": 43674000000,
+    "net_income": -30988000000,
+    "comprehensive_income": -18992000000,
+    "eps": -109.13,
+    "dps": 50,
+    "operating_cf": -1052000000,
+    "investing_cf": 52067000000,
+    "financing_cf": -70939000000,
+    "net_assets": 402770000000,
+    "total_assets": 471941000000,
+    "bps": 1335.97,
+    "cash_end": 144513000000,
+    "equity_ratio": 0.787
+  },
+  "segments": [
+    {
+      "key": "Eourope",
+      "label": "欧州",
+      "operating_income": -151000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 192669000000,
+      "operating_income": 24739000000,
+      "equity_method_income": -47000000
+    },
+    {
+      "key": "MiddleEast",
+      "label": "中東",
+      "external_revenue": 22657000000,
+      "operating_income": 2644000000,
+      "equity_method_income": -13000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": "北米",
+      "external_revenue": 33814000000,
+      "operating_income": 1789000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00041-000_2025-03-31_02_2025-07-11.csv",
+    "parser_version": "0.1.3"
+  }
+}

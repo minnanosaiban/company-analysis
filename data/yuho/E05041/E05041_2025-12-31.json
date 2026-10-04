@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E05041",
+    "sec_code": "9449",
+    "company_name": "GMOインターネットグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XSG3"
+  },
+  "financials": {
+    "net_sales": 285626000000,
+    "ordinary_income": 52837000000,
+    "net_income": 16102000000,
+    "comprehensive_income": 35016000000,
+    "eps": 157.56,
+    "eps_diluted": 154.97,
+    "dps": 52,
+    "operating_cf": 66040000000,
+    "investing_cf": -9901000000,
+    "financing_cf": 41707000000,
+    "net_assets": 217404000000,
+    "total_assets": 2272458000000,
+    "bps": 1013.67,
+    "cash_end": 567921000000,
+    "equity_ratio": 0.045,
+    "roe": 0.171,
+    "per": 24.9,
+    "operating_income": 59132000000,
+    "gross_profit": 171165000000,
+    "income_tax_expense": 16210000000,
+    "interest_bearing_debt_current": 291327000000,
+    "interest_bearing_debt_noncurrent": 310148000000,
+    "sga_expense": 109869000000,
+    "profit_before_tax": 52942000000,
+    "depreciation": 18481000000,
+    "capex_ppe": -7111000000,
+    "capex_intangible": -4937000000,
+    "current_assets": 1751433000000,
+    "current_liabilities": 1414705000000,
+    "noncurrent_assets": 285126000000,
+    "trade_receivables": 169263000000,
+    "inventories": 61285000000,
+    "trade_payables": 281079000000,
+    "ppe": 84914000000,
+    "goodwill": 25456000000,
+    "equity_method_investments": 12373000000,
+    "treasury_stock": -24062000000,
+    "noncontrolling_interests": 128769000000
+  },
+  "segments": [
+    {
+      "key": "Cryptocurrency",
+      "label": null,
+      "external_revenue": 8315000000
+    },
+    {
+      "key": "InternetFinance",
+      "label": null,
+      "external_revenue": 39370000000,
+      "intersegment_revenue": 40000000
+    },
+    {
+      "key": "InternetInfrastructure",
+      "label": null,
+      "external_revenue": 174026000000,
+      "intersegment_revenue": 1681000000
+    },
+    {
+      "key": "InternetSecurities",
+      "label": null,
+      "external_revenue": 21360000000,
+      "intersegment_revenue": 607000000
+    },
+    {
+      "key": "OnlineAdvertisingAndMedia",
+      "label": null,
+      "external_revenue": 32113000000,
+      "intersegment_revenue": 2895000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05041-000_2025-12-31_01_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

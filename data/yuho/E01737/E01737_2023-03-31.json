@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "edinet_code": "E01737",
+    "sec_code": "6501",
+    "company_name": "株式会社日立製作所",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZT0"
+  },
+  "financials": {
+    "dps": 145,
+    "net_sales": 10881150000000,
+    "net_income": 649124000000,
+    "comprehensive_income": 905819000000,
+    "net_assets": 4942854000000,
+    "total_assets": 12501414000000,
+    "equity_ratio": 0.395,
+    "bps": 5271.97,
+    "eps": 684.55,
+    "eps_diluted": 683.89,
+    "roe": 0.14,
+    "per": 10.6,
+    "operating_cf": 827045000000,
+    "investing_cf": 151063000000,
+    "financing_cf": -1142966000000,
+    "cash_end": 833283000000,
+    "gross_profit": 2689087000000,
+    "income_tax_expense": 116101000000,
+    "interest_bearing_debt_noncurrent": 1293837000000,
+    "sga_expense": 1940943000000,
+    "profit_before_tax": 819971000000,
+    "depreciation": 526310000000,
+    "capex_ppe": -252638000000,
+    "capex_intangible": -157947000000,
+    "current_assets": 5928535000000,
+    "current_liabilities": 5166178000000,
+    "noncurrent_assets": 6572879000000,
+    "inventories": 1646188000000,
+    "ppe": 1700471000000,
+    "goodwill": 2165350000000,
+    "equity_method_investments": 478620000000,
+    "treasury_stock": -3539000000,
+    "noncontrolling_interests": 392713000000,
+    "current_portion_lt_debt": 141861000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveSystems",
+      "label": null,
+      "external_revenue": 1915254000000,
+      "intersegment_revenue": 4813000000,
+      "revenue": 1920067000000,
+      "operating_income": 73447000000,
+      "assets": 1687076000000,
+      "equity_method_income": 706000000
+    },
+    {
+      "key": "ConnectiveIndustries",
+      "label": "コネクティブインダストリーズ",
+      "external_revenue": 2759660000000,
+      "intersegment_revenue": 215612000000,
+      "revenue": 2975272000000,
+      "operating_income": 312183000000,
+      "assets": 3552848000000,
+      "equity_method_income": 19855000000
+    },
+    {
+      "key": "DigitalSystemsAndServices",
+      "label": "デジタルシステム＆サービスセグメント",
+      "external_revenue": 2217973000000,
+      "intersegment_revenue": 171122000000,
+      "revenue": 2389095000000,
+      "operating_income": 293729000000,
+      "assets": 3140933000000,
+      "equity_method_income": 2597000000
+    },
+    {
+      "key": "GreenEnergyAndMobility",
+      "label": null,
+      "external_revenue": 2432204000000,
+      "intersegment_revenue": 60318000000,
+      "revenue": 2492522000000,
+      "operating_income": 132737000000,
+      "assets": 3788025000000,
+      "equity_method_income": 10120000000
+    },
+    {
+      "key": "HitachiConstructionMachinery",
+      "label": null,
+      "external_revenue": 474168000000,
+      "intersegment_revenue": 946000000,
+      "revenue": 475114000000,
+      "operating_income": 43226000000,
+      "equity_method_income": 1171000000
+    },
+    {
+      "key": "HitachiMetals",
+      "label": null,
+      "external_revenue": 825588000000,
+      "intersegment_revenue": 22138000000,
+      "revenue": 847726000000,
+      "operating_income": 43054000000,
+      "equity_method_income": 1265000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 238631000000,
+      "intersegment_revenue": 234384000000,
+      "revenue": 473015000000,
+      "operating_income": 15553000000,
+      "assets": 2121718000000,
+      "equity_method_income": 169000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01737-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E00014",
+    "sec_code": "1332",
+    "company_name": "株式会社ニッスイ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TQLS"
+  },
+  "financials": {
+    "net_sales": 831375000000,
+    "ordinary_income": 31963000000,
+    "net_income": 23850000000,
+    "comprehensive_income": 39774000000,
+    "eps": 76.67,
+    "dps": 24,
+    "operating_cf": 54486000000,
+    "investing_cf": -37722000000,
+    "financing_cf": -12393000000,
+    "net_assets": 257304000000,
+    "total_assets": 606384000000,
+    "bps": 801.7,
+    "cash_end": 19533000000,
+    "equity_ratio": 0.4109,
+    "roe": 0.1024,
+    "per": 12.52,
+    "gross_profit": 125644000000,
+    "operating_income": 29663000000,
+    "income_tax_expense": 11330000000,
+    "interest_bearing_debt_current": 96680000000,
+    "interest_bearing_debt_noncurrent": 109729000000,
+    "lease_liabilities_current": 1243000000,
+    "lease_liabilities_noncurrent": 4607000000,
+    "depreciation": 22231000000,
+    "capex_ppe": -25222000000,
+    "capex_intangible": -1035000000,
+    "current_assets": 325167000000,
+    "current_liabilities": 212816000000,
+    "noncurrent_assets": 281217000000,
+    "noncurrent_liabilities": 136263000000,
+    "trade_receivables": 108292000000,
+    "trade_payables": 56623000000,
+    "ppe": 166308000000,
+    "goodwill": 2560000000,
+    "intangible_assets": 17369000000,
+    "investment_securities": 32213000000,
+    "treasury_stock": -703000000,
+    "noncontrolling_interests": 8110000000
+  },
+  "segments": [
+    {
+      "key": "Fine",
+      "label": null,
+      "external_revenue": 15696000000,
+      "intersegment_revenue": 480000000,
+      "operating_income": -171000000
+    },
+    {
+      "key": "Grocery",
+      "label": null,
+      "external_revenue": 443297000000,
+      "intersegment_revenue": 923000000,
+      "operating_income": 27291000000,
+      "equity_method_income": 523000000
+    },
+    {
+      "key": "Logistics",
+      "label": null,
+      "external_revenue": 15213000000,
+      "intersegment_revenue": 11683000000,
+      "operating_income": 1536000000,
+      "equity_method_income": 10000000
+    },
+    {
+      "key": "MarineProducts",
+      "label": null,
+      "external_revenue": 336892000000,
+      "intersegment_revenue": 16092000000,
+      "operating_income": 10697000000,
+      "equity_method_income": 1589000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00014-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

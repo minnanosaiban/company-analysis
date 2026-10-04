@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02328",
+    "sec_code": "6323",
+    "company_name": "ローツェ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-02-29",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-05-31",
+    "doc_id": "S100TJCI"
+  },
+  "financials": {
+    "net_sales": 37103000000,
+    "ordinary_income": 7517000000,
+    "net_income": 5470000000,
+    "comprehensive_income": 5045000000,
+    "eps": 316.57,
+    "eps_diluted": 316.21,
+    "dps": 30,
+    "operating_cf": 6659000000,
+    "investing_cf": -5703000000,
+    "financing_cf": 434000000,
+    "net_assets": 28571000000,
+    "total_assets": 54777000000,
+    "bps": 1463.86,
+    "cash_end": 12838000000,
+    "equity_ratio": 0.462,
+    "roe": 0.239,
+    "per": 10.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02328-000_2024-02-29_01_2024-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

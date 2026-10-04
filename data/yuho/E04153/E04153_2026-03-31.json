@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E04153",
+    "sec_code": "9023",
+    "company_name": "東京地下鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YHLQ"
+  },
+  "financials": {
+    "ordinary_income": 79234000000,
+    "net_income": 59015000000,
+    "comprehensive_income": 54335000000,
+    "eps": 101.63,
+    "dps": 42,
+    "operating_cf": 133764000000,
+    "investing_cf": -87400000000,
+    "financing_cf": -51846000000,
+    "net_assets": 734751000000,
+    "total_assets": 2047168000000,
+    "bps": 1265.51,
+    "cash_end": 68280000000,
+    "equity_ratio": 0.359,
+    "roe": 0.081,
+    "per": 15.9,
+    "operating_income": 89588000000,
+    "income_tax_expense": 19659000000,
+    "interest_bearing_debt_noncurrent": 258713000000,
+    "bonds_payable": 577000000000,
+    "current_portion_of_bonds": 20000000000,
+    "current_portion_lt_loans": 23666000000,
+    "depreciation": 73921000000,
+    "current_assets": 311950000000,
+    "current_liabilities": 188132000000,
+    "noncurrent_assets": 1735217000000,
+    "noncurrent_liabilities": 1124284000000,
+    "trade_payables": 504000000,
+    "ppe": 1562273000000,
+    "intangible_assets": 103641000000,
+    "investment_securities": 7516000000,
+    "treasury_stock": -677000000
+  },
+  "segments": [
+    {
+      "key": "ConsumerAndCorporateServices",
+      "label": "ライフ・ビジネスサービス",
+      "external_revenue": 23603000000,
+      "intersegment_revenue": 2784000000,
+      "operating_income": 8527000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産",
+      "external_revenue": 14455000000,
+      "intersegment_revenue": 239000000,
+      "operating_income": 4399000000
+    },
+    {
+      "key": "Transportation",
+      "label": "運輸",
+      "external_revenue": 384108000000,
+      "intersegment_revenue": 2509000000,
+      "operating_income": 76189000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04153-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

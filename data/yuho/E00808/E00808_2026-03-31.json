@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E00808",
+    "sec_code": "4188",
+    "company_name": "三菱ケミカルグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YFSR"
+  },
+  "financials": {
+    "dps": 32,
+    "net_sales": 3703988000000,
+    "net_income": 11829000000,
+    "comprehensive_income": 116616000000,
+    "net_assets": 1761675000000,
+    "total_assets": 5876609000000,
+    "equity_ratio": 0.3,
+    "bps": 1296.73,
+    "eps": 8.63,
+    "eps_diluted": 8.63,
+    "roe": 0.007,
+    "per": 104.2,
+    "operating_cf": 436287000000,
+    "investing_cf": 124470000000,
+    "financing_cf": -375207000000,
+    "cash_end": 527104000000,
+    "operating_income": 30078000000,
+    "gross_profit": 1071102000000,
+    "income_tax_expense": 17066000000,
+    "interest_bearing_debt_current": 387064000000,
+    "interest_bearing_debt_noncurrent": 1503457000000,
+    "sga_expense": 813877000000,
+    "profit_before_tax": 711000000,
+    "depreciation": 271157000000,
+    "capex_ppe": -284089000000,
+    "capex_intangible": -8044000000,
+    "current_assets": 2095247000000,
+    "current_liabilities": 1400901000000,
+    "noncurrent_assets": 3781362000000,
+    "inventories": 669126000000,
+    "ppe": 2096630000000,
+    "goodwill": 891032000000,
+    "intangible_assets": 377656000000,
+    "equity_method_investments": 150396000000,
+    "treasury_stock": -67538000000,
+    "noncontrolling_interests": 653005000000
+  },
+  "segments": [
+    {
+      "key": "BasicMaterialsAndPolymers",
+      "label": null,
+      "external_revenue": 790684000000,
+      "intersegment_revenue": 30860000000,
+      "revenue": 821544000000,
+      "operating_income": -4159000000,
+      "assets": 699948000000
+    },
+    {
+      "key": "IndustrialGases",
+      "label": null,
+      "external_revenue": 1352498000000,
+      "intersegment_revenue": 7113000000,
+      "revenue": 1359611000000,
+      "operating_income": 200706000000,
+      "assets": 2804028000000
+    },
+    {
+      "key": "MMAAndDerivatives",
+      "label": null,
+      "external_revenue": 351931000000,
+      "intersegment_revenue": 12572000000,
+      "revenue": 364503000000,
+      "operating_income": -1538000000,
+      "assets": 501799000000
+    },
+    {
+      "key": "SpecialtyMaterials",
+      "label": null,
+      "external_revenue": 1059646000000,
+      "intersegment_revenue": 14804000000,
+      "revenue": 1074450000000,
+      "operating_income": 32309000000,
+      "assets": 1414912000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00808-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

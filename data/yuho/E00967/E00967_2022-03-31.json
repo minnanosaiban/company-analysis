@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E00967",
+    "sec_code": "4544",
+    "company_name": "H.U.グループホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZI9"
+  },
+  "financials": {
+    "net_sales": 272944000000,
+    "ordinary_income": 47422000000,
+    "net_income": 29599000000,
+    "comprehensive_income": 34238000000,
+    "eps": 519.55,
+    "eps_diluted": 519.42,
+    "dps": 125,
+    "operating_cf": 55229000000,
+    "investing_cf": -30862000000,
+    "financing_cf": -21725000000,
+    "net_assets": 140178000000,
+    "total_assets": 286587000000,
+    "bps": 2463.33,
+    "cash_end": 46479000000,
+    "equity_ratio": 0.489,
+    "roe": 0.232,
+    "per": 5.59,
+    "gross_profit": 111799000000,
+    "operating_income": 50490000000,
+    "income_tax_expense": 9904000000,
+    "interest_bearing_debt_noncurrent": 18700000000,
+    "bonds_payable": 35000000000,
+    "current_portion_lt_loans": 3621000000,
+    "lease_liabilities_current": 4029000000,
+    "lease_liabilities_noncurrent": 11649000000,
+    "depreciation": 14527000000,
+    "capex_ppe": -23733000000,
+    "capex_intangible": -11392000000,
+    "current_assets": 132542000000,
+    "current_liabilities": 70755000000,
+    "noncurrent_assets": 153923000000,
+    "noncurrent_liabilities": 75653000000,
+    "trade_payables": 21307000000,
+    "ppe": 76520000000,
+    "goodwill": 201000000,
+    "intangible_assets": 34406000000,
+    "investment_securities": 8300000000,
+    "treasury_stock": -2081000000
+  },
+  "segments": [
+    {
+      "key": "ClinicalLabTestingBusiness",
+      "label": null,
+      "external_revenue": 179932000000,
+      "intersegment_revenue": 306000000,
+      "operating_income": 23630000000
+    },
+    {
+      "key": "InVitroDiagnosticsBusiness",
+      "label": null,
+      "external_revenue": 64335000000,
+      "intersegment_revenue": 9836000000,
+      "operating_income": 26732000000
+    },
+    {
+      "key": "SterilizationAndRelatedServices",
+      "label": null,
+      "external_revenue": 28676000000,
+      "intersegment_revenue": 22000000,
+      "operating_income": 1801000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00967-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

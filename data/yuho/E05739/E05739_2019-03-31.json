@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05739",
+    "sec_code": "3626",
+    "company_name": "ＴＩＳ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R3YD"
+  },
+  "financials": {
+    "net_sales": 420769000000,
+    "ordinary_income": 38603000000,
+    "net_income": 26034000000,
+    "comprehensive_income": 16814000000,
+    "eps": 102.61,
+    "dps": 70,
+    "operating_cf": 37558000000,
+    "investing_cf": -1213000000,
+    "financing_cf": -16773000000,
+    "net_assets": 234408000000,
+    "total_assets": 370657000000,
+    "bps": 906.6,
+    "cash_end": 57083000000,
+    "equity_ratio": 0.62,
+    "roe": 0.115,
+    "per": 17
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05739-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E00346",
+    "sec_code": "2002",
+    "company_name": "株式会社日清製粉グループ本社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TT2N"
+  },
+  "financials": {
+    "net_sales": 858248000000,
+    "ordinary_income": 49992000000,
+    "net_income": 31743000000,
+    "comprehensive_income": 90678000000,
+    "eps": 106.74,
+    "dps": 45,
+    "operating_cf": 73194000000,
+    "investing_cf": -30944000000,
+    "financing_cf": -19539000000,
+    "net_assets": 516381000000,
+    "total_assets": 826702000000,
+    "bps": 1682.11,
+    "cash_end": 107681000000,
+    "equity_ratio": 0.605,
+    "roe": 0.069,
+    "per": 19.67,
+    "gross_profit": 184132000000,
+    "operating_income": 47791000000,
+    "income_tax_expense": 13697000000,
+    "interest_bearing_debt_current": 15101000000,
+    "interest_bearing_debt_noncurrent": 12014000000,
+    "bonds_payable": 20000000000,
+    "lease_liabilities_noncurrent": 39929000000,
+    "depreciation": 22999000000,
+    "current_assets": 365072000000,
+    "current_liabilities": 163571000000,
+    "noncurrent_assets": 461629000000,
+    "noncurrent_liabilities": 146749000000,
+    "inventories": 124878000000,
+    "trade_payables": 76198000000,
+    "ppe": 235815000000,
+    "goodwill": 6212000000,
+    "intangible_assets": 21563000000,
+    "investment_securities": 185445000000,
+    "treasury_stock": -10914000000,
+    "noncontrolling_interests": 16078000000
+  },
+  "segments": [
+    {
+      "key": "FlourMilling",
+      "label": null,
+      "external_revenue": 458226000000,
+      "intersegment_revenue": 19367000000,
+      "operating_income": 28570000000
+    },
+    {
+      "key": "ProcessedFood",
+      "label": null,
+      "external_revenue": 201073000000,
+      "intersegment_revenue": 1796000000,
+      "operating_income": 8356000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00346-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

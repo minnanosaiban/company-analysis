@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E03623",
+    "sec_code": "8410",
+    "company_name": "株式会社セブン銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-18",
+    "doc_id": "S100TMDS"
+  },
+  "financials": {
+    "ordinary_income": 30526000000,
+    "net_income": 31970000000,
+    "comprehensive_income": 34387000000,
+    "eps": 27.25,
+    "dps": 11,
+    "operating_cf": 100751000000,
+    "investing_cf": -51937000000,
+    "financing_cf": -12090000000,
+    "net_assets": 275856000000,
+    "total_assets": 1717818000000,
+    "bps": 231.24,
+    "cash_end": 988721000000,
+    "equity_ratio": 0.1574,
+    "roe": 0.1226,
+    "per": 10.85,
+    "income_tax_expense": 8503000000,
+    "bonds_payable": 65000000000,
+    "depreciation": 23302000000,
+    "capex_ppe": -17739000000,
+    "capex_intangible": -21534000000,
+    "ppe": 39150000000,
+    "goodwill": 330000000,
+    "intangible_assets": 46795000000,
+    "treasury_stock": -2744000000,
+    "noncontrolling_interests": 5306000000,
+    "ordinary_revenue": 197877000000
+  },
+  "segments": [
+    {
+      "key": "CreditCardAndElectronicMoneyBuisiness",
+      "label": "クレジットカード・電子マネー事業",
+      "external_revenue": 26818000000,
+      "intersegment_revenue": 18000000,
+      "ordinary_income": 3583000000
+    },
+    {
+      "key": "DomesticBusinessBankingBusinessOther",
+      "label": "国内事業（銀行業その他）",
+      "external_revenue": 133055000000,
+      "intersegment_revenue": 518000000,
+      "ordinary_income": 29227000000,
+      "equity_method_income": -19000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": "海外事業",
+      "external_revenue": 38862000000,
+      "ordinary_income": -1771000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03623-000_2024-03-31_01_2024-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

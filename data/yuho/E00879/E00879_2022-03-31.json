@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E00879",
+    "sec_code": "4118",
+    "company_name": "株式会社カネカ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8UA"
+  },
+  "financials": {
+    "net_sales": 691530000000,
+    "ordinary_income": 40816000000,
+    "net_income": 26487000000,
+    "comprehensive_income": 37856000000,
+    "eps": 406.01,
+    "eps_diluted": 404.95,
+    "dps": 110,
+    "operating_cf": 34106000000,
+    "investing_cf": -39595000000,
+    "financing_cf": -1105000000,
+    "net_assets": 412204000000,
+    "total_assets": 726959000000,
+    "bps": 5934.36,
+    "cash_end": 40712000000,
+    "equity_ratio": 0.533,
+    "roe": 0.071,
+    "per": 8.73,
+    "gross_profit": 196649000000,
+    "operating_income": 43562000000,
+    "income_tax_expense": 10075000000,
+    "interest_bearing_debt_current": 89992000000,
+    "interest_bearing_debt_noncurrent": 28627000000,
+    "bonds_payable": 10000000000,
+    "lease_liabilities_current": 641000000,
+    "lease_liabilities_noncurrent": 3569000000,
+    "depreciation": 37953000000,
+    "capex_ppe": -37329000000,
+    "capex_intangible": -2601000000,
+    "current_assets": 362910000000,
+    "current_liabilities": 234502000000,
+    "noncurrent_assets": 364049000000,
+    "noncurrent_liabilities": 80253000000,
+    "trade_payables": 92068000000,
+    "ppe": 271275000000,
+    "goodwill": 2559000000,
+    "intangible_assets": 14977000000,
+    "investment_securities": 58609000000,
+    "treasury_stock": -11528000000,
+    "noncontrolling_interests": 24435000000
+  },
+  "segments": [
+    {
+      "key": "HealthCareSolutionsUnit",
+      "label": null,
+      "external_revenue": 58936000000,
+      "intersegment_revenue": 0,
+      "operating_income": 12662000000
+    },
+    {
+      "key": "MaterialSolutionsUnit",
+      "label": null,
+      "external_revenue": 299908000000,
+      "intersegment_revenue": 799000000,
+      "operating_income": 36385000000
+    },
+    {
+      "key": "NutritionSolutionsUnit",
+      "label": null,
+      "external_revenue": 162554000000,
+      "intersegment_revenue": 45000000,
+      "operating_income": 5084000000
+    },
+    {
+      "key": "QualityOfLifeSolutionsUnit",
+      "label": null,
+      "external_revenue": 169067000000,
+      "intersegment_revenue": 41000000,
+      "operating_income": 16942000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00879-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

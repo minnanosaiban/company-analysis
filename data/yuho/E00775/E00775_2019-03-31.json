@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00775",
+    "sec_code": "4062",
+    "company_name": "イビデン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-15",
+    "doc_id": "S100QXXT"
+  },
+  "financials": {
+    "net_sales": 291125000000,
+    "ordinary_income": 12600000000,
+    "net_income": 3306000000,
+    "comprehensive_income": -5157000000,
+    "eps": 23.66,
+    "dps": 35,
+    "operating_cf": 18555000000,
+    "investing_cf": -18036000000,
+    "financing_cf": -4926000000,
+    "net_assets": 276305000000,
+    "total_assets": 423056000000,
+    "bps": 1938.59,
+    "cash_end": 113492000000,
+    "equity_ratio": 0.6403,
+    "roe": 0.012,
+    "per": 71.08
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00775-000_2023-03-31_01_2023-06-15.csv",
+    "parser_version": "0.1.3"
+  }
+}

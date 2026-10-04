@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E00058",
+    "sec_code": "1812",
+    "company_name": "鹿島建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R2GR"
+  },
+  "financials": {
+    "net_sales": 2391579000000,
+    "ordinary_income": 156731000000,
+    "net_income": 111789000000,
+    "comprehensive_income": 149685000000,
+    "eps": 227.98,
+    "dps": 70,
+    "operating_cf": -29116000000,
+    "investing_cf": -81743000000,
+    "financing_cf": 111893000000,
+    "net_assets": 1061145000000,
+    "total_assets": 2769718000000,
+    "bps": 2165.12,
+    "cash_end": 282253000000,
+    "equity_ratio": 0.38,
+    "roe": 0.112,
+    "per": 7,
+    "gross_profit": 267100000000,
+    "operating_income": 123526000000,
+    "income_tax_expense": 57532000000,
+    "interest_bearing_debt_current": 244385000000,
+    "interest_bearing_debt_noncurrent": 173293000000,
+    "bonds_payable": 80067000000,
+    "commercial_papers": 40000000000,
+    "current_portion_of_bonds": 38000000,
+    "depreciation": 24711000000,
+    "capex_ppe": -60737000000,
+    "capex_intangible": -16213000000,
+    "current_assets": 1751584000000,
+    "current_liabilities": 1319768000000,
+    "noncurrent_assets": 1018133000000,
+    "noncurrent_liabilities": 388804000000,
+    "ppe": 478539000000,
+    "goodwill": 1398000000,
+    "intangible_assets": 27733000000,
+    "investment_securities": 356143000000,
+    "treasury_stock": -55673000000,
+    "noncontrolling_interests": 8714000000
+  },
+  "segments": [
+    {
+      "key": "Construction",
+      "label": null,
+      "external_revenue": 1073733000000,
+      "intersegment_revenue": 12472000000,
+      "operating_income": 46677000000
+    },
+    {
+      "key": "Development",
+      "label": null,
+      "external_revenue": 41163000000,
+      "intersegment_revenue": 3782000000,
+      "operating_income": 7194000000
+    },
+    {
+      "key": "DomesticAssociateCompanies",
+      "label": null,
+      "external_revenue": 236790000000,
+      "intersegment_revenue": 115866000000,
+      "operating_income": 17417000000
+    },
+    {
+      "key": "Engineering",
+      "label": null,
+      "external_revenue": 301622000000,
+      "operating_income": 29302000000
+    },
+    {
+      "key": "OverseasAssociateCompanies",
+      "label": null,
+      "external_revenue": 738268000000,
+      "intersegment_revenue": 968000000,
+      "operating_income": 22738000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00058-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

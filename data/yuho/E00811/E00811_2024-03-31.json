@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E00811",
+    "sec_code": "4114",
+    "company_name": "株式会社日本触媒",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TNYU"
+  },
+  "financials": {
+    "dps": 180,
+    "net_sales": 392009000000,
+    "net_income": 11008000000,
+    "comprehensive_income": 32239000000,
+    "net_assets": 383448000000,
+    "total_assets": 544060000000,
+    "equity_ratio": 0.705,
+    "bps": 2482.45,
+    "eps": 70.48,
+    "eps_diluted": 70.46,
+    "roe": 0.03,
+    "per": 20.8,
+    "operating_cf": 57880000000,
+    "investing_cf": -15684000000,
+    "financing_cf": -28364000000,
+    "cash_end": 55129000000,
+    "operating_income": 16562000000,
+    "gross_profit": 68004000000,
+    "income_tax_expense": 3369000000,
+    "sga_expense": 51243000000,
+    "profit_before_tax": 15744000000,
+    "depreciation": 31853000000,
+    "capex_ppe": -19149000000,
+    "capex_intangible": -1418000000,
+    "current_assets": 259679000000,
+    "current_liabilities": 101246000000,
+    "noncurrent_assets": 284381000000,
+    "inventories": 84446000000,
+    "ppe": 188436000000,
+    "intangible_assets": 4959000000,
+    "equity_method_investments": 26531000000,
+    "treasury_stock": -2358000000,
+    "noncontrolling_interests": 9114000000
+  },
+  "segments": [
+    {
+      "key": "Materials",
+      "label": null,
+      "external_revenue": 283808000000,
+      "intersegment_revenue": 16062000000,
+      "revenue": 299870000000,
+      "operating_income": 12732000000,
+      "assets": 350734000000
+    },
+    {
+      "key": "Solutions",
+      "label": null,
+      "external_revenue": 108201000000,
+      "intersegment_revenue": 2841000000,
+      "revenue": 111042000000,
+      "operating_income": 2732000000,
+      "assets": 143411000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00811-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

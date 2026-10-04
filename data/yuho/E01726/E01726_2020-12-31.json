@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01726",
+    "sec_code": "6268",
+    "company_name": "ナブテスコ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4RD"
+  },
+  "financials": {
+    "dps": 75,
+    "net_sales": 279358000000,
+    "net_income": 20505000000,
+    "comprehensive_income": 20201000000,
+    "net_assets": 198031000000,
+    "total_assets": 351723000000,
+    "equity_ratio": 0.563,
+    "bps": 1594.1,
+    "eps": 165.18,
+    "eps_diluted": 165.09,
+    "roe": 0.106,
+    "per": 27.4,
+    "operating_cf": 34203000000,
+    "investing_cf": -10710000000,
+    "financing_cf": -17497000000,
+    "cash_end": 64665000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01726-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

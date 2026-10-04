@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E02380",
+    "sec_code": "7313",
+    "company_name": "テイ・エス　テック株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YCXB"
+  },
+  "financials": {
+    "dps": 90,
+    "net_sales": 442316000000,
+    "net_income": 7134000000,
+    "comprehensive_income": 22668000000,
+    "net_assets": 309869000000,
+    "total_assets": 422709000000,
+    "equity_ratio": 0.733,
+    "bps": 2655.61,
+    "eps": 60.37,
+    "roe": 0.023,
+    "per": 29.4,
+    "operating_cf": 22607000000,
+    "investing_cf": -23719000000,
+    "financing_cf": -22716000000,
+    "cash_end": 92602000000,
+    "operating_income": 10325000000,
+    "gross_profit": 54441000000,
+    "income_tax_expense": 5803000000,
+    "sga_expense": 44204000000,
+    "profit_before_tax": 15461000000,
+    "depreciation": 14447000000,
+    "capex_ppe": -19246000000,
+    "capex_intangible": -2958000000,
+    "current_assets": 229644000000,
+    "current_liabilities": 85002000000,
+    "noncurrent_assets": 193065000000,
+    "trade_receivables": 64064000000,
+    "inventories": 43959000000,
+    "trade_payables": 75340000000,
+    "ppe": 102600000000,
+    "goodwill": 463000000,
+    "intangible_assets": 11526000000,
+    "equity_method_investments": 20603000000,
+    "treasury_stock": -12427000000,
+    "noncontrolling_interests": 17728000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": null,
+      "external_revenue": 260815000000,
+      "intersegment_revenue": 504000000,
+      "revenue": 261320000000,
+      "operating_income": 1466000000
+    },
+    {
+      "key": "AsiaAndEurope",
+      "label": null,
+      "external_revenue": 39146000000,
+      "intersegment_revenue": 3331000000,
+      "revenue": 42478000000,
+      "operating_income": -466000000
+    },
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 53541000000,
+      "intersegment_revenue": 2608000000,
+      "revenue": 56150000000,
+      "operating_income": 6771000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 88812000000,
+      "intersegment_revenue": 23317000000,
+      "revenue": 112130000000,
+      "operating_income": 9626000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02380-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

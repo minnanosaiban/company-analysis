@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E03519",
+    "sec_code": "3088",
+    "company_name": "株式会社マツキヨココカラ＆カンパニー",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-20",
+    "doc_id": "S100W0CL"
+  },
+  "financials": {
+    "net_sales": 1061626000000,
+    "ordinary_income": 86271000000,
+    "net_income": 54675000000,
+    "comprehensive_income": 54057000000,
+    "eps": 133.85,
+    "eps_diluted": 133.81,
+    "dps": 44,
+    "operating_cf": 81472000000,
+    "investing_cf": -20792000000,
+    "financing_cf": -66662000000,
+    "net_assets": 521499000000,
+    "total_assets": 712780000000,
+    "bps": 1290.38,
+    "cash_end": 111750000000,
+    "equity_ratio": 0.731,
+    "roe": 0.106,
+    "per": 17.5,
+    "gross_profit": 372235000000,
+    "operating_income": 82082000000,
+    "income_tax_expense": 29241000000,
+    "interest_bearing_debt_current": 1187000000,
+    "lease_liabilities_current": 411000000,
+    "lease_liabilities_noncurrent": 607000000,
+    "depreciation": 16121000000,
+    "capex_ppe": -8834000000,
+    "capex_intangible": -5624000000,
+    "current_assets": 364316000000,
+    "current_liabilities": 162640000000,
+    "noncurrent_assets": 348463000000,
+    "noncurrent_liabilities": 28640000000,
+    "ppe": 110878000000,
+    "goodwill": 99259000000,
+    "intangible_assets": 128036000000,
+    "investment_securities": 27786000000,
+    "treasury_stock": -24946000000,
+    "noncontrolling_interests": 701000000
+  },
+  "segments": [
+    {
+      "key": "CocokaraFineGroup",
+      "label": null,
+      "external_revenue": 390979000000,
+      "intersegment_revenue": 46000000,
+      "operating_income": 23805000000
+    },
+    {
+      "key": "ManagementBusiness",
+      "label": null,
+      "external_revenue": 3688000000,
+      "intersegment_revenue": 651453000000,
+      "operating_income": 20185000000
+    },
+    {
+      "key": "MatsumotoKiyoshiGroup",
+      "label": null,
+      "external_revenue": 666958000000,
+      "intersegment_revenue": 268000000,
+      "operating_income": 57952000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03519-000_2025-03-31_01_2025-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

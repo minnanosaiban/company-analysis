@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E00331",
+    "sec_code": "2264",
+    "company_name": "森永乳業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-28",
+    "doc_id": "S100TPOT"
+  },
+  "financials": {
+    "net_sales": 547059000000,
+    "ordinary_income": 28104000000,
+    "net_income": 61307000000,
+    "comprehensive_income": 67790000000,
+    "eps": 696.92,
+    "eps_diluted": 696.09,
+    "dps": 60,
+    "operating_cf": 56583000000,
+    "investing_cf": 25223000000,
+    "financing_cf": -38624000000,
+    "net_assets": 282135000000,
+    "total_assets": 565998000000,
+    "bps": 3192.33,
+    "cash_end": 64528000000,
+    "equity_ratio": 0.49,
+    "roe": 0.245,
+    "per": 4.5,
+    "gross_profit": 131958000000,
+    "operating_income": 27839000000,
+    "income_tax_expense": 26680000000,
+    "interest_bearing_debt_current": 4519000000,
+    "interest_bearing_debt_noncurrent": 14199000000,
+    "bonds_payable": 45000000000,
+    "current_portion_of_bonds": 10000000000,
+    "current_portion_lt_loans": 7593000000,
+    "lease_liabilities_current": 1033000000,
+    "lease_liabilities_noncurrent": 4474000000,
+    "depreciation": 22665000000,
+    "current_assets": 229039000000,
+    "current_liabilities": 192682000000,
+    "noncurrent_assets": 336958000000,
+    "noncurrent_liabilities": 91179000000,
+    "trade_payables": 57240000000,
+    "ppe": 268960000000,
+    "goodwill": 10214000000,
+    "intangible_assets": 27321000000,
+    "investment_securities": 26405000000,
+    "treasury_stock": -14241000000,
+    "noncontrolling_interests": 4951000000
+  },
+  "segments": [
+    {
+      "key": "Food",
+      "label": null,
+      "external_revenue": 520715000000,
+      "intersegment_revenue": 218000000,
+      "operating_income": 38119000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00331-000_2024-03-31_01_2024-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

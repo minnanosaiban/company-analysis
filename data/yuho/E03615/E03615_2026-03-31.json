@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E03615",
+    "sec_code": "8411",
+    "company_name": "株式会社みずほフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YF8Y"
+  },
+  "financials": {
+    "ordinary_income": 1573159000000,
+    "net_income": 1248632000000,
+    "comprehensive_income": 1651210000000,
+    "eps": 502.92,
+    "eps_diluted": 502.92,
+    "dps": 145,
+    "operating_cf": -4838533000000,
+    "investing_cf": -6668376000000,
+    "financing_cf": -523153000000,
+    "net_assets": 11403890000000,
+    "total_assets": 302240042000000,
+    "bps": 4640.23,
+    "cash_end": 59677580000000,
+    "equity_ratio": 0.0374,
+    "roe": 0.1147,
+    "per": 12.1,
+    "income_tax_expense": 453785000000,
+    "bonds_payable": 15444980000000,
+    "commercial_papers": 1921799000000,
+    "depreciation": 231791000000,
+    "capex_ppe": -96688000000,
+    "capex_intangible": -222263000000,
+    "ppe": 1137346000000,
+    "goodwill": 140127000000,
+    "intangible_assets": 882257000000,
+    "treasury_stock": -311529000000,
+    "noncontrolling_interests": 87361000000,
+    "ordinary_revenue": 9085438000000
+  },
+  "segments": [
+    {
+      "key": "AMC",
+      "label": null,
+      "equity_method_income": -1895000000
+    },
+    {
+      "key": "CIBC",
+      "label": null,
+      "equity_method_income": 11920000000
+    },
+    {
+      "key": "GCIBC",
+      "label": null,
+      "equity_method_income": 26817000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "equity_method_income": 3712000000
+    },
+    {
+      "key": "RBC",
+      "label": null,
+      "equity_method_income": 11712000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03615-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E03814",
+    "sec_code": "8697",
+    "company_name": "株式会社日本取引所グループ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-09",
+    "doc_id": "S100QWQB"
+  },
+  "financials": {
+    "dps": 54,
+    "net_sales": 123688000000,
+    "net_income": 47609000000,
+    "comprehensive_income": 49490000000,
+    "net_assets": 298228000000,
+    "total_assets": 67286302000000,
+    "equity_ratio": 0.004,
+    "bps": 556.97,
+    "eps": 88.91,
+    "roe": 0.163,
+    "per": 21.4,
+    "operating_cf": 56881000000,
+    "investing_cf": -9434000000,
+    "financing_cf": -39411000000,
+    "cash_end": 71883000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03814-000_2023-03-31_01_2023-06-09.csv",
+    "parser_version": "0.1.3"
+  }
+}

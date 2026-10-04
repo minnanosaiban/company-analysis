@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01417",
+    "sec_code": "5947",
+    "company_name": "リンナイ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R0HV"
+  },
+  "financials": {
+    "net_sales": 344364000000,
+    "ordinary_income": 42400000000,
+    "net_income": 27581000000,
+    "comprehensive_income": 36763000000,
+    "eps": 178.87,
+    "dps": 125,
+    "operating_cf": 49491000000,
+    "investing_cf": -15820000000,
+    "financing_cf": -7269000000,
+    "net_assets": 371318000000,
+    "total_assets": 497291000000,
+    "bps": 2220.13,
+    "cash_end": 166524000000,
+    "equity_ratio": 0.688,
+    "roe": 0.084,
+    "per": 23.09
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01417-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

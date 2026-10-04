@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E01601",
+    "sec_code": "6472",
+    "company_name": "ＮＴＮ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R2L5"
+  },
+  "financials": {
+    "net_sales": 651956000000,
+    "ordinary_income": -1698000000,
+    "net_income": -43992000000,
+    "comprehensive_income": -68523000000,
+    "eps": -82.83,
+    "dps": 5,
+    "operating_cf": 43749000000,
+    "investing_cf": -61807000000,
+    "financing_cf": 7413000000,
+    "net_assets": 168378000000,
+    "total_assets": 757822000000,
+    "bps": 294,
+    "cash_end": 71165000000,
+    "equity_ratio": 0.206,
+    "roe": -0.228
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01601-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

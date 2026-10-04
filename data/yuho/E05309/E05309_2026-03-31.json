@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E05309",
+    "sec_code": "2331",
+    "company_name": "ＡＬＳＯＫ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100Y7EC"
+  },
+  "financials": {
+    "net_sales": 597026000000,
+    "ordinary_income": 49913000000,
+    "net_income": 33262000000,
+    "comprehensive_income": 60430000000,
+    "eps": 68.49,
+    "dps": 29.2,
+    "operating_cf": 53786000000,
+    "investing_cf": -39212000000,
+    "financing_cf": -7751000000,
+    "net_assets": 426941000000,
+    "total_assets": 675024000000,
+    "bps": 789.42,
+    "cash_end": 66814000000,
+    "equity_ratio": 0.568,
+    "roe": 0.092,
+    "per": 18.3,
+    "gross_profit": 143056000000,
+    "operating_income": 46919000000,
+    "income_tax_expense": 14579000000,
+    "interest_bearing_debt_current": 37227000000,
+    "interest_bearing_debt_noncurrent": 12406000000,
+    "bonds_payable": 100000000,
+    "current_portion_lt_loans": 3351000000,
+    "lease_liabilities_current": 5502000000,
+    "lease_liabilities_noncurrent": 35532000000,
+    "depreciation": 21393000000,
+    "capex_ppe": -35308000000,
+    "capex_intangible": -3826000000,
+    "current_assets": 297870000000,
+    "current_liabilities": 139510000000,
+    "noncurrent_assets": 377154000000,
+    "noncurrent_liabilities": 108572000000,
+    "trade_payables": 28991000000,
+    "ppe": 145992000000,
+    "goodwill": 27456000000,
+    "intangible_assets": 36715000000,
+    "investment_securities": 73443000000,
+    "treasury_stock": -20154000000,
+    "noncontrolling_interests": 43307000000
+  },
+  "segments": [
+    {
+      "key": "LongTermCareServices",
+      "label": null,
+      "external_revenue": 55242000000,
+      "intersegment_revenue": 7000000,
+      "operating_income": 2238000000
+    },
+    {
+      "key": "OverseasService",
+      "label": null,
+      "external_revenue": 27983000000,
+      "operating_income": -1110000000
+    },
+    {
+      "key": "SecurityServices",
+      "label": null,
+      "external_revenue": 420814000000,
+      "intersegment_revenue": 299000000,
+      "operating_income": 45416000000
+    },
+    {
+      "key": "TotalBuildingManagementServicesAndDisasterPreventionServices",
+      "label": null,
+      "external_revenue": 92984000000,
+      "intersegment_revenue": 455000000,
+      "operating_income": 11276000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05309-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E01601",
+    "sec_code": "6472",
+    "company_name": "ＮＴＮ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R2L5"
+  },
+  "financials": {
+    "net_sales": 642023000000,
+    "ordinary_income": 6815000000,
+    "net_income": 7341000000,
+    "comprehensive_income": 30983000000,
+    "eps": 13.83,
+    "operating_cf": 8956000000,
+    "investing_cf": 2512000000,
+    "financing_cf": -41300000000,
+    "net_assets": 216425000000,
+    "total_assets": 855483000000,
+    "bps": 372.7,
+    "cash_end": 121460000000,
+    "equity_ratio": 0.231,
+    "roe": 0.04,
+    "per": 15.47,
+    "gross_profit": 105953000000,
+    "operating_income": 6880000000,
+    "income_tax_expense": 5071000000,
+    "interest_bearing_debt_current": 134229000000,
+    "interest_bearing_debt_noncurrent": 179802000000,
+    "bonds_payable": 80000000000,
+    "depreciation": 37898000000,
+    "capex_ppe": -16336000000,
+    "capex_intangible": -5534000000,
+    "current_assets": 512031000000,
+    "current_liabilities": 321205000000,
+    "noncurrent_assets": 343451000000,
+    "noncurrent_liabilities": 317853000000,
+    "trade_receivables": 125507000000,
+    "trade_payables": 61033000000,
+    "ppe": 265797000000,
+    "goodwill": 1983000000,
+    "intangible_assets": 44029000000,
+    "investment_securities": 24679000000,
+    "treasury_stock": -866000000,
+    "noncontrolling_interests": 18574000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": null,
+      "external_revenue": 177563000000,
+      "intersegment_revenue": 1080000000,
+      "operating_income": -7427000000
+    },
+    {
+      "key": "AsiaAndOtherAreas",
+      "label": null,
+      "external_revenue": 138369000000,
+      "intersegment_revenue": 8941000000,
+      "operating_income": 14090000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 139236000000,
+      "intersegment_revenue": 4211000000,
+      "operating_income": -4265000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 186854000000,
+      "intersegment_revenue": 134260000000,
+      "operating_income": 7621000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01601-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

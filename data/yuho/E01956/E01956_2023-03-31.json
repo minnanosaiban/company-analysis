@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E01956",
+    "sec_code": "9766",
+    "company_name": "コナミグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8NA"
+  },
+  "financials": {
+    "dps": 124,
+    "net_sales": 314321000000,
+    "net_income": 34895000000,
+    "comprehensive_income": 39834000000,
+    "net_assets": 376264000000,
+    "total_assets": 547223000000,
+    "equity_ratio": 0.688,
+    "bps": 2775.65,
+    "eps": 258.81,
+    "eps_diluted": 257.49,
+    "roe": 0.096,
+    "per": 23.45,
+    "operating_cf": 36098000000,
+    "investing_cf": -42786000000,
+    "financing_cf": -27467000000,
+    "cash_end": 219263000000,
+    "operating_income": 46185000000,
+    "gross_profit": 122391000000,
+    "income_tax_expense": 12225000000,
+    "interest_bearing_debt_noncurrent": 59819000000,
+    "sga_expense": 65780000000,
+    "profit_before_tax": 47120000000,
+    "depreciation": 23845000000,
+    "current_assets": 290041000000,
+    "current_liabilities": 75094000000,
+    "noncurrent_assets": 257182000000,
+    "trade_receivables": 39276000000,
+    "inventories": 12705000000,
+    "trade_payables": 37558000000,
+    "ppe": 155788000000,
+    "goodwill": 15700000000,
+    "investment_securities": 1890000000,
+    "equity_method_investments": 3239000000,
+    "treasury_stock": -21594000000,
+    "noncontrolling_interests": 15000000
+  },
+  "segments": [
+    {
+      "key": "Amusement",
+      "label": null,
+      "operating_income": 2782000000,
+      "assets": 54909000000
+    },
+    {
+      "key": "DigitalEntertainment",
+      "label": null,
+      "operating_income": 53009000000,
+      "assets": 254699000000
+    },
+    {
+      "key": "GamingAndSystems",
+      "label": null,
+      "operating_income": 5169000000,
+      "assets": 44135000000
+    },
+    {
+      "key": "Sports",
+      "label": null,
+      "operating_income": 451000000,
+      "assets": 54350000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01956-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

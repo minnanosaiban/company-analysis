@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E02015",
+    "sec_code": "6869",
+    "company_name": "シスメックス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-26",
+    "doc_id": "S100W5IV"
+  },
+  "financials": {
+    "dps": 32,
+    "net_sales": 508643000000,
+    "net_income": 53669000000,
+    "comprehensive_income": 49527000000,
+    "net_assets": 463776000000,
+    "total_assets": 665268000000,
+    "equity_ratio": 0.6971,
+    "bps": 743.71,
+    "eps": 86.07,
+    "eps_diluted": 86.05,
+    "roe": 0.1198,
+    "per": 32.96,
+    "operating_cf": 88246000000,
+    "investing_cf": -52488000000,
+    "financing_cf": -24322000000,
+    "cash_end": 89570000000,
+    "operating_income": 87583000000,
+    "gross_profit": 271977000000,
+    "income_tax_expense": 25645000000,
+    "lease_liabilities_current": 9250000000,
+    "lease_liabilities_noncurrent": 23126000000,
+    "sga_expense": 150848000000,
+    "profit_before_tax": 79221000000,
+    "depreciation": 39033000000,
+    "capex_ppe": -29226000000,
+    "capex_intangible": -20733000000,
+    "current_assets": 364821000000,
+    "current_liabilities": 122826000000,
+    "noncurrent_assets": 300447000000,
+    "trade_receivables": 163007000000,
+    "inventories": 81811000000,
+    "trade_payables": 31865000000,
+    "ppe": 130211000000,
+    "goodwill": 14205000000,
+    "intangible_assets": 92146000000,
+    "equity_method_investments": 339000000,
+    "treasury_stock": -12318000000,
+    "noncontrolling_interests": 758000000
+  },
+  "segments": [
+    {
+      "key": "APRHQ",
+      "label": null,
+      "external_revenue": 38239000000,
+      "intersegment_revenue": 50000000,
+      "operating_income": 3579000000
+    },
+    {
+      "key": "AmericasRHQ",
+      "label": null,
+      "external_revenue": 122916000000,
+      "intersegment_revenue": 30000000,
+      "operating_income": 6743000000
+    },
+    {
+      "key": "ChinaRHQ",
+      "label": null,
+      "external_revenue": 117828000000,
+      "intersegment_revenue": 489000000,
+      "operating_income": 10646000000
+    },
+    {
+      "key": "EMEARHQ",
+      "label": null,
+      "external_revenue": 135671000000,
+      "intersegment_revenue": 604000000,
+      "operating_income": 10583000000
+    },
+    {
+      "key": "Headquarter",
+      "label": null,
+      "external_revenue": 93988000000,
+      "intersegment_revenue": 161269000000,
+      "operating_income": 59104000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02015-000_2025-03-31_01_2025-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

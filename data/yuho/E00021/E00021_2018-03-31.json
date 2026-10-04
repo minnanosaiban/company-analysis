@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E00021",
+    "sec_code": "5711",
+    "company_name": "三菱マテリアル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1E4"
+  },
+  "financials": {
+    "net_sales": 1599533000000,
+    "ordinary_income": 79621000000,
+    "net_income": 34595000000,
+    "comprehensive_income": 80068000000,
+    "eps": 264.15,
+    "dps": 80,
+    "operating_cf": 50715000000,
+    "investing_cf": -83957000000,
+    "financing_cf": -11034000000,
+    "net_assets": 768495000000,
+    "total_assets": 2011067000000,
+    "bps": 5211.2,
+    "cash_end": 87355000000,
+    "equity_ratio": 0.339,
+    "roe": 0.053,
+    "per": 12.1,
+    "gross_profit": 219655000000,
+    "operating_income": 72819000000,
+    "income_tax_expense": 18941000000,
+    "interest_bearing_debt_current": 206142000000,
+    "interest_bearing_debt_noncurrent": 240292000000,
+    "bonds_payable": 50000000000,
+    "current_portion_of_bonds": 25000000000,
+    "depreciation": 57025000000,
+    "capex_ppe": -71494000000,
+    "capex_intangible": -1431000000,
+    "current_assets": 945077000000,
+    "current_liabilities": 777001000000,
+    "noncurrent_assets": 1065989000000,
+    "noncurrent_liabilities": 465570000000,
+    "trade_receivables": 260427000000,
+    "trade_payables": 158369000000,
+    "ppe": 645559000000,
+    "goodwill": 44636000000,
+    "intangible_assets": 64574000000,
+    "investment_securities": 303924000000,
+    "treasury_stock": -2089000000,
+    "noncontrolling_interests": 86023000000
+  },
+  "segments": [
+    {
+      "key": "AdvancedProducts",
+      "label": null,
+      "external_revenue": 523071000000,
+      "intersegment_revenue": 13012000000,
+      "ordinary_income": 18491000000,
+      "equity_method_income": 1355000000
+    },
+    {
+      "key": "MetalWorkingSolutions",
+      "label": null,
+      "external_revenue": 149635000000,
+      "intersegment_revenue": 11542000000,
+      "ordinary_income": 16808000000,
+      "equity_method_income": 43000000
+    },
+    {
+      "key": "Metals",
+      "label": null,
+      "external_revenue": 542833000000,
+      "intersegment_revenue": 172506000000,
+      "ordinary_income": 25400000000,
+      "equity_method_income": 1305000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00021-000_2019-03-31_02_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

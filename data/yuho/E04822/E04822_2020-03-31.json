@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04822",
+    "sec_code": "9759",
+    "company_name": "株式会社ＮＳＤ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R2P3"
+  },
+  "financials": {
+    "net_sales": 65063982000,
+    "ordinary_income": 9661931000,
+    "net_income": 6314361000,
+    "comprehensive_income": 6183447000,
+    "eps": 78.21,
+    "eps_diluted": 78.21,
+    "dps": 60,
+    "operating_cf": 6764370000,
+    "investing_cf": 4285725000,
+    "financing_cf": -8569915000,
+    "net_assets": 44978740000,
+    "total_assets": 53885806000,
+    "bps": 557.46,
+    "cash_end": 25172534000,
+    "equity_ratio": 0.825,
+    "roe": 0.138,
+    "per": 18.41
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04822-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

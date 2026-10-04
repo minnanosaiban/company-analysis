@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E05027",
+    "sec_code": "4716",
+    "company_name": "日本オラクル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": false,
+    "fiscal_year_end": "2023-05-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-08-24",
+    "doc_id": "S100RQSH"
+  },
+  "financials": {
+    "dps": 162,
+    "net_sales": 226914000000,
+    "ordinary_income": 74681000000,
+    "eps": 405.98,
+    "eps_diluted": 405.91,
+    "operating_cf": 67732000000,
+    "investing_cf": -743000000,
+    "financing_cf": -22666000000,
+    "net_assets": 155854000000,
+    "total_assets": 281015000000,
+    "bps": 1217.05,
+    "cash_end": 104531000000,
+    "equity_ratio": 0.554,
+    "roe": 0.37,
+    "per": 26.31,
+    "gross_profit": 108292000000,
+    "operating_income": 74396000000,
+    "income_tax_expense": 21375000000,
+    "depreciation": 1333000000,
+    "capex_ppe": -765000000,
+    "capex_intangible": 0,
+    "current_assets": 130831000000,
+    "current_liabilities": 125161000000,
+    "noncurrent_assets": 150184000000,
+    "noncurrent_liabilities": 0,
+    "ppe": 34973000000,
+    "intangible_assets": 1000000,
+    "investment_securities": 36000000,
+    "treasury_stock": -2452000000
+  },
+  "segments": [
+    {
+      "key": "CloudAndLicense",
+      "label": null,
+      "external_revenue": 189851000000,
+      "operating_income": 73881000000
+    },
+    {
+      "key": "HardwareSystems",
+      "label": null,
+      "external_revenue": 16240000000,
+      "operating_income": 625000000
+    },
+    {
+      "key": "Services",
+      "label": null,
+      "external_revenue": 20822000000,
+      "operating_income": 4757000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05027-000_2023-05-31_01_2023-08-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

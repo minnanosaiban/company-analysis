@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E00436",
+    "sec_code": "2802",
+    "company_name": "味の素株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-12",
+    "doc_id": "S100Y992"
+  },
+  "financials": {
+    "dps": 48,
+    "net_sales": 1583719000000,
+    "net_income": 134675000000,
+    "total_assets": 1812346000000,
+    "equity_ratio": 0.425,
+    "bps": 804.24,
+    "eps": 138.36,
+    "eps_diluted": 138.36,
+    "roe": 0.177,
+    "per": 31.8,
+    "operating_cf": 239351000000,
+    "investing_cf": -84229000000,
+    "financing_cf": -225603000000,
+    "cash_end": 106693000000,
+    "operating_income": 199412000000,
+    "gross_profit": 597148000000,
+    "income_tax_expense": 51054000000,
+    "profit_before_tax": 196115000000,
+    "depreciation": 88914000000,
+    "capex_ppe": -96446000000,
+    "capex_intangible": -8104000000,
+    "current_assets": 704170000000,
+    "current_liabilities": 449063000000,
+    "noncurrent_assets": 1108176000000,
+    "inventories": 318632000000,
+    "ppe": 647381000000,
+    "goodwill": 124051000000,
+    "intangible_assets": 92231000000,
+    "equity_method_investments": 138571000000,
+    "treasury_stock": -67337000000,
+    "noncontrolling_interests": 73456000000
+  },
+  "segments": [
+    {
+      "key": "FrozenFoods",
+      "label": null,
+      "external_revenue": 290308000000,
+      "intersegment_revenue": 718000000,
+      "assets": 217091000000
+    },
+    {
+      "key": "HealthcareAndOthers",
+      "label": null,
+      "external_revenue": 341504000000,
+      "intersegment_revenue": 6054000000,
+      "equity_method_income": -287000000,
+      "assets": 480731000000
+    },
+    {
+      "key": "SeasoningsAndFoods",
+      "label": null,
+      "external_revenue": 936926000000,
+      "intersegment_revenue": 9121000000,
+      "equity_method_income": 3651000000,
+      "assets": 725216000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00436-000_2026-03-31_01_2026-06-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

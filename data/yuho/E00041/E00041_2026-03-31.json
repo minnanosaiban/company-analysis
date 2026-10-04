@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E00041",
+    "sec_code": "1662",
+    "company_name": "石油資源開発株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YERU"
+  },
+  "financials": {
+    "net_sales": 340336000000,
+    "ordinary_income": 61556000000,
+    "net_income": 53427000000,
+    "comprehensive_income": 114794000000,
+    "eps": 208.74,
+    "dps": 65,
+    "operating_cf": 102976000000,
+    "investing_cf": -200494000000,
+    "financing_cf": 6007000000,
+    "net_assets": 658897000000,
+    "total_assets": 862470000000,
+    "bps": 2451.33,
+    "cash_end": 49954000000,
+    "equity_ratio": 0.728,
+    "roe": 0.092,
+    "per": 12.49,
+    "gross_profit": 76741000000,
+    "operating_income": 38915000000,
+    "income_tax_expense": 5431000000,
+    "depreciation": 47050000000,
+    "capex_ppe": -28630000000,
+    "capex_intangible": -613000000,
+    "current_assets": 155359000000,
+    "current_liabilities": 89291000000,
+    "noncurrent_assets": 707111000000,
+    "noncurrent_liabilities": 114280000000,
+    "trade_receivables": 39324000000,
+    "trade_payables": 3398000000,
+    "ppe": 373390000000,
+    "goodwill": 706000000,
+    "intangible_assets": 5537000000,
+    "investment_securities": 274024000000,
+    "treasury_stock": -925000000,
+    "noncontrolling_interests": 31359000000
+  },
+  "segments": [
+    {
+      "key": "Eourope",
+      "label": "欧州",
+      "external_revenue": 8072000000,
+      "operating_income": 1626000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 248194000000,
+      "operating_income": 30869000000,
+      "equity_method_income": 193000000
+    },
+    {
+      "key": "MiddleEast",
+      "label": "中東",
+      "external_revenue": 31692000000,
+      "operating_income": 2968000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": "北米",
+      "external_revenue": 52377000000,
+      "operating_income": 17082000000,
+      "equity_method_income": 2931000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00041-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

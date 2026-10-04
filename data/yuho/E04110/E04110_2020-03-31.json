@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04110",
+    "sec_code": "9031",
+    "company_name": "西日本鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8UE"
+  },
+  "financials": {
+    "ordinary_income": 14322000000,
+    "net_income": 6678000000,
+    "comprehensive_income": 2244000000,
+    "eps": 84.76,
+    "eps_diluted": 84.46,
+    "dps": 35,
+    "operating_cf": 18207000000,
+    "investing_cf": -42744000000,
+    "financing_cf": 32339000000,
+    "net_assets": 180549000000,
+    "total_assets": 667150000000,
+    "bps": 2220.44,
+    "cash_end": 33794000000,
+    "equity_ratio": 0.262,
+    "roe": 0.0381,
+    "per": 31.35
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04110-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

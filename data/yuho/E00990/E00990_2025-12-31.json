@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E00990",
+    "sec_code": "4911",
+    "company_name": "株式会社資生堂",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XSCU"
+  },
+  "financials": {
+    "dps": 40,
+    "net_sales": 969992000000,
+    "net_income": -40680000000,
+    "comprehensive_income": -12322000000,
+    "net_assets": 600756000000,
+    "total_assets": 1267256000000,
+    "equity_ratio": 0.474,
+    "bps": 1503.64,
+    "eps": -101.83,
+    "eps_diluted": -101.83,
+    "roe": -0.066,
+    "operating_cf": 109890000000,
+    "investing_cf": -43424000000,
+    "financing_cf": -77248000000,
+    "cash_end": 91839000000,
+    "operating_income": -28788000000,
+    "gross_profit": 743003000000,
+    "income_tax_expense": 12048000000,
+    "interest_bearing_debt_current": 30000000000,
+    "interest_bearing_debt_noncurrent": 181617000000,
+    "lease_liabilities_current": 20205000000,
+    "lease_liabilities_noncurrent": 91337000000,
+    "sga_expense": 725558000000,
+    "profit_before_tax": -27715000000,
+    "depreciation": 71735000000,
+    "capex_ppe": -25299000000,
+    "capex_intangible": -19127000000,
+    "current_assets": 471514000000,
+    "current_liabilities": 344989000000,
+    "noncurrent_assets": 795741000000,
+    "trade_receivables": 163329000000,
+    "inventories": 147135000000,
+    "trade_payables": 141571000000,
+    "ppe": 283813000000,
+    "goodwill": 58793000000,
+    "intangible_assets": 176116000000,
+    "equity_method_investments": 2972000000,
+    "treasury_stock": -1868000000,
+    "noncontrolling_interests": 20513000000
+  },
+  "segments": [
+    {
+      "key": "AmericasBusiness",
+      "label": null,
+      "external_revenue": 106584000000,
+      "intersegment_revenue": 4590000000
+    },
+    {
+      "key": "AsiaPacificBusiness",
+      "label": null,
+      "external_revenue": 73290000000,
+      "intersegment_revenue": 1266000000
+    },
+    {
+      "key": "ChinaAndTravelRetailBusiness",
+      "label": null,
+      "external_revenue": 342244000000,
+      "intersegment_revenue": 3417000000
+    },
+    {
+      "key": "EMEABusiness",
+      "label": null,
+      "external_revenue": 141129000000,
+      "intersegment_revenue": 5296000000
+    },
+    {
+      "key": "JapanBusiness",
+      "label": null,
+      "external_revenue": 295343000000,
+      "intersegment_revenue": 1106000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00990-000_2025-12-31_01_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

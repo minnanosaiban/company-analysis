@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E03450",
+    "sec_code": "3360",
+    "company_name": "シップヘルスケアホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R9RR"
+  },
+  "financials": {
+    "net_sales": 572285000000,
+    "ordinary_income": 20607000000,
+    "net_income": 12063000000,
+    "comprehensive_income": 13433000000,
+    "eps": 127.85,
+    "eps_diluted": 115.92,
+    "dps": 42,
+    "operating_cf": 14105000000,
+    "investing_cf": -6774000000,
+    "financing_cf": -1022000000,
+    "net_assets": 131115000000,
+    "total_assets": 381977000000,
+    "bps": 1357.05,
+    "cash_end": 79020000000,
+    "equity_ratio": 0.335,
+    "roe": 0.098,
+    "per": 19.1,
+    "gross_profit": 60617000000,
+    "operating_income": 21144000000,
+    "income_tax_expense": 8681000000,
+    "interest_bearing_debt_current": 1815000000,
+    "interest_bearing_debt_noncurrent": 41571000000,
+    "current_portion_lt_loans": 5536000000,
+    "depreciation": 5213000000,
+    "capex_ppe": -3469000000,
+    "capex_intangible": -439000000,
+    "current_assets": 257241000000,
+    "current_liabilities": 197020000000,
+    "noncurrent_assets": 124735000000,
+    "noncurrent_liabilities": 53842000000,
+    "trade_payables": 109883000000,
+    "ppe": 65127000000,
+    "goodwill": 12320000000,
+    "intangible_assets": 16149000000,
+    "investment_securities": 25424000000,
+    "treasury_stock": -15526000000,
+    "noncontrolling_interests": 3077000000
+  },
+  "segments": [
+    {
+      "key": "DispensingPharmacy",
+      "label": null,
+      "external_revenue": 30499000000,
+      "intersegment_revenue": 103000000,
+      "operating_income": 3256000000
+    },
+    {
+      "key": "LifeCare",
+      "label": null,
+      "external_revenue": 33581000000,
+      "intersegment_revenue": 76000000,
+      "operating_income": 2055000000
+    },
+    {
+      "key": "MedicalSupplies",
+      "label": null,
+      "external_revenue": 386335000000,
+      "intersegment_revenue": 1660000000,
+      "operating_income": 6666000000
+    },
+    {
+      "key": "TotalPackProduce",
+      "label": null,
+      "external_revenue": 121868000000,
+      "intersegment_revenue": 3013000000,
+      "operating_income": 9024000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03450-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E01892",
+    "sec_code": "6902",
+    "company_name": "株式会社デンソー",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QXX3"
+  },
+  "financials": {
+    "dps": 185,
+    "net_sales": 6401320000000,
+    "net_income": 314633000000,
+    "net_assets": 4376928000000,
+    "total_assets": 7408662000000,
+    "equity_ratio": 0.5908,
+    "bps": 5845.08,
+    "eps": 416.01,
+    "roe": 0.0725,
+    "per": 17.89,
+    "operating_cf": 602720000000,
+    "investing_cf": -363676000000,
+    "financing_cf": -400099000000,
+    "cash_end": 733850000000,
+    "operating_income": 426099000000,
+    "gross_profit": 911144000000,
+    "income_tax_expense": 109009000000,
+    "interest_bearing_debt_current": 303509000000,
+    "interest_bearing_debt_noncurrent": 585765000000,
+    "sga_expense": 490454000000,
+    "profit_before_tax": 456870000000,
+    "depreciation": 364635000000,
+    "capex_ppe": -360576000000,
+    "capex_intangible": -53738000000,
+    "current_assets": 3277586000000,
+    "current_liabilities": 1796784000000,
+    "noncurrent_assets": 4131076000000,
+    "trade_receivables": 1263768000000,
+    "inventories": 1119780000000,
+    "trade_payables": 1219317000000,
+    "ppe": 1955240000000,
+    "goodwill": 23181000000,
+    "intangible_assets": 170212000000,
+    "equity_method_investments": 110173000000,
+    "treasury_stock": -252270000000,
+    "noncontrolling_interests": 202783000000
+  },
+  "segments": [
+    {
+      "key": "Asia",
+      "label": "アジア",
+      "external_revenue": 1680872000000,
+      "intersegment_revenue": 250783000000,
+      "revenue": 1931655000000,
+      "operating_income": 158286000000,
+      "assets": 1637956000000
+    },
+    {
+      "key": "Europe",
+      "label": "欧州",
+      "external_revenue": 624329000000,
+      "intersegment_revenue": 61223000000,
+      "revenue": 685552000000,
+      "operating_income": 17460000000,
+      "assets": 489271000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 2509604000000,
+      "intersegment_revenue": 1196230000000,
+      "revenue": 3705834000000,
+      "operating_income": 215573000000,
+      "assets": 4715599000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": "北米",
+      "external_revenue": 1486718000000,
+      "intersegment_revenue": 17370000000,
+      "revenue": 1504088000000,
+      "operating_income": 17921000000,
+      "assets": 830651000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01892-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

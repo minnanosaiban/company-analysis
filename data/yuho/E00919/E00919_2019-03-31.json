@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E00919",
+    "sec_code": "4502",
+    "company_name": "武田薬品工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R3K7"
+  },
+  "financials": {
+    "dps": 180,
+    "net_sales": 2097224000000,
+    "net_income": 135192000000,
+    "total_assets": 13792773000000,
+    "equity_ratio": 0.376,
+    "bps": 3332.94,
+    "eps": 140.61,
+    "eps_diluted": 139.82,
+    "roe": 0.038,
+    "per": 32.2,
+    "operating_cf": 328479000000,
+    "investing_cf": -2835698000000,
+    "financing_cf": 2946237000000,
+    "cash_end": 702093000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00919-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

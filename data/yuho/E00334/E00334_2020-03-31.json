@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E00334",
+    "sec_code": "2282",
+    "company_name": "日本ハム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R1UE"
+  },
+  "financials": {
+    "dps": 90,
+    "net_income": 19214000000,
+    "comprehensive_income": 13341000000,
+    "net_assets": 404414000000,
+    "total_assets": 768861000000,
+    "equity_ratio": 0.526,
+    "bps": 3929.43,
+    "eps": 186.7,
+    "eps_diluted": 186.64,
+    "roe": 0.0477,
+    "per": 20.17,
+    "operating_cf": 65464000000,
+    "investing_cf": -36728000000,
+    "financing_cf": -3077000000,
+    "cash_end": 72399000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00334-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

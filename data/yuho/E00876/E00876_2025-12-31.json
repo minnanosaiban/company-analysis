@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E00876",
+    "sec_code": "3405",
+    "company_name": "株式会社クラレ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-25",
+    "doc_id": "S100XSSZ"
+  },
+  "financials": {
+    "net_sales": 808447000000,
+    "ordinary_income": 51515000000,
+    "net_income": 7468000000,
+    "comprehensive_income": 24918000000,
+    "eps": 23.62,
+    "eps_diluted": 23.6,
+    "dps": 54,
+    "operating_cf": 98591000000,
+    "investing_cf": -98129000000,
+    "financing_cf": -16305000000,
+    "net_assets": 755175000000,
+    "total_assets": 1303511000000,
+    "bps": 2418.65,
+    "cash_end": 108314000000,
+    "equity_ratio": 0.57,
+    "roe": 0.01,
+    "per": 67.2,
+    "gross_profit": 246508000000,
+    "operating_income": 58882000000,
+    "income_tax_expense": 15082000000,
+    "interest_bearing_debt_current": 45120000000,
+    "interest_bearing_debt_noncurrent": 146187000000,
+    "bonds_payable": 50000000000,
+    "commercial_papers": 11000000000,
+    "current_portion_lt_loans": 32612000000,
+    "depreciation": 84702000000,
+    "current_assets": 578403000000,
+    "current_liabilities": 228229000000,
+    "noncurrent_assets": 725108000000,
+    "noncurrent_liabilities": 320106000000,
+    "trade_payables": 58490000000,
+    "ppe": 549112000000,
+    "goodwill": 52212000000,
+    "intangible_assets": 110630000000,
+    "investment_securities": 23523000000,
+    "treasury_stock": -1623000000,
+    "noncontrolling_interests": 12325000000
+  },
+  "segments": [
+    {
+      "key": "FibersAndTextiles",
+      "label": null,
+      "external_revenue": 56265000000,
+      "intersegment_revenue": 4484000000,
+      "operating_income": 2633000000
+    },
+    {
+      "key": "FunctionalMaterials",
+      "label": null,
+      "external_revenue": 202208000000,
+      "intersegment_revenue": 4730000000,
+      "operating_income": 10826000000
+    },
+    {
+      "key": "Isoprene",
+      "label": null,
+      "external_revenue": 61057000000,
+      "intersegment_revenue": 19320000000,
+      "operating_income": -4864000000
+    },
+    {
+      "key": "Trading",
+      "label": null,
+      "external_revenue": 67343000000,
+      "intersegment_revenue": 1423000000,
+      "operating_income": 6039000000
+    },
+    {
+      "key": "VinylAcetate",
+      "label": null,
+      "external_revenue": 387169000000,
+      "intersegment_revenue": 17325000000,
+      "operating_income": 62545000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00876-000_2025-12-31_01_2026-03-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

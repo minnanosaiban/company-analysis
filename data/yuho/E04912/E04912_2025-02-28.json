@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E04912",
+    "sec_code": "8570",
+    "company_name": "イオンフィナンシャルサービス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-05-21",
+    "doc_id": "S100VSIO"
+  },
+  "financials": {
+    "ordinary_income": 62554000000,
+    "net_income": 19527000000,
+    "comprehensive_income": 35304000000,
+    "eps": 90.46,
+    "eps_diluted": 90.45,
+    "dps": 53,
+    "operating_cf": 347337000000,
+    "investing_cf": -158479000000,
+    "financing_cf": -19919000000,
+    "net_assets": 589649000000,
+    "total_assets": 7760375000000,
+    "bps": 2154.07,
+    "cash_end": 795068000000,
+    "equity_ratio": 0.06,
+    "roe": 0.042,
+    "per": 13.4,
+    "operating_income": 61485000000,
+    "income_tax_expense": 20370000000,
+    "interest_bearing_debt_current": 169081000000,
+    "interest_bearing_debt_noncurrent": 586476000000,
+    "bonds_payable": 203976000000,
+    "commercial_papers": 8281000000,
+    "current_portion_of_bonds": 95888000000,
+    "current_portion_lt_loans": 217297000000,
+    "depreciation": 30144000000,
+    "capex_ppe": -2622000000,
+    "capex_intangible": -36964000000,
+    "current_assets": 7425710000000,
+    "current_liabilities": 6298229000000,
+    "noncurrent_assets": 334250000000,
+    "noncurrent_liabilities": 872496000000,
+    "ppe": 34512000000,
+    "goodwill": 42188000000,
+    "intangible_assets": 189527000000,
+    "investment_securities": 14926000000,
+    "treasury_stock": -330000000,
+    "noncontrolling_interests": 124626000000
+  },
+  "segments": [
+    {
+      "key": "ChinaArea",
+      "label": "中華圏",
+      "external_revenue": 35596000000,
+      "operating_income": 9319000000
+    },
+    {
+      "key": "MalayArea",
+      "label": "マレー圏",
+      "external_revenue": 91139000000,
+      "operating_income": 13421000000
+    },
+    {
+      "key": "MekongArea",
+      "label": "メコン圏",
+      "external_revenue": 95747000000,
+      "intersegment_revenue": 31000000,
+      "operating_income": 16007000000
+    },
+    {
+      "key": "Retail",
+      "label": "リテール",
+      "external_revenue": 191207000000,
+      "intersegment_revenue": 2172000000,
+      "operating_income": 10503000000
+    },
+    {
+      "key": "Solutions",
+      "label": "ソリューション",
+      "external_revenue": 119536000000,
+      "intersegment_revenue": 72963000000,
+      "operating_income": 9808000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04912-000_2025-02-28_01_2025-05-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

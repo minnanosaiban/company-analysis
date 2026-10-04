@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E00774",
+    "sec_code": "4061",
+    "company_name": "デンカ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TO95"
+  },
+  "financials": {
+    "net_sales": 389263000000,
+    "ordinary_income": 5474000000,
+    "net_income": 11947000000,
+    "comprehensive_income": 19301000000,
+    "eps": 138.61,
+    "dps": 100,
+    "operating_cf": 36260000000,
+    "investing_cf": -22572000000,
+    "financing_cf": 712000000,
+    "net_assets": 316915000000,
+    "total_assets": 616244000000,
+    "bps": 3568.69,
+    "cash_end": 35386000000,
+    "equity_ratio": 0.499,
+    "roe": 0.04,
+    "per": 16.9,
+    "gross_profit": 82501000000,
+    "operating_income": 13376000000,
+    "income_tax_expense": 5147000000,
+    "interest_bearing_debt_current": 46368000000,
+    "interest_bearing_debt_noncurrent": 80000000000,
+    "bonds_payable": 30000000000,
+    "commercial_papers": 6000000000,
+    "current_portion_of_bonds": 7000000000,
+    "current_portion_lt_loans": 5000000000,
+    "depreciation": 26516000000,
+    "capex_ppe": -43855000000,
+    "capex_intangible": -824000000,
+    "current_assets": 265447000000,
+    "current_liabilities": 171557000000,
+    "noncurrent_assets": 350796000000,
+    "noncurrent_liabilities": 127771000000,
+    "trade_payables": 54193000000,
+    "ppe": 281880000000,
+    "goodwill": 44000000,
+    "intangible_assets": 5001000000,
+    "investment_securities": 52511000000,
+    "treasury_stock": -7785000000,
+    "noncontrolling_interests": 9377000000
+  },
+  "segments": [
+    {
+      "key": "ElastomersAndInfrastructureSolutions",
+      "label": null,
+      "external_revenue": 111354000000,
+      "intersegment_revenue": 9000000,
+      "operating_income": -9295000000
+    },
+    {
+      "key": "ElectronicsAndInnovativeProducts",
+      "label": null,
+      "external_revenue": 87839000000,
+      "operating_income": 9022000000
+    },
+    {
+      "key": "LifeInnovation",
+      "label": null,
+      "external_revenue": 47078000000,
+      "intersegment_revenue": 0,
+      "operating_income": 11733000000
+    },
+    {
+      "key": "PolymerSolutions",
+      "label": null,
+      "external_revenue": 124240000000,
+      "intersegment_revenue": 67000000,
+      "operating_income": -102000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00774-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

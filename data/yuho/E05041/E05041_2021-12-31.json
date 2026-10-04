@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E05041",
+    "sec_code": "9449",
+    "company_name": "GMOインターネット株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-12-06",
+    "doc_id": "S100SF06"
+  },
+  "financials": {
+    "net_sales": 241446000000,
+    "ordinary_income": 43393000000,
+    "net_income": 17527000000,
+    "comprehensive_income": 32008000000,
+    "eps": 159.69,
+    "eps_diluted": 158.48,
+    "dps": 52.7,
+    "operating_cf": -23783000000,
+    "investing_cf": -51765000000,
+    "financing_cf": 89889000000,
+    "net_assets": 140402000000,
+    "total_assets": 1418936000000,
+    "bps": 670.99,
+    "cash_end": 234041000000,
+    "equity_ratio": 0.052,
+    "roe": 0.282,
+    "per": 17,
+    "gross_profit": 128815000000,
+    "operating_income": 41097000000,
+    "income_tax_expense": 13737000000,
+    "interest_bearing_debt_current": 163465000000,
+    "interest_bearing_debt_noncurrent": 55678000000,
+    "bonds_payable": 45000000000,
+    "current_portion_lt_loans": 9530000000,
+    "depreciation": 8817000000,
+    "capex_ppe": -4690000000,
+    "capex_intangible": -3806000000,
+    "current_assets": 1292984000000,
+    "current_liabilities": 1144982000000,
+    "noncurrent_assets": 125952000000,
+    "noncurrent_liabilities": 132627000000,
+    "trade_receivables": 27382000000,
+    "trade_payables": 11921000000,
+    "ppe": 16390000000,
+    "goodwill": 14251000000,
+    "intangible_assets": 39566000000,
+    "investment_securities": 28605000000,
+    "treasury_stock": -5684000000,
+    "noncontrolling_interests": 66802000000
+  },
+  "segments": [
+    {
+      "key": "Cryptocurrency",
+      "label": null,
+      "external_revenue": 20634000000,
+      "operating_income": 9093000000
+    },
+    {
+      "key": "Incubation",
+      "label": null,
+      "external_revenue": 1570000000,
+      "operating_income": 785000000
+    },
+    {
+      "key": "InternetFinance",
+      "label": null,
+      "external_revenue": 33899000000,
+      "operating_income": 11715000000
+    },
+    {
+      "key": "InternetInfrastructure",
+      "label": null,
+      "external_revenue": 137564000000,
+      "intersegment_revenue": 1197000000,
+      "operating_income": 19232000000
+    },
+    {
+      "key": "OnlineAdvertisingAndMedia",
+      "label": null,
+      "external_revenue": 46477000000,
+      "intersegment_revenue": 5594000000,
+      "operating_income": 1186000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05041-000_2021-12-31_02_2023-12-06.csv",
+    "parser_version": "0.1.3"
+  }
+}

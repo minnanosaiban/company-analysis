@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E02123",
+    "sec_code": "7003",
+    "company_name": "株式会社三井E&amp;S",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R670"
+  },
+  "financials": {
+    "net_sales": 579363000000,
+    "ordinary_income": -25742000000,
+    "net_income": -21825000000,
+    "comprehensive_income": -8780000000,
+    "eps": -269.94,
+    "operating_cf": -20265000000,
+    "investing_cf": -70923000000,
+    "financing_cf": 806000000,
+    "net_assets": 62949000000,
+    "total_assets": 409150000000,
+    "bps": 706.06,
+    "cash_end": 50818000000,
+    "equity_ratio": 0.14,
+    "roe": -0.36,
+    "gross_profit": 28752000000,
+    "operating_income": -10029000000,
+    "income_tax_expense": 3373000000,
+    "interest_bearing_debt_current": 94615000000,
+    "interest_bearing_debt_noncurrent": 19657000000,
+    "bonds_payable": 5000000000,
+    "current_portion_of_bonds": 15000000000,
+    "current_portion_lt_loans": 8101000000,
+    "lease_liabilities_current": 1808000000,
+    "lease_liabilities_noncurrent": 6496000000,
+    "depreciation": 10649000000,
+    "current_assets": 201822000000,
+    "current_liabilities": 288510000000,
+    "noncurrent_assets": 207327000000,
+    "noncurrent_liabilities": 57690000000,
+    "trade_payables": 48705000000,
+    "ppe": 118338000000,
+    "goodwill": 7995000000,
+    "intangible_assets": 16042000000,
+    "investment_securities": 43280000000,
+    "treasury_stock": -4663000000,
+    "noncontrolling_interests": 5733000000
+  },
+  "segments": [
+    {
+      "key": "Engineering",
+      "label": null,
+      "external_revenue": 7629000000,
+      "intersegment_revenue": 43000000,
+      "operating_income": -10810000000,
+      "equity_method_income": 11000000
+    },
+    {
+      "key": "Machinery",
+      "label": null,
+      "external_revenue": 153736000000,
+      "intersegment_revenue": 1195000000,
+      "operating_income": 8156000000,
+      "equity_method_income": 308000000
+    },
+    {
+      "key": "OceanDevelopment",
+      "label": null,
+      "external_revenue": 323322000000,
+      "operating_income": -8086000000,
+      "equity_method_income": -16686000000
+    },
+    {
+      "key": "Ship",
+      "label": null,
+      "external_revenue": 28088000000,
+      "intersegment_revenue": 868000000,
+      "operating_income": -438000000,
+      "equity_method_income": 1165000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02123-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

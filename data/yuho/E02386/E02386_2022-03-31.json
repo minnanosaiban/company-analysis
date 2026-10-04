@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E02386",
+    "sec_code": "7988",
+    "company_name": "株式会社ニフコ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R1SP"
+  },
+  "financials": {
+    "net_sales": 283777000000,
+    "ordinary_income": 33602000000,
+    "net_income": 22959000000,
+    "comprehensive_income": 33180000000,
+    "eps": 227.27,
+    "dps": 62,
+    "operating_cf": 31743000000,
+    "investing_cf": -9479000000,
+    "financing_cf": -13516000000,
+    "net_assets": 200875000000,
+    "total_assets": 333068000000,
+    "bps": 1978.36,
+    "cash_end": 109992000000,
+    "equity_ratio": 0.595,
+    "roe": 0.123,
+    "per": 12.3,
+    "gross_profit": 76505000000,
+    "operating_income": 30540000000,
+    "income_tax_expense": 8527000000,
+    "interest_bearing_debt_current": 11272000000,
+    "interest_bearing_debt_noncurrent": 20661000000,
+    "bonds_payable": 35000000000,
+    "current_portion_lt_loans": 3462000000,
+    "depreciation": 12830000000,
+    "current_assets": 219556000000,
+    "current_liabilities": 61780000000,
+    "noncurrent_assets": 113512000000,
+    "noncurrent_liabilities": 70412000000,
+    "trade_payables": 22258000000,
+    "ppe": 103329000000,
+    "goodwill": 735000000,
+    "intangible_assets": 2094000000,
+    "investment_securities": 3359000000,
+    "treasury_stock": -18737000000,
+    "noncontrolling_interests": 2700000000
+  },
+  "segments": [
+    {
+      "key": "BeddingAndFurniture",
+      "label": null,
+      "external_revenue": 29732000000,
+      "intersegment_revenue": 0,
+      "operating_income": 5564000000
+    },
+    {
+      "key": "IndustrialPlasticPartsAndComponents",
+      "label": null,
+      "external_revenue": 254044000000,
+      "operating_income": 30157000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02386-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

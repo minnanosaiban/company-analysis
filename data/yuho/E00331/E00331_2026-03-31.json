@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E00331",
+    "sec_code": "2264",
+    "company_name": "森永乳業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YIHY"
+  },
+  "financials": {
+    "net_sales": 571458000000,
+    "ordinary_income": 37121000000,
+    "net_income": 22599000000,
+    "comprehensive_income": 26064000000,
+    "eps": 276.02,
+    "eps_diluted": 275.77,
+    "dps": 100,
+    "operating_cf": 35716000000,
+    "investing_cf": -38870000000,
+    "financing_cf": -503000000,
+    "net_assets": 279749000000,
+    "total_assets": 547116000000,
+    "bps": 3403.79,
+    "cash_end": 26059000000,
+    "equity_ratio": 0.502,
+    "roe": 0.084,
+    "per": 17.3,
+    "gross_profit": 143260000000,
+    "operating_income": 34479000000,
+    "income_tax_expense": 9862000000,
+    "interest_bearing_debt_current": 3035000000,
+    "interest_bearing_debt_noncurrent": 29889000000,
+    "bonds_payable": 70000000000,
+    "commercial_papers": 10000000000,
+    "current_portion_lt_loans": 4346000000,
+    "lease_liabilities_current": 1062000000,
+    "lease_liabilities_noncurrent": 4337000000,
+    "depreciation": 23884000000,
+    "current_assets": 205303000000,
+    "current_liabilities": 148588000000,
+    "noncurrent_assets": 341813000000,
+    "noncurrent_liabilities": 118778000000,
+    "trade_payables": 54792000000,
+    "ppe": 290553000000,
+    "goodwill": 383000000,
+    "intangible_assets": 11567000000,
+    "investment_securities": 21419000000,
+    "treasury_stock": -15248000000,
+    "noncontrolling_interests": 4994000000
+  },
+  "segments": [
+    {
+      "key": "Food",
+      "label": null,
+      "external_revenue": 547418000000,
+      "intersegment_revenue": 242000000,
+      "operating_income": 45807000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00331-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

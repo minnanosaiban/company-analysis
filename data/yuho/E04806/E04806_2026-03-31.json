@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "edinet_code": "E04806",
+    "sec_code": "8595",
+    "company_name": "ジャフコ グループ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": false,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YCOQ"
+  },
+  "financials": {
+    "dps": 133,
+    "net_sales": 21619000000,
+    "ordinary_income": 5905000000,
+    "eps": 123.65,
+    "operating_cf": 5587000000,
+    "investing_cf": 3846000000,
+    "financing_cf": -11613000000,
+    "net_assets": 134113000000,
+    "total_assets": 157856000000,
+    "bps": 2548.7,
+    "cash_end": 61183000000,
+    "equity_ratio": 0.85,
+    "roe": 0.048,
+    "per": 18.28,
+    "gross_profit": 10578000000,
+    "operating_income": 5607000000,
+    "income_tax_expense": 1587000000,
+    "interest_bearing_debt_noncurrent": 15000000,
+    "current_portion_lt_loans": 134000000,
+    "depreciation": 37000000,
+    "capex_ppe": -2000000,
+    "capex_intangible": -21000000,
+    "current_assets": 120472000000,
+    "current_liabilities": 1679000000,
+    "noncurrent_assets": 37384000000,
+    "noncurrent_liabilities": 22064000000,
+    "ppe": 94000000,
+    "intangible_assets": 29000000,
+    "investment_securities": 36450000000,
+    "treasury_stock": -4031000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04806-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

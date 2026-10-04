@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E37488",
+    "sec_code": "6525",
+    "company_name": "株式会社 KOKUSAI ELECTRIC",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TV4Y"
+  },
+  "financials": {
+    "net_sales": 67620000000,
+    "net_income": 7870000000,
+    "comprehensive_income": 6949000000,
+    "net_assets": 69840000000,
+    "total_assets": 259990000000,
+    "equity_ratio": 0.269,
+    "bps": 303.13,
+    "eps": 34.16,
+    "eps_diluted": 32.98,
+    "roe": 0.119,
+    "operating_cf": 5391000000,
+    "investing_cf": 24576000000,
+    "financing_cf": -26056000000,
+    "cash_end": 38014000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E37488-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

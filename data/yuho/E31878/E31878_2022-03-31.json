@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E31878",
+    "sec_code": "3923",
+    "company_name": "株式会社ラクス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R4DC"
+  },
+  "financials": {
+    "net_sales": 20629000000,
+    "ordinary_income": 1595000000,
+    "net_income": 1078000000,
+    "comprehensive_income": 1092000000,
+    "eps": 5.95,
+    "dps": 1.9,
+    "operating_cf": -11000000,
+    "investing_cf": -877000000,
+    "financing_cf": -295000000,
+    "net_assets": 8617000000,
+    "total_assets": 11700000000,
+    "bps": 47.55,
+    "cash_end": 4861000000,
+    "equity_ratio": 0.736,
+    "roe": 0.131,
+    "per": 280.47,
+    "gross_profit": 14030000000,
+    "operating_income": 1578000000,
+    "income_tax_expense": 621000000,
+    "interest_bearing_debt_noncurrent": 36000000,
+    "current_portion_lt_loans": 4000000,
+    "depreciation": 399000000,
+    "capex_ppe": -413000000,
+    "capex_intangible": -12000000,
+    "current_assets": 8419000000,
+    "current_liabilities": 2977000000,
+    "noncurrent_assets": 3281000000,
+    "noncurrent_liabilities": 106000000,
+    "ppe": 886000000,
+    "goodwill": 627000000,
+    "intangible_assets": 723000000,
+    "investment_securities": 0,
+    "treasury_stock": 0
+  },
+  "segments": [
+    {
+      "key": "CloudService",
+      "label": null,
+      "external_revenue": 16716000000,
+      "intersegment_revenue": 0,
+      "operating_income": 1227000000
+    },
+    {
+      "key": "HumanResource",
+      "label": null,
+      "external_revenue": 3912000000,
+      "intersegment_revenue": 64000000,
+      "operating_income": 351000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31878-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

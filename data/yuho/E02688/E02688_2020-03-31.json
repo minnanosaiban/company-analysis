@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E02688",
+    "sec_code": "8086",
+    "company_name": "ニプロ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R5KJ"
+  },
+  "financials": {
+    "net_sales": 442516000000,
+    "ordinary_income": 23417000000,
+    "net_income": -12281000000,
+    "comprehensive_income": -8852000000,
+    "eps": -75.3,
+    "dps": 13.5,
+    "operating_cf": 37246000000,
+    "investing_cf": -58272000000,
+    "financing_cf": -4566000000,
+    "net_assets": 161237000000,
+    "total_assets": 831865000000,
+    "bps": 912.24,
+    "cash_end": 90154000000,
+    "equity_ratio": 0.179,
+    "roe": -0.079
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02688-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

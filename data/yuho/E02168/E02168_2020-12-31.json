@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02168",
+    "sec_code": "7272",
+    "company_name": "ヤマハ発動機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-22",
+    "doc_id": "S100T32B"
+  },
+  "financials": {
+    "net_sales": 1471298000000,
+    "ordinary_income": 87668000000,
+    "net_income": 53072000000,
+    "comprehensive_income": 32951000000,
+    "eps": 50.63,
+    "dps": 60,
+    "operating_cf": 110487000000,
+    "investing_cf": -43950000000,
+    "financing_cf": 83668000000,
+    "net_assets": 749158000000,
+    "total_assets": 1640913000000,
+    "bps": 681.72,
+    "cash_end": 267180000000,
+    "equity_ratio": 0.436,
+    "roe": 0.075,
+    "per": 13.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02168-000_2023-12-31_01_2024-03-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

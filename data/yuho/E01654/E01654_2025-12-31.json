@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E01654",
+    "sec_code": "6465",
+    "company_name": "ホシザキ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-25",
+    "doc_id": "S100XSOT"
+  },
+  "financials": {
+    "net_sales": 485890000000,
+    "ordinary_income": 56305000000,
+    "net_income": 38148000000,
+    "comprehensive_income": 46684000000,
+    "eps": 269.66,
+    "dps": 115,
+    "operating_cf": 30528000000,
+    "investing_cf": -75876000000,
+    "financing_cf": -15006000000,
+    "net_assets": 413914000000,
+    "total_assets": 575646000000,
+    "bps": 2772.73,
+    "cash_end": 159442000000,
+    "equity_ratio": 0.682,
+    "roe": 0.1009,
+    "per": 19.33,
+    "gross_profit": 181441000000,
+    "operating_income": 51932000000,
+    "income_tax_expense": 15969000000,
+    "interest_bearing_debt_current": 6390000000,
+    "depreciation": 11448000000,
+    "capex_ppe": -8865000000,
+    "capex_intangible": -2192000000,
+    "current_assets": 342313000000,
+    "current_liabilities": 135598000000,
+    "noncurrent_assets": 233332000000,
+    "noncurrent_liabilities": 26133000000,
+    "trade_payables": 36255000000,
+    "ppe": 91630000000,
+    "goodwill": 76352000000,
+    "intangible_assets": 101077000000,
+    "investment_securities": 16712000000,
+    "treasury_stock": -18527000000,
+    "noncontrolling_interests": 21306000000
+  },
+  "segments": [
+    {
+      "key": "AmericanStates",
+      "label": null,
+      "external_revenue": 121183000000,
+      "intersegment_revenue": 730000000,
+      "operating_income": 11006000000
+    },
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 80319000000,
+      "intersegment_revenue": 1399000000,
+      "operating_income": 14430000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 57648000000,
+      "intersegment_revenue": 1479000000,
+      "operating_income": 1461000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 226739000000,
+      "intersegment_revenue": 7385000000,
+      "operating_income": 30404000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01654-000_2025-12-31_01_2026-03-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

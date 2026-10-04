@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01182",
+    "sec_code": "6971",
+    "company_name": "京セラ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R598"
+  },
+  "financials": {
+    "dps": 140,
+    "net_sales": 1623710000000,
+    "net_income": 103210000000,
+    "comprehensive_income": 21514000000,
+    "net_assets": 2265919000000,
+    "total_assets": 2968475000000,
+    "equity_ratio": 0.763,
+    "bps": 6263.71,
+    "eps": 284.94,
+    "eps_diluted": 284.7,
+    "roe": 0.045,
+    "per": 22.81,
+    "operating_cf": 220025000000,
+    "investing_cf": -47121000000,
+    "financing_cf": -89056000000,
+    "cash_end": 512814000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01182-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

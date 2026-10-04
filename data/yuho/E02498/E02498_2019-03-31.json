@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02498",
+    "sec_code": "8002",
+    "company_name": "丸紅株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R2ES"
+  },
+  "financials": {
+    "dps": 34,
+    "net_sales": 7401256000000,
+    "net_income": 230891000000,
+    "comprehensive_income": 270904000000,
+    "net_assets": 1977741000000,
+    "total_assets": 6809077000000,
+    "equity_ratio": 0.2905,
+    "bps": 998.47,
+    "eps": 130.74,
+    "eps_diluted": 130.62,
+    "roe": 0.1392,
+    "per": 5.85,
+    "operating_cf": 284895000000,
+    "investing_cf": 22528000000,
+    "financing_cf": -427420000000,
+    "cash_end": 509288000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02498-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

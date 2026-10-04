@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E02275",
+    "sec_code": "7752",
+    "company_name": "株式会社リコー",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R29T"
+  },
+  "financials": {
+    "dps": 34,
+    "net_sales": 2134180000000,
+    "net_income": 54367000000,
+    "comprehensive_income": 100564000000,
+    "net_assets": 931556000000,
+    "total_assets": 2149956000000,
+    "equity_ratio": 0.4333,
+    "bps": 1529.46,
+    "eps": 88.13,
+    "eps_diluted": 88.1,
+    "roe": 0.0593,
+    "per": 11.24,
+    "operating_cf": 66708000000,
+    "investing_cf": -133939000000,
+    "financing_cf": 35454000000,
+    "cash_end": 210884000000,
+    "operating_income": 78740000000,
+    "gross_profit": 745422000000,
+    "income_tax_expense": 25667000000,
+    "interest_bearing_debt_current": 157828000000,
+    "interest_bearing_debt_noncurrent": 205110000000,
+    "lease_liabilities_current": 26185000000,
+    "lease_liabilities_noncurrent": 38147000000,
+    "sga_expense": 688156000000,
+    "profit_before_tax": 81308000000,
+    "depreciation": 97468000000,
+    "capex_ppe": -45459000000,
+    "capex_intangible": -35156000000,
+    "current_assets": 1175299000000,
+    "current_liabilities": 829114000000,
+    "noncurrent_assets": 974657000000,
+    "trade_receivables": 476429000000,
+    "inventories": 314368000000,
+    "trade_payables": 312429000000,
+    "ppe": 196512000000,
+    "goodwill": 200616000000,
+    "investment_securities": 19359000000,
+    "equity_method_investments": 83529000000,
+    "treasury_stock": -427000000,
+    "noncontrolling_interests": 26526000000
+  },
+  "segments": [
+    {
+      "key": "DigitalProducts",
+      "label": null,
+      "operating_income": 31577000000,
+      "assets": 279190000000
+    },
+    {
+      "key": "DigitalServices",
+      "label": null,
+      "operating_income": 28284000000,
+      "assets": 1018143000000
+    },
+    {
+      "key": "GraphicCommunications",
+      "label": null,
+      "operating_income": 14578000000,
+      "assets": 148347000000
+    },
+    {
+      "key": "IndustrialSolutions",
+      "label": null,
+      "operating_income": 3150000000,
+      "assets": 90045000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "operating_income": -3245000000,
+      "assets": 170340000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02275-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

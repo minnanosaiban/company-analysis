@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E31633",
+    "sec_code": "4980",
+    "company_name": "デクセリアルズ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1PW"
+  },
+  "financials": {
+    "net_sales": 57710000000,
+    "ordinary_income": 4393000000,
+    "net_income": 2734000000,
+    "comprehensive_income": 2328000000,
+    "eps": 45.05,
+    "eps_diluted": 44.83,
+    "dps": 34,
+    "operating_cf": 9656000000,
+    "investing_cf": -3891000000,
+    "financing_cf": -3600000000,
+    "net_assets": 49567000000,
+    "total_assets": 86279000000,
+    "bps": 814.68,
+    "cash_end": 13779000000,
+    "equity_ratio": 0.5745,
+    "roe": 0.0555,
+    "per": 15.49
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31633-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

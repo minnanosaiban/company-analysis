@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E01777",
+    "sec_code": "6758",
+    "company_name": "ソニーグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TS7P"
+  },
+  "financials": {
+    "dps": 85,
+    "net_income": 970573000000,
+    "comprehensive_income": 1247301000000,
+    "net_assets": 7587177000000,
+    "total_assets": 34107490000000,
+    "equity_ratio": 0.222,
+    "bps": 6221.62,
+    "eps": 788.29,
+    "eps_diluted": 785.68,
+    "roe": 0.137,
+    "per": 16.5,
+    "operating_cf": 1373213000000,
+    "investing_cf": -818886000000,
+    "financing_cf": -210709000000,
+    "cash_end": 1907113000000,
+    "operating_income": 1208831000000,
+    "income_tax_expense": 288168000000,
+    "sga_expense": 2156156000000,
+    "profit_before_tax": 1268662000000,
+    "depreciation": 1144981000000,
+    "current_assets": 6776806000000,
+    "current_liabilities": 10192045000000,
+    "noncurrent_assets": 27330684000000,
+    "inventories": 1518644000000,
+    "trade_payables": 2064905000000,
+    "ppe": 1522640000000,
+    "goodwill": 1487100000000,
+    "equity_method_investments": 423744000000,
+    "treasury_stock": -403934000000,
+    "noncontrolling_interests": 168928000000,
+    "current_portion_lt_debt": 217711000000
+  },
+  "segments": [
+    {
+      "key": "EntertainmentTechnologyAndServices",
+      "label": "エンタテインメント・テクノロジー＆サービス",
+      "operating_income": 187399000000,
+      "equity_method_income": 777000000
+    },
+    {
+      "key": "FinancialServices",
+      "label": null,
+      "operating_income": 173576000000,
+      "equity_method_income": -55000000
+    },
+    {
+      "key": "GameAndNetworkServices",
+      "label": "ゲーム＆ネットワークサービス",
+      "operating_income": 290184000000,
+      "equity_method_income": 922000000
+    },
+    {
+      "key": "ImagingAndSensingSolutions",
+      "label": "イメージング＆センシング・ソリューション",
+      "operating_income": 193541000000,
+      "equity_method_income": -4155000000
+    },
+    {
+      "key": "Music",
+      "label": "音楽",
+      "operating_income": 301662000000,
+      "equity_method_income": 6091000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "operating_income": 1600000000,
+      "equity_method_income": 7095000000
+    },
+    {
+      "key": "Pictures",
+      "label": "映画",
+      "operating_income": 117702000000,
+      "equity_method_income": -173000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01777-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

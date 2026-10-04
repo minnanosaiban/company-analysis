@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E00218",
+    "sec_code": "1878",
+    "company_name": "大東建託株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W3QM"
+  },
+  "financials": {
+    "net_sales": 1842357000000,
+    "ordinary_income": 129455000000,
+    "net_income": 93858000000,
+    "comprehensive_income": 89676000000,
+    "eps": 1428.29,
+    "eps_diluted": 1426.08,
+    "dps": 714,
+    "operating_cf": 85612000000,
+    "investing_cf": -46505000000,
+    "financing_cf": -45839000000,
+    "net_assets": 467433000000,
+    "total_assets": 1222783000000,
+    "bps": 7073.15,
+    "cash_end": 223573000000,
+    "equity_ratio": 0.3834,
+    "roe": 0.2146,
+    "per": 10.72,
+    "gross_profit": 315856000000,
+    "operating_income": 118875000000,
+    "income_tax_expense": 42827000000,
+    "interest_bearing_debt_current": 9311000000,
+    "interest_bearing_debt_noncurrent": 44530000000,
+    "bonds_payable": 11100000000,
+    "current_portion_lt_loans": 58681000000,
+    "lease_liabilities_current": 224000000,
+    "lease_liabilities_noncurrent": 629000000,
+    "depreciation": 17381000000,
+    "capex_ppe": -17448000000,
+    "capex_intangible": -6877000000,
+    "current_assets": 756441000000,
+    "current_liabilities": 410833000000,
+    "noncurrent_assets": 466341000000,
+    "noncurrent_liabilities": 344517000000,
+    "ppe": 184276000000,
+    "goodwill": 12699000000,
+    "intangible_assets": 35150000000,
+    "investment_securities": 44160000000,
+    "treasury_stock": -43217000000,
+    "noncontrolling_interests": 986000000
+  },
+  "segments": [
+    {
+      "key": "Construction",
+      "label": "建設事業",
+      "external_revenue": 540975000000,
+      "intersegment_revenue": 18029000000,
+      "operating_income": 47143000000
+    },
+    {
+      "key": "Finance",
+      "label": "金融事業",
+      "external_revenue": 12182000000,
+      "intersegment_revenue": 17844000000,
+      "operating_income": 6684000000
+    },
+    {
+      "key": "RealEstateDevelopmentBusiness",
+      "label": "不動産開発事業",
+      "external_revenue": 51329000000,
+      "intersegment_revenue": 111000000,
+      "operating_income": 5151000000
+    },
+    {
+      "key": "RealEstateLeaseBusiness",
+      "label": "不動産賃貸事業",
+      "external_revenue": 1164672000000,
+      "intersegment_revenue": 6824000000,
+      "operating_income": 80324000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00218-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

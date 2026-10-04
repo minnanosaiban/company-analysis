@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E04583",
+    "sec_code": "9602",
+    "company_name": "東宝株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-25",
+    "doc_id": "S100QT8H"
+  },
+  "financials": {
+    "ordinary_income": 47815000000,
+    "net_income": 33430000000,
+    "comprehensive_income": 34756000000,
+    "eps": 190.37,
+    "dps": 60,
+    "operating_cf": 45404000000,
+    "investing_cf": -9175000000,
+    "financing_cf": -19125000000,
+    "net_assets": 423691000000,
+    "total_assets": 534097000000,
+    "bps": 2344.59,
+    "cash_end": 112121000000,
+    "equity_ratio": 0.766,
+    "roe": 0.083,
+    "per": 24.9,
+    "gross_profit": 108625000000,
+    "operating_income": 44880000000,
+    "income_tax_expense": 16556000000,
+    "interest_bearing_debt_current": 53000000,
+    "interest_bearing_debt_noncurrent": 326000000,
+    "current_portion_lt_loans": 59000000,
+    "depreciation": 9514000000,
+    "capex_ppe": -16922000000,
+    "current_assets": 224708000000,
+    "current_liabilities": 65762000000,
+    "noncurrent_assets": 309388000000,
+    "noncurrent_liabilities": 44643000000,
+    "inventories": 11003000000,
+    "ppe": 177451000000,
+    "goodwill": 2032000000,
+    "intangible_assets": 4953000000,
+    "investment_securities": 108499000000,
+    "treasury_stock": -38866000000,
+    "noncontrolling_interests": 14384000000
+  },
+  "segments": [
+    {
+      "key": "CinemaBusiness",
+      "label": null,
+      "external_revenue": 158015000000,
+      "intersegment_revenue": 2641000000,
+      "operating_income": 29075000000
+    },
+    {
+      "key": "RealEstateBusiness",
+      "label": "不動産事業",
+      "external_revenue": 66913000000,
+      "intersegment_revenue": 5383000000,
+      "operating_income": 17572000000
+    },
+    {
+      "key": "TheatricalBusiness",
+      "label": "演劇事業",
+      "external_revenue": 18202000000,
+      "intersegment_revenue": 50000000,
+      "operating_income": 2774000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04583-000_2023-02-28_01_2023-05-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

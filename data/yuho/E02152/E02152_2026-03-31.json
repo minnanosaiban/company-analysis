@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E02152",
+    "sec_code": "7270",
+    "company_name": "株式会社ＳＵＢＡＲＵ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YFKZ"
+  },
+  "financials": {
+    "dps": 115.5,
+    "net_sales": 4784965000000,
+    "net_income": 90842000000,
+    "comprehensive_income": 205990000000,
+    "net_assets": 2780407000000,
+    "total_assets": 5492301000000,
+    "equity_ratio": 0.506,
+    "bps": 3886.35,
+    "eps": 125.5,
+    "eps_diluted": 125.49,
+    "roe": 0.033,
+    "per": 19.79,
+    "operating_cf": 358227000000,
+    "investing_cf": -114650000000,
+    "financing_cf": -217816000000,
+    "cash_end": 1005334000000,
+    "operating_income": 40120000000,
+    "gross_profit": 719487000000,
+    "income_tax_expense": 16564000000,
+    "sga_expense": 373610000000,
+    "profit_before_tax": 107469000000,
+    "depreciation": 271106000000,
+    "capex_ppe": -234366000000,
+    "current_assets": 3374405000000,
+    "current_liabilities": 1529058000000,
+    "noncurrent_assets": 2117896000000,
+    "trade_receivables": 476322000000,
+    "inventories": 801377000000,
+    "trade_payables": 541727000000,
+    "ppe": 1221752000000,
+    "equity_method_investments": 5617000000,
+    "treasury_stock": -4751000000,
+    "noncontrolling_interests": 1254000000
+  },
+  "segments": [
+    {
+      "key": "Aerospace",
+      "label": null,
+      "external_revenue": 141667000000,
+      "revenue": 141667000000,
+      "operating_income": 3500000000,
+      "assets": 471953000000
+    },
+    {
+      "key": "Automobiles",
+      "label": null,
+      "external_revenue": 4638342000000,
+      "intersegment_revenue": 2374000000,
+      "revenue": 4640716000000,
+      "operating_income": 32086000000,
+      "assets": 4979050000000,
+      "equity_method_income": 196000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02152-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

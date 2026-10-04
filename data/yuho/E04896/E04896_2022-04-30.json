@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E04896",
+    "sec_code": "9627",
+    "company_name": "株式会社アインホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-04-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-07-31",
+    "doc_id": "S100RHMW"
+  },
+  "financials": {
+    "net_sales": 316247000000,
+    "ordinary_income": 16041000000,
+    "net_income": 7092000000,
+    "comprehensive_income": 7126000000,
+    "eps": 201.47,
+    "dps": 55,
+    "operating_cf": 26156000000,
+    "investing_cf": -13943000000,
+    "financing_cf": -7753000000,
+    "net_assets": 119010000000,
+    "total_assets": 212461000000,
+    "bps": 3385.51,
+    "cash_end": 59470000000,
+    "equity_ratio": 0.56,
+    "roe": 0.06,
+    "per": 29,
+    "gross_profit": 49971000000,
+    "operating_income": 15139000000,
+    "income_tax_expense": 6925000000,
+    "interest_bearing_debt_current": 2643000000,
+    "interest_bearing_debt_noncurrent": 5815000000,
+    "lease_liabilities_noncurrent": 9000000,
+    "depreciation": 4792000000,
+    "capex_ppe": -5880000000,
+    "capex_intangible": -2535000000,
+    "current_assets": 100765000000,
+    "current_liabilities": 81805000000,
+    "noncurrent_assets": 111696000000,
+    "noncurrent_liabilities": 11645000000,
+    "ppe": 30636000000,
+    "goodwill": 36352000000,
+    "intangible_assets": 41219000000,
+    "investment_securities": 2503000000,
+    "treasury_stock": -2018000000,
+    "noncontrolling_interests": 86000000
+  },
+  "segments": [
+    {
+      "key": "DispensingPharmacy",
+      "label": null,
+      "external_revenue": 283111000000,
+      "ordinary_income": 25082000000
+    },
+    {
+      "key": "DrugAndCosmeticStore",
+      "label": null,
+      "external_revenue": 20558000000,
+      "ordinary_income": -1764000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 12576000000,
+      "intersegment_revenue": 100000000,
+      "ordinary_income": -146000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04896-000_2023-04-30_01_2023-07-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

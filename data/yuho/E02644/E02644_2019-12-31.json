@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02644",
+    "sec_code": "8060",
+    "company_name": "キヤノンマーケティングジャパン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T53R"
+  },
+  "financials": {
+    "net_sales": 621134000000,
+    "ordinary_income": 33937000000,
+    "net_income": 22250000000,
+    "comprehensive_income": 30965000000,
+    "eps": 171.6,
+    "eps_diluted": 171.58,
+    "dps": 60,
+    "operating_cf": 22052000000,
+    "investing_cf": -94584000000,
+    "financing_cf": -8557000000,
+    "net_assets": 325092000000,
+    "total_assets": 503698000000,
+    "bps": 2502.39,
+    "cash_end": 54493000000,
+    "equity_ratio": 0.644,
+    "roe": 0.071,
+    "per": 14.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02644-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

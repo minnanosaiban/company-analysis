@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "edinet_code": "E24558",
+    "sec_code": "1417",
+    "company_name": "株式会社ミライト・ワン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R79T"
+  },
+  "financials": {
+    "net_sales": 470385000000,
+    "ordinary_income": 34152000000,
+    "net_income": 25163000000,
+    "comprehensive_income": 25469000000,
+    "eps": 250.84,
+    "dps": 55,
+    "operating_cf": 12972000000,
+    "investing_cf": -46204000000,
+    "financing_cf": 38395000000,
+    "net_assets": 249237000000,
+    "total_assets": 435785000000,
+    "bps": 2446.54,
+    "cash_end": 48901000000,
+    "equity_ratio": 0.556,
+    "roe": 0.107,
+    "per": 7.67,
+    "operating_income": 32804000000,
+    "income_tax_expense": 13153000000,
+    "interest_bearing_debt_current": 50107000000,
+    "interest_bearing_debt_noncurrent": 35000000,
+    "lease_liabilities_current": 3537000000,
+    "lease_liabilities_noncurrent": 6302000000,
+    "depreciation": 6865000000,
+    "capex_ppe": -8592000000,
+    "capex_intangible": -2346000000,
+    "current_assets": 276135000000,
+    "current_liabilities": 158683000000,
+    "noncurrent_assets": 159650000000,
+    "noncurrent_liabilities": 27865000000,
+    "ppe": 91552000000,
+    "goodwill": 20576000000,
+    "intangible_assets": 36912000000,
+    "investment_securities": 16224000000,
+    "treasury_stock": -15844000000,
+    "noncontrolling_interests": 7116000000
+  },
+  "segments": [
+    {
+      "key": "Lantrovision",
+      "label": null,
+      "external_revenue": 20497000000,
+      "intersegment_revenue": 689000000,
+      "operating_income": 1336000000
+    },
+    {
+      "key": "MIRAITONE",
+      "label": null,
+      "external_revenue": 324848000000,
+      "intersegment_revenue": 2296000000,
+      "operating_income": 23453000000
+    },
+    {
+      "key": "MIRAITONESYSTEMS",
+      "label": null,
+      "external_revenue": 20457000000,
+      "intersegment_revenue": 3414000000,
+      "operating_income": 874000000
+    },
+    {
+      "key": "SOLCOM",
+      "label": null,
+      "external_revenue": 43365000000,
+      "intersegment_revenue": 62000000,
+      "operating_income": 2682000000
+    },
+    {
+      "key": "Shikokutsuken",
+      "label": null,
+      "external_revenue": 24987000000,
+      "intersegment_revenue": 157000000,
+      "operating_income": 2441000000
+    },
+    {
+      "key": "TTK",
+      "label": null,
+      "external_revenue": 36228000000,
+      "intersegment_revenue": 113000000,
+      "operating_income": 2276000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24558-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

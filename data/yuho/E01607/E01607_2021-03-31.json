@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01607",
+    "sec_code": "6479",
+    "company_name": "ミネベアミツミ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8J3"
+  },
+  "financials": {
+    "dps": 36,
+    "net_sales": 988424000000,
+    "net_income": 38759000000,
+    "comprehensive_income": 68166000000,
+    "net_assets": 451141000000,
+    "total_assets": 976771000000,
+    "equity_ratio": 0.462,
+    "bps": 1109.38,
+    "eps": 94.95,
+    "eps_diluted": 92.87,
+    "roe": 0.092,
+    "per": 29.8,
+    "operating_cf": 93763000000,
+    "investing_cf": -70581000000,
+    "financing_cf": 9257000000,
+    "cash_end": 165479000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01607-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

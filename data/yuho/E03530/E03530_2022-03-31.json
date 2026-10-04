@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "edinet_code": "E03530",
+    "sec_code": "8303",
+    "company_name": "株式会社SBI新生銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8GG"
+  },
+  "financials": {
+    "ordinary_income": 28299000000,
+    "net_income": 20385000000,
+    "comprehensive_income": 17037000000,
+    "eps": 96.78,
+    "eps_diluted": 96.75,
+    "dps": 12,
+    "operating_cf": -470630000000,
+    "investing_cf": 250997000000,
+    "financing_cf": -19873000000,
+    "net_assets": 924316000000,
+    "total_assets": 10311448000000,
+    "bps": 4484.01,
+    "cash_end": 1567129000000,
+    "equity_ratio": 0.089,
+    "roe": 0.0221,
+    "per": 23.11,
+    "income_tax_expense": 8921000000,
+    "bonds_payable": 380104000000,
+    "ppe": 60989000000,
+    "goodwill": 11007000000,
+    "intangible_assets": 62604000000,
+    "treasury_stock": -98612000000,
+    "noncontrolling_interests": 4052000000,
+    "ordinary_revenue": 373328000000
+  },
+  "segments": [
+    {
+      "key": "APLUS",
+      "label": "アプラス",
+      "ordinary_income": 9054000000,
+      "equity_method_income": -54000000
+    },
+    {
+      "key": "CorporateBusiness",
+      "label": "法人営業",
+      "ordinary_income": 1799000000
+    },
+    {
+      "key": "MarketsSubGroup",
+      "label": null,
+      "ordinary_income": 968000000
+    },
+    {
+      "key": "OtherCorporateOther",
+      "label": "その他",
+      "ordinary_income": -3149000000
+    },
+    {
+      "key": "OtherGlobalMarketsGroup",
+      "label": null,
+      "ordinary_income": -336000000
+    },
+    {
+      "key": "OtherIndividualConsumerFinanceSubGroup",
+      "label": "その他個人",
+      "ordinary_income": 2092000000,
+      "equity_method_income": 474000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": "海外事業",
+      "ordinary_income": 5567000000,
+      "equity_method_income": -341000000
+    },
+    {
+      "key": "PrincipalTransactions",
+      "label": "プリンシパルトランザクションズ",
+      "ordinary_income": 4952000000,
+      "equity_method_income": 1660000000
+    },
+    {
+      "key": "RetailBanking",
+      "label": "リテールバンキング",
+      "ordinary_income": 1972000000
+    },
+    {
+      "key": "ShinseiFinancial",
+      "label": "新生フィナンシャル",
+      "ordinary_income": 17070000000
+    },
+    {
+      "key": "ShowaLeasing",
+      "label": "昭和リース",
+      "ordinary_income": 4040000000,
+      "equity_method_income": -358000000
+    },
+    {
+      "key": "StructuredFinance",
+      "label": "ストラクチャードファイナンス",
+      "ordinary_income": -289000000
+    },
+    {
+      "key": "Treasury",
+      "label": null,
+      "ordinary_income": -12737000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03530-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

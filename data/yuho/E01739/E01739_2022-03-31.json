@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E01739",
+    "sec_code": "6503",
+    "company_name": "三菱電機株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R4YQ"
+  },
+  "financials": {
+    "dps": 40,
+    "net_sales": 4476758000000,
+    "net_income": 203482000000,
+    "comprehensive_income": 356926000000,
+    "net_assets": 2975941000000,
+    "total_assets": 5107973000000,
+    "equity_ratio": 0.583,
+    "bps": 1409.08,
+    "eps": 95.41,
+    "eps_diluted": 95.41,
+    "roe": 0.071,
+    "per": 14.8,
+    "operating_cf": 282371000000,
+    "investing_cf": -114867000000,
+    "financing_cf": -241319000000,
+    "cash_end": 727179000000,
+    "operating_income": 252051000000,
+    "income_tax_expense": 61808000000,
+    "sga_expense": 1013674000000,
+    "profit_before_tax": 279693000000,
+    "depreciation": 206813000000,
+    "capex_ppe": -134337000000,
+    "capex_intangible": -21725000000,
+    "current_assets": 3090296000000,
+    "current_liabilities": 1646722000000,
+    "noncurrent_assets": 2017677000000,
+    "inventories": 959660000000,
+    "ppe": 855746000000,
+    "goodwill": 69123000000,
+    "equity_method_investments": 221467000000,
+    "treasury_stock": -52068000000,
+    "noncontrolling_interests": 121456000000
+  },
+  "segments": [
+    {
+      "key": "BusinessPlatform",
+      "label": null,
+      "external_revenue": 266825000000,
+      "intersegment_revenue": 116019000000,
+      "operating_income": 26455000000
+    },
+    {
+      "key": "IndustryAndMobility",
+      "label": "インダストリー・モビリティ",
+      "external_revenue": 1465214000000,
+      "intersegment_revenue": 15617000000,
+      "operating_income": 96487000000
+    },
+    {
+      "key": "Infrastructure",
+      "label": "インフラ",
+      "external_revenue": 934736000000,
+      "intersegment_revenue": 11370000000,
+      "operating_income": 41569000000
+    },
+    {
+      "key": "Life",
+      "label": "ライフ",
+      "external_revenue": 1656157000000,
+      "intersegment_revenue": 16933000000,
+      "operating_income": 92687000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 153826000000,
+      "intersegment_revenue": 583524000000,
+      "operating_income": 26729000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01739-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

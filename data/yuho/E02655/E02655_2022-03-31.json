@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E02655",
+    "sec_code": "8136",
+    "company_name": "株式会社サンリオ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R15I"
+  },
+  "financials": {
+    "net_sales": 52763000000,
+    "ordinary_income": 3318000000,
+    "net_income": 3423000000,
+    "comprehensive_income": 7108000000,
+    "eps": 42.49,
+    "dps": 16,
+    "operating_cf": 5064000000,
+    "investing_cf": 2300000000,
+    "financing_cf": -9106000000,
+    "net_assets": 43800000000,
+    "total_assets": 83809000000,
+    "bps": 541.73,
+    "cash_end": 23882000000,
+    "equity_ratio": 0.521,
+    "roe": 0.085,
+    "per": 59,
+    "gross_profit": 33870000000,
+    "operating_income": 2537000000,
+    "income_tax_expense": 1585000000,
+    "interest_bearing_debt_current": 9835000000,
+    "interest_bearing_debt_noncurrent": 9243000000,
+    "bonds_payable": 473000000,
+    "current_portion_of_bonds": 462000000,
+    "lease_liabilities_current": 543000000,
+    "lease_liabilities_noncurrent": 2117000000,
+    "depreciation": 1643000000,
+    "capex_ppe": -576000000,
+    "capex_intangible": -139000000,
+    "current_assets": 49987000000,
+    "current_liabilities": 24230000000,
+    "noncurrent_assets": 33808000000,
+    "noncurrent_liabilities": 15778000000,
+    "trade_payables": 3797000000,
+    "ppe": 12845000000,
+    "intangible_assets": 2236000000,
+    "investment_securities": 11808000000,
+    "treasury_stock": -19716000000,
+    "noncontrolling_interests": 158000000
+  },
+  "segments": [
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 6952000000,
+      "intersegment_revenue": 904000000,
+      "operating_income": 2106000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 1693000000,
+      "intersegment_revenue": 17000000,
+      "operating_income": -113000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 40183000000,
+      "intersegment_revenue": 5154000000,
+      "operating_income": 2206000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 3574000000,
+      "intersegment_revenue": 37000000,
+      "operating_income": -442000000
+    },
+    {
+      "key": "SouthAmerica",
+      "label": null,
+      "external_revenue": 360000000,
+      "intersegment_revenue": 8000000,
+      "operating_income": 34000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02655-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

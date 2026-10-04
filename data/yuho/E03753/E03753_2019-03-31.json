@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E03753",
+    "sec_code": "8601",
+    "company_name": "株式会社大和証券グループ本社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8NC"
+  },
+  "financials": {
+    "ordinary_income": 83159000000,
+    "net_income": 63813000000,
+    "comprehensive_income": 48194000000,
+    "eps": 39.95,
+    "eps_diluted": 39.72,
+    "dps": 21,
+    "operating_cf": 304857000000,
+    "investing_cf": 108243000000,
+    "financing_cf": 55741000000,
+    "net_assets": 1256430000000,
+    "total_assets": 21126706000000,
+    "bps": 794.54,
+    "cash_end": 4122102000000,
+    "equity_ratio": 0.059,
+    "roe": 0.051,
+    "per": 13.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03753-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

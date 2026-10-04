@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "edinet_code": "E04106",
+    "sec_code": "9044",
+    "company_name": "南海電気鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-17",
+    "doc_id": "S100VY49"
+  },
+  "financials": {
+    "ordinary_income": 35572000000,
+    "net_income": 22496000000,
+    "comprehensive_income": 25533000000,
+    "eps": 198.69,
+    "dps": 40,
+    "operating_cf": 43813000000,
+    "investing_cf": -39299000000,
+    "financing_cf": -4785000000,
+    "net_assets": 328225000000,
+    "total_assets": 976877000000,
+    "bps": 2748.6,
+    "cash_end": 42131000000,
+    "equity_ratio": 0.319,
+    "roe": 0.075,
+    "per": 12.3,
+    "operating_income": 34655000000,
+    "income_tax_expense": 8451000000,
+    "interest_bearing_debt_current": 77361000000,
+    "interest_bearing_debt_noncurrent": 225589000000,
+    "bonds_payable": 110000000000,
+    "current_portion_of_bonds": 20000000000,
+    "depreciation": 28240000000,
+    "current_assets": 120200000000,
+    "current_liabilities": 189121000000,
+    "noncurrent_assets": 856677000000,
+    "noncurrent_liabilities": 459530000000,
+    "trade_payables": 23493000000,
+    "ppe": 761701000000,
+    "goodwill": 7213000000,
+    "intangible_assets": 13742000000,
+    "investment_securities": 60055000000,
+    "treasury_stock": -473000000,
+    "noncontrolling_interests": 17010000000
+  },
+  "segments": [
+    {
+      "key": "Construction",
+      "label": "建設業",
+      "external_revenue": 40781000000,
+      "intersegment_revenue": 13249000000,
+      "operating_income": 2459000000
+    },
+    {
+      "key": "LeisureAndServices",
+      "label": "レジャー・サービス業",
+      "external_revenue": 32091000000,
+      "intersegment_revenue": 13453000000,
+      "operating_income": 3344000000
+    },
+    {
+      "key": "MerchandisingRetail",
+      "label": "流通業",
+      "external_revenue": 28271000000,
+      "intersegment_revenue": 608000000,
+      "operating_income": 3657000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 268000000,
+      "intersegment_revenue": 3426000000,
+      "operating_income": 88000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産業",
+      "external_revenue": 47842000000,
+      "intersegment_revenue": 1244000000,
+      "operating_income": 12365000000
+    },
+    {
+      "key": "UrbanTransportation",
+      "label": "運輸業",
+      "external_revenue": 111531000000,
+      "intersegment_revenue": 1207000000,
+      "operating_income": 13261000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04106-000_2025-03-31_01_2025-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

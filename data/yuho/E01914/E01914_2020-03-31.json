@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01914",
+    "sec_code": "6981",
+    "company_name": "株式会社村田製作所",
+    "accounting_standard": "US",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R773"
+  },
+  "financials": {
+    "dps": 97,
+    "net_sales": 1534045000000,
+    "profit_before_tax": 254032000000,
+    "net_income": 183012000000,
+    "comprehensive_income": 149950000000,
+    "net_assets": 1694104000000,
+    "total_assets": 2250230000000,
+    "bps": 2647.88,
+    "eps": 286.05,
+    "equity_ratio": 0.753,
+    "roe": 0.111,
+    "per": 19.13,
+    "operating_cf": 350334000000,
+    "investing_cf": -284431000000,
+    "financing_cf": 17650000000,
+    "cash_end": 302320000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01914-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

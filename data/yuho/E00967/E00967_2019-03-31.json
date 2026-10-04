@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00967",
+    "sec_code": "4544",
+    "company_name": "H.U.グループホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZI9"
+  },
+  "financials": {
+    "net_sales": 181415000000,
+    "ordinary_income": 11524000000,
+    "net_income": 6386000000,
+    "comprehensive_income": 7505000000,
+    "eps": 111.94,
+    "eps_diluted": 111.91,
+    "dps": 130,
+    "operating_cf": 16244000000,
+    "investing_cf": -34902000000,
+    "financing_cf": 31973000000,
+    "net_assets": 112973000000,
+    "total_assets": 201234000000,
+    "bps": 1980.27,
+    "cash_end": 33688000000,
+    "equity_ratio": 0.56,
+    "roe": 0.057,
+    "per": 24.53
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00967-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

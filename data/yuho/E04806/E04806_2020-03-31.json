@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04806",
+    "sec_code": "8595",
+    "company_name": "ジャフコ グループ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZS1"
+  },
+  "financials": {
+    "net_sales": 29855000000,
+    "ordinary_income": 17045000000,
+    "net_income": 11839000000,
+    "comprehensive_income": 28616000000,
+    "eps": 127.59,
+    "dps": 118,
+    "operating_cf": 12177000000,
+    "investing_cf": -277000000,
+    "financing_cf": -3581000000,
+    "net_assets": 188366000000,
+    "total_assets": 222059000000,
+    "bps": 2030,
+    "cash_end": 72040000000,
+    "equity_ratio": 0.848,
+    "roe": 0.067,
+    "per": 7.36
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04806-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

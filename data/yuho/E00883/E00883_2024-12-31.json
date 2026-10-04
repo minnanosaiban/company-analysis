@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "edinet_code": "E00883",
+    "sec_code": "4452",
+    "company_name": "花王株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-21",
+    "doc_id": "S100VFNW"
+  },
+  "financials": {
+    "dps": 152,
+    "net_sales": 1628448000000,
+    "net_income": 107767000000,
+    "comprehensive_income": 155475000000,
+    "net_assets": 1066776000000,
+    "total_assets": 1867237000000,
+    "equity_ratio": 0.571,
+    "bps": 2296.69,
+    "eps": 231.94,
+    "roe": 0.105,
+    "per": 27.5,
+    "operating_cf": 201585000000,
+    "investing_cf": -45902000000,
+    "financing_cf": -104578000000,
+    "cash_end": 357713000000,
+    "operating_income": 146644000000,
+    "gross_profit": 638404000000,
+    "income_tax_expense": 40650000000,
+    "interest_bearing_debt_current": 35749000000,
+    "interest_bearing_debt_noncurrent": 95310000000,
+    "lease_liabilities_current": 20146000000,
+    "lease_liabilities_noncurrent": 94123000000,
+    "sga_expense": 498140000000,
+    "profit_before_tax": 151024000000,
+    "depreciation": 88422000000,
+    "capex_ppe": -57404000000,
+    "capex_intangible": -10072000000,
+    "current_assets": 914025000000,
+    "current_liabilities": 509600000000,
+    "noncurrent_assets": 953212000000,
+    "trade_receivables": 238077000000,
+    "inventories": 274628000000,
+    "trade_payables": 258035000000,
+    "ppe": 423251000000,
+    "goodwill": 228413000000,
+    "intangible_assets": 81947000000,
+    "equity_method_investments": 14526000000,
+    "treasury_stock": -5924000000,
+    "noncontrolling_interests": 32059000000
+  },
+  "segments": [
+    {
+      "key": "ChemicalBusiness",
+      "label": null,
+      "external_revenue": 360202000000,
+      "intersegment_revenue": 45678000000,
+      "operating_income": 34634000000
+    },
+    {
+      "key": "ConsumerProductsBusiness",
+      "label": null,
+      "external_revenue": 1268246000000,
+      "operating_income": 112833000000
+    },
+    {
+      "key": "CosmeticsBusiness",
+      "label": null,
+      "external_revenue": 244102000000,
+      "operating_income": -3664000000
+    },
+    {
+      "key": "HealthAndBeautyCareBusiness",
+      "label": null,
+      "external_revenue": 423967000000,
+      "operating_income": 34433000000
+    },
+    {
+      "key": "HygieneAndLivingCareBusiness",
+      "label": null,
+      "external_revenue": 544278000000,
+      "operating_income": 75771000000
+    },
+    {
+      "key": "LifeCareBusiness",
+      "label": null,
+      "external_revenue": 55899000000,
+      "operating_income": 6293000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00883-000_2024-12-31_01_2025-03-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

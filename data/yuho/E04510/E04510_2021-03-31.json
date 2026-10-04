@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04510",
+    "sec_code": "9513",
+    "company_name": "電源開発株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7S6"
+  },
+  "financials": {
+    "ordinary_income": 60903000000,
+    "net_income": 22304000000,
+    "comprehensive_income": 19629000000,
+    "eps": 121.85,
+    "dps": 75,
+    "operating_cf": 167959000000,
+    "investing_cf": -143274000000,
+    "financing_cf": 7031000000,
+    "net_assets": 853685000000,
+    "total_assets": 2841960000000,
+    "bps": 4420.39,
+    "cash_end": 185260000000,
+    "equity_ratio": 0.285,
+    "roe": 0.028,
+    "per": 15.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04510-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

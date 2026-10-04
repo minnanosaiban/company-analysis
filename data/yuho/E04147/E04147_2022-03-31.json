@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E04147",
+    "sec_code": "9020",
+    "company_name": "東日本旅客鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R09D"
+  },
+  "financials": {
+    "ordinary_income": -179501000000,
+    "net_income": -94948000000,
+    "comprehensive_income": -100543000000,
+    "eps": -251.69,
+    "dps": 100,
+    "operating_cf": 190506000000,
+    "investing_cf": -526358000000,
+    "financing_cf": 304642000000,
+    "net_assets": 2418110000000,
+    "total_assets": 9091424000000,
+    "bps": 6348.57,
+    "cash_end": 171023000000,
+    "equity_ratio": 0.263,
+    "roe": -0.039,
+    "operating_income": -153938000000,
+    "income_tax_expense": 12527000000,
+    "interest_bearing_debt_current": 202249000000,
+    "interest_bearing_debt_noncurrent": 1309950000000,
+    "bonds_payable": 2431665000000,
+    "current_portion_of_bonds": 111000000000,
+    "depreciation": 392626000000,
+    "current_assets": 907001000000,
+    "current_liabilities": 1688558000000,
+    "noncurrent_assets": 8184423000000,
+    "noncurrent_liabilities": 4984754000000,
+    "inventories": 94213000000,
+    "trade_payables": 47876000000,
+    "ppe": 7177855000000,
+    "intangible_assets": 169970000000,
+    "investment_securities": 301490000000,
+    "treasury_stock": -5563000000,
+    "noncontrolling_interests": 23182000000
+  },
+  "segments": [
+    {
+      "key": "RealEstateAndHotel",
+      "label": "不動産・ホテル事業",
+      "external_revenue": 352671000000,
+      "intersegment_revenue": 23024000000,
+      "operating_income": 107807000000
+    },
+    {
+      "key": "TradingAndService",
+      "label": "流通・サービス事業",
+      "external_revenue": 278186000000,
+      "intersegment_revenue": 34068000000,
+      "operating_income": 14116000000
+    },
+    {
+      "key": "Transportation",
+      "label": "運輸事業",
+      "external_revenue": 1277035000000,
+      "intersegment_revenue": 55803000000,
+      "operating_income": -285346000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04147-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

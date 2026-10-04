@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02481",
+    "sec_code": "7832",
+    "company_name": "株式会社バンダイナムコホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-19",
+    "doc_id": "S100QYWF"
+  },
+  "financials": {
+    "net_sales": 723989000000,
+    "ordinary_income": 79797000000,
+    "net_income": 57665000000,
+    "comprehensive_income": 53312000000,
+    "eps": 87.46,
+    "dps": 132,
+    "operating_cf": 43131000000,
+    "investing_cf": -23067000000,
+    "financing_cf": -35258000000,
+    "net_assets": 454684000000,
+    "total_assets": 619819000000,
+    "bps": 681.75,
+    "cash_end": 188667000000,
+    "equity_ratio": 0.725,
+    "roe": 0.131,
+    "per": 20
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02481-000_2023-03-31_01_2023-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

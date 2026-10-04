@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E02089",
+    "sec_code": "6674",
+    "company_name": "株式会社 ジーエス・ユアサ コーポレーション",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TVS1"
+  },
+  "financials": {
+    "net_sales": 562897000000,
+    "ordinary_income": 43981000000,
+    "net_income": 32064000000,
+    "comprehensive_income": 71592000000,
+    "eps": 369.74,
+    "dps": 70,
+    "operating_cf": 63180000000,
+    "investing_cf": -46192000000,
+    "financing_cf": 3480000000,
+    "net_assets": 373880000000,
+    "total_assets": 656663000000,
+    "bps": 3289.95,
+    "cash_end": 60307000000,
+    "equity_ratio": 0.503,
+    "roe": 0.114,
+    "per": 8.51,
+    "gross_profit": 126179000000,
+    "operating_income": 41595000000,
+    "income_tax_expense": 5927000000,
+    "interest_bearing_debt_current": 26196000000,
+    "interest_bearing_debt_noncurrent": 29962000000,
+    "bonds_payable": 10000000000,
+    "commercial_papers": 10000000000,
+    "lease_liabilities_noncurrent": 9515000000,
+    "depreciation": 22799000000,
+    "capex_ppe": -38352000000,
+    "capex_intangible": -604000000,
+    "current_assets": 316909000000,
+    "current_liabilities": 188530000000,
+    "noncurrent_assets": 339737000000,
+    "noncurrent_liabilities": 94252000000,
+    "trade_payables": 58624000000,
+    "ppe": 188596000000,
+    "goodwill": 1046000000,
+    "intangible_assets": 5072000000,
+    "investment_securities": 77362000000,
+    "treasury_stock": -314000000,
+    "noncontrolling_interests": 43888000000
+  },
+  "segments": [
+    {
+      "key": "AutomotiveBatteries",
+      "label": null,
+      "external_revenue": 346910000000,
+      "intersegment_revenue": 5354000000
+    },
+    {
+      "key": "AutomotiveLithiumIonBatteries",
+      "label": null,
+      "external_revenue": 84787000000,
+      "intersegment_revenue": 9614000000
+    },
+    {
+      "key": "DomesticOperations",
+      "label": null,
+      "external_revenue": 94047000000,
+      "intersegment_revenue": 1312000000
+    },
+    {
+      "key": "IndustrialBatteriesAndPowerSupplies",
+      "label": null,
+      "external_revenue": 109668000000,
+      "intersegment_revenue": 14363000000
+    },
+    {
+      "key": "OverseasOperations",
+      "label": null,
+      "external_revenue": 252863000000,
+      "intersegment_revenue": 4042000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02089-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

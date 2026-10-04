@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02529",
+    "sec_code": "8058",
+    "company_name": "三菱商事株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TL6G"
+  },
+  "financials": {
+    "dps": 44,
+    "net_sales": 14779734000000,
+    "net_income": 535353000000,
+    "comprehensive_income": 25839000000,
+    "net_assets": 5227359000000,
+    "total_assets": 18033424000000,
+    "equity_ratio": 0.29,
+    "bps": 1173.77,
+    "eps": 116.17,
+    "eps_diluted": 115.9,
+    "roe": 0.098,
+    "per": 6.58,
+    "operating_cf": 849728000000,
+    "investing_cf": -500727000000,
+    "financing_cf": -156629000000,
+    "cash_end": 1322812000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02529-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E04822",
+    "sec_code": "9759",
+    "company_name": "株式会社ＮＳＤ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TREH"
+  },
+  "financials": {
+    "net_sales": 101263000000,
+    "ordinary_income": 15340000000,
+    "net_income": 10262000000,
+    "comprehensive_income": 12483000000,
+    "eps": 133.29,
+    "eps_diluted": 133.28,
+    "dps": 72,
+    "operating_cf": 12188000000,
+    "investing_cf": -17849000000,
+    "financing_cf": -5770000000,
+    "net_assets": 64032000000,
+    "total_assets": 86405000000,
+    "bps": 811.26,
+    "cash_end": 26987000000,
+    "equity_ratio": 0.722,
+    "roe": 0.175,
+    "per": 22.33,
+    "gross_profit": 24961000000,
+    "operating_income": 15180000000,
+    "income_tax_expense": 5030000000,
+    "interest_bearing_debt_current": 1250000000,
+    "interest_bearing_debt_noncurrent": 1458000000,
+    "current_portion_lt_loans": 512000000,
+    "depreciation": 1287000000,
+    "capex_ppe": -288000000,
+    "capex_intangible": -263000000,
+    "current_assets": 50121000000,
+    "current_liabilities": 14547000000,
+    "noncurrent_assets": 36284000000,
+    "noncurrent_liabilities": 7825000000,
+    "ppe": 5040000000,
+    "goodwill": 10303000000,
+    "intangible_assets": 19777000000,
+    "investment_securities": 1653000000,
+    "treasury_stock": -11794000000,
+    "noncontrolling_interests": 1661000000
+  },
+  "segments": [
+    {
+      "key": "FinanceIT",
+      "label": "金融IT",
+      "external_revenue": 30889000000,
+      "intersegment_revenue": 32000000,
+      "operating_income": 5739000000
+    },
+    {
+      "key": "ITInfrastructure",
+      "label": "ITインフラ",
+      "external_revenue": 11839000000,
+      "intersegment_revenue": 30000000,
+      "operating_income": 2055000000
+    },
+    {
+      "key": "IndustryIT",
+      "label": "産業IT",
+      "external_revenue": 23685000000,
+      "intersegment_revenue": 253000000,
+      "operating_income": 2931000000
+    },
+    {
+      "key": "SocialInfrastructureIT",
+      "label": "社会基盤IT",
+      "external_revenue": 20306000000,
+      "intersegment_revenue": 0,
+      "operating_income": 3963000000
+    },
+    {
+      "key": "SolutionBusiness",
+      "label": "ソリューション事業",
+      "external_revenue": 14542000000,
+      "intersegment_revenue": 13000000,
+      "operating_income": 870000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04822-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

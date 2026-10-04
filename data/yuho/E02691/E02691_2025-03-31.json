@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "edinet_code": "E02691",
+    "sec_code": "8283",
+    "company_name": "株式会社ＰＡＬＴＡＣ",
+    "accounting_standard": "JP",
+    "is_consolidated": false,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-20",
+    "doc_id": "S100W05Z"
+  },
+  "financials": {
+    "dps": 105,
+    "net_sales": 1188097000000,
+    "ordinary_income": 31684000000,
+    "eps": 366.46,
+    "operating_cf": 20675000000,
+    "investing_cf": -428000000,
+    "financing_cf": -11324000000,
+    "net_assets": 287669000000,
+    "total_assets": 507048000000,
+    "bps": 4664.19,
+    "cash_end": 69916000000,
+    "equity_ratio": 0.567,
+    "roe": 0.081,
+    "per": 10.9,
+    "gross_profit": 88982000000,
+    "operating_income": 28008000000,
+    "income_tax_expense": 9472000000,
+    "lease_liabilities_current": 117000000,
+    "lease_liabilities_noncurrent": 232000000,
+    "depreciation": 6495000000,
+    "capex_ppe": -1406000000,
+    "capex_intangible": -216000000,
+    "current_assets": 365735000000,
+    "current_liabilities": 209028000000,
+    "noncurrent_assets": 141312000000,
+    "noncurrent_liabilities": 10351000000,
+    "ppe": 112933000000,
+    "intangible_assets": 724000000,
+    "investment_securities": 25600000000,
+    "treasury_stock": -5757000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02691-000_2025-03-31_01_2025-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

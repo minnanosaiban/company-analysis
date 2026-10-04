@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E04324",
+    "sec_code": "9065",
+    "company_name": "山九株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YJRS"
+  },
+  "financials": {
+    "net_sales": 631573000000,
+    "ordinary_income": 43385000000,
+    "net_income": 31505000000,
+    "comprehensive_income": 42789000000,
+    "eps": 614.05,
+    "dps": 246,
+    "operating_cf": 51993000000,
+    "investing_cf": -19188000000,
+    "financing_cf": -32383000000,
+    "net_assets": 306988000000,
+    "total_assets": 559746000000,
+    "bps": 6047.98,
+    "cash_end": 42529000000,
+    "equity_ratio": 0.542,
+    "roe": 0.106,
+    "per": 14.21,
+    "gross_profit": 76368000000,
+    "operating_income": 43240000000,
+    "income_tax_expense": 12765000000,
+    "interest_bearing_debt_current": 23591000000,
+    "interest_bearing_debt_noncurrent": 23424000000,
+    "bonds_payable": 15000000000,
+    "commercial_papers": 30000000000,
+    "lease_liabilities_current": 3455000000,
+    "lease_liabilities_noncurrent": 5697000000,
+    "depreciation": 20501000000,
+    "capex_ppe": -16603000000,
+    "capex_intangible": -2435000000,
+    "current_assets": 269255000000,
+    "current_liabilities": 150764000000,
+    "noncurrent_assets": 290490000000,
+    "noncurrent_liabilities": 101993000000,
+    "trade_payables": 49752000000,
+    "ppe": 190400000000,
+    "goodwill": 7635000000,
+    "intangible_assets": 15395000000,
+    "investment_securities": 43676000000,
+    "treasury_stock": -17118000000,
+    "noncontrolling_interests": 3818000000
+  },
+  "segments": [
+    {
+      "key": "Logistics",
+      "label": null,
+      "external_revenue": 295256000000,
+      "intersegment_revenue": 3813000000,
+      "operating_income": 9826000000
+    },
+    {
+      "key": "PlantEngineeringAndMaintenance",
+      "label": null,
+      "external_revenue": 307458000000,
+      "intersegment_revenue": 4056000000,
+      "operating_income": 30960000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04324-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

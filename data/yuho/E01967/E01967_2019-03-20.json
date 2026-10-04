@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01967",
+    "sec_code": "6861",
+    "company_name": "株式会社キーエンス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-20",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-15",
+    "doc_id": "S100QY7Y"
+  },
+  "financials": {
+    "net_sales": 587095000000,
+    "ordinary_income": 319860000000,
+    "net_income": 226147000000,
+    "comprehensive_income": 225473000000,
+    "eps": 932.46,
+    "dps": 200,
+    "operating_cf": 209380000000,
+    "investing_cf": -205350000000,
+    "financing_cf": -18221000000,
+    "net_assets": 1588309000000,
+    "total_assets": 1675913000000,
+    "bps": 6548.97,
+    "cash_end": 265894000000,
+    "equity_ratio": 0.948,
+    "roe": 0.1523,
+    "per": 36.51
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01967-000_2023-03-20_01_2023-06-15.csv",
+    "parser_version": "0.1.3"
+  }
+}

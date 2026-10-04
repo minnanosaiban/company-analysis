@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E02289",
+    "sec_code": "7729",
+    "company_name": "株式会社東京精密",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YEOP"
+  },
+  "financials": {
+    "net_sales": 166839000000,
+    "ordinary_income": 34825000000,
+    "net_income": 24739000000,
+    "comprehensive_income": 26749000000,
+    "eps": 610.02,
+    "eps_diluted": 606.14,
+    "dps": 262,
+    "operating_cf": 25012000000,
+    "investing_cf": -11491000000,
+    "financing_cf": -15674000000,
+    "net_assets": 192916000000,
+    "total_assets": 250533000000,
+    "bps": 4706.73,
+    "cash_end": 53052000000,
+    "equity_ratio": 0.763,
+    "roe": 0.135,
+    "per": 21.7,
+    "gross_profit": 68860000000,
+    "operating_income": 33738000000,
+    "income_tax_expense": 8945000000,
+    "interest_bearing_debt_current": 1300000000,
+    "interest_bearing_debt_noncurrent": 8000000000,
+    "current_portion_lt_loans": 5000000000,
+    "lease_liabilities_current": 261000000,
+    "lease_liabilities_noncurrent": 151000000,
+    "depreciation": 5582000000,
+    "capex_ppe": -10990000000,
+    "capex_intangible": -643000000,
+    "current_assets": 174607000000,
+    "current_liabilities": 47879000000,
+    "noncurrent_assets": 75925000000,
+    "noncurrent_liabilities": 9737000000,
+    "trade_payables": 9085000000,
+    "ppe": 59946000000,
+    "goodwill": 183000000,
+    "intangible_assets": 3189000000,
+    "investment_securities": 4307000000,
+    "treasury_stock": -8362000000,
+    "noncontrolling_interests": 1218000000
+  },
+  "segments": [
+    {
+      "key": "MeasurementEquipment",
+      "label": null,
+      "external_revenue": 38960000000,
+      "operating_income": 5333000000
+    },
+    {
+      "key": "SemiconductorManufacturingDevice",
+      "label": null,
+      "external_revenue": 127878000000,
+      "operating_income": 28404000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02289-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

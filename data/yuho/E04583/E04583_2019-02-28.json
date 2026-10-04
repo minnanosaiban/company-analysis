@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04583",
+    "sec_code": "9602",
+    "company_name": "東宝株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-25",
+    "doc_id": "S100QT8H"
+  },
+  "financials": {
+    "ordinary_income": 46568000000,
+    "net_income": 30197000000,
+    "comprehensive_income": 26236000000,
+    "eps": 167.92,
+    "dps": 45,
+    "operating_cf": 37603000000,
+    "investing_cf": -11349000000,
+    "financing_cf": -10319000000,
+    "net_assets": 365903000000,
+    "total_assets": 459646000000,
+    "bps": 1974.85,
+    "cash_end": 78496000000,
+    "equity_ratio": 0.772,
+    "roe": 0.087,
+    "per": 23.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04583-000_2023-02-28_01_2023-05-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

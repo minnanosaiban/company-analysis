@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05309",
+    "sec_code": "2331",
+    "company_name": "綜合警備保障株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3YW"
+  },
+  "financials": {
+    "net_sales": 460118000000,
+    "ordinary_income": 38880000000,
+    "net_income": 24163000000,
+    "comprehensive_income": 20712000000,
+    "eps": 238.69,
+    "dps": 70,
+    "operating_cf": 33896000000,
+    "investing_cf": -13395000000,
+    "financing_cf": -15113000000,
+    "net_assets": 270432000000,
+    "total_assets": 428796000000,
+    "bps": 2425.02,
+    "cash_end": 48790000000,
+    "equity_ratio": 0.573,
+    "roe": 0.101,
+    "per": 22
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05309-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

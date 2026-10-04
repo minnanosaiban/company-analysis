@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E36190",
+    "sec_code": "4887",
+    "company_name": "サワイグループホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R1EV"
+  },
+  "financials": {
+    "dps": 130,
+    "net_sales": 193816000000,
+    "net_income": -28269000000,
+    "comprehensive_income": -22566000000,
+    "net_assets": 190067000000,
+    "total_assets": 349502000000,
+    "equity_ratio": 0.544,
+    "bps": 4340.32,
+    "eps": -645.53,
+    "eps_diluted": -645.53,
+    "roe": -0.138,
+    "operating_cf": 34310000000,
+    "investing_cf": -30395000000,
+    "financing_cf": -11262000000,
+    "cash_end": 47717000000,
+    "operating_income": -35888000000,
+    "gross_profit": 66652000000,
+    "income_tax_expense": 5710000000,
+    "interest_bearing_debt_current": 13116000000,
+    "sga_expense": 46690000000,
+    "profit_before_tax": -36214000000,
+    "depreciation": 17045000000,
+    "capex_ppe": -14513000000,
+    "capex_intangible": -8831000000,
+    "current_assets": 202123000000,
+    "current_liabilities": 88840000000,
+    "noncurrent_assets": 147379000000,
+    "inventories": 85853000000,
+    "ppe": 111218000000,
+    "intangible_assets": 26289000000,
+    "treasury_stock": -2000000,
+    "noncontrolling_interests": 10016000000
+  },
+  "segments": [
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 163841000000,
+      "revenue": 163841000000,
+      "operating_income": 32361000000
+    },
+    {
+      "key": "USA",
+      "label": null,
+      "external_revenue": 29975000000,
+      "revenue": 29975000000,
+      "operating_income": -68249000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E36190-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

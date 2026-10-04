@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03854",
+    "sec_code": "8725",
+    "company_name": "ＭＳ＆ＡＤインシュアランスグループホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R36C"
+  },
+  "financials": {
+    "ordinary_income": 157701000000,
+    "net_income": 143030000000,
+    "comprehensive_income": -157288000000,
+    "eps": 248.36,
+    "eps_diluted": 248.22,
+    "dps": 150,
+    "operating_cf": 667896000000,
+    "investing_cf": -330363000000,
+    "financing_cf": 65321000000,
+    "net_assets": 2494038000000,
+    "total_assets": 23196455000000,
+    "bps": 4308.37,
+    "cash_end": 2198680000000,
+    "equity_ratio": 0.1057,
+    "roe": 0.055,
+    "per": 12.18,
+    "ordinary_revenue": 5168361000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03854-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

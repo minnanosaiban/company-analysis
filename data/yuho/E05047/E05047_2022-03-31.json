@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "edinet_code": "E05047",
+    "sec_code": "8876",
+    "company_name": "株式会社リログループ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R6MH"
+  },
+  "financials": {
+    "net_sales": 339642000000,
+    "ordinary_income": 17076000000,
+    "net_income": 13749000000,
+    "comprehensive_income": 19685000000,
+    "eps": 90.34,
+    "eps_diluted": 86.36,
+    "dps": 29,
+    "operating_cf": 17880000000,
+    "investing_cf": -8248000000,
+    "financing_cf": -15960000000,
+    "net_assets": 62928000000,
+    "total_assets": 260193000000,
+    "bps": 388.31,
+    "cash_end": 44265000000,
+    "equity_ratio": 0.228,
+    "roe": 0.237,
+    "per": 20.3,
+    "operating_income": 20524000000,
+    "gross_profit": 50909000000,
+    "income_tax_expense": 5569000000,
+    "interest_bearing_debt_current": 19722000000,
+    "interest_bearing_debt_noncurrent": 70702000000,
+    "lease_liabilities_current": 43383000000,
+    "lease_liabilities_noncurrent": 15287000000,
+    "sga_expense": 34251000000,
+    "profit_before_tax": 21770000000,
+    "depreciation": 6783000000,
+    "capex_ppe": -3189000000,
+    "capex_intangible": -2815000000,
+    "current_assets": 161439000000,
+    "current_liabilities": 118742000000,
+    "noncurrent_assets": 140160000000,
+    "trade_receivables": 98154000000,
+    "inventories": 5613000000,
+    "trade_payables": 16779000000,
+    "ppe": 14502000000,
+    "goodwill": 17467000000,
+    "intangible_assets": 20386000000,
+    "equity_method_investments": 14618000000,
+    "treasury_stock": -57000000,
+    "noncontrolling_interests": 657000000
+  },
+  "segments": [
+    {
+      "key": "FringeBenefitBusiness",
+      "label": null,
+      "external_revenue": 20837000000,
+      "intersegment_revenue": 192000000,
+      "revenue": 21029000000,
+      "operating_income": 9680000000
+    },
+    {
+      "key": "RelocationBusiness",
+      "label": null,
+      "external_revenue": 80914000000,
+      "intersegment_revenue": 181000000,
+      "revenue": 81096000000,
+      "operating_income": 12178000000
+    },
+    {
+      "key": "TourismBusiness",
+      "label": null,
+      "external_revenue": 10471000000,
+      "intersegment_revenue": 42000000,
+      "revenue": 10513000000,
+      "operating_income": 1020000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05047-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

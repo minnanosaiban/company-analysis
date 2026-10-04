@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E31633",
+    "sec_code": "4980",
+    "company_name": "デクセリアルズ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TRJF"
+  },
+  "financials": {
+    "net_sales": 105198000000,
+    "ordinary_income": 30028000000,
+    "net_income": 21382000000,
+    "comprehensive_income": 23425000000,
+    "eps": 368.71,
+    "eps_diluted": 367.38,
+    "dps": 100,
+    "operating_cf": 27457000000,
+    "investing_cf": -10866000000,
+    "financing_cf": -10343000000,
+    "net_assets": 84953000000,
+    "total_assets": 138016000000,
+    "bps": 1485.96,
+    "cash_end": 37410000000,
+    "equity_ratio": 0.6155,
+    "roe": 0.2709,
+    "per": 18.14,
+    "gross_profit": 57268000000,
+    "operating_income": 33421000000,
+    "income_tax_expense": 8635000000,
+    "interest_bearing_debt_current": 4000000000,
+    "interest_bearing_debt_noncurrent": 15276000000,
+    "current_portion_lt_loans": 2459000000,
+    "depreciation": 4510000000,
+    "capex_ppe": -10086000000,
+    "capex_intangible": -854000000,
+    "current_assets": 69063000000,
+    "current_liabilities": 30996000000,
+    "noncurrent_assets": 68952000000,
+    "noncurrent_liabilities": 22065000000,
+    "trade_receivables": 17436000000,
+    "trade_payables": 8658000000,
+    "ppe": 35703000000,
+    "goodwill": 19161000000,
+    "intangible_assets": 24840000000,
+    "treasury_stock": -5085000000
+  },
+  "segments": [
+    {
+      "key": "ElectronicMaterialsAndComponents",
+      "label": null,
+      "external_revenue": 54222000000,
+      "intersegment_revenue": 165000000,
+      "operating_income": 19167000000
+    },
+    {
+      "key": "OpticalMaterialsAndComponents",
+      "label": null,
+      "external_revenue": 50975000000,
+      "intersegment_revenue": 478000000,
+      "operating_income": 16040000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31633-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

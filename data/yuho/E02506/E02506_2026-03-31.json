@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "edinet_code": "E02506",
+    "sec_code": "8020",
+    "company_name": "兼松株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YGCZ"
+  },
+  "financials": {
+    "dps": 91.75,
+    "net_sales": 1067665000000,
+    "net_income": 32523000000,
+    "comprehensive_income": 43999000000,
+    "net_assets": 208391000000,
+    "total_assets": 733009000000,
+    "equity_ratio": 0.284,
+    "bps": 1252.27,
+    "eps": 195.52,
+    "eps_diluted": 194.77,
+    "roe": 0.17,
+    "per": 11.28,
+    "operating_cf": 57663000000,
+    "investing_cf": -11929000000,
+    "financing_cf": -46900000000,
+    "cash_end": 58418000000,
+    "operating_income": 48663000000,
+    "gross_profit": 168914000000,
+    "income_tax_expense": 13907000000,
+    "interest_bearing_debt_current": 66173000000,
+    "interest_bearing_debt_noncurrent": 88673000000,
+    "lease_liabilities_current": 9155000000,
+    "lease_liabilities_noncurrent": 19049000000,
+    "sga_expense": 123100000000,
+    "profit_before_tax": 47157000000,
+    "depreciation": 16417000000,
+    "capex_ppe": -4425000000,
+    "capex_intangible": -1139000000,
+    "current_assets": 540894000000,
+    "current_liabilities": 384311000000,
+    "noncurrent_assets": 192115000000,
+    "trade_receivables": 258204000000,
+    "inventories": 161010000000,
+    "trade_payables": 232215000000,
+    "ppe": 59677000000,
+    "goodwill": 17011000000,
+    "intangible_assets": 33305000000,
+    "investment_securities": 48494000000,
+    "equity_method_investments": 22264000000,
+    "treasury_stock": -2237000000,
+    "noncontrolling_interests": 15083000000
+  },
+  "segments": [
+    {
+      "key": "ElectronicsAndDevices",
+      "label": "電子・デバイス",
+      "external_revenue": 306895000000,
+      "intersegment_revenue": 145000000,
+      "operating_income": 16129000000,
+      "profit_attributable_to_owners": 10916000000,
+      "assets": 179633000000
+    },
+    {
+      "key": "FoodsAndGrain",
+      "label": "食料",
+      "external_revenue": 358866000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": 8844000000,
+      "profit_attributable_to_owners": 5374000000,
+      "equity_method_income": 836000000,
+      "assets": 187668000000
+    },
+    {
+      "key": "ICTSOLUTION",
+      "label": "ICTソリューション",
+      "external_revenue": 110771000000,
+      "intersegment_revenue": 1021000000,
+      "operating_income": 15174000000,
+      "profit_attributable_to_owners": 10293000000,
+      "equity_method_income": 207000000,
+      "assets": 133382000000
+    },
+    {
+      "key": "MotorVehiclesAndAerospace",
+      "label": "車両・航空",
+      "external_revenue": 119845000000,
+      "intersegment_revenue": 32000000,
+      "operating_income": 5335000000,
+      "profit_attributable_to_owners": 3548000000,
+      "equity_method_income": 11000000,
+      "assets": 122738000000
+    },
+    {
+      "key": "SteelMaterialsAndPlant",
+      "label": "鉄鋼・素材・プラント",
+      "external_revenue": 169386000000,
+      "intersegment_revenue": 33000000,
+      "operating_income": 3521000000,
+      "profit_attributable_to_owners": 2545000000,
+      "equity_method_income": 249000000,
+      "assets": 120815000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02506-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

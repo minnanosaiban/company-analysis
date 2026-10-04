@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "edinet_code": "E02552",
+    "sec_code": "8012",
+    "company_name": "長瀬産業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-24",
+    "doc_id": "S100TPW2"
+  },
+  "financials": {
+    "net_sales": 900149000000,
+    "ordinary_income": 30591000000,
+    "net_income": 22402000000,
+    "comprehensive_income": 46335000000,
+    "eps": 194.96,
+    "dps": 80,
+    "operating_cf": 72959000000,
+    "investing_cf": -11627000000,
+    "financing_cf": -48046000000,
+    "net_assets": 401315000000,
+    "total_assets": 792336000000,
+    "bps": 3463.84,
+    "cash_end": 59185000000,
+    "equity_ratio": 0.497,
+    "roe": 0.059,
+    "per": 13.1,
+    "gross_profit": 164719000000,
+    "operating_income": 30618000000,
+    "income_tax_expense": 10627000000,
+    "interest_bearing_debt_current": 50731000000,
+    "interest_bearing_debt_noncurrent": 27533000000,
+    "bonds_payable": 20000000000,
+    "commercial_papers": 37000000000,
+    "current_portion_of_bonds": 10000000000,
+    "current_portion_lt_loans": 6946000000,
+    "lease_liabilities_noncurrent": 12492000000,
+    "depreciation": 13998000000,
+    "capex_ppe": -14019000000,
+    "capex_intangible": -3735000000,
+    "current_assets": 542470000000,
+    "current_liabilities": 302675000000,
+    "noncurrent_assets": 249865000000,
+    "noncurrent_liabilities": 88345000000,
+    "trade_receivables": 321126000000,
+    "trade_payables": 156352000000,
+    "ppe": 87392000000,
+    "goodwill": 27884000000,
+    "intangible_assets": 69349000000,
+    "investment_securities": 76225000000,
+    "treasury_stock": -9543000000,
+    "noncontrolling_interests": 7250000000
+  },
+  "segments": [
+    {
+      "key": "AdvancedMaterialsAndProcessing",
+      "label": null,
+      "external_revenue": 198543000000,
+      "intersegment_revenue": 792000000,
+      "operating_income": 6804000000
+    },
+    {
+      "key": "ElectronicsAndEnergy",
+      "label": null,
+      "external_revenue": 144758000000,
+      "intersegment_revenue": 3068000000,
+      "operating_income": 11327000000
+    },
+    {
+      "key": "FunctionalMaterials",
+      "label": null,
+      "external_revenue": 146804000000,
+      "intersegment_revenue": 1709000000,
+      "operating_income": 8629000000
+    },
+    {
+      "key": "LifeAndHealthcare",
+      "label": null,
+      "external_revenue": 277779000000,
+      "intersegment_revenue": 471000000,
+      "operating_income": 10321000000
+    },
+    {
+      "key": "Mobility",
+      "label": null,
+      "external_revenue": 132117000000,
+      "intersegment_revenue": 2798000000,
+      "operating_income": 4933000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02552-000_2024-03-31_01_2024-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

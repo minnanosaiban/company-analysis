@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04324",
+    "sec_code": "9065",
+    "company_name": "山九株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R0Q4"
+  },
+  "financials": {
+    "net_sales": 572516000000,
+    "ordinary_income": 39184000000,
+    "net_income": 27470000000,
+    "comprehensive_income": 23579000000,
+    "eps": 454.02,
+    "dps": 110,
+    "operating_cf": 49587000000,
+    "investing_cf": -9812000000,
+    "financing_cf": -31757000000,
+    "net_assets": 198355000000,
+    "total_assets": 409513000000,
+    "bps": 3242.58,
+    "cash_end": 35653000000,
+    "equity_ratio": 0.479,
+    "roe": 0.146,
+    "per": 11.89
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04324-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

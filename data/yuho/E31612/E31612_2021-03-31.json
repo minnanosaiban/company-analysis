@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E31612",
+    "sec_code": "7180",
+    "company_name": "株式会社九州フィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-16",
+    "doc_id": "S100QYSB"
+  },
+  "financials": {
+    "ordinary_income": 21682000000,
+    "net_income": 15012000000,
+    "comprehensive_income": 68705000000,
+    "eps": 34.12,
+    "dps": 12,
+    "operating_cf": 794763000000,
+    "investing_cf": -3590000000,
+    "financing_cf": -5322000000,
+    "net_assets": 683152000000,
+    "total_assets": 12204020000000,
+    "bps": 1548.61,
+    "cash_end": 1955589000000,
+    "equity_ratio": 0.055,
+    "roe": 0.023,
+    "per": 13.9,
+    "ordinary_revenue": 180896000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31612-000_2023-03-31_01_2023-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

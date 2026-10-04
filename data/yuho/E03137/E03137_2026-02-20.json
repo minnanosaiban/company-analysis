@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "edinet_code": "E03137",
+    "sec_code": "8227",
+    "company_name": "株式会社しまむら",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-02-20",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-05-12",
+    "doc_id": "S100Y2PP"
+  },
+  "financials": {
+    "net_sales": 700034000000,
+    "ordinary_income": 63672000000,
+    "net_income": 44460000000,
+    "comprehensive_income": 48289000000,
+    "eps": 202.36,
+    "dps": 215,
+    "operating_cf": 48052000000,
+    "investing_cf": -66334000000,
+    "financing_cf": -60754000000,
+    "net_assets": 488545000000,
+    "total_assets": 554667000000,
+    "bps": 2353.09,
+    "cash_end": 127185000000,
+    "equity_ratio": 0.881,
+    "roe": 0.09,
+    "per": 17.48,
+    "gross_profit": 243904000000,
+    "operating_income": 61483000000,
+    "income_tax_expense": 18123000000,
+    "depreciation": 6996000000,
+    "capex_ppe": -22933000000,
+    "capex_intangible": -872000000,
+    "current_assets": 321887000000,
+    "current_liabilities": 56806000000,
+    "noncurrent_assets": 232779000000,
+    "noncurrent_liabilities": 9315000000,
+    "ppe": 157704000000,
+    "intangible_assets": 1879000000,
+    "investment_securities": 55677000000,
+    "treasury_stock": -47084000000
+  },
+  "segments": [
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 689702000000,
+      "operating_income": 60808000000
+    },
+    {
+      "key": "Overseas",
+      "label": null,
+      "external_revenue": 10332000000,
+      "operating_income": 674000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03137-000_2026-02-20_01_2026-05-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

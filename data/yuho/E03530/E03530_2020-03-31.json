@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03530",
+    "sec_code": "8303",
+    "company_name": "株式会社SBI新生銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8GG"
+  },
+  "financials": {
+    "ordinary_income": 51036000000,
+    "net_income": 45575000000,
+    "comprehensive_income": 36307000000,
+    "eps": 190.59,
+    "eps_diluted": 190.55,
+    "dps": 10,
+    "operating_cf": 306515000000,
+    "investing_cf": 49153000000,
+    "financing_cf": -23193000000,
+    "net_assets": 910485000000,
+    "total_assets": 10226571000000,
+    "bps": 3913.4,
+    "cash_end": 1578264000000,
+    "equity_ratio": 0.088,
+    "roe": 0.0508,
+    "per": 7.57,
+    "ordinary_revenue": 399503000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03530-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

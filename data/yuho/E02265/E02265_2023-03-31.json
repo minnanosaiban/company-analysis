@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E02265",
+    "sec_code": "7701",
+    "company_name": "株式会社　島津製作所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8AR"
+  },
+  "financials": {
+    "net_sales": 482240000000,
+    "ordinary_income": 70882000000,
+    "net_income": 52048000000,
+    "comprehensive_income": 57041000000,
+    "eps": 176.64,
+    "dps": 54,
+    "operating_cf": 48303000000,
+    "investing_cf": -34509000000,
+    "financing_cf": -19418000000,
+    "net_assets": 423499000000,
+    "total_assets": 618869000000,
+    "bps": 1437.19,
+    "cash_end": 153734000000,
+    "equity_ratio": 0.684,
+    "roe": 0.129,
+    "per": 23.4,
+    "gross_profit": 200959000000,
+    "operating_income": 68219000000,
+    "income_tax_expense": 21466000000,
+    "interest_bearing_debt_current": 1400000000,
+    "interest_bearing_debt_noncurrent": 132000000,
+    "lease_liabilities_current": 3237000000,
+    "lease_liabilities_noncurrent": 6499000000,
+    "depreciation": 17524000000,
+    "current_assets": 431509000000,
+    "current_liabilities": 172387000000,
+    "noncurrent_assets": 187360000000,
+    "noncurrent_liabilities": 22982000000,
+    "trade_payables": 66713000000,
+    "ppe": 112992000000,
+    "goodwill": 4947000000,
+    "intangible_assets": 16963000000,
+    "investment_securities": 15145000000,
+    "treasury_stock": -1210000000
+  },
+  "segments": [
+    {
+      "key": "AircraftEquipment",
+      "label": null,
+      "external_revenue": 23985000000,
+      "intersegment_revenue": 37000000,
+      "operating_income": 1389000000
+    },
+    {
+      "key": "IndustrialEquipment",
+      "label": null,
+      "external_revenue": 62982000000,
+      "intersegment_revenue": 66000000,
+      "operating_income": 5422000000
+    },
+    {
+      "key": "MeasurementEquipment",
+      "label": null,
+      "external_revenue": 314668000000,
+      "intersegment_revenue": 54000000,
+      "operating_income": 57615000000
+    },
+    {
+      "key": "MedicalEquipment",
+      "label": null,
+      "external_revenue": 75876000000,
+      "intersegment_revenue": 46000000,
+      "operating_income": 5538000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02265-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

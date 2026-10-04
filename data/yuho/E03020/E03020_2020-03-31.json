@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E03020",
+    "sec_code": "8242",
+    "company_name": "エイチ・ツー・オー リテイリング株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R4BV"
+  },
+  "financials": {
+    "net_sales": 897289000000,
+    "ordinary_income": 11831000000,
+    "net_income": -13150000000,
+    "comprehensive_income": -30174000000,
+    "eps": -106.38,
+    "dps": 40,
+    "operating_cf": 9871000000,
+    "investing_cf": -22451000000,
+    "financing_cf": -16440000000,
+    "net_assets": 244634000000,
+    "total_assets": 586904000000,
+    "bps": 1967.9,
+    "cash_end": 25958000000,
+    "equity_ratio": 0.415,
+    "roe": -0.05
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03020-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E05080",
+    "sec_code": "4755",
+    "company_name": "楽天グループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T4X3"
+  },
+  "financials": {
+    "dps": 4.5,
+    "net_sales": 1263932000000,
+    "net_income": -31888000000,
+    "net_assets": 735672000000,
+    "total_assets": 9165697000000,
+    "equity_ratio": 0.08,
+    "bps": 542.43,
+    "eps": -23.55,
+    "eps_diluted": -23.55,
+    "roe": -0.042,
+    "operating_cf": 318320000000,
+    "investing_cf": -286290000000,
+    "financing_cf": 458340000000,
+    "cash_end": 1478557000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05080-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

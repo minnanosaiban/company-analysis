@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "edinet_code": "E02498",
+    "sec_code": "8002",
+    "company_name": "丸紅株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-17",
+    "doc_id": "S100VYGC"
+  },
+  "financials": {
+    "dps": 78,
+    "net_sales": 9190472000000,
+    "net_income": 543001000000,
+    "comprehensive_income": 826114000000,
+    "net_assets": 2877747000000,
+    "total_assets": 7953604000000,
+    "equity_ratio": 0.3618,
+    "bps": 1610.81,
+    "eps": 316.11,
+    "eps_diluted": 315.58,
+    "roe": 0.224,
+    "per": 5.68,
+    "operating_cf": 606334000000,
+    "investing_cf": 156805000000,
+    "financing_cf": -766587000000,
+    "cash_end": 608917000000
+  },
+  "segments": [
+    {
+      "key": "AerospaceAndShip",
+      "label": "航空・船舶",
+      "gross_profit": 39098000000,
+      "equity_method_income": 11517000000,
+      "profit_attributable_to_owners": 28198000000,
+      "assets": 334644000000
+    },
+    {
+      "key": "AgriBusiness",
+      "label": "アグリ事業",
+      "gross_profit": 231447000000,
+      "equity_method_income": 1202000000,
+      "profit_attributable_to_owners": 42732000000,
+      "assets": 1099277000000
+    },
+    {
+      "key": "Chemicals",
+      "label": "化学品",
+      "gross_profit": 45551000000,
+      "equity_method_income": 2456000000,
+      "profit_attributable_to_owners": 14260000000,
+      "assets": 322871000000
+    },
+    {
+      "key": "ConstructionIndustrialMachineryAndMobility",
+      "label": "建機・産機・モビリティ",
+      "gross_profit": 106176000000,
+      "equity_method_income": 8779000000,
+      "profit_attributable_to_owners": 23846000000,
+      "assets": 379750000000
+    },
+    {
+      "key": "Energy",
+      "label": "エネルギー",
+      "gross_profit": 96895000000,
+      "equity_method_income": 10026000000,
+      "profit_attributable_to_owners": 38663000000,
+      "assets": 555856000000
+    },
+    {
+      "key": "FinanceLeasingAndRealEstateBusiness",
+      "label": "金融・リース・不動産",
+      "gross_profit": 25737000000,
+      "equity_method_income": 43369000000,
+      "profit_attributable_to_owners": 43745000000,
+      "assets": 550488000000
+    },
+    {
+      "key": "Food1",
+      "label": "食料第一",
+      "gross_profit": 56890000000,
+      "equity_method_income": 4738000000,
+      "profit_attributable_to_owners": 11553000000,
+      "assets": 425999000000
+    },
+    {
+      "key": "Food2",
+      "label": "食料第二",
+      "gross_profit": 93502000000,
+      "equity_method_income": 3562000000,
+      "profit_attributable_to_owners": 76934000000,
+      "assets": 560361000000
+    },
+    {
+      "key": "ForestProducts",
+      "label": "フォレストプロダクツ",
+      "gross_profit": 50174000000,
+      "equity_method_income": -11328000000,
+      "profit_attributable_to_owners": -9382000000,
+      "assets": 323206000000
+    },
+    {
+      "key": "ITSolutions",
+      "label": "情報ソリューション",
+      "gross_profit": 99057000000,
+      "equity_method_income": 569000000,
+      "profit_attributable_to_owners": 9534000000,
+      "assets": 372121000000
+    },
+    {
+      "key": "InfrastructureProject",
+      "label": "インフラプロジェクト",
+      "gross_profit": 12806000000,
+      "equity_method_income": 15847000000,
+      "profit_attributable_to_owners": 8809000000,
+      "assets": 281004000000
+    },
+    {
+      "key": "Lifestyle",
+      "label": "ライフスタイル",
+      "gross_profit": 47136000000,
+      "equity_method_income": -172000000,
+      "profit_attributable_to_owners": 6799000000,
+      "assets": 173852000000
+    },
+    {
+      "key": "MetalsAndMineralResources",
+      "label": "金属",
+      "gross_profit": 89281000000,
+      "equity_method_income": 155004000000,
+      "profit_attributable_to_owners": 199359000000,
+      "assets": 1209495000000
+    },
+    {
+      "key": "NextGenerationBusinessDevelopment",
+      "label": "次世代事業開発",
+      "gross_profit": 5860000000,
+      "equity_method_income": 813000000,
+      "profit_attributable_to_owners": -5130000000,
+      "assets": 37849000000
+    },
+    {
+      "key": "NextGenerationCorporateDevelopment",
+      "label": "次世代コーポレートディベロップメント",
+      "equity_method_income": -371000000,
+      "profit_attributable_to_owners": -1979000000,
+      "assets": 13448000000
+    },
+    {
+      "key": "PowerBusiness",
+      "label": "電力",
+      "gross_profit": 61455000000,
+      "equity_method_income": 40662000000,
+      "profit_attributable_to_owners": 40008000000,
+      "assets": 1179906000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02498-000_2025-03-31_01_2025-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

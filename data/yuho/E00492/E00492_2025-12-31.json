@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E00492",
+    "sec_code": "2914",
+    "company_name": "日本たばこ産業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XSSA"
+  },
+  "financials": {
+    "dps": 234,
+    "net_sales": 3467675000000,
+    "net_income": 510175000000,
+    "total_assets": 8419240000000,
+    "equity_ratio": 0.4854,
+    "bps": 2301.99,
+    "eps": 287.36,
+    "eps_diluted": 287.33,
+    "roe": 0.1299,
+    "per": 19.63,
+    "operating_cf": 514056000000,
+    "investing_cf": -264986000000,
+    "financing_cf": -475471000000,
+    "cash_end": 831135000000,
+    "operating_income": 867038000000,
+    "gross_profit": 1948585000000,
+    "income_tax_expense": 238711000000,
+    "interest_bearing_debt_current": 79627000000,
+    "interest_bearing_debt_noncurrent": 1599061000000,
+    "sga_expense": 1178162000000,
+    "profit_before_tax": 739786000000,
+    "depreciation": 195899000000,
+    "capex_ppe": -143204000000,
+    "capex_intangible": -19182000000,
+    "current_assets": 3711097000000,
+    "current_liabilities": 1927252000000,
+    "noncurrent_assets": 4708143000000,
+    "trade_receivables": 640681000000,
+    "inventories": 1060136000000,
+    "trade_payables": 711721000000,
+    "ppe": 979800000000,
+    "goodwill": 2923096000000,
+    "intangible_assets": 395658000000,
+    "equity_method_investments": 82205000000,
+    "treasury_stock": -489744000000,
+    "noncontrolling_interests": 28456000000
+  },
+  "segments": [
+    {
+      "key": "ProcessedFood",
+      "label": "加工食品",
+      "external_revenue": 159513000000,
+      "intersegment_revenue": 35000000,
+      "revenue": 159547000000,
+      "operating_income": 8589000000,
+      "equity_method_income": -8000000
+    },
+    {
+      "key": "Tobacco",
+      "label": "たばこ",
+      "external_revenue": 3305407000000,
+      "intersegment_revenue": 1000000,
+      "revenue": 3305408000000,
+      "operating_income": 952161000000,
+      "equity_method_income": 13212000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00492-000_2025-12-31_01_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

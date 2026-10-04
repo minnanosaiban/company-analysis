@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E03854",
+    "sec_code": "8725",
+    "company_name": "ＭＳ＆ＡＤインシュアランスグループホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-20",
+    "doc_id": "S100W0ZR"
+  },
+  "financials": {
+    "ordinary_income": 928989000000,
+    "net_income": 691657000000,
+    "comprehensive_income": -17284000000,
+    "eps": 445.52,
+    "eps_diluted": 445.45,
+    "dps": 145,
+    "operating_cf": 660188000000,
+    "investing_cf": -558725000000,
+    "financing_cf": -659578000000,
+    "net_assets": 4052835000000,
+    "total_assets": 26241298000000,
+    "bps": 2647.01,
+    "cash_end": 2239475000000,
+    "equity_ratio": 0.1524,
+    "roe": 0.1634,
+    "per": 7.24,
+    "bonds_payable": 590565000000,
+    "depreciation": 105214000000,
+    "capex_ppe": -25199000000,
+    "capex_intangible": -63093000000,
+    "ppe": 456461000000,
+    "goodwill": 133142000000,
+    "intangible_assets": 478027000000,
+    "treasury_stock": -285533000000,
+    "noncontrolling_interests": 52217000000,
+    "ordinary_revenue": 6660813000000
+  },
+  "segments": [
+    {
+      "key": "AioiNissayDowaInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 1342531000000,
+      "intersegment_revenue": 87832000000
+    },
+    {
+      "key": "MitsuiDirectGeneralInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 37541000000,
+      "intersegment_revenue": -146000000
+    },
+    {
+      "key": "MitsuiSumitomoAioiLifeInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 463248000000
+    },
+    {
+      "key": "MitsuiSumitomoInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 1625622000000,
+      "intersegment_revenue": 53626000000
+    },
+    {
+      "key": "MitsuiSumitomoPrimaryLifeInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 1177070000000
+    },
+    {
+      "key": "OverseasInsuranceSubsidiary",
+      "label": null,
+      "external_revenue": 1681224000000,
+      "intersegment_revenue": -139466000000,
+      "equity_method_income": 30444000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03854-000_2025-03-31_01_2025-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

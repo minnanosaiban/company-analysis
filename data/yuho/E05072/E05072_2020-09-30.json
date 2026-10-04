@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E05072",
+    "sec_code": "4751",
+    "company_name": "株式会社サイバーエージェント",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-09-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-12-08",
+    "doc_id": "S100SFQ1"
+  },
+  "financials": {
+    "net_sales": 478566000000,
+    "ordinary_income": 33863000000,
+    "net_income": 6608000000,
+    "comprehensive_income": 20166000000,
+    "eps": 13.1,
+    "eps_diluted": 12.28,
+    "dps": 34,
+    "operating_cf": 37028000000,
+    "investing_cf": -16621000000,
+    "financing_cf": -2590000000,
+    "net_assets": 127678000000,
+    "total_assets": 260766000000,
+    "bps": 177.45,
+    "cash_end": 102368000000,
+    "equity_ratio": 0.343,
+    "roe": 0.078,
+    "per": 123.45
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05072-000_2023-09-30_01_2023-12-08.csv",
+    "parser_version": "0.1.3"
+  }
+}

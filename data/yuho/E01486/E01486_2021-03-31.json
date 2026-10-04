@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E01486",
+    "sec_code": "6113",
+    "company_name": "株式会社 アマダ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R73S"
+  },
+  "financials": {
+    "dps": 30,
+    "net_sales": 250448000000,
+    "net_income": 18564000000,
+    "comprehensive_income": 29546000000,
+    "net_assets": 447077000000,
+    "total_assets": 557298000000,
+    "equity_ratio": 0.802,
+    "bps": 1285.95,
+    "eps": 53.4,
+    "roe": 0.042,
+    "per": 23.1,
+    "operating_cf": 57579000000,
+    "investing_cf": -8727000000,
+    "financing_cf": -22896000000,
+    "cash_end": 75868000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01486-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

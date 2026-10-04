@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "edinet_code": "E00457",
+    "sec_code": "2897",
+    "company_name": "日清食品ホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W2GG"
+  },
+  "financials": {
+    "dps": 70,
+    "net_sales": 776594000000,
+    "net_income": 55019000000,
+    "comprehensive_income": 49708000000,
+    "net_assets": 475528000000,
+    "total_assets": 848461000000,
+    "equity_ratio": 0.56,
+    "bps": 1618.35,
+    "eps": 184.41,
+    "eps_diluted": 183.22,
+    "roe": 0.114,
+    "per": 16.6,
+    "operating_cf": 57058000000,
+    "investing_cf": -76708000000,
+    "financing_cf": -591000000,
+    "cash_end": 73036000000,
+    "operating_income": 74369000000,
+    "gross_profit": 272951000000,
+    "income_tax_expense": 17904000000,
+    "interest_bearing_debt_noncurrent": 77520000000,
+    "sga_expense": 209270000000,
+    "profit_before_tax": 76798000000,
+    "depreciation": 33237000000,
+    "capex_ppe": -70679000000,
+    "capex_intangible": -791000000,
+    "current_assets": 288343000000,
+    "current_liabilities": 219593000000,
+    "noncurrent_assets": 560118000000,
+    "trade_receivables": 115072000000,
+    "inventories": 70536000000,
+    "trade_payables": 144703000000,
+    "ppe": 351790000000,
+    "goodwill": 10893000000,
+    "equity_method_investments": 112514000000,
+    "treasury_stock": -31049000000,
+    "noncontrolling_interests": 36372000000
+  },
+  "segments": [
+    {
+      "key": "ChilledFrozenFoodsAndBeverages",
+      "label": null,
+      "external_revenue": 101349000000,
+      "intersegment_revenue": 915000000,
+      "revenue": 102265000000,
+      "operating_income": 8685000000
+    },
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 73474000000,
+      "intersegment_revenue": 3345000000,
+      "revenue": 76819000000,
+      "operating_income": 5906000000
+    },
+    {
+      "key": "Confectionery",
+      "label": null,
+      "external_revenue": 92443000000,
+      "intersegment_revenue": 213000000,
+      "revenue": 92657000000,
+      "operating_income": 5392000000
+    },
+    {
+      "key": "MyojoFoods",
+      "label": null,
+      "external_revenue": 45374000000,
+      "intersegment_revenue": 6416000000,
+      "revenue": 51791000000,
+      "operating_income": 3126000000
+    },
+    {
+      "key": "NissinFoodProducts",
+      "label": null,
+      "external_revenue": 238781000000,
+      "intersegment_revenue": 1571000000,
+      "revenue": 240352000000,
+      "operating_income": 30877000000
+    },
+    {
+      "key": "TheAmericas",
+      "label": null,
+      "external_revenue": 168565000000,
+      "intersegment_revenue": 79000000,
+      "revenue": 168645000000,
+      "operating_income": 18908000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00457-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

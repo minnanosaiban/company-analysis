@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E01047",
+    "sec_code": "4967",
+    "company_name": "小林製薬株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T3KX"
+  },
+  "financials": {
+    "net_sales": 173455000000,
+    "ordinary_income": 27330000000,
+    "net_income": 20338000000,
+    "comprehensive_income": 25957000000,
+    "eps": 268.16,
+    "dps": 101,
+    "operating_cf": 18360000000,
+    "investing_cf": -19576000000,
+    "financing_cf": -19463000000,
+    "net_assets": 204816000000,
+    "total_assets": 267473000000,
+    "bps": 2749.17,
+    "cash_end": 59690000000,
+    "equity_ratio": 0.764,
+    "roe": 0.101,
+    "per": 25.3,
+    "gross_profit": 96375000000,
+    "operating_income": 25780000000,
+    "income_tax_expense": 8297000000,
+    "lease_liabilities_current": 379000000,
+    "lease_liabilities_noncurrent": 608000000,
+    "depreciation": 4929000000,
+    "capex_ppe": -12756000000,
+    "capex_intangible": -813000000,
+    "current_assets": 158331000000,
+    "current_liabilities": 56111000000,
+    "noncurrent_assets": 109142000000,
+    "noncurrent_liabilities": 6545000000,
+    "trade_receivables": 53028000000,
+    "trade_payables": 8745000000,
+    "ppe": 47665000000,
+    "goodwill": 9655000000,
+    "intangible_assets": 21614000000,
+    "investment_securities": 32124000000,
+    "treasury_stock": -24766000000
+  },
+  "segments": [
+    {
+      "key": "DomesticBusiness",
+      "label": "国内事業",
+      "external_revenue": 130497000000,
+      "intersegment_revenue": 6041000000,
+      "operating_income": 22030000000
+    },
+    {
+      "key": "InternationalBusiness",
+      "label": "国際事業",
+      "external_revenue": 42295000000,
+      "intersegment_revenue": 1837000000,
+      "operating_income": 3218000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01047-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

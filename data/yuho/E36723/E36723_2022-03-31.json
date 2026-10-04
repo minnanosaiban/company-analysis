@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E36723",
+    "sec_code": "5076",
+    "company_name": "インフロニア・ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QZK6"
+  },
+  "financials": {
+    "net_sales": 682912000000,
+    "ordinary_income": 38036000000,
+    "net_income": 26689000000,
+    "comprehensive_income": 20039000000,
+    "eps": 94.73,
+    "dps": 40,
+    "operating_cf": -16333000000,
+    "investing_cf": -22547000000,
+    "financing_cf": 15288000000,
+    "net_assets": 355865000000,
+    "total_assets": 926432000000,
+    "bps": 1312.19,
+    "cash_end": 76018000000,
+    "equity_ratio": 0.374,
+    "roe": 0.087,
+    "per": 11,
+    "gross_profit": 91610000000,
+    "operating_income": 37489000000,
+    "income_tax_expense": 14649000000,
+    "interest_bearing_debt_current": 84492000000,
+    "interest_bearing_debt_noncurrent": 52851000000,
+    "bonds_payable": 45000000000,
+    "lease_liabilities_current": 236000000,
+    "lease_liabilities_noncurrent": 451000000,
+    "depreciation": 24890000000,
+    "current_assets": 452602000000,
+    "current_liabilities": 299236000000,
+    "noncurrent_assets": 473767000000,
+    "noncurrent_liabilities": 271330000000,
+    "ppe": 163578000000,
+    "goodwill": 19891000000,
+    "intangible_assets": 168724000000,
+    "investment_securities": 120123000000,
+    "treasury_stock": -24342000000,
+    "noncontrolling_interests": 8953000000
+  },
+  "segments": [
+    {
+      "key": "Building",
+      "label": null,
+      "external_revenue": 216102000000,
+      "intersegment_revenue": 2461000000,
+      "operating_income": 8497000000
+    },
+    {
+      "key": "CivilEngineering",
+      "label": null,
+      "external_revenue": 142639000000,
+      "intersegment_revenue": -125000000,
+      "operating_income": 14661000000
+    },
+    {
+      "key": "InfrastructureManagement",
+      "label": null,
+      "external_revenue": 18673000000,
+      "intersegment_revenue": 293000000,
+      "operating_income": 6095000000
+    },
+    {
+      "key": "Machinery",
+      "label": null,
+      "external_revenue": 35322000000,
+      "intersegment_revenue": 1823000000,
+      "operating_income": 1693000000
+    },
+    {
+      "key": "RoadPaving",
+      "label": null,
+      "external_revenue": 232767000000,
+      "intersegment_revenue": 2832000000,
+      "operating_income": 2668000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E36723-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

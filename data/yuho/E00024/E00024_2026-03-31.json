@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E00024",
+    "sec_code": "5706",
+    "company_name": "三井金属株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YBQV"
+  },
+  "financials": {
+    "net_sales": 758532000000,
+    "ordinary_income": 136736000000,
+    "net_income": 91263000000,
+    "comprehensive_income": 94768000000,
+    "eps": 1595.45,
+    "dps": 245,
+    "operating_cf": 87541000000,
+    "investing_cf": -24465000000,
+    "financing_cf": -53157000000,
+    "net_assets": 420910000000,
+    "total_assets": 697481000000,
+    "bps": 7202.1,
+    "cash_end": 58271000000,
+    "equity_ratio": 0.591,
+    "roe": 0.245,
+    "per": 17.57,
+    "gross_profit": 202647000000,
+    "operating_income": 130912000000,
+    "income_tax_expense": 23185000000,
+    "interest_bearing_debt_current": 36164000000,
+    "interest_bearing_debt_noncurrent": 37976000000,
+    "bonds_payable": 30000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_current": 462000000,
+    "lease_liabilities_noncurrent": 1016000000,
+    "depreciation": 29762000000,
+    "capex_ppe": -34492000000,
+    "capex_intangible": -1478000000,
+    "current_assets": 423466000000,
+    "current_liabilities": 172273000000,
+    "noncurrent_assets": 274014000000,
+    "noncurrent_liabilities": 104298000000,
+    "trade_payables": 61294000000,
+    "ppe": 177975000000,
+    "intangible_assets": 6870000000,
+    "investment_securities": 66125000000,
+    "treasury_stock": -653000000,
+    "noncontrolling_interests": 8861000000
+  },
+  "segments": [
+    {
+      "key": "AutomotivePartsAndComponents",
+      "label": null,
+      "external_revenue": 51218000000,
+      "ordinary_income": -849000000
+    },
+    {
+      "key": "EngineeredMaterialsSector",
+      "label": null,
+      "external_revenue": 319553000000,
+      "intersegment_revenue": 8894000000,
+      "ordinary_income": 66542000000
+    },
+    {
+      "key": "MetalsSector",
+      "label": null,
+      "external_revenue": 290230000000,
+      "intersegment_revenue": 86459000000,
+      "ordinary_income": 75085000000,
+      "equity_method_income": 5069000000
+    },
+    {
+      "key": "OtherBusinessSector",
+      "label": null,
+      "external_revenue": 98595000000,
+      "intersegment_revenue": 37892000000,
+      "ordinary_income": 3993000000,
+      "equity_method_income": 2286000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00024-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

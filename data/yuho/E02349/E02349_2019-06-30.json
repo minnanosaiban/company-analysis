@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02349",
+    "sec_code": "7747",
+    "company_name": "朝日インテック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-09-29",
+    "doc_id": "S100RWXB"
+  },
+  "financials": {
+    "net_sales": 57216000000,
+    "ordinary_income": 14833000000,
+    "net_income": 11237000000,
+    "comprehensive_income": 11335000000,
+    "eps": 43.29,
+    "eps_diluted": 43.02,
+    "dps": 21.61,
+    "operating_cf": 11720000000,
+    "investing_cf": -10849000000,
+    "financing_cf": 267000000,
+    "net_assets": 65450000000,
+    "total_assets": 84358000000,
+    "bps": 251.37,
+    "cash_end": 18777000000,
+    "equity_ratio": 0.776,
+    "roe": 0.189,
+    "per": 61.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02349-000_2023-06-30_01_2023-09-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

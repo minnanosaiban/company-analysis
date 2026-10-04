@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "edinet_code": "E01737",
+    "sec_code": "6501",
+    "company_name": "株式会社日立製作所",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W56G"
+  },
+  "financials": {
+    "dps": 43,
+    "net_sales": 9783370000000,
+    "net_income": 615724000000,
+    "comprehensive_income": 523435000000,
+    "net_assets": 5847091000000,
+    "total_assets": 13284813000000,
+    "equity_ratio": 0.44,
+    "bps": 1277.25,
+    "eps": 133.85,
+    "eps_diluted": 133.72,
+    "roe": 0.107,
+    "per": 25.8,
+    "operating_cf": 1172240000000,
+    "investing_cf": -573650000000,
+    "financing_cf": -424122000000,
+    "cash_end": 866242000000,
+    "gross_profit": 2820843000000,
+    "income_tax_expense": 305868000000,
+    "interest_bearing_debt_noncurrent": 764152000000,
+    "sga_expense": 1849237000000,
+    "profit_before_tax": 962733000000,
+    "depreciation": 431534000000,
+    "capex_ppe": -246847000000,
+    "capex_intangible": -144801000000,
+    "current_assets": 6597843000000,
+    "current_liabilities": 5907845000000,
+    "noncurrent_assets": 6686970000000,
+    "inventories": 1566282000000,
+    "ppe": 1341537000000,
+    "goodwill": 2486823000000,
+    "equity_method_investments": 836231000000,
+    "treasury_stock": -8587000000,
+    "noncontrolling_interests": 184326000000,
+    "current_portion_lt_debt": 368818000000
+  },
+  "segments": [
+    {
+      "key": "ConnectiveIndustries",
+      "label": "コネクティブインダストリーズ",
+      "external_revenue": 2969164000000,
+      "intersegment_revenue": 194030000000,
+      "revenue": 3163194000000,
+      "operating_income": 362047000000,
+      "assets": 3813277000000,
+      "equity_method_income": 23684000000
+    },
+    {
+      "key": "DigitalSystemsAndServices",
+      "label": "デジタルシステム＆サービスセグメント",
+      "external_revenue": 2653087000000,
+      "intersegment_revenue": 179497000000,
+      "revenue": 2832584000000,
+      "operating_income": 397369000000,
+      "assets": 3506073000000,
+      "equity_method_income": 3299000000
+    },
+    {
+      "key": "GreenEnergyAndMobility",
+      "label": null,
+      "external_revenue": 3849255000000,
+      "intersegment_revenue": 66253000000,
+      "revenue": 3915508000000,
+      "operating_income": 369049000000,
+      "assets": 6169284000000,
+      "equity_method_income": 15106000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 270915000000,
+      "intersegment_revenue": 226602000000,
+      "revenue": 497517000000,
+      "operating_income": 12357000000,
+      "assets": 2316824000000,
+      "equity_method_income": 457000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01737-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

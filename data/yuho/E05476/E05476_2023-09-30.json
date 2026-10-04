@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E05476",
+    "sec_code": "3769",
+    "company_name": "GMOペイメントゲートウェイ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-09-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-12-18",
+    "doc_id": "S100SHAA"
+  },
+  "financials": {
+    "dps": 89,
+    "net_sales": 63119117000,
+    "net_income": 13475513000,
+    "comprehensive_income": 17316479000,
+    "net_assets": 92274336000,
+    "total_assets": 292346818000,
+    "equity_ratio": 0.316,
+    "bps": 1216.66,
+    "eps": 177.68,
+    "eps_diluted": 175.86,
+    "roe": 0.15,
+    "per": 46.02,
+    "operating_cf": 6128597000,
+    "investing_cf": 17762101000,
+    "financing_cf": -6419333000,
+    "cash_end": 133658153000,
+    "operating_income": 20312237000,
+    "gross_profit": 39985538000,
+    "income_tax_expense": 6813457000,
+    "sga_expense": 19892578000,
+    "profit_before_tax": 20636412000,
+    "depreciation": 2413187000,
+    "capex_ppe": -529601000,
+    "capex_intangible": -4098162000,
+    "current_assets": 258467295000,
+    "current_liabilities": 163290369000,
+    "noncurrent_assets": 33879522000,
+    "trade_receivables": 18953746000,
+    "inventories": 2405040000,
+    "ppe": 3353504000,
+    "goodwill": 1256097000,
+    "equity_method_investments": 9194822000,
+    "treasury_stock": -1153329000,
+    "noncontrolling_interests": 2530506000
+  },
+  "segments": [
+    {
+      "key": "MoneyServiceBusiness",
+      "label": null,
+      "external_revenue": 14088563000,
+      "intersegment_revenue": 118000,
+      "revenue": 14088682000,
+      "operating_income": 2751650000
+    },
+    {
+      "key": "PaymentEnhancementBusiness",
+      "label": null,
+      "external_revenue": 1148751000,
+      "intersegment_revenue": 786000,
+      "revenue": 1149538000,
+      "operating_income": 288842000
+    },
+    {
+      "key": "PaymentProcessingBusiness",
+      "label": null,
+      "external_revenue": 47881802000,
+      "intersegment_revenue": 31590000,
+      "revenue": 47913393000,
+      "operating_income": 21101322000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05476-000_2023-09-30_01_2023-12-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

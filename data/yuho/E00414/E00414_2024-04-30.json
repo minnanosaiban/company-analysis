@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E00414",
+    "sec_code": "2593",
+    "company_name": "株式会社伊藤園",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-04-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-07-29",
+    "doc_id": "S100U4C2"
+  },
+  "financials": {
+    "net_sales": 453899000000,
+    "ordinary_income": 26681000000,
+    "net_income": 15650000000,
+    "comprehensive_income": 19212000000,
+    "eps": 126.42,
+    "eps_diluted": 126.16,
+    "dps": 42,
+    "operating_cf": 25482000000,
+    "investing_cf": -10737000000,
+    "financing_cf": -12213000000,
+    "net_assets": 183216000000,
+    "total_assets": 353892000000,
+    "bps": 1516.16,
+    "cash_end": 105397000000,
+    "equity_ratio": 0.513,
+    "roe": 0.089,
+    "per": 30.3,
+    "gross_profit": 177067000000,
+    "operating_income": 25023000000,
+    "income_tax_expense": 8506000000,
+    "interest_bearing_debt_current": 14442000000,
+    "interest_bearing_debt_noncurrent": 47306000000,
+    "bonds_payable": 10000000000,
+    "lease_liabilities_current": 1682000000,
+    "lease_liabilities_noncurrent": 2572000000,
+    "depreciation": 8595000000,
+    "current_assets": 243749000000,
+    "current_liabilities": 96665000000,
+    "noncurrent_assets": 110142000000,
+    "noncurrent_liabilities": 74010000000,
+    "ppe": 74036000000,
+    "goodwill": 1456000000,
+    "intangible_assets": 7110000000,
+    "investment_securities": 4581000000,
+    "treasury_stock": -9480000000,
+    "noncontrolling_interests": 1627000000
+  },
+  "segments": [
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 8013000000,
+      "intersegment_revenue": 2409000000,
+      "operating_income": 360000000
+    },
+    {
+      "key": "RestaurantBusiness",
+      "label": null,
+      "external_revenue": 40350000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": 3236000000
+    },
+    {
+      "key": "TeaLeavesBeveragesBusiness",
+      "label": null,
+      "external_revenue": 405536000000,
+      "intersegment_revenue": 722000000,
+      "operating_income": 22103000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00414-000_2024-04-30_01_2024-07-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E00060",
+    "sec_code": "1820",
+    "company_name": "西松建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2018-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TNKJ"
+  },
+  "financials": {
+    "net_sales": 284412000000,
+    "ordinary_income": 23548000000,
+    "net_income": 16914000000,
+    "comprehensive_income": 21790000000,
+    "eps": 308.52,
+    "dps": 95,
+    "operating_cf": 13570000000,
+    "investing_cf": -15422000000,
+    "financing_cf": -4918000000,
+    "net_assets": 185219000000,
+    "total_assets": 381355000000,
+    "bps": 3348.41,
+    "cash_end": 32499000000,
+    "equity_ratio": 0.48,
+    "roe": 0.0964,
+    "per": 8.55,
+    "gross_profit": 40425000000,
+    "operating_income": 22752000000,
+    "income_tax_expense": 7652000000,
+    "interest_bearing_debt_current": 18206000000,
+    "interest_bearing_debt_noncurrent": 100000000,
+    "bonds_payable": 25000000000,
+    "depreciation": 2011000000,
+    "current_assets": 205025000000,
+    "current_liabilities": 152725000000,
+    "noncurrent_assets": 176330000000,
+    "noncurrent_liabilities": 43411000000,
+    "ppe": 96639000000,
+    "intangible_assets": 764000000,
+    "investment_securities": 72606000000,
+    "treasury_stock": -2170000000,
+    "noncontrolling_interests": 2048000000
+  },
+  "segments": [
+    {
+      "key": "BuildingConstruction",
+      "label": null,
+      "external_revenue": 179777000000,
+      "operating_income": 11281000000
+    },
+    {
+      "key": "CivilEngineering",
+      "label": null,
+      "external_revenue": 95807000000,
+      "operating_income": 9527000000
+    },
+    {
+      "key": "DevelopmentAndRealEstateBusiness",
+      "label": null,
+      "external_revenue": 8827000000,
+      "intersegment_revenue": 6658000000,
+      "operating_income": 1944000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00060-000_2019-03-31_02_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

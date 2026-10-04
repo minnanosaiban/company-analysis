@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E01122",
+    "sec_code": "5201",
+    "company_name": "ＡＧＣ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T59J"
+  },
+  "financials": {
+    "dps": 210,
+    "net_sales": 2035874000000,
+    "net_income": -3152000000,
+    "comprehensive_income": 116449000000,
+    "net_assets": 1390254000000,
+    "total_assets": 2814029000000,
+    "equity_ratio": 0.494,
+    "bps": 6271.35,
+    "eps": -14.22,
+    "eps_diluted": -14.22,
+    "roe": -0.0023,
+    "operating_cf": 217146000000,
+    "investing_cf": -145312000000,
+    "financing_cf": -78206000000,
+    "cash_end": 209716000000,
+    "operating_income": 183942000000,
+    "gross_profit": 529381000000,
+    "income_tax_expense": 36007000000,
+    "sga_expense": 346675000000,
+    "profit_before_tax": 58512000000,
+    "depreciation": 185656000000,
+    "current_assets": 1063009000000,
+    "current_liabilities": 669999000000,
+    "noncurrent_assets": 1751019000000,
+    "inventories": 436516000000,
+    "ppe": 1350769000000,
+    "goodwill": 92768000000,
+    "intangible_assets": 71290000000,
+    "equity_method_investments": 24609000000,
+    "treasury_stock": -26586000000,
+    "noncontrolling_interests": 195335000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": null,
+      "external_revenue": 417639000000,
+      "intersegment_revenue": 186000000,
+      "operating_income": -9822000000
+    },
+    {
+      "key": "Glass",
+      "label": null,
+      "external_revenue": 482714000000,
+      "intersegment_revenue": 988000000,
+      "operating_income": 32716000000
+    },
+    {
+      "key": "Lifescience",
+      "label": null,
+      "external_revenue": 138146000000,
+      "intersegment_revenue": 3640000000,
+      "operating_income": 16862000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01122-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

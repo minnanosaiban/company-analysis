@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E03481",
+    "sec_code": "3048",
+    "company_name": "株式会社ビックカメラ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-08-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-11-19",
+    "doc_id": "S100X5J8"
+  },
+  "financials": {
+    "net_sales": 974483000000,
+    "ordinary_income": 31929000000,
+    "net_income": 17476000000,
+    "comprehensive_income": 26170000000,
+    "eps": 102.08,
+    "eps_diluted": 101.99,
+    "dps": 41,
+    "operating_cf": 25355000000,
+    "investing_cf": -14772000000,
+    "financing_cf": -15994000000,
+    "net_assets": 211767000000,
+    "total_assets": 492531000000,
+    "bps": 983.01,
+    "cash_end": 57984000000,
+    "equity_ratio": 0.342,
+    "roe": 0.109,
+    "per": 15.53,
+    "gross_profit": 260511000000,
+    "operating_income": 30274000000,
+    "income_tax_expense": 7883000000,
+    "interest_bearing_debt_current": 64404000000,
+    "interest_bearing_debt_noncurrent": 23039000000,
+    "current_portion_lt_loans": 8387000000,
+    "lease_liabilities_current": 146000000,
+    "lease_liabilities_noncurrent": 232000000,
+    "depreciation": 10311000000,
+    "capex_ppe": -5198000000,
+    "capex_intangible": -5002000000,
+    "current_assets": 278158000000,
+    "current_liabilities": 213426000000,
+    "noncurrent_assets": 214373000000,
+    "noncurrent_liabilities": 67337000000,
+    "ppe": 79136000000,
+    "goodwill": 8597000000,
+    "intangible_assets": 38875000000,
+    "investment_securities": 32642000000,
+    "treasury_stock": -21624000000,
+    "noncontrolling_interests": 43190000000
+  },
+  "segments": [
+    {
+      "key": "BSDigitalBroadcasting",
+      "label": null,
+      "external_revenue": 10971000000,
+      "intersegment_revenue": 67000000,
+      "ordinary_income": 2043000000
+    },
+    {
+      "key": "MerchandiseSales",
+      "label": null,
+      "external_revenue": 961978000000,
+      "intersegment_revenue": 62000000,
+      "ordinary_income": 29842000000,
+      "equity_method_income": 87000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03481-000_2025-08-31_01_2025-11-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "edinet_code": "E02168",
+    "sec_code": "7272",
+    "company_name": "ヤマハ発動機株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XRTH"
+  },
+  "financials": {
+    "dps": 35,
+    "net_sales": 2534203000000,
+    "net_income": 16109000000,
+    "comprehensive_income": 46528000000,
+    "net_assets": 1132238000000,
+    "total_assets": 2902584000000,
+    "equity_ratio": 0.39,
+    "bps": 1166.8,
+    "eps": 16.59,
+    "eps_diluted": 16.58,
+    "roe": 0.014,
+    "per": 69.9,
+    "operating_cf": 138605000000,
+    "investing_cf": -86124000000,
+    "financing_cf": -30428000000,
+    "cash_end": 398904000000,
+    "operating_income": 126373000000,
+    "gross_profit": 784544000000,
+    "income_tax_expense": 98258000000,
+    "interest_bearing_debt_current": 615807000000,
+    "interest_bearing_debt_noncurrent": 428516000000,
+    "sga_expense": 681139000000,
+    "profit_before_tax": 133196000000,
+    "depreciation": 88766000000,
+    "current_assets": 1690233000000,
+    "current_liabilities": 1126898000000,
+    "noncurrent_assets": 1212351000000,
+    "trade_receivables": 181721000000,
+    "inventories": 591369000000,
+    "trade_payables": 160382000000,
+    "ppe": 504800000000,
+    "goodwill": 16674000000,
+    "equity_method_investments": 43093000000,
+    "treasury_stock": -53633000000,
+    "noncontrolling_interests": 66091000000
+  },
+  "segments": [
+    {
+      "key": "FinancialServices",
+      "label": null,
+      "external_revenue": 114033000000,
+      "revenue": 114033000000,
+      "operating_income": 21056000000,
+      "assets": 892197000000
+    },
+    {
+      "key": "Landmobility",
+      "label": null,
+      "external_revenue": 1615138000000,
+      "revenue": 1615138000000,
+      "operating_income": 108693000000,
+      "assets": 1271415000000
+    },
+    {
+      "key": "MarineProducts",
+      "label": null,
+      "external_revenue": 527630000000,
+      "revenue": 527630000000,
+      "operating_income": 53593000000,
+      "assets": 434809000000
+    },
+    {
+      "key": "OutdoorLandVehicle",
+      "label": null,
+      "external_revenue": 148526000000,
+      "revenue": 148526000000,
+      "operating_income": -39757000000,
+      "assets": 123606000000
+    },
+    {
+      "key": "Robotics",
+      "label": null,
+      "external_revenue": 111478000000,
+      "revenue": 111478000000,
+      "operating_income": -565000000,
+      "assets": 140444000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02168-000_2025-12-31_01_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

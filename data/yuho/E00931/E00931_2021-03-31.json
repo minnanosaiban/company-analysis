@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00931",
+    "sec_code": "4516",
+    "company_name": "日本新薬株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RAQM"
+  },
+  "financials": {
+    "net_sales": 121885000000,
+    "ordinary_income": 26760000000,
+    "net_income": 20702000000,
+    "comprehensive_income": 22982000000,
+    "eps": 307.37,
+    "dps": 99,
+    "operating_cf": 21388000000,
+    "investing_cf": -1564000000,
+    "financing_cf": -6199000000,
+    "net_assets": 162543000000,
+    "total_assets": 197028000000,
+    "bps": 2409.01,
+    "cash_end": 57883000000,
+    "equity_ratio": 0.824,
+    "roe": 0.135,
+    "per": 26.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00931-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

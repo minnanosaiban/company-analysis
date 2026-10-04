@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E02142",
+    "sec_code": "7201",
+    "company_name": "日産自動車株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YH2B"
+  },
+  "financials": {
+    "net_sales": 12007888000000,
+    "ordinary_income": 1081000000,
+    "net_income": -533095000000,
+    "comprehensive_income": -142063000000,
+    "eps": -152.58,
+    "operating_cf": 794674000000,
+    "investing_cf": -914301000000,
+    "financing_cf": 51903000000,
+    "net_assets": 5241668000000,
+    "total_assets": 19812442000000,
+    "bps": 1372.56,
+    "cash_end": 2264801000000,
+    "equity_ratio": 0.242,
+    "roe": -0.109,
+    "gross_profit": 1539956000000,
+    "operating_income": 58005000000,
+    "income_tax_expense": 137615000000,
+    "interest_bearing_debt_current": 1182520000000,
+    "interest_bearing_debt_noncurrent": 2539845000000,
+    "bonds_payable": 2671312000000,
+    "commercial_papers": 42513000000,
+    "current_portion_of_bonds": 408068000000,
+    "current_portion_lt_loans": 1907993000000,
+    "lease_liabilities_current": 60157000000,
+    "lease_liabilities_noncurrent": 107714000000,
+    "current_assets": 12675508000000,
+    "current_liabilities": 8124301000000,
+    "noncurrent_assets": 7126990000000,
+    "noncurrent_liabilities": 6446473000000,
+    "trade_payables": 2142560000000,
+    "ppe": 4530402000000,
+    "intangible_assets": 167768000000,
+    "investment_securities": 1453743000000,
+    "treasury_stock": -86821000000,
+    "noncontrolling_interests": 442687000000
+  },
+  "segments": [
+    {
+      "key": "Automobile",
+      "label": null,
+      "external_revenue": 10760298000000,
+      "intersegment_revenue": 159808000000,
+      "operating_income": -292890000000
+    },
+    {
+      "key": "SalesFinancing",
+      "label": null,
+      "external_revenue": 1247590000000,
+      "intersegment_revenue": 70412000000,
+      "operating_income": 297942000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02142-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

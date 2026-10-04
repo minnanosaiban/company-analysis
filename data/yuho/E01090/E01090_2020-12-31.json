@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01090",
+    "sec_code": "5105",
+    "company_name": "ＴＯＹＯ　ＴＩＲＥ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4F2"
+  },
+  "financials": {
+    "net_sales": 343764000000,
+    "ordinary_income": 30887000000,
+    "net_income": 11682000000,
+    "comprehensive_income": 5156000000,
+    "eps": 75.89,
+    "dps": 45,
+    "operating_cf": 53796000000,
+    "investing_cf": -27856000000,
+    "financing_cf": -12638000000,
+    "net_assets": 222694000000,
+    "total_assets": 445579000000,
+    "bps": 1434.23,
+    "cash_end": 36303000000,
+    "equity_ratio": 0.4955,
+    "roe": 0.0527,
+    "per": 20.66
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01090-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

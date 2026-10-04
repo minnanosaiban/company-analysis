@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "edinet_code": "E00075",
+    "sec_code": "1944",
+    "company_name": "株式会社きんでん",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R744"
+  },
+  "financials": {
+    "net_sales": 566794000000,
+    "ordinary_income": 39977000000,
+    "net_income": 26366000000,
+    "comprehensive_income": 26117000000,
+    "eps": 128.65,
+    "dps": 37,
+    "operating_cf": 32952000000,
+    "investing_cf": -9977000000,
+    "financing_cf": -8254000000,
+    "net_assets": 511843000000,
+    "total_assets": 700259000000,
+    "bps": 2493.25,
+    "cash_end": 184501000000,
+    "equity_ratio": 0.73,
+    "roe": 0.053,
+    "per": 12.27,
+    "operating_income": 37087000000,
+    "income_tax_expense": 13515000000,
+    "interest_bearing_debt_current": 15988000000,
+    "interest_bearing_debt_noncurrent": 52000000,
+    "depreciation": 6684000000,
+    "current_assets": 442829000000,
+    "current_liabilities": 159661000000,
+    "noncurrent_assets": 257430000000,
+    "noncurrent_liabilities": 28755000000,
+    "ppe": 99563000000,
+    "intangible_assets": 8145000000,
+    "investment_securities": 126744000000,
+    "treasury_stock": -310000000,
+    "noncontrolling_interests": 864000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00075-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

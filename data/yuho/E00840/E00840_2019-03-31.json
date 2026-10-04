@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00840",
+    "sec_code": "4183",
+    "company_name": "三井化学株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R6GQ"
+  },
+  "financials": {
+    "net_sales": 1482909000000,
+    "ordinary_income": 102972000000,
+    "net_income": 76115000000,
+    "comprehensive_income": 79226000000,
+    "eps": 385.6,
+    "dps": 100,
+    "operating_cf": 109492000000,
+    "investing_cf": -64255000000,
+    "financing_cf": -14134000000,
+    "net_assets": 631739000000,
+    "total_assets": 1501074000000,
+    "bps": 2829.5,
+    "cash_end": 109839000000,
+    "equity_ratio": 0.368,
+    "roe": 0.143,
+    "per": 6.93
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00840-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

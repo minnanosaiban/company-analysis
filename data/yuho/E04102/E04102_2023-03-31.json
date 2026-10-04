@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E04102",
+    "sec_code": "9041",
+    "company_name": "近鉄グループホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R63S"
+  },
+  "financials": {
+    "ordinary_income": 74612000000,
+    "net_income": 88779000000,
+    "comprehensive_income": 77118000000,
+    "eps": 466.81,
+    "dps": 50,
+    "operating_cf": 133992000000,
+    "investing_cf": -41855000000,
+    "financing_cf": 44817000000,
+    "net_assets": 500262000000,
+    "total_assets": 2424755000000,
+    "bps": 2323.34,
+    "cash_end": 208188000000,
+    "equity_ratio": 0.182,
+    "roe": 0.216,
+    "per": 9.1,
+    "operating_income": 67144000000,
+    "income_tax_expense": 13057000000,
+    "interest_bearing_debt_current": 273229000000,
+    "interest_bearing_debt_noncurrent": 575903000000,
+    "bonds_payable": 342054000000,
+    "commercial_papers": 45000000000,
+    "current_portion_of_bonds": 43137000000,
+    "lease_liabilities_current": 16240000000,
+    "lease_liabilities_noncurrent": 60404000000,
+    "depreciation": 63618000000,
+    "current_assets": 702048000000,
+    "current_liabilities": 779761000000,
+    "noncurrent_assets": 1720508000000,
+    "noncurrent_liabilities": 1144732000000,
+    "trade_payables": 133461000000,
+    "ppe": 1364404000000,
+    "goodwill": 62517000000,
+    "intangible_assets": 169917000000,
+    "investment_securities": 58827000000,
+    "treasury_stock": -1164000000,
+    "noncontrolling_interests": 58410000000
+  },
+  "segments": [
+    {
+      "key": "HotelAndLeisure",
+      "label": null,
+      "external_revenue": 292520000000,
+      "intersegment_revenue": 118000000,
+      "operating_income": 9152000000
+    },
+    {
+      "key": "InternationalLogistics",
+      "label": null,
+      "external_revenue": 709920000000,
+      "intersegment_revenue": 934000000,
+      "operating_income": 23317000000
+    },
+    {
+      "key": "MerchandiseSales",
+      "label": null,
+      "external_revenue": 201706000000,
+      "intersegment_revenue": 1031000000,
+      "operating_income": 2704000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 139032000000,
+      "intersegment_revenue": 24798000000,
+      "operating_income": 16024000000
+    },
+    {
+      "key": "Transportation",
+      "label": null,
+      "external_revenue": 184582000000,
+      "intersegment_revenue": 7154000000,
+      "operating_income": 13069000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04102-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

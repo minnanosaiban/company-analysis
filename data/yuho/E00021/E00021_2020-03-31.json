@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E00021",
+    "sec_code": "5711",
+    "company_name": "三菱マテリアル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R12D"
+  },
+  "financials": {
+    "net_sales": 1516100000000,
+    "ordinary_income": 49610000000,
+    "net_income": -72850000000,
+    "comprehensive_income": -114027000000,
+    "eps": -556.34,
+    "dps": 80,
+    "operating_cf": 67545000000,
+    "investing_cf": -66898000000,
+    "financing_cf": 28873000000,
+    "net_assets": 586034000000,
+    "total_assets": 1904050000000,
+    "bps": 3870.35,
+    "cash_end": 127284000000,
+    "equity_ratio": 0.266
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00021-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E01630",
+    "sec_code": "4543",
+    "company_name": "テルモ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R4TX"
+  },
+  "financials": {
+    "dps": 54,
+    "net_sales": 599481000000,
+    "net_income": 79470000000,
+    "net_assets": 698034000000,
+    "total_assets": 1120790000000,
+    "equity_ratio": 0.623,
+    "bps": 939.6,
+    "eps": 108.7,
+    "eps_diluted": 104.97,
+    "roe": 0.127,
+    "per": 31.09,
+    "operating_cf": 93571000000,
+    "investing_cf": -74792000000,
+    "financing_cf": -67540000000,
+    "cash_end": 122982000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01630-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E00820",
+    "sec_code": "4204",
+    "company_name": "積水化学工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TNOW"
+  },
+  "financials": {
+    "net_sales": 1256538000000,
+    "ordinary_income": 105921000000,
+    "net_income": 77930000000,
+    "comprehensive_income": 135737000000,
+    "eps": 183.48,
+    "dps": 74,
+    "operating_cf": 106632000000,
+    "investing_cf": -18515000000,
+    "financing_cf": -53023000000,
+    "net_assets": 820925000000,
+    "total_assets": 1323243000000,
+    "bps": 1880.3,
+    "cash_end": 126367000000,
+    "equity_ratio": 0.5988,
+    "roe": 0.1041,
+    "per": 12.15,
+    "gross_profit": 392195000000,
+    "operating_income": 94399000000,
+    "income_tax_expense": 38399000000,
+    "interest_bearing_debt_current": 11569000000,
+    "interest_bearing_debt_noncurrent": 46270000000,
+    "bonds_payable": 40000000000,
+    "current_portion_of_bonds": 30000000,
+    "lease_liabilities_current": 5433000000,
+    "lease_liabilities_noncurrent": 17421000000,
+    "depreciation": 51195000000,
+    "capex_ppe": -46070000000,
+    "capex_intangible": -14385000000,
+    "current_assets": 685564000000,
+    "current_liabilities": 344597000000,
+    "noncurrent_assets": 637679000000,
+    "noncurrent_liabilities": 157720000000,
+    "ppe": 392485000000,
+    "goodwill": 8636000000,
+    "intangible_assets": 59097000000,
+    "investment_securities": 127421000000,
+    "treasury_stock": -48679000000,
+    "noncontrolling_interests": 28595000000
+  },
+  "segments": [
+    {
+      "key": "HighPerformancePlastics",
+      "label": "高機能プラスチックス",
+      "external_revenue": 407894000000,
+      "intersegment_revenue": 5002000000,
+      "operating_income": 50931000000
+    },
+    {
+      "key": "Housing",
+      "label": "住宅",
+      "external_revenue": 529416000000,
+      "intersegment_revenue": 277000000,
+      "operating_income": 27729000000
+    },
+    {
+      "key": "UrbanInfrastructureAndEnvironmentalProducts",
+      "label": "環境・ライフライン",
+      "external_revenue": 221949000000,
+      "intersegment_revenue": 12838000000,
+      "operating_income": 22129000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00820-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

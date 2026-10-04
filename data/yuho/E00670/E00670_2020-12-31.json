@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00670",
+    "sec_code": "7984",
+    "company_name": "コクヨ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T63J"
+  },
+  "financials": {
+    "net_sales": 300644000000,
+    "ordinary_income": 14173000000,
+    "net_income": 8297000000,
+    "comprehensive_income": 9744000000,
+    "eps": 70.13,
+    "dps": 39,
+    "operating_cf": 19217000000,
+    "investing_cf": -6111000000,
+    "financing_cf": -5946000000,
+    "net_assets": 226335000000,
+    "total_assets": 320296000000,
+    "bps": 1898.42,
+    "cash_end": 90577000000,
+    "equity_ratio": 0.701,
+    "roe": 0.037,
+    "per": 19.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00670-000_2022-12-31_02_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

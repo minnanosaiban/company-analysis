@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02611",
+    "sec_code": "8056",
+    "company_name": "BIPROGY株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R78X"
+  },
+  "financials": {
+    "net_sales": 309685000000,
+    "ordinary_income": 26544000000,
+    "net_income": 17076000000,
+    "comprehensive_income": 21486000000,
+    "eps": 170.13,
+    "eps_diluted": 169.52,
+    "dps": 70,
+    "operating_cf": 31933000000,
+    "investing_cf": -11206000000,
+    "financing_cf": -8177000000,
+    "net_assets": 136887000000,
+    "total_assets": 231980000000,
+    "bps": 1341.04,
+    "cash_end": 45833000000,
+    "equity_ratio": 0.58,
+    "roe": 0.134,
+    "per": 20
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02611-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

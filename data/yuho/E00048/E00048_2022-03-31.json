@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "edinet_code": "E00048",
+    "sec_code": "1925",
+    "company_name": "大和ハウス工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8MF"
+  },
+  "financials": {
+    "net_sales": 4439536000000,
+    "ordinary_income": 376246000000,
+    "net_income": 225272000000,
+    "comprehensive_income": 269148000000,
+    "eps": 343.82,
+    "dps": 126,
+    "operating_cf": 336436000000,
+    "investing_cf": -467423000000,
+    "financing_cf": 24427000000,
+    "net_assets": 2111385000000,
+    "total_assets": 5521662000000,
+    "bps": 3081.07,
+    "cash_end": 326250000000,
+    "equity_ratio": 0.366,
+    "roe": 0.1168,
+    "per": 9.31,
+    "gross_profit": 864682000000,
+    "operating_income": 383256000000,
+    "income_tax_expense": 123917000000,
+    "interest_bearing_debt_current": 151421000000,
+    "interest_bearing_debt_noncurrent": 758496000000,
+    "bonds_payable": 408000000000,
+    "current_portion_of_bonds": 25000000000,
+    "current_portion_lt_loans": 79589000000,
+    "lease_liabilities_current": 8810000000,
+    "lease_liabilities_noncurrent": 102731000000,
+    "depreciation": 100328000000,
+    "current_assets": 2692794000000,
+    "current_liabilities": 1444592000000,
+    "noncurrent_assets": 2828868000000,
+    "noncurrent_liabilities": 1965684000000,
+    "ppe": 1969066000000,
+    "goodwill": 93895000000,
+    "intangible_assets": 170917000000,
+    "investment_securities": 228794000000,
+    "treasury_stock": -29081000000,
+    "noncontrolling_interests": 91227000000
+  },
+  "segments": [
+    {
+      "key": "CommercialFacilities",
+      "label": null,
+      "external_revenue": 1023483000000,
+      "intersegment_revenue": 15092000000,
+      "operating_income": 124151000000
+    },
+    {
+      "key": "Condominiums",
+      "label": null,
+      "external_revenue": 373109000000,
+      "intersegment_revenue": 6832000000,
+      "operating_income": 9752000000
+    },
+    {
+      "key": "EnvironmentAndEnergy",
+      "label": null,
+      "external_revenue": 126555000000,
+      "intersegment_revenue": 34446000000,
+      "operating_income": 5270000000
+    },
+    {
+      "key": "LogisticsBusinessAndCorporateFacilities",
+      "label": null,
+      "external_revenue": 1048809000000,
+      "intersegment_revenue": 30444000000,
+      "operating_income": 125531000000
+    },
+    {
+      "key": "RentalHousing",
+      "label": null,
+      "external_revenue": 1049930000000,
+      "intersegment_revenue": 2628000000,
+      "operating_income": 96641000000
+    },
+    {
+      "key": "SingleFamilyHouses",
+      "label": null,
+      "external_revenue": 777656000000,
+      "intersegment_revenue": 7231000000,
+      "operating_income": 38365000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00048-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

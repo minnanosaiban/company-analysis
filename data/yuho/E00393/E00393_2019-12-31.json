@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00393",
+    "sec_code": "2501",
+    "company_name": "サッポロホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T5WI"
+  },
+  "financials": {
+    "dps": 42,
+    "net_sales": 491896000000,
+    "net_income": 4356000000,
+    "comprehensive_income": 16104000000,
+    "net_assets": 174071000000,
+    "total_assets": 638722000000,
+    "equity_ratio": 0.273,
+    "bps": 2234.65,
+    "eps": 55.92,
+    "eps_diluted": 52.74,
+    "roe": 0.026,
+    "per": 46.1,
+    "operating_cf": 36069000000,
+    "investing_cf": -24930000000,
+    "financing_cf": -5984000000,
+    "cash_end": 15215000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00393-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

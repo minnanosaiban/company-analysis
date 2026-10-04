@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "edinet_code": "E04101",
+    "sec_code": "9048",
+    "company_name": "名古屋鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R4Y4"
+  },
+  "financials": {
+    "ordinary_income": -8146000000,
+    "net_income": -28769000000,
+    "comprehensive_income": -24232000000,
+    "eps": -146.29,
+    "operating_cf": 19685000000,
+    "investing_cf": -44235000000,
+    "financing_cf": 49413000000,
+    "net_assets": 407512000000,
+    "total_assets": 1191131000000,
+    "bps": 1891.76,
+    "cash_end": 53459000000,
+    "equity_ratio": 0.312
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04101-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

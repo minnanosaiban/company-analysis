@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02127",
+    "sec_code": "7012",
+    "company_name": "川崎重工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R4RQ"
+  },
+  "financials": {
+    "net_sales": 1594743000000,
+    "ordinary_income": 37861000000,
+    "net_income": 27453000000,
+    "comprehensive_income": 23183000000,
+    "eps": 164.34,
+    "dps": 70,
+    "operating_cf": 109762000000,
+    "investing_cf": -85344000000,
+    "financing_cf": -19771000000,
+    "net_assets": 492261000000,
+    "total_assets": 1838855000000,
+    "bps": 2851.84,
+    "cash_end": 68311000000,
+    "equity_ratio": 0.259,
+    "roe": 0.058,
+    "per": 16.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02127-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

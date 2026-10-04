@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E05047",
+    "sec_code": "8876",
+    "company_name": "株式会社リログループ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YE6Y"
+  },
+  "financials": {
+    "dps": 69,
+    "net_sales": 151074000000,
+    "net_income": 20665000000,
+    "comprehensive_income": 21515000000,
+    "net_assets": 84568000000,
+    "total_assets": 324288000000,
+    "equity_ratio": 0.261,
+    "bps": 558.36,
+    "eps": 137.11,
+    "eps_diluted": 130.48,
+    "roe": 0.271,
+    "per": 13.8,
+    "operating_cf": 22541000000,
+    "investing_cf": -8870000000,
+    "financing_cf": -14948000000,
+    "cash_end": 63398000000,
+    "operating_income": 30815000000,
+    "gross_profit": 70306000000,
+    "income_tax_expense": 9913000000,
+    "interest_bearing_debt_current": 12088000000,
+    "interest_bearing_debt_noncurrent": 38547000000,
+    "lease_liabilities_current": 10300000000,
+    "lease_liabilities_noncurrent": 21833000000,
+    "sga_expense": 42759000000,
+    "profit_before_tax": 30943000000,
+    "depreciation": 18708000000,
+    "capex_ppe": -4754000000,
+    "capex_intangible": -2294000000,
+    "current_assets": 180345000000,
+    "current_liabilities": 136647000000,
+    "noncurrent_assets": 143943000000,
+    "trade_receivables": 101215000000,
+    "inventories": 9057000000,
+    "trade_payables": 74687000000,
+    "ppe": 19798000000,
+    "goodwill": 17088000000,
+    "intangible_assets": 9454000000,
+    "equity_method_investments": 2317000000,
+    "treasury_stock": -2533000000,
+    "noncontrolling_interests": 2010000000
+  },
+  "segments": [
+    {
+      "key": "OutsourcingBusiness",
+      "label": null,
+      "external_revenue": 80769000000,
+      "intersegment_revenue": 509000000,
+      "revenue": 81278000000,
+      "operating_income": 22899000000
+    },
+    {
+      "key": "ResidentialProperty",
+      "label": null,
+      "external_revenue": 52956000000,
+      "intersegment_revenue": 377000000,
+      "revenue": 53333000000,
+      "operating_income": 8012000000
+    },
+    {
+      "key": "TourismBusiness",
+      "label": null,
+      "external_revenue": 16399000000,
+      "intersegment_revenue": 76000000,
+      "revenue": 16476000000,
+      "operating_income": 4344000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05047-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

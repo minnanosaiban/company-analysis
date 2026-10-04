@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00642",
+    "sec_code": "3861",
+    "company_name": "王子ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R87F"
+  },
+  "financials": {
+    "net_sales": 1358985000000,
+    "ordinary_income": 83061000000,
+    "net_income": 49635000000,
+    "comprehensive_income": 72179000000,
+    "eps": 50.13,
+    "eps_diluted": 50.09,
+    "dps": 14,
+    "operating_cf": 127107000000,
+    "investing_cf": -91559000000,
+    "financing_cf": 19932000000,
+    "net_assets": 865606000000,
+    "total_assets": 1981438000000,
+    "bps": 758.28,
+    "cash_end": 135669000000,
+    "equity_ratio": 0.379,
+    "roe": 0.069,
+    "per": 14.28
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00642-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

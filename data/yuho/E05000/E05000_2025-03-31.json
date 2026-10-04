@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E05000",
+    "sec_code": "4689",
+    "company_name": "LINEヤフー株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VYGU"
+  },
+  "financials": {
+    "dps": 7,
+    "net_sales": 1917478000000,
+    "net_income": 153465000000,
+    "comprehensive_income": 123420000000,
+    "net_assets": 2998170000000,
+    "total_assets": 9158346000000,
+    "equity_ratio": 0.327,
+    "bps": 420.77,
+    "eps": 21,
+    "eps_diluted": 20.92,
+    "roe": 0.051,
+    "per": 24.11,
+    "operating_cf": 519590000000,
+    "investing_cf": -505633000000,
+    "financing_cf": -416797000000,
+    "cash_end": 1043944000000,
+    "operating_income": 315033000000,
+    "income_tax_expense": 72478000000,
+    "sga_expense": 1115977000000,
+    "profit_before_tax": 274882000000,
+    "depreciation": 159874000000,
+    "capex_ppe": -99740000000,
+    "ppe": 262172000000,
+    "goodwill": 2073470000000,
+    "intangible_assets": 1233421000000,
+    "equity_method_investments": 265599000000,
+    "treasury_stock": -11704000000,
+    "noncontrolling_interests": 420745000000
+  },
+  "segments": [
+    {
+      "key": "Commerce",
+      "label": "コマース事業",
+      "external_revenue": 846116000000,
+      "intersegment_revenue": 2256000000,
+      "revenue": 848372000000,
+      "operating_income": 103817000000
+    },
+    {
+      "key": "MediaBusiness",
+      "label": "メディア事業",
+      "external_revenue": 723768000000,
+      "intersegment_revenue": 7851000000,
+      "revenue": 731620000000,
+      "operating_income": 216809000000
+    },
+    {
+      "key": "Stragegy",
+      "label": "戦略事業",
+      "external_revenue": 339886000000,
+      "intersegment_revenue": 1331000000,
+      "revenue": 341218000000,
+      "operating_income": 34017000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05000-000_2025-03-31_01_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02466",
+    "sec_code": "7846",
+    "company_name": "株式会社パイロットコーポレーション",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T4Z1"
+  },
+  "financials": {
+    "net_sales": 103057000000,
+    "ordinary_income": 20362000000,
+    "net_income": 14270000000,
+    "comprehensive_income": 16773000000,
+    "eps": 361.81,
+    "dps": 60,
+    "operating_cf": 19815000000,
+    "investing_cf": -3598000000,
+    "financing_cf": -7965000000,
+    "net_assets": 102348000000,
+    "total_assets": 143155000000,
+    "bps": 2562.01,
+    "cash_end": 45844000000,
+    "equity_ratio": 0.706,
+    "roe": 0.152,
+    "per": 12.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02466-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

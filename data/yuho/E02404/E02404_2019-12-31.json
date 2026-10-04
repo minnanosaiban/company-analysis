@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02404",
+    "sec_code": "7956",
+    "company_name": "ピジョン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T5CY"
+  },
+  "financials": {
+    "net_sales": 100017000000,
+    "ordinary_income": 17284000000,
+    "net_income": 11538000000,
+    "comprehensive_income": 12253000000,
+    "eps": 96.37,
+    "dps": 70,
+    "operating_cf": 14098000000,
+    "investing_cf": -3995000000,
+    "financing_cf": -8734000000,
+    "net_assets": 70463000000,
+    "total_assets": 90491000000,
+    "bps": 565.64,
+    "cash_end": 32416000000,
+    "equity_ratio": 0.748,
+    "roe": 0.175,
+    "per": 41.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02404-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00751",
+    "sec_code": "4004",
+    "company_name": "株式会社レゾナック・ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-26",
+    "doc_id": "S100T4LL"
+  },
+  "financials": {
+    "net_sales": 906454000000,
+    "ordinary_income": 119293000000,
+    "net_income": 73088000000,
+    "comprehensive_income": 77308000000,
+    "eps": 501.03,
+    "dps": 130,
+    "operating_cf": 78554000000,
+    "investing_cf": -48156000000,
+    "financing_cf": -18546000000,
+    "net_assets": 519433000000,
+    "total_assets": 1076381000000,
+    "bps": 3423.25,
+    "cash_end": 121734000000,
+    "equity_ratio": 0.464,
+    "roe": 0.155,
+    "per": 5.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00751-000_2023-12-31_01_2024-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

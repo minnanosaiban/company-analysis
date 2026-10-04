@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01136",
+    "sec_code": "5334",
+    "company_name": "日本特殊陶業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R2BG"
+  },
+  "financials": {
+    "net_sales": 425013000000,
+    "ordinary_income": 59258000000,
+    "net_income": 42638000000,
+    "comprehensive_income": 32202000000,
+    "eps": 204.74,
+    "dps": 70,
+    "operating_cf": 43704000000,
+    "investing_cf": -48380000000,
+    "financing_cf": -8124000000,
+    "net_assets": 401505000000,
+    "total_assets": 629417000000,
+    "bps": 1917.04,
+    "cash_end": 74250000000,
+    "equity_ratio": 0.634,
+    "roe": 0.109,
+    "per": 10
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01136-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

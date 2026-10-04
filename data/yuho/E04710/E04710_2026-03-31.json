@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E04710",
+    "sec_code": "4680",
+    "company_name": "株式会社ラウンドワン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-26",
+    "doc_id": "S100YJKU"
+  },
+  "financials": {
+    "dps": 18,
+    "net_sales": 189548000000,
+    "net_income": 16621000000,
+    "comprehensive_income": 19680000000,
+    "net_assets": 82635000000,
+    "total_assets": 309888000000,
+    "equity_ratio": 0.2667,
+    "bps": 312.47,
+    "eps": 63.3,
+    "eps_diluted": 63.27,
+    "roe": 0.2223,
+    "per": 12.92,
+    "operating_cf": 60461000000,
+    "investing_cf": -31249000000,
+    "financing_cf": -26147000000,
+    "cash_end": 54950000000,
+    "operating_income": 28773000000,
+    "gross_profit": 39747000000,
+    "income_tax_expense": 8796000000,
+    "interest_bearing_debt_current": 10821000000,
+    "interest_bearing_debt_noncurrent": 38295000000,
+    "lease_liabilities_current": 28666000000,
+    "lease_liabilities_noncurrent": 110212000000,
+    "sga_expense": 10232000000,
+    "profit_before_tax": 25418000000,
+    "depreciation": 43276000000,
+    "capex_ppe": -30468000000,
+    "capex_intangible": -401000000,
+    "current_assets": 71541000000,
+    "current_liabilities": 66533000000,
+    "noncurrent_assets": 238346000000,
+    "trade_receivables": 3133000000,
+    "inventories": 6175000000,
+    "trade_payables": 10527000000,
+    "ppe": 89783000000,
+    "intangible_assets": 1188000000,
+    "equity_method_investments": 2193000000,
+    "treasury_stock": -20006000000,
+    "noncontrolling_interests": 0
+  },
+  "segments": [
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 108689000000,
+      "revenue": 108689000000,
+      "operating_income": 22810000000,
+      "profit_before_tax": 22273000000
+    },
+    {
+      "key": "USA",
+      "label": null,
+      "external_revenue": 79662000000,
+      "revenue": 79662000000,
+      "operating_income": 8582000000,
+      "profit_before_tax": 5358000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04710-000_2026-03-31_01_2026-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

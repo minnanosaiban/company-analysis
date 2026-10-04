@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E01162",
+    "sec_code": "5301",
+    "company_name": "東海カーボン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-27",
+    "doc_id": "S100VHHO"
+  },
+  "financials": {
+    "net_sales": 350114000000,
+    "ordinary_income": 22579000000,
+    "net_income": -56736000000,
+    "comprehensive_income": -21773000000,
+    "eps": -265.94,
+    "dps": 30,
+    "operating_cf": 64471000000,
+    "investing_cf": -70777000000,
+    "financing_cf": 9410000000,
+    "net_assets": 325158000000,
+    "total_assets": 640753000000,
+    "bps": 1356.42,
+    "cash_end": 65135000000,
+    "equity_ratio": 0.452,
+    "roe": -0.185,
+    "per": -3.4,
+    "gross_profit": 80635000000,
+    "operating_income": 19386000000,
+    "income_tax_expense": 8390000000,
+    "interest_bearing_debt_current": 6216000000,
+    "interest_bearing_debt_noncurrent": 52301000000,
+    "bonds_payable": 65000000000,
+    "commercial_papers": 59500000000,
+    "current_portion_lt_loans": 8223000000,
+    "lease_liabilities_noncurrent": 7870000000,
+    "depreciation": 33028000000,
+    "capex_ppe": -53556000000,
+    "capex_intangible": -1554000000,
+    "current_assets": 270363000000,
+    "current_liabilities": 147729000000,
+    "noncurrent_assets": 370390000000,
+    "noncurrent_liabilities": 167865000000,
+    "trade_receivables": 69175000000,
+    "trade_payables": 23085000000,
+    "ppe": 264582000000,
+    "goodwill": 37548000000,
+    "intangible_assets": 66341000000,
+    "investment_securities": 33307000000,
+    "treasury_stock": -7068000000,
+    "noncontrolling_interests": 35600000000
+  },
+  "segments": [
+    {
+      "key": "SmeltingAndLining",
+      "label": null,
+      "external_revenue": 64512000000,
+      "intersegment_revenue": 280000000,
+      "operating_income": -13701000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01162-000_2024-12-31_01_2025-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

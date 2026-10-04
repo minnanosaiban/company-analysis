@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E00094",
+    "sec_code": "1951",
+    "company_name": "エクシオグループ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TSJ4"
+  },
+  "financials": {
+    "net_sales": 614095000000,
+    "ordinary_income": 36922000000,
+    "net_income": 20058000000,
+    "comprehensive_income": 27552000000,
+    "eps": 94.76,
+    "eps_diluted": 94.73,
+    "dps": 120,
+    "operating_cf": 41902000000,
+    "investing_cf": -13591000000,
+    "financing_cf": -30555000000,
+    "net_assets": 319059000000,
+    "total_assets": 591637000000,
+    "bps": 1489.68,
+    "cash_end": 47430000000,
+    "equity_ratio": 0.529,
+    "roe": 0.065,
+    "per": 17.1,
+    "gross_profit": 89158000000,
+    "operating_income": 34121000000,
+    "income_tax_expense": 16596000000,
+    "interest_bearing_debt_current": 29192000000,
+    "interest_bearing_debt_noncurrent": 43193000000,
+    "bonds_payable": 20000000000,
+    "current_portion_of_bonds": 10000000000,
+    "depreciation": 10142000000,
+    "capex_ppe": -17338000000,
+    "capex_intangible": -2431000000,
+    "current_assets": 347845000000,
+    "current_liabilities": 177720000000,
+    "noncurrent_assets": 243791000000,
+    "noncurrent_liabilities": 94857000000,
+    "inventories": 53421000000,
+    "ppe": 145954000000,
+    "goodwill": 13872000000,
+    "intangible_assets": 22668000000,
+    "investment_securities": 35489000000,
+    "treasury_stock": -4534000000,
+    "noncontrolling_interests": 5853000000
+  },
+  "segments": [
+    {
+      "key": "SystemSolution",
+      "label": null,
+      "external_revenue": 183361000000,
+      "operating_income": 6256000000
+    },
+    {
+      "key": "Telecommunication",
+      "label": null,
+      "external_revenue": 253494000000,
+      "operating_income": 16829000000
+    },
+    {
+      "key": "UrbanInfrastracture",
+      "label": null,
+      "external_revenue": 177239000000,
+      "operating_income": 11035000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00094-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

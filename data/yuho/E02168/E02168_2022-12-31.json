@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E02168",
+    "sec_code": "7272",
+    "company_name": "ヤマハ発動機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-22",
+    "doc_id": "S100T32B"
+  },
+  "financials": {
+    "net_sales": 2248456000000,
+    "ordinary_income": 239293000000,
+    "net_income": 174439000000,
+    "comprehensive_income": 222671000000,
+    "eps": 170.49,
+    "eps_diluted": 170.42,
+    "dps": 125,
+    "operating_cf": 70921000000,
+    "investing_cf": -74160000000,
+    "financing_cf": 23103000000,
+    "net_assets": 1054298000000,
+    "total_assets": 2183291000000,
+    "bps": 988.6,
+    "cash_end": 296819000000,
+    "equity_ratio": 0.459,
+    "roe": 0.187,
+    "per": 5.9,
+    "gross_profit": 633745000000,
+    "operating_income": 224864000000,
+    "income_tax_expense": 61665000000,
+    "interest_bearing_debt_current": 172985000000,
+    "interest_bearing_debt_noncurrent": 250002000000,
+    "bonds_payable": 21575000000,
+    "current_portion_of_bonds": 5156000000,
+    "current_portion_lt_loans": 152969000000,
+    "depreciation": 59824000000,
+    "current_assets": 1305683000000,
+    "current_liabilities": 752873000000,
+    "noncurrent_assets": 877607000000,
+    "noncurrent_liabilities": 376119000000,
+    "trade_payables": 148133000000,
+    "ppe": 390978000000,
+    "goodwill": 2725000000,
+    "intangible_assets": 39640000000,
+    "investment_securities": 112151000000,
+    "treasury_stock": -31725000000,
+    "noncontrolling_interests": 51225000000
+  },
+  "segments": [
+    {
+      "key": "FinancialServices",
+      "label": null,
+      "external_revenue": 62178000000,
+      "operating_income": 17543000000
+    },
+    {
+      "key": "Landmobility",
+      "label": null,
+      "external_revenue": 1468244000000,
+      "operating_income": 87409000000
+    },
+    {
+      "key": "MarineProducts",
+      "label": null,
+      "external_revenue": 517040000000,
+      "operating_income": 109183000000
+    },
+    {
+      "key": "Robotics",
+      "label": null,
+      "external_revenue": 115869000000,
+      "operating_income": 11880000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02168-000_2023-12-31_01_2024-03-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

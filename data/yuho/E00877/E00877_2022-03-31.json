@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E00877",
+    "sec_code": "3407",
+    "company_name": "旭化成株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R509"
+  },
+  "financials": {
+    "net_sales": 2461317000000,
+    "ordinary_income": 212052000000,
+    "net_income": 161880000000,
+    "comprehensive_income": 261502000000,
+    "eps": 116.68,
+    "dps": 34,
+    "operating_cf": 183271000000,
+    "investing_cf": -221019000000,
+    "financing_cf": 42321000000,
+    "net_assets": 1718815000000,
+    "total_assets": 3349075000000,
+    "bps": 1216.33,
+    "cash_end": 242948000000,
+    "equity_ratio": 0.504,
+    "roe": 0.103,
+    "per": 9.11,
+    "gross_profit": 769769000000,
+    "operating_income": 202647000000,
+    "income_tax_expense": 93046000000,
+    "interest_bearing_debt_current": 239491000000,
+    "interest_bearing_debt_noncurrent": 253785000000,
+    "bonds_payable": 160000000000,
+    "commercial_papers": 113000000000,
+    "lease_liabilities_current": 2224000000,
+    "lease_liabilities_noncurrent": 8715000000,
+    "depreciation": 119738000000,
+    "capex_ppe": -142256000000,
+    "capex_intangible": -27452000000,
+    "current_assets": 1334209000000,
+    "current_liabilities": 923850000000,
+    "noncurrent_assets": 2014866000000,
+    "noncurrent_liabilities": 706410000000,
+    "trade_payables": 178092000000,
+    "ppe": 805215000000,
+    "goodwill": 431335000000,
+    "intangible_assets": 836843000000,
+    "investment_securities": 246701000000,
+    "treasury_stock": -6219000000,
+    "noncontrolling_interests": 31405000000
+  },
+  "segments": [
+    {
+      "key": "HealthCare",
+      "label": null,
+      "external_revenue": 415883000000,
+      "intersegment_revenue": 20000000,
+      "operating_income": 52159000000
+    },
+    {
+      "key": "Homes",
+      "label": null,
+      "external_revenue": 822449000000,
+      "intersegment_revenue": 6677000000,
+      "operating_income": 72918000000
+    },
+    {
+      "key": "Material",
+      "label": null,
+      "external_revenue": 1210013000000,
+      "intersegment_revenue": 7639000000,
+      "operating_income": 105969000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00877-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

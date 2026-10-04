@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00529",
+    "sec_code": "3107",
+    "company_name": "ダイワボウホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R86D"
+  },
+  "financials": {
+    "net_sales": 785554000000,
+    "ordinary_income": 22840000000,
+    "net_income": 16775000000,
+    "comprehensive_income": 16809000000,
+    "eps": 174.47,
+    "dps": 200,
+    "operating_cf": 10129000000,
+    "investing_cf": -1218000000,
+    "financing_cf": -5433000000,
+    "net_assets": 87191000000,
+    "total_assets": 335888000000,
+    "bps": 898.51,
+    "cash_end": 24180000000,
+    "equity_ratio": 0.257,
+    "roe": 0.211,
+    "per": 7.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00529-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

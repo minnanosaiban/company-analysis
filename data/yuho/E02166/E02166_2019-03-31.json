@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02166",
+    "sec_code": "7267",
+    "company_name": "本田技研工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1U9"
+  },
+  "financials": {
+    "dps": 111,
+    "net_sales": 15888617000000,
+    "net_income": 610316000000,
+    "comprehensive_income": 637609000000,
+    "net_assets": 8267720000000,
+    "total_assets": 20419122000000,
+    "equity_ratio": 0.405,
+    "bps": 4698.74,
+    "eps": 345.99,
+    "eps_diluted": 345.99,
+    "roe": 0.075,
+    "per": 8.7,
+    "operating_cf": 775988000000,
+    "investing_cf": -577555000000,
+    "financing_cf": 22924000000,
+    "cash_end": 2494121000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02166-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

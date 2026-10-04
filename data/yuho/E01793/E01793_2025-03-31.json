@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E01793",
+    "sec_code": "6770",
+    "company_name": "アルプスアルパイン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W240"
+  },
+  "financials": {
+    "net_sales": 990407000000,
+    "ordinary_income": 30521000000,
+    "net_income": 37837000000,
+    "comprehensive_income": 31490000000,
+    "eps": 184,
+    "eps_diluted": 184,
+    "dps": 60,
+    "operating_cf": 65817000000,
+    "investing_cf": -1683000000,
+    "financing_cf": -37299000000,
+    "net_assets": 415515000000,
+    "total_assets": 740715000000,
+    "bps": 2013.07,
+    "cash_end": 147464000000,
+    "equity_ratio": 0.559,
+    "roe": 0.094,
+    "per": 8.3,
+    "gross_profit": 175169000000,
+    "operating_income": 34106000000,
+    "income_tax_expense": 11928000000,
+    "interest_bearing_debt_current": 44288000000,
+    "interest_bearing_debt_noncurrent": 56499000000,
+    "depreciation": 35143000000,
+    "capex_ppe": -43036000000,
+    "capex_intangible": -7582000000,
+    "current_assets": 494946000000,
+    "current_liabilities": 226861000000,
+    "noncurrent_assets": 245769000000,
+    "noncurrent_liabilities": 98338000000,
+    "trade_receivables": 166841000000,
+    "trade_payables": 90381000000,
+    "ppe": 136673000000,
+    "intangible_assets": 22031000000,
+    "investment_securities": 60033000000,
+    "treasury_stock": -28254000000,
+    "noncontrolling_interests": 1515000000
+  },
+  "segments": [
+    {
+      "key": "ComponentSegment",
+      "label": "コンポーネント事業",
+      "external_revenue": 348013000000,
+      "intersegment_revenue": 294000000,
+      "operating_income": 30397000000
+    },
+    {
+      "key": "ModuleAndSystemSegment",
+      "label": "モジュール・システム事業",
+      "external_revenue": 537202000000,
+      "intersegment_revenue": 37000000,
+      "operating_income": 5606000000
+    },
+    {
+      "key": "SensorAndCommunicationSegment",
+      "label": "センサー・コミュニケーション事業",
+      "external_revenue": 84199000000,
+      "intersegment_revenue": 22000000,
+      "operating_income": -3360000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01793-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

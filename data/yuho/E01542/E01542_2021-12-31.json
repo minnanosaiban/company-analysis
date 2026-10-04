@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01542",
+    "sec_code": "6361",
+    "company_name": "株式会社荏原製作所",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T69R"
+  },
+  "financials": {
+    "net_sales": 603213000000,
+    "ordinary_income": 58318000000,
+    "net_income": 42576000000,
+    "comprehensive_income": 53882000000,
+    "eps": 452.39,
+    "eps_diluted": 451.07,
+    "dps": 163,
+    "operating_cf": 68549000000,
+    "investing_cf": -31754000000,
+    "financing_cf": -25179000000,
+    "net_assets": 326119000000,
+    "total_assets": 700985000000,
+    "bps": 3438.27,
+    "cash_end": 136488000000,
+    "equity_ratio": 0.451,
+    "roe": 0.139,
+    "per": 14.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01542-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

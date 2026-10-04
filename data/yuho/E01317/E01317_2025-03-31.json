@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E01317",
+    "sec_code": "5938",
+    "company_name": "株式会社LIXIL",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VYMK"
+  },
+  "financials": {
+    "dps": 90,
+    "net_sales": 1504697000000,
+    "net_income": 2001000000,
+    "comprehensive_income": 1157000000,
+    "net_assets": 617886000000,
+    "total_assets": 1830804000000,
+    "equity_ratio": 0.337,
+    "bps": 2150.86,
+    "eps": 6.97,
+    "eps_diluted": 6.97,
+    "roe": 0.003,
+    "per": 247.8,
+    "operating_cf": 100002000000,
+    "investing_cf": -28127000000,
+    "financing_cf": -72470000000,
+    "cash_end": 123527000000,
+    "operating_income": 29687000000,
+    "gross_profit": 498113000000,
+    "income_tax_expense": 17882000000,
+    "interest_bearing_debt_current": 190337000000,
+    "interest_bearing_debt_noncurrent": 402209000000,
+    "lease_liabilities_current": 19786000000,
+    "lease_liabilities_noncurrent": 45468000000,
+    "sga_expense": 466776000000,
+    "profit_before_tax": 20150000000,
+    "depreciation": 83193000000,
+    "capex_ppe": -34359000000,
+    "capex_intangible": -10811000000,
+    "current_assets": 701241000000,
+    "current_liabilities": 571783000000,
+    "noncurrent_assets": 1129563000000,
+    "trade_receivables": 283914000000,
+    "inventories": 243926000000,
+    "trade_payables": 246802000000,
+    "ppe": 365552000000,
+    "goodwill": 231117000000,
+    "equity_method_investments": 7561000000,
+    "treasury_stock": -138000000,
+    "noncontrolling_interests": 2184000000
+  },
+  "segments": [
+    {
+      "key": "HousingTechnologyBusiness",
+      "label": "ハウジングテクノロジー事業",
+      "external_revenue": 580983000000,
+      "intersegment_revenue": 5836000000,
+      "revenue": 586819000000,
+      "operating_income": 29172000000,
+      "equity_method_income": 323000000
+    },
+    {
+      "key": "WaterTechnologyBusiness",
+      "label": "ウォーターテクノロジー事業",
+      "external_revenue": 923714000000,
+      "intersegment_revenue": 4130000000,
+      "revenue": 927844000000,
+      "operating_income": 40941000000,
+      "equity_method_income": 4000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01317-000_2025-03-31_01_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

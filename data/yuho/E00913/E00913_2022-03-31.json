@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E00913",
+    "sec_code": "4626",
+    "company_name": "太陽ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-19",
+    "doc_id": "S100QYYO"
+  },
+  "financials": {
+    "net_sales": 97966000000,
+    "ordinary_income": 18062000000,
+    "net_income": 11803000000,
+    "comprehensive_income": 15611000000,
+    "eps": 209.13,
+    "dps": 69.55,
+    "operating_cf": 18308000000,
+    "investing_cf": -11258000000,
+    "financing_cf": -11279000000,
+    "net_assets": 85466000000,
+    "total_assets": 189273000000,
+    "bps": 1522.11,
+    "cash_end": 51152000000,
+    "equity_ratio": 0.452,
+    "roe": 0.146,
+    "per": 15.5,
+    "gross_profit": 42866000000,
+    "operating_income": 17958000000,
+    "income_tax_expense": 4564000000,
+    "interest_bearing_debt_current": 13232000000,
+    "interest_bearing_debt_noncurrent": 48383000000,
+    "current_portion_lt_loans": 16537000000,
+    "depreciation": 7497000000,
+    "capex_ppe": -9134000000,
+    "capex_intangible": -1211000000,
+    "current_assets": 98766000000,
+    "current_liabilities": 49403000000,
+    "noncurrent_assets": 90507000000,
+    "noncurrent_liabilities": 54403000000,
+    "trade_receivables": 27558000000,
+    "trade_payables": 9255000000,
+    "ppe": 52255000000,
+    "goodwill": 5972000000,
+    "intangible_assets": 32058000000,
+    "investment_securities": 3183000000,
+    "treasury_stock": -4752000000,
+    "noncontrolling_interests": 1000000
+  },
+  "segments": [
+    {
+      "key": "ElectronicsMaterials",
+      "label": "エレクトロニクス事業",
+      "external_revenue": 71093000000,
+      "operating_income": 16927000000
+    },
+    {
+      "key": "MedicalAndPharmaceutical",
+      "label": "医療・医薬品事業",
+      "external_revenue": 23467000000,
+      "operating_income": 2400000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00913-000_2023-03-31_01_2023-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

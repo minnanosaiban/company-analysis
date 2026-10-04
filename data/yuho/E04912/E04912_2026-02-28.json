@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E04912",
+    "sec_code": "8570",
+    "company_name": "イオンフィナンシャルサービス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-05-19",
+    "doc_id": "S100Y53G"
+  },
+  "financials": {
+    "ordinary_income": 60693000000,
+    "net_income": 21092000000,
+    "comprehensive_income": 58590000000,
+    "eps": 97.7,
+    "eps_diluted": 97.7,
+    "dps": 53,
+    "operating_cf": 303665000000,
+    "investing_cf": -423829000000,
+    "financing_cf": -18628000000,
+    "net_assets": 625209000000,
+    "total_assets": 8313956000000,
+    "bps": 2208.77,
+    "cash_end": 662791000000,
+    "equity_ratio": 0.057,
+    "roe": 0.045,
+    "per": 18.1,
+    "operating_income": 60655000000,
+    "income_tax_expense": 16938000000,
+    "interest_bearing_debt_current": 160808000000,
+    "interest_bearing_debt_noncurrent": 619634000000,
+    "bonds_payable": 275069000000,
+    "commercial_papers": 5932000000,
+    "current_portion_of_bonds": 84124000000,
+    "current_portion_lt_loans": 259536000000,
+    "depreciation": 30510000000,
+    "capex_ppe": -4264000000,
+    "capex_intangible": -32632000000,
+    "current_assets": 7954031000000,
+    "current_liabilities": 6729287000000,
+    "noncurrent_assets": 359420000000,
+    "noncurrent_liabilities": 959459000000,
+    "ppe": 40867000000,
+    "goodwill": 36156000000,
+    "intangible_assets": 192539000000,
+    "investment_securities": 24772000000,
+    "treasury_stock": -321000000,
+    "noncontrolling_interests": 148365000000
+  },
+  "segments": [
+    {
+      "key": "ChinaArea",
+      "label": "中華圏",
+      "external_revenue": 35917000000,
+      "intersegment_revenue": 7000000,
+      "operating_income": 10825000000
+    },
+    {
+      "key": "MalayArea",
+      "label": "マレー圏",
+      "external_revenue": 101709000000,
+      "operating_income": 14956000000
+    },
+    {
+      "key": "MekongArea",
+      "label": "メコン圏",
+      "external_revenue": 102813000000,
+      "intersegment_revenue": 16000000,
+      "operating_income": 16085000000
+    },
+    {
+      "key": "Retail",
+      "label": "リテール",
+      "external_revenue": 236131000000,
+      "intersegment_revenue": 6840000000,
+      "operating_income": 5118000000
+    },
+    {
+      "key": "Solutions",
+      "label": "ソリューション",
+      "external_revenue": 92760000000,
+      "intersegment_revenue": 97078000000,
+      "operating_income": 13502000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04912-000_2026-02-28_01_2026-05-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

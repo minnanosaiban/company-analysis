@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01377",
+    "sec_code": "6136",
+    "company_name": "オーエスジー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-11-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-02-16",
+    "doc_id": "S100SWMF"
+  },
+  "financials": {
+    "net_sales": 126156000000,
+    "ordinary_income": 16141000000,
+    "net_income": 10989000000,
+    "comprehensive_income": 16830000000,
+    "eps": 112.63,
+    "eps_diluted": 111.46,
+    "dps": 36,
+    "operating_cf": 26982000000,
+    "investing_cf": -6961000000,
+    "financing_cf": -14264000000,
+    "net_assets": 154800000000,
+    "total_assets": 209757000000,
+    "bps": 1472.45,
+    "cash_end": 40354000000,
+    "equity_ratio": 0.686,
+    "roe": 0.08,
+    "per": 14.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01377-000_2023-11-30_01_2024-02-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

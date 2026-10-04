@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E36484",
+    "sec_code": "4194",
+    "company_name": "ビジョナル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-07-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-10-25",
+    "doc_id": "S100S1VG"
+  },
+  "financials": {
+    "net_sales": 25879000000,
+    "ordinary_income": 2254000000,
+    "net_income": 4658000000,
+    "comprehensive_income": 4658000000,
+    "eps": 163.08,
+    "operating_cf": -234000000,
+    "investing_cf": 4799000000,
+    "financing_cf": -19000000,
+    "net_assets": 9205000000,
+    "total_assets": 17722000000,
+    "bps": 185.42,
+    "cash_end": 9114000000,
+    "equity_ratio": 0.518,
+    "roe": 0.679
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E36484-000_2023-07-31_01_2023-10-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

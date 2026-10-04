@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E03856",
+    "sec_code": "8802",
+    "company_name": "三菱地所株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7UL"
+  },
+  "financials": {
+    "ordinary_income": 253710000000,
+    "net_income": 155171000000,
+    "comprehensive_income": 262605000000,
+    "eps": 116.45,
+    "eps_diluted": 116.44,
+    "dps": 36,
+    "operating_cf": 280090000000,
+    "investing_cf": -313778000000,
+    "financing_cf": 90973000000,
+    "net_assets": 2236432000000,
+    "total_assets": 6493917000000,
+    "bps": 1514.58,
+    "cash_end": 234244000000,
+    "equity_ratio": 0.308,
+    "roe": 0.081,
+    "per": 15.62,
+    "operating_income": 278977000000,
+    "income_tax_expense": 60331000000,
+    "interest_bearing_debt_current": 182052000000,
+    "interest_bearing_debt_noncurrent": 1598562000000,
+    "bonds_payable": 786335000000,
+    "current_portion_of_bonds": 90000000000,
+    "current_portion_lt_loans": 79928000000,
+    "depreciation": 91581000000,
+    "capex_ppe": -328591000000,
+    "current_assets": 1356789000000,
+    "current_liabilities": 631043000000,
+    "noncurrent_assets": 5137127000000,
+    "noncurrent_liabilities": 3626441000000,
+    "ppe": 4345989000000,
+    "intangible_assets": 108092000000,
+    "investment_securities": 299617000000,
+    "treasury_stock": -132483000000,
+    "noncontrolling_interests": 233005000000
+  },
+  "segments": [
+    {
+      "key": "ArchitecturalDesignAndEngineeringAndRealEstateServicesBusiness",
+      "label": null,
+      "external_revenue": 47599000000,
+      "intersegment_revenue": 10180000000,
+      "operating_income": 2802000000
+    },
+    {
+      "key": "CommercialPropertyBusiness",
+      "label": null,
+      "external_revenue": 755066000000,
+      "intersegment_revenue": 5592000000,
+      "operating_income": 189909000000
+    },
+    {
+      "key": "InternationalBusiness",
+      "label": null,
+      "external_revenue": 121397000000,
+      "intersegment_revenue": -163000000,
+      "operating_income": 55816000000
+    },
+    {
+      "key": "InvestmentManagement",
+      "label": null,
+      "external_revenue": 44533000000,
+      "intersegment_revenue": 2168000000,
+      "operating_income": 26537000000
+    },
+    {
+      "key": "ResidentialBusiness",
+      "label": null,
+      "external_revenue": 379415000000,
+      "intersegment_revenue": 1543000000,
+      "operating_income": 30173000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03856-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

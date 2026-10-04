@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "edinet_code": "E02528",
+    "sec_code": "8053",
+    "company_name": "住友商事株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-12",
+    "doc_id": "S100YARD"
+  },
+  "financials": {
+    "dps": 150,
+    "net_sales": 7337259000000,
+    "net_income": 600334000000,
+    "comprehensive_income": 976004000000,
+    "net_assets": 4628555000000,
+    "total_assets": 13638338000000,
+    "equity_ratio": 0.339,
+    "bps": 3880.87,
+    "eps": 499.09,
+    "eps_diluted": 498.66,
+    "roe": 0.129,
+    "per": 11.58,
+    "operating_cf": 813456000000,
+    "investing_cf": -155892000000,
+    "financing_cf": -252531000000,
+    "cash_end": 1005442000000,
+    "gross_profit": 1509657000000,
+    "income_tax_expense": 51717000000,
+    "interest_bearing_debt_current": 951667000000,
+    "interest_bearing_debt_noncurrent": 3225446000000,
+    "lease_liabilities_current": 87410000000,
+    "lease_liabilities_noncurrent": 442120000000,
+    "sga_expense": 1111394000000,
+    "profit_before_tax": 701998000000,
+    "capex_ppe": -105910000000,
+    "current_assets": 6635674000000,
+    "current_liabilities": 4825587000000,
+    "noncurrent_assets": 7002664000000,
+    "trade_receivables": 2413828000000,
+    "inventories": 1782040000000,
+    "trade_payables": 2466420000000,
+    "ppe": 1273340000000,
+    "goodwill": 346609000000,
+    "intangible_assets": 668371000000,
+    "investment_securities": 478667000000,
+    "equity_method_investments": 3286754000000,
+    "treasury_stock": -84115000000,
+    "noncontrolling_interests": 106599000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "gross_profit": 139821000000,
+      "equity_method_income": 36198000000,
+      "profit_attributable_to_owners": 63211000000,
+      "assets": 861673000000
+    },
+    {
+      "key": "ChemicalSolutions",
+      "label": "化学品・エレクトロニクス・農業",
+      "gross_profit": 150530000000,
+      "equity_method_income": 8391000000,
+      "profit_attributable_to_owners": 26504000000,
+      "assets": 942717000000
+    },
+    {
+      "key": "DiverseUrbanDevelopment",
+      "label": "都市総合開発",
+      "gross_profit": 136298000000,
+      "equity_method_income": 5695000000,
+      "profit_attributable_to_owners": 81548000000,
+      "assets": 1792921000000
+    },
+    {
+      "key": "EnergyTransformationBusiness",
+      "label": "エネルギートランスフォーメーション",
+      "gross_profit": 176990000000,
+      "equity_method_income": 33847000000,
+      "profit_attributable_to_owners": 102370000000,
+      "assets": 1977840000000
+    },
+    {
+      "key": "LifestyleBusiness",
+      "label": "ライフスタイル",
+      "gross_profit": 262645000000,
+      "equity_method_income": 5221000000,
+      "profit_attributable_to_owners": -3558000000,
+      "assets": 819551000000
+    },
+    {
+      "key": "MediaAndDigital",
+      "label": "メディア・デジタル",
+      "gross_profit": 217470000000,
+      "equity_method_income": 30465000000,
+      "profit_attributable_to_owners": 51247000000,
+      "assets": 1492708000000
+    },
+    {
+      "key": "MineralResources",
+      "label": "資源",
+      "gross_profit": 41895000000,
+      "equity_method_income": 60799000000,
+      "profit_attributable_to_owners": 82347000000,
+      "assets": 2463661000000
+    },
+    {
+      "key": "Steel",
+      "label": "鉄鋼",
+      "gross_profit": 174851000000,
+      "equity_method_income": 17882000000,
+      "profit_attributable_to_owners": 74276000000,
+      "assets": 1199500000000
+    },
+    {
+      "key": "TransportationAndConstructi",
+      "label": "輸送機・建機",
+      "gross_profit": 216748000000,
+      "equity_method_income": 68174000000,
+      "profit_attributable_to_owners": 88915000000,
+      "assets": 1874889000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02528-000_2026-03-31_01_2026-06-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

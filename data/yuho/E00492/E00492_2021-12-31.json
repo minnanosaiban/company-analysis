@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E00492",
+    "sec_code": "2914",
+    "company_name": "日本たばこ産業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-22",
+    "doc_id": "S100T3QS"
+  },
+  "financials": {
+    "dps": 140,
+    "net_sales": 2324838000000,
+    "net_income": 338490000000,
+    "total_assets": 5774209000000,
+    "equity_ratio": 0.4865,
+    "bps": 1583.1,
+    "eps": 190.76,
+    "eps_diluted": 190.68,
+    "roe": 0.127,
+    "per": 12.17,
+    "operating_cf": 598909000000,
+    "investing_cf": -97499000000,
+    "financing_cf": -353138000000,
+    "cash_end": 721731000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00492-000_2023-12-31_01_2024-03-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

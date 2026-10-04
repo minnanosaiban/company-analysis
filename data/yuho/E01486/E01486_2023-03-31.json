@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E01486",
+    "sec_code": "6113",
+    "company_name": "株式会社 アマダ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R73S"
+  },
+  "financials": {
+    "dps": 48,
+    "net_sales": 365687000000,
+    "net_income": 34158000000,
+    "comprehensive_income": 39291000000,
+    "net_assets": 504127000000,
+    "total_assets": 647562000000,
+    "equity_ratio": 0.778,
+    "bps": 1450.07,
+    "eps": 98.25,
+    "roe": 0.069,
+    "per": 12.6,
+    "operating_cf": 24949000000,
+    "investing_cf": -13323000000,
+    "financing_cf": -20392000000,
+    "cash_end": 98556000000,
+    "operating_income": 49867000000,
+    "gross_profit": 159355000000,
+    "income_tax_expense": 15177000000,
+    "sga_expense": 109790000000,
+    "profit_before_tax": 49608000000,
+    "depreciation": 17623000000,
+    "capex_ppe": -20448000000,
+    "capex_intangible": -4501000000,
+    "current_assets": 398716000000,
+    "current_liabilities": 121013000000,
+    "noncurrent_assets": 248846000000,
+    "trade_receivables": 130319000000,
+    "inventories": 134536000000,
+    "trade_payables": 62972000000,
+    "ppe": 176668000000,
+    "goodwill": 6426000000,
+    "intangible_assets": 11810000000,
+    "equity_method_investments": 702000000,
+    "treasury_stock": -12099000000,
+    "noncontrolling_interests": 4393000000
+  },
+  "segments": [
+    {
+      "key": "MetalworkingMachineTools",
+      "label": null,
+      "external_revenue": 63028000000,
+      "revenue": 63028000000,
+      "operating_income": 7632000000,
+      "assets": 73475000000
+    },
+    {
+      "key": "MetalworkingMachinery",
+      "label": null,
+      "external_revenue": 301371000000,
+      "revenue": 301371000000,
+      "operating_income": 41513000000,
+      "assets": 456447000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01486-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

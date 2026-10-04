@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E00375",
+    "sec_code": "2212",
+    "company_name": "山崎製パン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-28",
+    "doc_id": "S100VGD6"
+  },
+  "financials": {
+    "net_sales": 1244488000000,
+    "ordinary_income": 56305000000,
+    "net_income": 36015000000,
+    "comprehensive_income": 45481000000,
+    "eps": 178.58,
+    "dps": 45,
+    "operating_cf": 73974000000,
+    "investing_cf": -43492000000,
+    "financing_cf": -15038000000,
+    "net_assets": 460486000000,
+    "total_assets": 865105000000,
+    "bps": 2072.34,
+    "cash_end": 145939000000,
+    "equity_ratio": 0.476,
+    "roe": 0.089,
+    "per": 16.48,
+    "gross_profit": 405255000000,
+    "operating_income": 51873000000,
+    "income_tax_expense": 16935000000,
+    "interest_bearing_debt_current": 60302000000,
+    "interest_bearing_debt_noncurrent": 32373000000,
+    "lease_liabilities_current": 3679000000,
+    "lease_liabilities_noncurrent": 4693000000,
+    "depreciation": 41863000000,
+    "capex_ppe": -43055000000,
+    "capex_intangible": -2614000000,
+    "current_assets": 341404000000,
+    "current_liabilities": 269953000000,
+    "noncurrent_assets": 523701000000,
+    "noncurrent_liabilities": 134664000000,
+    "trade_payables": 91424000000,
+    "ppe": 358597000000,
+    "goodwill": 7168000000,
+    "intangible_assets": 19197000000,
+    "investment_securities": 76726000000,
+    "treasury_stock": -51852000000,
+    "noncontrolling_interests": 48336000000
+  },
+  "segments": [
+    {
+      "key": "FoodBusiness",
+      "label": null,
+      "external_revenue": 1153504000000,
+      "intersegment_revenue": 15008000000,
+      "operating_income": 49796000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 14783000000,
+      "intersegment_revenue": 47707000000,
+      "operating_income": 3017000000
+    },
+    {
+      "key": "RetailBusiness",
+      "label": null,
+      "external_revenue": 76200000000,
+      "intersegment_revenue": 9401000000,
+      "operating_income": -1235000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00375-000_2024-12-31_01_2025-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E02999",
+    "sec_code": "3038",
+    "company_name": "株式会社神戸物産",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-10-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-01-28",
+    "doc_id": "S100XHUJ"
+  },
+  "financials": {
+    "net_sales": 551701000000,
+    "ordinary_income": 48081000000,
+    "net_income": 31878000000,
+    "comprehensive_income": 31915000000,
+    "eps": 143.98,
+    "eps_diluted": 143.11,
+    "dps": 30,
+    "operating_cf": 42113000000,
+    "investing_cf": -8918000000,
+    "financing_cf": -11100000000,
+    "net_assets": 161400000000,
+    "total_assets": 260193000000,
+    "bps": 709.8,
+    "cash_end": 130498000000,
+    "equity_ratio": 0.605,
+    "roe": 0.222,
+    "per": 24.8,
+    "gross_profit": 66466000000,
+    "operating_income": 39878000000,
+    "income_tax_expense": 14993000000,
+    "interest_bearing_debt_current": 3115000000,
+    "interest_bearing_debt_noncurrent": 27019000000,
+    "depreciation": 6551000000,
+    "capex_ppe": -9079000000,
+    "capex_intangible": -266000000,
+    "current_assets": 184906000000,
+    "current_liabilities": 59370000000,
+    "noncurrent_assets": 75286000000,
+    "noncurrent_liabilities": 39421000000,
+    "ppe": 66221000000,
+    "goodwill": 483000000,
+    "intangible_assets": 1731000000,
+    "investment_securities": 8000000,
+    "treasury_stock": -8911000000
+  },
+  "segments": [
+    {
+      "key": "EcoRenewableEnergyBusiness",
+      "label": null,
+      "external_revenue": 4669000000,
+      "operating_income": 1088000000
+    },
+    {
+      "key": "GyomuSuperDivision",
+      "label": null,
+      "external_revenue": 530509000000,
+      "intersegment_revenue": 7142000000,
+      "operating_income": 43506000000
+    },
+    {
+      "key": "KOBECOOKDivision",
+      "label": null,
+      "external_revenue": 16474000000,
+      "intersegment_revenue": 727000000,
+      "operating_income": 1105000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02999-000_2025-10-31_01_2026-01-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

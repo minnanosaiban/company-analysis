@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E00086",
+    "sec_code": "1893",
+    "company_name": "五洋建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YF3Y"
+  },
+  "financials": {
+    "net_sales": 794306000000,
+    "ordinary_income": 53195000000,
+    "net_income": 34692000000,
+    "comprehensive_income": 44242000000,
+    "eps": 125.58,
+    "dps": 48,
+    "operating_cf": 68392000000,
+    "investing_cf": -66313000000,
+    "financing_cf": 9594000000,
+    "net_assets": 199033000000,
+    "total_assets": 790413000000,
+    "bps": 726.03,
+    "cash_end": 71435000000,
+    "equity_ratio": 0.251,
+    "roe": 0.187,
+    "per": 13,
+    "gross_profit": 83333000000,
+    "operating_income": 55304000000,
+    "income_tax_expense": 19083000000,
+    "interest_bearing_debt_current": 53198000000,
+    "interest_bearing_debt_noncurrent": 82005000000,
+    "bonds_payable": 41000000000,
+    "commercial_papers": 9929000000,
+    "current_portion_of_bonds": 10000000000,
+    "depreciation": 9927000000,
+    "capex_ppe": -95942000000,
+    "current_assets": 527938000000,
+    "current_liabilities": 419651000000,
+    "noncurrent_assets": 262475000000,
+    "noncurrent_liabilities": 171728000000,
+    "ppe": 215476000000,
+    "goodwill": 558000000,
+    "intangible_assets": 1929000000,
+    "investment_securities": 28517000000,
+    "treasury_stock": -12720000000,
+    "noncontrolling_interests": 768000000
+  },
+  "segments": [
+    {
+      "key": "DomesticConstruction",
+      "label": "国内建築事業",
+      "external_revenue": 273431000000,
+      "intersegment_revenue": 5000000,
+      "operating_income": 16813000000
+    },
+    {
+      "key": "DomesticEngineering",
+      "label": "国内土木事業",
+      "external_revenue": 325887000000,
+      "intersegment_revenue": 308000000,
+      "operating_income": 40200000000
+    },
+    {
+      "key": "OverseasConstruction",
+      "label": "海外建設事業",
+      "external_revenue": 181814000000,
+      "operating_income": -3235000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00086-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E01047",
+    "sec_code": "4967",
+    "company_name": "小林製薬株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-25",
+    "doc_id": "S100XSXS"
+  },
+  "financials": {
+    "net_sales": 165742000000,
+    "ordinary_income": 16995000000,
+    "net_income": 3656000000,
+    "comprehensive_income": 5088000000,
+    "eps": 49.19,
+    "dps": 104,
+    "operating_cf": 25590000000,
+    "investing_cf": -154000000,
+    "financing_cf": -7921000000,
+    "net_assets": 211008000000,
+    "total_assets": 275329000000,
+    "bps": 2827.68,
+    "cash_end": 64693000000,
+    "equity_ratio": 0.763,
+    "roe": 0.017,
+    "per": 110.3,
+    "gross_profit": 84711000000,
+    "operating_income": 14923000000,
+    "income_tax_expense": 4359000000,
+    "lease_liabilities_current": 319000000,
+    "lease_liabilities_noncurrent": 359000000,
+    "depreciation": 7355000000,
+    "capex_ppe": -13253000000,
+    "capex_intangible": -758000000,
+    "current_assets": 148820000000,
+    "current_liabilities": 60137000000,
+    "noncurrent_assets": 126508000000,
+    "noncurrent_liabilities": 4182000000,
+    "trade_receivables": 52180000000,
+    "trade_payables": 8458000000,
+    "ppe": 67367000000,
+    "goodwill": 7711000000,
+    "intangible_assets": 17414000000,
+    "investment_securities": 31840000000,
+    "treasury_stock": -24767000000,
+    "noncontrolling_interests": 9000000
+  },
+  "segments": [
+    {
+      "key": "DomesticBusiness",
+      "label": "国内事業",
+      "external_revenue": 118064000000,
+      "intersegment_revenue": 4856000000,
+      "operating_income": 13963000000
+    },
+    {
+      "key": "InternationalBusiness",
+      "label": "国際事業",
+      "external_revenue": 46994000000,
+      "intersegment_revenue": 1420000000,
+      "operating_income": 810000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01047-000_2025-12-31_01_2026-03-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

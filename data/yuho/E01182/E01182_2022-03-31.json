@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E01182",
+    "sec_code": "6971",
+    "company_name": "京セラ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R598"
+  },
+  "financials": {
+    "dps": 180,
+    "net_sales": 1838938000000,
+    "net_income": 148414000000,
+    "comprehensive_income": 365805000000,
+    "net_assets": 2871554000000,
+    "total_assets": 3917265000000,
+    "equity_ratio": 0.733,
+    "bps": 8000.97,
+    "eps": 411.15,
+    "roe": 0.054,
+    "per": 16.74,
+    "operating_cf": 201957000000,
+    "investing_cf": -79457000000,
+    "financing_cf": -111473000000,
+    "cash_end": 414129000000,
+    "operating_income": 148910000000,
+    "gross_profit": 513643000000,
+    "income_tax_expense": 46911000000,
+    "lease_liabilities_current": 17326000000,
+    "lease_liabilities_noncurrent": 35390000000,
+    "sga_expense": 364733000000,
+    "profit_before_tax": 198947000000,
+    "depreciation": 128960000000,
+    "capex_ppe": -134490000000,
+    "capex_intangible": -12412000000,
+    "current_assets": 1329123000000,
+    "current_liabilities": 539349000000,
+    "noncurrent_assets": 2588142000000,
+    "trade_receivables": 379066000000,
+    "inventories": 452506000000,
+    "trade_payables": 222962000000,
+    "ppe": 512175000000,
+    "goodwill": 262985000000,
+    "intangible_assets": 149879000000,
+    "equity_method_investments": 15795000000,
+    "treasury_stock": -93299000000,
+    "noncontrolling_interests": 26719000000
+  },
+  "segments": [
+    {
+      "key": "CoreComponentsBusiness",
+      "label": "コアコンポーネント",
+      "external_revenue": 527243000000,
+      "intersegment_revenue": 690000000,
+      "operating_income": 61640000000,
+      "assets": 569021000000
+    },
+    {
+      "key": "ElectronicComponentsBusiness",
+      "label": "電子部品",
+      "external_revenue": 338391000000,
+      "intersegment_revenue": 711000000,
+      "operating_income": 47896000000,
+      "assets": 513720000000
+    },
+    {
+      "key": "SolutionsBusiness",
+      "label": "ソリューション",
+      "external_revenue": 962553000000,
+      "intersegment_revenue": 21136000000,
+      "operating_income": 68730000000,
+      "assets": 1052090000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01182-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

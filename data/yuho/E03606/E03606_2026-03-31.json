@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "edinet_code": "E03606",
+    "sec_code": "8306",
+    "company_name": "株式会社 三菱ＵＦＪフィナンシャル・グループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YJQO"
+  },
+  "financials": {
+    "ordinary_income": 3410192000000,
+    "net_income": 2427229000000,
+    "comprehensive_income": 3271246000000,
+    "eps": 213.16,
+    "eps_diluted": 212.33,
+    "dps": 86,
+    "operating_cf": -23064420000000,
+    "investing_cf": 4473959000000,
+    "financing_cf": -1149876000000,
+    "net_assets": 23744152000000,
+    "total_assets": 431731548000000,
+    "bps": 1973.3,
+    "cash_end": 90045500000000,
+    "equity_ratio": 0.0515,
+    "roe": 0.1134,
+    "per": 12.19,
+    "income_tax_expense": 853410000000,
+    "bonds_payable": 15790570000000,
+    "commercial_papers": 3421893000000,
+    "depreciation": 410838000000,
+    "capex_ppe": -307914000000,
+    "capex_intangible": -365221000000,
+    "ppe": 1417304000000,
+    "goodwill": 511465000000,
+    "intangible_assets": 1955987000000,
+    "treasury_stock": -934137000000,
+    "noncontrolling_interests": 1470111000000,
+    "ordinary_revenue": 14620843000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03606-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

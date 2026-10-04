@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E01377",
+    "sec_code": "6136",
+    "company_name": "オーエスジー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-11-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-02-21",
+    "doc_id": "S100VA1D"
+  },
+  "financials": {
+    "net_sales": 155517000000,
+    "ordinary_income": 19825000000,
+    "net_income": 13439000000,
+    "comprehensive_income": 12663000000,
+    "eps": 148.94,
+    "eps_diluted": 133.97,
+    "dps": 60,
+    "operating_cf": 28557000000,
+    "investing_cf": -21741000000,
+    "financing_cf": -7985000000,
+    "net_assets": 179411000000,
+    "total_assets": 257256000000,
+    "bps": 1962.21,
+    "cash_end": 48206000000,
+    "equity_ratio": 0.648,
+    "roe": 0.077,
+    "per": 11.8,
+    "gross_profit": 63475000000,
+    "operating_income": 18868000000,
+    "income_tax_expense": 6400000000,
+    "interest_bearing_debt_current": 185000000,
+    "interest_bearing_debt_noncurrent": 12543000000,
+    "bonds_payable": 10000000000,
+    "current_portion_lt_loans": 4181000000,
+    "depreciation": 11824000000,
+    "capex_ppe": -15509000000,
+    "capex_intangible": -683000000,
+    "current_assets": 144453000000,
+    "current_liabilities": 27461000000,
+    "noncurrent_assets": 112689000000,
+    "noncurrent_liabilities": 50383000000,
+    "trade_payables": 5792000000,
+    "ppe": 89856000000,
+    "goodwill": 4749000000,
+    "intangible_assets": 9668000000,
+    "investment_securities": 6351000000,
+    "treasury_stock": -27778000000,
+    "noncontrolling_interests": 12778000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": "米州",
+      "external_revenue": 34537000000,
+      "intersegment_revenue": 1325000000,
+      "operating_income": 4411000000
+    },
+    {
+      "key": "Asia",
+      "label": "アジア",
+      "external_revenue": 33926000000,
+      "intersegment_revenue": 3856000000,
+      "operating_income": 4153000000
+    },
+    {
+      "key": "EuropeAndAfrica",
+      "label": "欧州・アフリカ",
+      "external_revenue": 36536000000,
+      "intersegment_revenue": 483000000,
+      "operating_income": 3117000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 50516000000,
+      "intersegment_revenue": 23791000000,
+      "operating_income": 7205000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01377-000_2024-11-30_01_2025-02-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

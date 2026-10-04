@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E25303",
+    "sec_code": "2229",
+    "company_name": "カルビー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R1QJ"
+  },
+  "financials": {
+    "net_sales": 266745000000,
+    "ordinary_income": 27522000000,
+    "net_income": 17682000000,
+    "comprehensive_income": 19750000000,
+    "eps": 132.3,
+    "dps": 50,
+    "operating_cf": 30450000000,
+    "investing_cf": -32069000000,
+    "financing_cf": -7635000000,
+    "net_assets": 182740000000,
+    "total_assets": 238978000000,
+    "bps": 1312.24,
+    "cash_end": 47282000000,
+    "equity_ratio": 0.734,
+    "roe": 0.104,
+    "per": 21.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E25303-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

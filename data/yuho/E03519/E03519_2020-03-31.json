@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03519",
+    "sec_code": "3088",
+    "company_name": "株式会社マツキヨココカラ＆カンパニー",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R0WI"
+  },
+  "financials": {
+    "net_sales": 590593000000,
+    "ordinary_income": 39985000000,
+    "net_income": 26176000000,
+    "comprehensive_income": 27169000000,
+    "eps": 255.04,
+    "eps_diluted": 254.94,
+    "dps": 70,
+    "operating_cf": 24764000000,
+    "investing_cf": -48840000000,
+    "financing_cf": 9089000000,
+    "net_assets": 229304000000,
+    "total_assets": 351809000000,
+    "bps": 2233.54,
+    "cash_end": 28363000000,
+    "equity_ratio": 0.652,
+    "roe": 0.119,
+    "per": 15.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03519-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

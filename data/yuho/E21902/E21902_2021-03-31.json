@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E21902",
+    "sec_code": "2269",
+    "company_name": "明治ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R9C9"
+  },
+  "financials": {
+    "net_sales": 1191765000000,
+    "ordinary_income": 110176000000,
+    "net_income": 65655000000,
+    "comprehensive_income": 85304000000,
+    "eps": 226.26,
+    "dps": 160,
+    "operating_cf": 123683000000,
+    "investing_cf": -93110000000,
+    "financing_cf": -28293000000,
+    "net_assets": 659358000000,
+    "total_assets": 1067000000000,
+    "bps": 2141.4,
+    "cash_end": 39011000000,
+    "equity_ratio": 0.582,
+    "roe": 0.111,
+    "per": 15.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21902-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

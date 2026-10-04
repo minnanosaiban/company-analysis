@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04999",
+    "sec_code": "4704",
+    "company_name": "トレンドマイクロ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5XZ"
+  },
+  "financials": {
+    "net_sales": 165195000000,
+    "ordinary_income": 39139000000,
+    "net_income": 27946000000,
+    "comprehensive_income": 26405000000,
+    "eps": 200.94,
+    "eps_diluted": 200.31,
+    "dps": 160,
+    "operating_cf": 45109000000,
+    "investing_cf": -1470000000,
+    "financing_cf": -25958000000,
+    "net_assets": 187425000000,
+    "total_assets": 359710000000,
+    "bps": 1337.94,
+    "cash_end": 148127000000,
+    "equity_ratio": 0.518,
+    "roe": 0.15,
+    "per": 27.87
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04999-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

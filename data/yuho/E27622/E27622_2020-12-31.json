@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E27622",
+    "sec_code": "2587",
+    "company_name": "サントリー食品インターナショナル株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-02-19",
+    "doc_id": "S100SX9N"
+  },
+  "financials": {
+    "dps": 78,
+    "net_sales": 1178137000000,
+    "net_income": 52212000000,
+    "comprehensive_income": 49223000000,
+    "net_assets": 781755000000,
+    "total_assets": 1574251000000,
+    "equity_ratio": 0.497,
+    "bps": 2529.95,
+    "eps": 168.97,
+    "roe": 0.068,
+    "per": 21.6,
+    "operating_cf": 134019000000,
+    "investing_cf": -61217000000,
+    "financing_cf": -46754000000,
+    "cash_end": 167480000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27622-000_2022-12-31_02_2024-02-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

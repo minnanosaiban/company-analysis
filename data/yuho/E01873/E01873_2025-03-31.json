@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E01873",
+    "sec_code": "6724",
+    "company_name": "セイコーエプソン株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W55U"
+  },
+  "financials": {
+    "dps": 74,
+    "net_sales": 1362944000000,
+    "net_income": 55177000000,
+    "net_assets": 804752000000,
+    "total_assets": 1456461000000,
+    "equity_ratio": 0.5525,
+    "bps": 2512.15,
+    "eps": 168.75,
+    "eps_diluted": 168.75,
+    "roe": 0.0683,
+    "per": 14.14,
+    "operating_cf": 138075000000,
+    "investing_cf": -150787000000,
+    "financing_cf": -45129000000,
+    "cash_end": 267000000000,
+    "operating_income": 75108000000,
+    "gross_profit": 493026000000,
+    "income_tax_expense": 23214000000,
+    "sga_expense": 403437000000,
+    "profit_before_tax": 78395000000,
+    "depreciation": 72142000000,
+    "capex_ppe": -59369000000,
+    "capex_intangible": -10897000000,
+    "current_assets": 880855000000,
+    "current_liabilities": 444117000000,
+    "noncurrent_assets": 575605000000,
+    "inventories": 369781000000,
+    "ppe": 379712000000,
+    "goodwill": 41894000000,
+    "intangible_assets": 80522000000,
+    "equity_method_investments": 2185000000,
+    "treasury_stock": -70260000000,
+    "noncontrolling_interests": 139000000
+  },
+  "segments": [
+    {
+      "key": "ManufacturingRelatedAndWearablesSegment",
+      "label": "マニュファクチャリング関連・ウエアラブル事業",
+      "external_revenue": 172210000000,
+      "intersegment_revenue": 9253000000,
+      "revenue": 181463000000,
+      "operating_income": -3221000000,
+      "assets": 179415000000
+    },
+    {
+      "key": "PrintingSolutionsSegment",
+      "label": "プリンティングソリューションズ事業",
+      "external_revenue": 980078000000,
+      "intersegment_revenue": 70000000,
+      "revenue": 980148000000,
+      "operating_income": 124847000000,
+      "assets": 753144000000
+    },
+    {
+      "key": "VisualCommunicationsSegment",
+      "label": "ビジュアルコミュニケーション事業",
+      "external_revenue": 203782000000,
+      "intersegment_revenue": 0,
+      "revenue": 203782000000,
+      "operating_income": 29021000000,
+      "assets": 153773000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01873-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "edinet_code": "E37978",
+    "sec_code": "6526",
+    "company_name": "株式会社ソシオネクスト",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YHHK"
+  },
+  "financials": {
+    "net_sales": 200834000000,
+    "ordinary_income": 11756000000,
+    "net_income": 8733000000,
+    "comprehensive_income": 9669000000,
+    "eps": 49.74,
+    "eps_diluted": 49.44,
+    "dps": 50,
+    "operating_cf": 7693000000,
+    "investing_cf": -22884000000,
+    "financing_cf": -14240000000,
+    "net_assets": 133056000000,
+    "total_assets": 167623000000,
+    "bps": 759.09,
+    "cash_end": 44541000000,
+    "equity_ratio": 0.7938,
+    "roe": 0.0647,
+    "per": 37.58,
+    "gross_profit": 89777000000,
+    "operating_income": 12354000000,
+    "income_tax_expense": 1475000000,
+    "depreciation": 16902000000,
+    "capex_ppe": -14855000000,
+    "capex_intangible": -8052000000,
+    "current_assets": 122819000000,
+    "current_liabilities": 32520000000,
+    "noncurrent_assets": 44804000000,
+    "noncurrent_liabilities": 2047000000,
+    "ppe": 23879000000,
+    "intangible_assets": 15142000000,
+    "investment_securities": 0,
+    "treasury_stock": -10773000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E37978-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

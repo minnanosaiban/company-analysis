@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E00751",
+    "sec_code": "4004",
+    "company_name": "株式会社レゾナック・ホールディングス",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-26",
+    "doc_id": "S100VHA9"
+  },
+  "financials": {
+    "net_sales": 1389277000000,
+    "ordinary_income": 69692000000,
+    "net_income": 55422000000,
+    "comprehensive_income": 94900000000,
+    "eps": 306.59,
+    "dps": 65,
+    "operating_cf": 165254000000,
+    "investing_cf": -51601000000,
+    "financing_cf": -19978000000,
+    "net_assets": 658395000000,
+    "total_assets": 2124966000000,
+    "bps": 3494.12,
+    "cash_end": 295432000000,
+    "equity_ratio": 0.297,
+    "roe": 0.094,
+    "per": 13.1,
+    "eps_diluted": 406.61,
+    "operating_income": 89036000000,
+    "gross_profit": 311099000000,
+    "income_tax_expense": 9875000000,
+    "interest_bearing_debt_current": 137862000000,
+    "interest_bearing_debt_noncurrent": 858399000000,
+    "lease_liabilities_current": 4837000000,
+    "lease_liabilities_noncurrent": 22608000000,
+    "sga_expense": 242936000000,
+    "profit_before_tax": 84647000000,
+    "depreciation": 98026000000,
+    "capex_ppe": -88312000000,
+    "current_assets": 886548000000,
+    "current_liabilities": 495173000000,
+    "noncurrent_assets": 1286078000000,
+    "inventories": 220812000000,
+    "ppe": 670776000000,
+    "goodwill": 287005000000,
+    "intangible_assets": 442417000000,
+    "equity_method_investments": 70396000000,
+    "treasury_stock": -13172000000,
+    "noncontrolling_interests": 27390000000
+  },
+  "segments": [
+    {
+      "key": "Chemicals",
+      "label": null,
+      "external_revenue": 517186000000,
+      "intersegment_revenue": 13062000000,
+      "revenue": 530248000000,
+      "operating_income": 10123000000
+    },
+    {
+      "key": "InnovationEnablingMaterials",
+      "label": null,
+      "external_revenue": 97001000000,
+      "intersegment_revenue": 12781000000,
+      "revenue": 109782000000,
+      "operating_income": 11267000000
+    },
+    {
+      "key": "Mobility",
+      "label": null,
+      "external_revenue": 215528000000,
+      "intersegment_revenue": 1934000000,
+      "revenue": 217462000000,
+      "operating_income": 6741000000
+    },
+    {
+      "key": "SemiconductorAndElectronicMaterials",
+      "label": null,
+      "external_revenue": 445139000000,
+      "intersegment_revenue": 4969000000,
+      "revenue": 450108000000,
+      "operating_income": 73713000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00751-000_2024-12-31_01_2025-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

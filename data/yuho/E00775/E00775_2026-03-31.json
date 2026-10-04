@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E00775",
+    "sec_code": "4062",
+    "company_name": "イビデン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-18",
+    "doc_id": "S100YC4B"
+  },
+  "financials": {
+    "net_sales": 416201000000,
+    "ordinary_income": 60822000000,
+    "net_income": 63713000000,
+    "comprehensive_income": 67077000000,
+    "eps": 228.16,
+    "eps_diluted": 214.91,
+    "dps": 45,
+    "operating_cf": 106407000000,
+    "investing_cf": -52416000000,
+    "financing_cf": -157511000000,
+    "net_assets": 557412000000,
+    "total_assets": 960425000000,
+    "bps": 1969.85,
+    "cash_end": 292908000000,
+    "equity_ratio": 0.5727,
+    "roe": 0.1225,
+    "per": 32.31,
+    "gross_profit": 131668000000,
+    "operating_income": 62027000000,
+    "income_tax_expense": 31526000000,
+    "interest_bearing_debt_noncurrent": 60000000000,
+    "bonds_payable": 45000000000,
+    "current_portion_of_bonds": 15000000000,
+    "lease_liabilities_noncurrent": 61000000,
+    "depreciation": 66236000000,
+    "capex_ppe": -106118000000,
+    "capex_intangible": -1126000000,
+    "current_assets": 465541000000,
+    "current_liabilities": 221645000000,
+    "noncurrent_assets": 494883000000,
+    "noncurrent_liabilities": 181367000000,
+    "trade_payables": 33694000000,
+    "ppe": 437704000000,
+    "intangible_assets": 4418000000,
+    "investment_securities": 32285000000,
+    "treasury_stock": -3452000000,
+    "noncontrolling_interests": 7339000000
+  },
+  "segments": [
+    {
+      "key": "Ceramics",
+      "label": null,
+      "external_revenue": 82554000000,
+      "intersegment_revenue": 618000000,
+      "operating_income": 7646000000
+    },
+    {
+      "key": "Electronics",
+      "label": null,
+      "external_revenue": 243316000000,
+      "intersegment_revenue": 39000000,
+      "operating_income": 45248000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00775-000_2026-03-31_01_2026-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

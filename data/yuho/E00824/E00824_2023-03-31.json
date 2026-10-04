@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E00824",
+    "sec_code": "4206",
+    "company_name": "アイカ工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R38E"
+  },
+  "financials": {
+    "net_sales": 242055000000,
+    "ordinary_income": 22088000000,
+    "net_income": 10059000000,
+    "comprehensive_income": 17928000000,
+    "eps": 157.27,
+    "eps_diluted": 157.21,
+    "dps": 109,
+    "operating_cf": 19852000000,
+    "investing_cf": -9061000000,
+    "financing_cf": -9355000000,
+    "net_assets": 158074000000,
+    "total_assets": 250049000000,
+    "bps": 2270.08,
+    "cash_end": 47943000000,
+    "equity_ratio": 0.581,
+    "roe": 0.069,
+    "per": 19.3,
+    "gross_profit": 56798000000,
+    "operating_income": 20557000000,
+    "income_tax_expense": 7662000000,
+    "interest_bearing_debt_current": 7299000000,
+    "interest_bearing_debt_noncurrent": 4222000000,
+    "depreciation": 7149000000,
+    "capex_ppe": -7646000000,
+    "capex_intangible": -938000000,
+    "current_assets": 159279000000,
+    "current_liabilities": 59669000000,
+    "noncurrent_assets": 90769000000,
+    "noncurrent_liabilities": 32305000000,
+    "trade_payables": 28824000000,
+    "ppe": 60872000000,
+    "goodwill": 3617000000,
+    "intangible_assets": 12532000000,
+    "investment_securities": 14927000000,
+    "treasury_stock": -6141000000,
+    "noncontrolling_interests": 12848000000
+  },
+  "segments": [
+    {
+      "key": "BuildingMaterials",
+      "label": "建装建材",
+      "external_revenue": 100743000000,
+      "operating_income": 16740000000
+    },
+    {
+      "key": "ChemicalProducts",
+      "label": "化成品",
+      "external_revenue": 141312000000,
+      "intersegment_revenue": 3412000000,
+      "operating_income": 7494000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00824-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

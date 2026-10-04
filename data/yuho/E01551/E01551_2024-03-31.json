@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E01551",
+    "sec_code": "6383",
+    "company_name": "株式会社ダイフク",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-24",
+    "doc_id": "S100TQ4F"
+  },
+  "financials": {
+    "net_sales": 611477000000,
+    "ordinary_income": 64207000000,
+    "net_income": 45461000000,
+    "comprehensive_income": 60409000000,
+    "eps": 121.63,
+    "eps_diluted": 118.45,
+    "dps": 40,
+    "operating_cf": 37117000000,
+    "investing_cf": -29582000000,
+    "financing_cf": 22732000000,
+    "net_assets": 358755000000,
+    "total_assets": 646154000000,
+    "bps": 966.98,
+    "cash_end": 136445000000,
+    "equity_ratio": 0.555,
+    "roe": 0.132,
+    "per": 29.5,
+    "gross_profit": 116628000000,
+    "operating_income": 62079000000,
+    "income_tax_expense": 22982000000,
+    "interest_bearing_debt_current": 9428000000,
+    "interest_bearing_debt_noncurrent": 100000000,
+    "depreciation": 9569000000,
+    "current_assets": 496426000000,
+    "current_liabilities": 211392000000,
+    "noncurrent_assets": 149728000000,
+    "noncurrent_liabilities": 76007000000,
+    "ppe": 77451000000,
+    "goodwill": 3299000000,
+    "intangible_assets": 12128000000,
+    "investment_securities": 23517000000,
+    "treasury_stock": -20944000000,
+    "noncontrolling_interests": 342000000
+  },
+  "segments": [
+    {
+      "key": "CFI",
+      "label": null,
+      "external_revenue": 30637000000,
+      "intersegment_revenue": 3230000000
+    },
+    {
+      "key": "Contec",
+      "label": null,
+      "external_revenue": 19080000000,
+      "intersegment_revenue": 15788000000
+    },
+    {
+      "key": "DAIFUKU",
+      "label": null,
+      "external_revenue": 238877000000,
+      "intersegment_revenue": 35657000000
+    },
+    {
+      "key": "DNA",
+      "label": null,
+      "external_revenue": 175795000000,
+      "intersegment_revenue": 1471000000
+    },
+    {
+      "key": "DSA",
+      "label": null,
+      "external_revenue": 30083000000,
+      "intersegment_revenue": 1372000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01551-000_2024-03-31_01_2024-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

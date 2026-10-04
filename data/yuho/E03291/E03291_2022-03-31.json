@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E03291",
+    "sec_code": "7550",
+    "company_name": "株式会社ゼンショーホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2MZ"
+  },
+  "financials": {
+    "net_sales": 658503000000,
+    "ordinary_income": 23117000000,
+    "net_income": 13869000000,
+    "comprehensive_income": 22080000000,
+    "eps": 91.17,
+    "dps": 22,
+    "operating_cf": 45430000000,
+    "investing_cf": -31550000000,
+    "financing_cf": -11986000000,
+    "net_assets": 104486000000,
+    "total_assets": 427172000000,
+    "bps": 679.19,
+    "cash_end": 42414000000,
+    "equity_ratio": 0.242,
+    "roe": 0.147,
+    "per": 31.4,
+    "gross_profit": 347624000000,
+    "operating_income": 9232000000,
+    "income_tax_expense": 12371000000,
+    "interest_bearing_debt_current": 459000000,
+    "interest_bearing_debt_noncurrent": 151659000000,
+    "bonds_payable": 15000000000,
+    "current_portion_of_bonds": 5000000000,
+    "current_portion_lt_loans": 24380000000,
+    "lease_liabilities_current": 9264000000,
+    "lease_liabilities_noncurrent": 24294000000,
+    "depreciation": 28337000000,
+    "capex_ppe": -27513000000,
+    "capex_intangible": -1263000000,
+    "current_assets": 132439000000,
+    "current_liabilities": 109749000000,
+    "noncurrent_assets": 294671000000,
+    "noncurrent_liabilities": 212937000000,
+    "ppe": 168663000000,
+    "goodwill": 13106000000,
+    "intangible_assets": 62885000000,
+    "investment_securities": 1883000000,
+    "treasury_stock": -5839000000,
+    "noncontrolling_interests": 1165000000
+  },
+  "segments": [
+    {
+      "key": "RestaurantBusiness",
+      "label": null,
+      "external_revenue": 578928000000,
+      "intersegment_revenue": 2755000000,
+      "operating_income": 9326000000
+    },
+    {
+      "key": "RetailBusiness",
+      "label": null,
+      "external_revenue": 79575000000,
+      "intersegment_revenue": 176000000,
+      "operating_income": -93000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03291-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

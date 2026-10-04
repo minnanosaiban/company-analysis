@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "edinet_code": "E00322",
+    "sec_code": "1721",
+    "company_name": "コムシスホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R32B"
+  },
+  "financials": {
+    "net_sales": 563295000000,
+    "ordinary_income": 30934000000,
+    "net_income": 19338000000,
+    "comprehensive_income": 19607000000,
+    "eps": 158.83,
+    "eps_diluted": 158.71,
+    "dps": 100,
+    "operating_cf": 61781000000,
+    "investing_cf": -6843000000,
+    "financing_cf": -48233000000,
+    "net_assets": 346725000000,
+    "total_assets": 502133000000,
+    "bps": 2824.12,
+    "cash_end": 40788000000,
+    "equity_ratio": 0.679,
+    "roe": 0.057,
+    "per": 15.38,
+    "gross_profit": 69541000000,
+    "operating_income": 32104000000,
+    "income_tax_expense": 11945000000,
+    "interest_bearing_debt_current": 3950000000,
+    "interest_bearing_debt_noncurrent": 179000000,
+    "depreciation": 10376000000,
+    "capex_ppe": -7520000000,
+    "capex_intangible": -1162000000,
+    "current_assets": 303983000000,
+    "current_liabilities": 134446000000,
+    "noncurrent_assets": 198149000000,
+    "noncurrent_liabilities": 20961000000,
+    "ppe": 143236000000,
+    "goodwill": 1648000000,
+    "intangible_assets": 6737000000,
+    "investment_securities": 25454000000,
+    "treasury_stock": -45318000000,
+    "noncontrolling_interests": 4692000000
+  },
+  "segments": [
+    {
+      "key": "COMSYSJOHOSYSTEMGroup",
+      "label": null,
+      "external_revenue": 11818000000,
+      "intersegment_revenue": 2813000000,
+      "operating_income": 1401000000
+    },
+    {
+      "key": "HokurikuDenwaKoujiGroup",
+      "label": null,
+      "external_revenue": 16124000000,
+      "intersegment_revenue": 531000000,
+      "operating_income": 640000000
+    },
+    {
+      "key": "NDSGroup",
+      "label": null,
+      "external_revenue": 78449000000,
+      "intersegment_revenue": 756000000,
+      "operating_income": 4151000000
+    },
+    {
+      "key": "NipponCOMSYSGroup",
+      "label": null,
+      "external_revenue": 261546000000,
+      "intersegment_revenue": 7644000000,
+      "operating_income": 9275000000
+    },
+    {
+      "key": "SANWACOMSYSEngineeringGroup",
+      "label": null,
+      "external_revenue": 68630000000,
+      "intersegment_revenue": 1653000000,
+      "operating_income": 6551000000
+    },
+    {
+      "key": "SYSKENGroup",
+      "label": null,
+      "external_revenue": 29789000000,
+      "intersegment_revenue": 1261000000,
+      "operating_income": 1415000000
+    },
+    {
+      "key": "TOSYSGroup",
+      "label": null,
+      "external_revenue": 32492000000,
+      "intersegment_revenue": 881000000,
+      "operating_income": 2063000000
+    },
+    {
+      "key": "TSUKENGroup",
+      "label": null,
+      "external_revenue": 62503000000,
+      "intersegment_revenue": 3770000000,
+      "operating_income": 6089000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00322-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

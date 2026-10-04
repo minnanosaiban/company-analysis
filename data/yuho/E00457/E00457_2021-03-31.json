@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00457",
+    "sec_code": "2897",
+    "company_name": "日清食品ホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R5TO"
+  },
+  "financials": {
+    "dps": 120,
+    "net_sales": 506107000000,
+    "net_income": 40828000000,
+    "comprehensive_income": 66894000000,
+    "net_assets": 384016000000,
+    "total_assets": 663530000000,
+    "equity_ratio": 0.579,
+    "bps": 3686.38,
+    "eps": 391.94,
+    "eps_diluted": 389.69,
+    "roe": 0.115,
+    "per": 20.9,
+    "operating_cf": 72714000000,
+    "investing_cf": -26528000000,
+    "financing_cf": -19046000000,
+    "cash_end": 90294000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00457-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

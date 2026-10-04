@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E00811",
+    "sec_code": "4114",
+    "company_name": "株式会社日本触媒",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-17",
+    "doc_id": "S100VYV3"
+  },
+  "financials": {
+    "dps": 114,
+    "net_sales": 409346000000,
+    "net_income": 17394000000,
+    "comprehensive_income": 16147000000,
+    "net_assets": 383029000000,
+    "total_assets": 543659000000,
+    "equity_ratio": 0.705,
+    "bps": 2527.98,
+    "eps": 113.9,
+    "eps_diluted": 113.86,
+    "roe": 0.045,
+    "per": 15.3,
+    "operating_cf": 46974000000,
+    "investing_cf": -30506000000,
+    "financing_cf": -16780000000,
+    "cash_end": 54565000000,
+    "operating_income": 19062000000,
+    "gross_profit": 70446000000,
+    "income_tax_expense": 4750000000,
+    "sga_expense": 53293000000,
+    "profit_before_tax": 23203000000,
+    "depreciation": 31551000000,
+    "capex_ppe": -33920000000,
+    "capex_intangible": -1084000000,
+    "current_assets": 255451000000,
+    "current_liabilities": 107171000000,
+    "noncurrent_assets": 288208000000,
+    "inventories": 84315000000,
+    "ppe": 194244000000,
+    "intangible_assets": 4496000000,
+    "equity_method_investments": 30040000000,
+    "treasury_stock": -7263000000,
+    "noncontrolling_interests": 9505000000
+  },
+  "segments": [
+    {
+      "key": "Materials",
+      "label": null,
+      "external_revenue": 294092000000,
+      "intersegment_revenue": 16737000000,
+      "revenue": 310829000000,
+      "operating_income": 12900000000,
+      "assets": 359865000000
+    },
+    {
+      "key": "Solutions",
+      "label": null,
+      "external_revenue": 115254000000,
+      "intersegment_revenue": 2842000000,
+      "revenue": 118096000000,
+      "operating_income": 5114000000,
+      "assets": 140751000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00811-000_2025-03-31_01_2025-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

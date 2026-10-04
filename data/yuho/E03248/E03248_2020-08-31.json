@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "edinet_code": "E03248",
+    "sec_code": "7453",
+    "company_name": "株式会社良品計画",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-08-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-11-24",
+    "doc_id": "S100SBV6"
+  },
+  "financials": {
+    "ordinary_income": 563000000,
+    "net_income": -16917000000,
+    "comprehensive_income": -20992000000,
+    "eps": -64.32,
+    "dps": 5,
+    "operating_cf": -1758000000,
+    "investing_cf": -4239000000,
+    "financing_cf": 63722000000,
+    "net_assets": 182992000000,
+    "total_assets": 343918000000,
+    "bps": 684.94,
+    "cash_end": 91599000000,
+    "equity_ratio": 0.524
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03248-000_2023-08-31_01_2023-11-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

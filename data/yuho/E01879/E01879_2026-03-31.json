@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E01879",
+    "sec_code": "6845",
+    "company_name": "アズビル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YEE5"
+  },
+  "financials": {
+    "net_sales": 298930000000,
+    "ordinary_income": 48760000000,
+    "net_income": 38565000000,
+    "comprehensive_income": 46632000000,
+    "eps": 75.76,
+    "dps": 32,
+    "operating_cf": 38032000000,
+    "investing_cf": -6472000000,
+    "financing_cf": -30066000000,
+    "net_assets": 255999000000,
+    "total_assets": 332240000000,
+    "bps": 497.71,
+    "cash_end": 97931000000,
+    "equity_ratio": 0.761,
+    "roe": 0.157,
+    "per": 17.87,
+    "gross_profit": 139577000000,
+    "operating_income": 47304000000,
+    "income_tax_expense": 12612000000,
+    "interest_bearing_debt_current": 4816000000,
+    "interest_bearing_debt_noncurrent": 5073000000,
+    "depreciation": 7061000000,
+    "capex_ppe": -5646000000,
+    "capex_intangible": -2210000000,
+    "current_assets": 238968000000,
+    "current_liabilities": 64357000000,
+    "noncurrent_assets": 93271000000,
+    "noncurrent_liabilities": 11883000000,
+    "trade_payables": 16796000000,
+    "ppe": 42792000000,
+    "intangible_assets": 8321000000,
+    "investment_securities": 29093000000,
+    "treasury_stock": -38985000000,
+    "noncontrolling_interests": 3145000000
+  },
+  "segments": [
+    {
+      "key": "AdvancedAutomationBusiness",
+      "label": null,
+      "external_revenue": 109830000000,
+      "intersegment_revenue": 895000000,
+      "operating_income": 17800000000
+    },
+    {
+      "key": "BuildingAutomationBusiness",
+      "label": null,
+      "external_revenue": 155994000000,
+      "intersegment_revenue": 357000000,
+      "operating_income": 28901000000
+    },
+    {
+      "key": "LifeAutomationBusiness",
+      "label": null,
+      "external_revenue": 33055000000,
+      "intersegment_revenue": 280000000,
+      "operating_income": 630000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01879-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

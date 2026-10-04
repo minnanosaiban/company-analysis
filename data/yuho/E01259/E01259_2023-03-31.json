@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E01259",
+    "sec_code": "5444",
+    "company_name": "大和工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RA60"
+  },
+  "financials": {
+    "net_sales": 180438000000,
+    "ordinary_income": 90494000000,
+    "net_income": 65317000000,
+    "comprehensive_income": 111987000000,
+    "eps": 1025.49,
+    "dps": 300,
+    "operating_cf": 52654000000,
+    "investing_cf": -10346000000,
+    "financing_cf": -17719000000,
+    "net_assets": 470211000000,
+    "total_assets": 515000000000,
+    "bps": 6917.47,
+    "cash_end": 133859000000,
+    "equity_ratio": 0.856,
+    "roe": 0.165,
+    "per": 5.2,
+    "gross_profit": 31682000000,
+    "operating_income": 16813000000,
+    "income_tax_expense": 20185000000,
+    "depreciation": 6017000000,
+    "capex_ppe": -3866000000,
+    "capex_intangible": -461000000,
+    "current_assets": 238243000000,
+    "current_liabilities": 21498000000,
+    "noncurrent_assets": 276756000000,
+    "noncurrent_liabilities": 23289000000,
+    "trade_payables": 10592000000,
+    "ppe": 63392000000,
+    "goodwill": 707000000,
+    "intangible_assets": 1838000000,
+    "investment_securities": 73173000000,
+    "treasury_stock": -1380000000,
+    "noncontrolling_interests": 29588000000
+  },
+  "segments": [
+    {
+      "key": "RailwayTrackAccessories",
+      "label": "軌道用品事業",
+      "external_revenue": 6491000000,
+      "operating_income": 250000000
+    },
+    {
+      "key": "SteelJapan",
+      "label": "鉄鋼事業（日本）",
+      "external_revenue": 72873000000,
+      "intersegment_revenue": 513000000,
+      "operating_income": 8701000000
+    },
+    {
+      "key": "SteelThailand",
+      "label": "鉄鋼事業（タイ）",
+      "external_revenue": 97331000000,
+      "operating_income": 10735000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01259-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E01086",
+    "sec_code": "5108",
+    "company_name": "株式会社ブリヂストン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-18",
+    "doc_id": "S100XRPR"
+  },
+  "financials": {
+    "dps": 230,
+    "net_sales": 4429452000000,
+    "net_income": 327264000000,
+    "comprehensive_income": 378058000000,
+    "net_assets": 3661793000000,
+    "total_assets": 5747705000000,
+    "equity_ratio": 0.637,
+    "bps": 2868.49,
+    "eps": 246,
+    "eps_diluted": 245.77,
+    "roe": 0.089,
+    "per": 14.3,
+    "operating_cf": 660442000000,
+    "investing_cf": -224968000000,
+    "financing_cf": -429902000000,
+    "cash_end": 713810000000,
+    "operating_income": 381237000000,
+    "gross_profit": 1706663000000,
+    "income_tax_expense": 30519000000,
+    "interest_bearing_debt_current": 94958000000,
+    "interest_bearing_debt_noncurrent": 392312000000,
+    "lease_liabilities_current": 68871000000,
+    "lease_liabilities_noncurrent": 270874000000,
+    "sga_expense": 1219078000000,
+    "profit_before_tax": 354661000000,
+    "depreciation": 353229000000,
+    "capex_ppe": -251091000000,
+    "capex_intangible": -36064000000,
+    "current_assets": 2863182000000,
+    "current_liabilities": 1122654000000,
+    "noncurrent_assets": 2884523000000,
+    "trade_receivables": 1093109000000,
+    "inventories": 885458000000,
+    "trade_payables": 600647000000,
+    "ppe": 1858259000000,
+    "goodwill": 166454000000,
+    "intangible_assets": 202901000000,
+    "equity_method_investments": 49951000000,
+    "treasury_stock": -433930000000,
+    "noncontrolling_interests": 58095000000
+  },
+  "segments": [
+    {
+      "key": "AsiaPacificIndiaAndChina",
+      "label": null,
+      "external_revenue": 478733000000,
+      "intersegment_revenue": 39045000000,
+      "revenue": 517778000000,
+      "operating_income": 59630000000
+    },
+    {
+      "key": "EuropeMiddleEastAndAfrica",
+      "label": null,
+      "external_revenue": 831840000000,
+      "intersegment_revenue": 21030000000,
+      "revenue": 852870000000,
+      "operating_income": 42415000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 993635000000,
+      "intersegment_revenue": 272216000000,
+      "revenue": 1265852000000,
+      "operating_income": 198126000000
+    },
+    {
+      "key": "TheAmericas",
+      "label": null,
+      "external_revenue": 2107190000000,
+      "intersegment_revenue": 23329000000,
+      "revenue": 2130518000000,
+      "operating_income": 201507000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01086-000_2025-12-31_01_2026-03-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

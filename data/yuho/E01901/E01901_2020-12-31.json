@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01901",
+    "sec_code": "6856",
+    "company_name": "株式会社堀場製作所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-25",
+    "doc_id": "S100T3YZ"
+  },
+  "financials": {
+    "net_sales": 187080000000,
+    "ordinary_income": 19399000000,
+    "net_income": 13188000000,
+    "comprehensive_income": 11580000000,
+    "eps": 312.58,
+    "eps_diluted": 311.09,
+    "dps": 90,
+    "operating_cf": 32253000000,
+    "investing_cf": -14016000000,
+    "financing_cf": 843000000,
+    "net_assets": 178669000000,
+    "total_assets": 328068000000,
+    "bps": 4217.45,
+    "cash_end": 114156000000,
+    "equity_ratio": 0.5425,
+    "roe": 0.0756,
+    "per": 19.36
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01901-000_2023-12-31_01_2024-03-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

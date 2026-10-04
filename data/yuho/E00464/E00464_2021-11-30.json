@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "edinet_code": "E00464",
+    "sec_code": "2809",
+    "company_name": "キユーピー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-11-30",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2024-02-29",
+    "doc_id": "S100SY9K"
+  },
+  "financials": {
+    "net_sales": 407039000000,
+    "ordinary_income": 29698000000,
+    "net_income": 18014000000,
+    "comprehensive_income": 24546000000,
+    "eps": 128.17,
+    "dps": 47,
+    "operating_cf": 38533000000,
+    "investing_cf": -20277000000,
+    "financing_cf": -18701000000,
+    "net_assets": 269301000000,
+    "total_assets": 381003000000,
+    "bps": 1767.14,
+    "cash_end": 66703000000,
+    "equity_ratio": 0.645,
+    "roe": 0.074,
+    "per": 18,
+    "gross_profit": 124232000000,
+    "operating_income": 27972000000,
+    "income_tax_expense": 8329000000,
+    "interest_bearing_debt_current": 11591000000,
+    "interest_bearing_debt_noncurrent": 16356000000,
+    "bonds_payable": 10000000000,
+    "lease_liabilities_noncurrent": 3780000000,
+    "depreciation": 15336000000,
+    "capex_ppe": -7743000000,
+    "capex_intangible": -3842000000,
+    "current_assets": 157451000000,
+    "current_liabilities": 71199000000,
+    "noncurrent_assets": 223552000000,
+    "noncurrent_liabilities": 40502000000,
+    "trade_receivables": 56875000000,
+    "trade_payables": 28015000000,
+    "ppe": 146532000000,
+    "goodwill": 552000000,
+    "intangible_assets": 13303000000,
+    "investment_securities": 43629000000,
+    "treasury_stock": -5838000000,
+    "noncontrolling_interests": 23660000000
+  },
+  "segments": [
+    {
+      "key": "CommonBusinessOperations",
+      "label": "共通",
+      "external_revenue": 5536000000,
+      "intersegment_revenue": 10663000000,
+      "operating_income": 1328000000
+    },
+    {
+      "key": "FineChemicalProducts",
+      "label": "ファインケミカル",
+      "external_revenue": 8770000000,
+      "intersegment_revenue": 426000000,
+      "operating_income": 1075000000
+    },
+    {
+      "key": "FoodServiceBusiness",
+      "label": "業務用",
+      "external_revenue": 149792000000,
+      "intersegment_revenue": 5132000000,
+      "operating_income": 6292000000
+    },
+    {
+      "key": "FruitSolutionProducts",
+      "label": "フルーツ ソリューション",
+      "external_revenue": 16878000000,
+      "intersegment_revenue": 223000000,
+      "operating_income": 719000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": "海外",
+      "external_revenue": 53383000000,
+      "intersegment_revenue": 1003000000,
+      "operating_income": 7229000000
+    },
+    {
+      "key": "RetailMarketBusiness",
+      "label": "市販用",
+      "external_revenue": 172678000000,
+      "intersegment_revenue": 738000000,
+      "operating_income": 17195000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00464-000_2022-11-30_03_2024-02-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

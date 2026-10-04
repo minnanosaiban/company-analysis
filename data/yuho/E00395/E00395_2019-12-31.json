@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00395",
+    "sec_code": "2503",
+    "company_name": "キリンホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T4MO"
+  },
+  "financials": {
+    "dps": 64,
+    "net_sales": 1941305000000,
+    "net_income": 59642000000,
+    "comprehensive_income": 54134000000,
+    "net_assets": 906576000000,
+    "total_assets": 2412874000000,
+    "equity_ratio": 0.376,
+    "bps": 1043.57,
+    "eps": 68,
+    "eps_diluted": 67.98,
+    "roe": 0.066,
+    "per": 35.15,
+    "operating_cf": 178826000000,
+    "investing_cf": -175619000000,
+    "financing_cf": -9997000000,
+    "cash_end": 165671000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00395-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

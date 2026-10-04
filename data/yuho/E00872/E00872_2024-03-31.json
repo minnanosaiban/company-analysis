@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E00872",
+    "sec_code": "3401",
+    "company_name": "帝人株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TO4E"
+  },
+  "financials": {
+    "net_sales": 1032773000000,
+    "ordinary_income": 15564000000,
+    "net_income": 10599000000,
+    "comprehensive_income": 36936000000,
+    "eps": 55.07,
+    "eps_diluted": 55,
+    "dps": 30,
+    "operating_cf": 69451000000,
+    "investing_cf": -46052000000,
+    "financing_cf": -43159000000,
+    "net_assets": 481933000000,
+    "total_assets": 1251021000000,
+    "bps": 2358.37,
+    "cash_end": 123562000000,
+    "equity_ratio": 0.363,
+    "roe": 0.024,
+    "per": 25.6,
+    "gross_profit": 275774000000,
+    "operating_income": 13542000000,
+    "income_tax_expense": 24921000000,
+    "interest_bearing_debt_current": 146767000000,
+    "interest_bearing_debt_noncurrent": 186097000000,
+    "bonds_payable": 85030000000,
+    "current_portion_of_bonds": 20060000000,
+    "current_portion_lt_loans": 40242000000,
+    "lease_liabilities_noncurrent": 17527000000,
+    "capex_ppe": -58112000000,
+    "capex_intangible": -6930000000,
+    "current_assets": 623504000000,
+    "current_liabilities": 424682000000,
+    "noncurrent_assets": 627517000000,
+    "noncurrent_liabilities": 344406000000,
+    "trade_payables": 100439000000,
+    "ppe": 370029000000,
+    "goodwill": 13111000000,
+    "intangible_assets": 145287000000,
+    "investment_securities": 68226000000,
+    "treasury_stock": -11772000000,
+    "noncontrolling_interests": 27348000000
+  },
+  "segments": [
+    {
+      "key": "Healthcare",
+      "label": null,
+      "external_revenue": 144700000000,
+      "intersegment_revenue": 64000000,
+      "operating_income": 7327000000
+    },
+    {
+      "key": "Material",
+      "label": null,
+      "external_revenue": 439690000000,
+      "intersegment_revenue": 10323000000,
+      "operating_income": -6163000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00872-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "edinet_code": "E25850",
+    "sec_code": "3659",
+    "company_name": "株式会社ネクソン",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5FS"
+  },
+  "financials": {
+    "dps": 10,
+    "net_sales": 353714000000,
+    "net_income": 100339000000,
+    "net_assets": 858193000000,
+    "total_assets": 1042849000000,
+    "equity_ratio": 0.823,
+    "bps": 996.95,
+    "eps": 114.74,
+    "eps_diluted": 113.81,
+    "roe": 0.118,
+    "per": 25.8,
+    "operating_cf": 130144000000,
+    "investing_cf": -10918000000,
+    "financing_cf": -105859000000,
+    "cash_end": 409368000000,
+    "operating_income": 103696000000,
+    "gross_profit": 247936000000,
+    "income_tax_expense": 40535000000,
+    "lease_liabilities_current": 4045000000,
+    "lease_liabilities_noncurrent": 19279000000,
+    "sga_expense": 139297000000,
+    "profit_before_tax": 140525000000,
+    "depreciation": 6767000000,
+    "capex_ppe": -2801000000,
+    "capex_intangible": -3101000000,
+    "current_assets": 642029000000,
+    "current_liabilities": 83134000000,
+    "noncurrent_assets": 400820000000,
+    "trade_receivables": 30444000000,
+    "ppe": 26885000000,
+    "goodwill": 40136000000,
+    "intangible_assets": 9655000000,
+    "equity_method_investments": 83595000000,
+    "treasury_stock": -16464000000,
+    "noncontrolling_interests": 9353000000
+  },
+  "segments": [
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 3341000000,
+      "revenue": 3341000000,
+      "operating_income": 1556000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 4702000000,
+      "intersegment_revenue": 1253000000,
+      "revenue": 5955000000,
+      "operating_income": -10643000000
+    },
+    {
+      "key": "Korea",
+      "label": null,
+      "external_revenue": 331218000000,
+      "intersegment_revenue": 3099000000,
+      "revenue": 334317000000,
+      "operating_income": 129255000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": null,
+      "external_revenue": 13085000000,
+      "intersegment_revenue": 938000000,
+      "revenue": 14023000000,
+      "operating_income": -6217000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 1368000000,
+      "intersegment_revenue": 792000000,
+      "revenue": 2160000000,
+      "operating_income": -5311000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E25850-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

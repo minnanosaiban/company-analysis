@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E00872",
+    "sec_code": "3401",
+    "company_name": "帝人株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W4FO"
+  },
+  "financials": {
+    "net_sales": 1049676000000,
+    "ordinary_income": 12375000000,
+    "net_income": 7879000000,
+    "comprehensive_income": 18329000000,
+    "eps": 40.9,
+    "eps_diluted": 40.86,
+    "dps": 50,
+    "operating_cf": 60750000000,
+    "investing_cf": 52517000000,
+    "financing_cf": -125366000000,
+    "net_assets": 460748000000,
+    "total_assets": 1066459000000,
+    "bps": 2352.79,
+    "cash_end": 109337000000,
+    "equity_ratio": 0.425,
+    "roe": 0.017,
+    "per": 32,
+    "operating_income": -71828000000,
+    "gross_profit": 191452000000,
+    "income_tax_expense": -2291000000,
+    "interest_bearing_debt_current": 124985000000,
+    "interest_bearing_debt_noncurrent": 237494000000,
+    "lease_liabilities_current": 7954000000,
+    "lease_liabilities_noncurrent": 16694000000,
+    "sga_expense": 270330000000,
+    "profit_before_tax": -78038000000,
+    "depreciation": 71026000000,
+    "capex_ppe": -57397000000,
+    "capex_intangible": -4029000000,
+    "current_assets": 587883000000,
+    "current_liabilities": 318962000000,
+    "noncurrent_assets": 473389000000,
+    "trade_receivables": 166741000000,
+    "inventories": 227032000000,
+    "trade_payables": 105296000000,
+    "ppe": 250945000000,
+    "goodwill": 8334000000,
+    "intangible_assets": 85511000000,
+    "equity_method_investments": 45602000000,
+    "treasury_stock": -11411000000,
+    "noncontrolling_interests": 7164000000
+  },
+  "segments": [
+    {
+      "key": "FiberAndProductsConverting",
+      "label": null,
+      "external_revenue": 351923000000,
+      "intersegment_revenue": 2264000000,
+      "revenue": 354187000000,
+      "operating_income": 17842000000,
+      "assets": 223458000000
+    },
+    {
+      "key": "Helthcare",
+      "label": null,
+      "external_revenue": 136973000000,
+      "intersegment_revenue": 4000000,
+      "revenue": 136977000000,
+      "operating_income": 5690000000,
+      "assets": 198029000000
+    },
+    {
+      "key": "Materials",
+      "label": null,
+      "external_revenue": 459317000000,
+      "intersegment_revenue": 10735000000,
+      "revenue": 470052000000,
+      "operating_income": 6026000000,
+      "assets": 467531000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00872-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

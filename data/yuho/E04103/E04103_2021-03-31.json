@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E04103",
+    "sec_code": "9042",
+    "company_name": "阪急阪神ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-19",
+    "doc_id": "S100QYR4"
+  },
+  "financials": {
+    "ordinary_income": -7623000000,
+    "net_income": -36702000000,
+    "comprehensive_income": -22803000000,
+    "eps": -151.72,
+    "dps": 50,
+    "operating_cf": -32501000000,
+    "investing_cf": -102151000000,
+    "financing_cf": 134631000000,
+    "net_assets": 909985000000,
+    "total_assets": 2621028000000,
+    "bps": 3598.83,
+    "cash_end": 25222000000,
+    "equity_ratio": 0.331,
+    "roe": -0.041
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04103-000_2023-03-31_01_2023-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

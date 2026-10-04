@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "edinet_code": "E00544",
+    "sec_code": "3105",
+    "company_name": "日清紡ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T62Z"
+  },
+  "financials": {
+    "net_sales": 541211000000,
+    "ordinary_income": 15785000000,
+    "net_income": -20045000000,
+    "comprehensive_income": -6523000000,
+    "eps": -127.61,
+    "dps": 36,
+    "operating_cf": 23512000000,
+    "investing_cf": -46512000000,
+    "financing_cf": 25387000000,
+    "net_assets": 276578000000,
+    "total_assets": 672217000000,
+    "bps": 1595,
+    "cash_end": 49918000000,
+    "equity_ratio": 0.373,
+    "roe": -0.078,
+    "gross_profit": 119369000000,
+    "operating_income": 12453000000,
+    "income_tax_expense": 3043000000,
+    "interest_bearing_debt_current": 83892000000,
+    "interest_bearing_debt_noncurrent": 88749000000,
+    "commercial_papers": 30000000000,
+    "current_portion_lt_loans": 13395000000,
+    "depreciation": 25841000000,
+    "capex_ppe": -25291000000,
+    "current_assets": 366519000000,
+    "current_liabilities": 247806000000,
+    "noncurrent_assets": 305697000000,
+    "noncurrent_liabilities": 147831000000,
+    "trade_payables": 40549000000,
+    "ppe": 165679000000,
+    "goodwill": 4473000000,
+    "intangible_assets": 16046000000,
+    "investment_securities": 68566000000,
+    "treasury_stock": -13236000000,
+    "noncontrolling_interests": 25942000000
+  },
+  "segments": [
+    {
+      "key": "AutomobileBrakes",
+      "label": null,
+      "external_revenue": 178541000000,
+      "intersegment_revenue": 13000000,
+      "operating_income": 4682000000
+    },
+    {
+      "key": "Chemicals",
+      "label": null,
+      "external_revenue": 11433000000,
+      "intersegment_revenue": 181000000,
+      "operating_income": 801000000
+    },
+    {
+      "key": "ElectronicsMicrodevice",
+      "label": null,
+      "external_revenue": 80044000000,
+      "intersegment_revenue": 1256000000,
+      "operating_income": 934000000
+    },
+    {
+      "key": "ElectronicsWirelessAndCommunications",
+      "label": null,
+      "external_revenue": 158081000000,
+      "intersegment_revenue": 543000000,
+      "operating_income": 4745000000
+    },
+    {
+      "key": "PrecisionInstruments",
+      "label": null,
+      "external_revenue": 53265000000,
+      "intersegment_revenue": 330000000,
+      "operating_income": 1328000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 11263000000,
+      "intersegment_revenue": 1341000000,
+      "operating_income": 8518000000
+    },
+    {
+      "key": "Textiles",
+      "label": null,
+      "external_revenue": 37481000000,
+      "intersegment_revenue": 21000000,
+      "operating_income": -420000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00544-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

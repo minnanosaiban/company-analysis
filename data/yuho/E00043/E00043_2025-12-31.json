@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E00043",
+    "sec_code": "1605",
+    "company_name": "株式会社INPEX",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-26",
+    "doc_id": "S100XU9L"
+  },
+  "financials": {
+    "dps": 100,
+    "net_sales": 2011351000000,
+    "net_income": 393836000000,
+    "comprehensive_income": 129448000000,
+    "net_assets": 4747158000000,
+    "total_assets": 7735198000000,
+    "equity_ratio": 0.614,
+    "bps": 4073.44,
+    "eps": 330.82,
+    "eps_diluted": 330.56,
+    "roe": 0.082,
+    "per": 9.5,
+    "operating_cf": 693893000000,
+    "investing_cf": -668734000000,
+    "financing_cf": -110730000000,
+    "cash_end": 168407000000,
+    "operating_income": 1135440000000,
+    "gross_profit": 1146836000000,
+    "income_tax_expense": 743835000000,
+    "interest_bearing_debt_current": 541482000000,
+    "interest_bearing_debt_noncurrent": 703264000000,
+    "sga_expense": 118032000000,
+    "profit_before_tax": 1173473000000,
+    "depreciation": 351372000000,
+    "capex_ppe": -2620000000,
+    "current_assets": 1109093000000,
+    "current_liabilities": 839663000000,
+    "noncurrent_assets": 6626104000000,
+    "trade_receivables": 263055000000,
+    "inventories": 68389000000,
+    "trade_payables": 217690000000,
+    "ppe": 25576000000,
+    "goodwill": 46551000000,
+    "intangible_assets": 31360000000,
+    "equity_method_investments": 1024925000000,
+    "treasury_stock": -221629000000,
+    "noncontrolling_interests": 275745000000
+  },
+  "segments": [
+    {
+      "key": "IchthysProject",
+      "label": "イクシスプロジェクト",
+      "external_revenue": 315069000000,
+      "intersegment_revenue": 19784000000,
+      "revenue": 334854000000,
+      "equity_method_income": 60501000000,
+      "profit_attributable_to_owners": 270801000000
+    },
+    {
+      "key": "OilAndGasJapan",
+      "label": "国内O&G",
+      "external_revenue": 192176000000,
+      "revenue": 192176000000,
+      "profit_attributable_to_owners": 22452000000
+    },
+    {
+      "key": "OtherProjects",
+      "label": "その他のプロジェクト",
+      "external_revenue": 1486928000000,
+      "revenue": 1486928000000,
+      "equity_method_income": 17117000000,
+      "profit_attributable_to_owners": 131790000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00043-000_2025-12-31_01_2026-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

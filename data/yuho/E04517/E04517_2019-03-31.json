@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04517",
+    "sec_code": "9533",
+    "company_name": "東邦瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R5O1"
+  },
+  "financials": {
+    "net_sales": 461199000000,
+    "ordinary_income": 21485000000,
+    "net_income": 14820000000,
+    "comprehensive_income": 7326000000,
+    "eps": 139.37,
+    "dps": 55,
+    "operating_cf": 32615000000,
+    "investing_cf": -40011000000,
+    "financing_cf": 8834000000,
+    "net_assets": 327339000000,
+    "total_assets": 550599000000,
+    "bps": 3078.37,
+    "cash_end": 19260000000,
+    "equity_ratio": 0.595,
+    "roe": 0.045,
+    "per": 35.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04517-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

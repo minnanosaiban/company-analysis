@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "edinet_code": "E02958",
+    "sec_code": "2768",
+    "company_name": "双日株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-16",
+    "doc_id": "S100VY7S"
+  },
+  "financials": {
+    "dps": 135,
+    "net_sales": 2414649000000,
+    "net_income": 100765000000,
+    "comprehensive_income": 168317000000,
+    "net_assets": 924076000000,
+    "total_assets": 2886873000000,
+    "equity_ratio": 0.32,
+    "bps": 4238.81,
+    "eps": 450.97,
+    "eps_diluted": 450.97,
+    "roe": 0.114,
+    "per": 8.8,
+    "operating_cf": 112187000000,
+    "investing_cf": 12429000000,
+    "financing_cf": -186523000000,
+    "cash_end": 196275000000,
+    "gross_profit": 325955000000,
+    "income_tax_expense": 22437000000,
+    "interest_bearing_debt_current": 164138000000,
+    "interest_bearing_debt_noncurrent": 742566000000,
+    "lease_liabilities_current": 19340000000,
+    "lease_liabilities_noncurrent": 85749000000,
+    "sga_expense": 241464000000,
+    "profit_before_tax": 125498000000,
+    "depreciation": 42034000000,
+    "capex_ppe": -27093000000,
+    "capex_intangible": -4122000000,
+    "current_assets": 1462521000000,
+    "current_liabilities": 973450000000,
+    "noncurrent_assets": 1424351000000,
+    "trade_receivables": 826972000000,
+    "inventories": 288302000000,
+    "trade_payables": 663135000000,
+    "ppe": 234340000000,
+    "goodwill": 132597000000,
+    "intangible_assets": 92170000000,
+    "investment_securities": 130905000000,
+    "equity_method_investments": 616145000000,
+    "treasury_stock": -21915000000,
+    "noncontrolling_interests": 31550000000
+  },
+  "segments": [
+    {
+      "key": "AerospaceTransportationAndInfrastructure",
+      "label": "航空・社会インフラ",
+      "external_revenue": 52227000000,
+      "intersegment_revenue": 16000000,
+      "gross_profit": 21252000000,
+      "equity_method_income": 4151000000,
+      "profit_attributable_to_owners": 6086000000,
+      "assets": 245913000000
+    },
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "external_revenue": 403734000000,
+      "gross_profit": 60215000000,
+      "equity_method_income": 1060000000,
+      "profit_attributable_to_owners": 2281000000,
+      "assets": 290675000000
+    },
+    {
+      "key": "Chemicals",
+      "label": "化学",
+      "external_revenue": 559916000000,
+      "intersegment_revenue": 4000000,
+      "gross_profit": 59681000000,
+      "equity_method_income": -249000000,
+      "profit_attributable_to_owners": 14773000000,
+      "assets": 324872000000
+    },
+    {
+      "key": "ConsumerIndustryAndAgricultureBusiness",
+      "label": "生活産業・アグリビジネス",
+      "external_revenue": 267828000000,
+      "intersegment_revenue": 1000000,
+      "gross_profit": 34076000000,
+      "equity_method_income": 916000000,
+      "profit_attributable_to_owners": 7464000000,
+      "assets": 258339000000
+    },
+    {
+      "key": "EnergySolutionsAndHealthcare",
+      "label": "エネルギー・ヘルスケア",
+      "external_revenue": 163224000000,
+      "intersegment_revenue": 0,
+      "gross_profit": 31420000000,
+      "equity_method_income": 16362000000,
+      "profit_attributable_to_owners": 14020000000,
+      "assets": 496595000000
+    },
+    {
+      "key": "MetalsMineralResourcesAndRecycling",
+      "label": "金属・資源・リサイクル",
+      "external_revenue": 484215000000,
+      "intersegment_revenue": 1000000,
+      "gross_profit": 48288000000,
+      "equity_method_income": 19148000000,
+      "profit_attributable_to_owners": 43492000000,
+      "assets": 533366000000
+    },
+    {
+      "key": "RetailAndConsumerService",
+      "label": "リテール・コンシューマーサービス",
+      "external_revenue": 428578000000,
+      "intersegment_revenue": 378000000,
+      "gross_profit": 57306000000,
+      "equity_method_income": 1970000000,
+      "profit_attributable_to_owners": 13108000000,
+      "assets": 533567000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02958-000_2025-03-31_01_2025-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

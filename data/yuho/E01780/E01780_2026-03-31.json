@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E01780",
+    "sec_code": "6762",
+    "company_name": "ＴＤＫ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YD2Y"
+  },
+  "financials": {
+    "dps": 36,
+    "net_sales": 2504820000000,
+    "net_income": 195663000000,
+    "comprehensive_income": 447703000000,
+    "net_assets": 2187234000000,
+    "total_assets": 4415175000000,
+    "equity_ratio": 0.495,
+    "bps": 1152.3,
+    "eps": 103.09,
+    "eps_diluted": 102.97,
+    "roe": 0.098,
+    "per": 19.1,
+    "operating_cf": 507672000000,
+    "investing_cf": -377751000000,
+    "financing_cf": -64747000000,
+    "cash_end": 842775000000,
+    "operating_income": 272415000000,
+    "gross_profit": 783404000000,
+    "income_tax_expense": 77642000000,
+    "interest_bearing_debt_current": 210953000000,
+    "interest_bearing_debt_noncurrent": 332678000000,
+    "lease_liabilities_current": 12405000000,
+    "lease_liabilities_noncurrent": 59934000000,
+    "sga_expense": 544033000000,
+    "profit_before_tax": 276810000000,
+    "depreciation": 204192000000,
+    "current_assets": 2455232000000,
+    "current_liabilities": 1574545000000,
+    "noncurrent_assets": 1959944000000,
+    "inventories": 585448000000,
+    "ppe": 1225762000000,
+    "goodwill": 188481000000,
+    "intangible_assets": 49683000000,
+    "equity_method_investments": 48664000000,
+    "treasury_stock": -15665000000,
+    "noncontrolling_interests": 16311000000
+  },
+  "segments": [
+    {
+      "key": "EnergyApplicationProducts",
+      "label": "エナジー応用製品",
+      "external_revenue": 1370304000000,
+      "intersegment_revenue": 1000000,
+      "operating_income": 246682000000,
+      "assets": 2686182000000
+    },
+    {
+      "key": "MagneticApplicationProducts",
+      "label": "磁気応用製品",
+      "external_revenue": 262903000000,
+      "intersegment_revenue": 328000000,
+      "operating_income": 26951000000,
+      "assets": 613605000000
+    },
+    {
+      "key": "PassiveComponents",
+      "label": "受動部品",
+      "external_revenue": 593201000000,
+      "intersegment_revenue": 5626000000,
+      "operating_income": 41831000000,
+      "assets": 1007684000000
+    },
+    {
+      "key": "SensorApplicationProducts",
+      "label": "センサ応用製品",
+      "external_revenue": 224623000000,
+      "intersegment_revenue": 155000000,
+      "operating_income": 20748000000,
+      "assets": 420745000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01780-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

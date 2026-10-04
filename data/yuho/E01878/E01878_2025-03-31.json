@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E01878",
+    "sec_code": "6841",
+    "company_name": "横河電機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-19",
+    "doc_id": "S100VY8X"
+  },
+  "financials": {
+    "net_sales": 562404000000,
+    "ordinary_income": 85351000000,
+    "net_income": 52123000000,
+    "comprehensive_income": 51432000000,
+    "eps": 200.41,
+    "dps": 58,
+    "operating_cf": 99025000000,
+    "investing_cf": -28639000000,
+    "financing_cf": -26237000000,
+    "net_assets": 475721000000,
+    "total_assets": 718285000000,
+    "bps": 1807.37,
+    "cash_end": 179257000000,
+    "equity_ratio": 0.6514,
+    "roe": 0.1153,
+    "per": 14.44,
+    "gross_profit": 267444000000,
+    "operating_income": 83523000000,
+    "income_tax_expense": 22910000000,
+    "interest_bearing_debt_current": 327000000,
+    "interest_bearing_debt_noncurrent": 24025000000,
+    "lease_liabilities_current": 2584000000,
+    "lease_liabilities_noncurrent": 7115000000,
+    "depreciation": 21064000000,
+    "capex_ppe": -10845000000,
+    "capex_intangible": -16069000000,
+    "current_assets": 496313000000,
+    "current_liabilities": 197784000000,
+    "noncurrent_assets": 221972000000,
+    "noncurrent_liabilities": 44779000000,
+    "trade_payables": 34730000000,
+    "ppe": 87732000000,
+    "goodwill": 6563000000,
+    "intangible_assets": 53068000000,
+    "investment_securities": 64290000000,
+    "treasury_stock": -23251000000,
+    "noncontrolling_interests": 7865000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialAutomationAndControl",
+      "label": null,
+      "external_revenue": 528302000000,
+      "operating_income": 77582000000
+    },
+    {
+      "key": "NewBussinessesOther",
+      "label": null,
+      "external_revenue": 4155000000,
+      "operating_income": -282000000
+    },
+    {
+      "key": "TestAndMeasurement",
+      "label": null,
+      "external_revenue": 29946000000,
+      "operating_income": 6223000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01878-000_2025-03-31_01_2025-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

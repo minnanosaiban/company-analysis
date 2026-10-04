@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "edinet_code": "E00873",
+    "sec_code": "3402",
+    "company_name": "東レ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100W2HQ"
+  },
+  "financials": {
+    "dps": 18,
+    "net_sales": 2563280000000,
+    "net_income": 77911000000,
+    "comprehensive_income": 40886000000,
+    "net_assets": 1708984000000,
+    "total_assets": 3292597000000,
+    "equity_ratio": 0.519,
+    "bps": 1092.9,
+    "eps": 48.93,
+    "eps_diluted": 48.84,
+    "roe": 0.045,
+    "per": 20.8,
+    "operating_cf": 255033000000,
+    "investing_cf": -63198000000,
+    "financing_cf": -188520000000,
+    "cash_end": 237295000000,
+    "operating_income": 127453000000,
+    "gross_profit": 505895000000,
+    "income_tax_expense": 27615000000,
+    "interest_bearing_debt_current": 367089000000,
+    "interest_bearing_debt_noncurrent": 432468000000,
+    "lease_liabilities_current": 10952000000,
+    "lease_liabilities_noncurrent": 32150000000,
+    "sga_expense": 366106000000,
+    "profit_before_tax": 114288000000,
+    "depreciation": 129095000000,
+    "current_assets": 1461988000000,
+    "current_liabilities": 857530000000,
+    "noncurrent_assets": 1830609000000,
+    "trade_receivables": 605967000000,
+    "inventories": 520505000000,
+    "trade_payables": 315896000000,
+    "ppe": 1109588000000,
+    "goodwill": 94643000000,
+    "intangible_assets": 99299000000,
+    "equity_method_investments": 216714000000,
+    "treasury_stock": -57240000000,
+    "noncontrolling_interests": 111588000000
+  },
+  "segments": [
+    {
+      "key": "CarbonFiberCompositeMaterials",
+      "label": null,
+      "external_revenue": 299963000000,
+      "intersegment_revenue": 554000000,
+      "revenue": 300517000000,
+      "operating_income": 22515000000,
+      "assets": 748335000000
+    },
+    {
+      "key": "EnvironmentAndEngineering",
+      "label": null,
+      "external_revenue": 236524000000,
+      "intersegment_revenue": 82538000000,
+      "revenue": 319062000000,
+      "operating_income": 25915000000,
+      "assets": 358740000000
+    },
+    {
+      "key": "FibersAndTextiles",
+      "label": null,
+      "external_revenue": 1011099000000,
+      "intersegment_revenue": 1590000000,
+      "revenue": 1012689000000,
+      "operating_income": 64182000000,
+      "assets": 942240000000
+    },
+    {
+      "key": "LifeScience",
+      "label": null,
+      "external_revenue": 53163000000,
+      "revenue": 53163000000,
+      "operating_income": -774000000,
+      "assets": 69435000000
+    },
+    {
+      "key": "PerformanceChemicals",
+      "label": null,
+      "external_revenue": 944854000000,
+      "intersegment_revenue": 11670000000,
+      "revenue": 956524000000,
+      "operating_income": 60007000000,
+      "assets": 1169020000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00873-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

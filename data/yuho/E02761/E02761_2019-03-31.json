@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02761",
+    "sec_code": "9934",
+    "company_name": "因幡電機産業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R34V"
+  },
+  "financials": {
+    "net_sales": 278525000000,
+    "ordinary_income": 14477000000,
+    "net_income": 9462000000,
+    "comprehensive_income": 8635000000,
+    "eps": 169.2,
+    "eps_diluted": 168.11,
+    "dps": 140,
+    "operating_cf": 8737000000,
+    "investing_cf": -3589000000,
+    "financing_cf": -5207000000,
+    "net_assets": 122598000000,
+    "total_assets": 202454000000,
+    "bps": 2194.09,
+    "cash_end": 58825000000,
+    "equity_ratio": 0.602,
+    "roe": 0.079,
+    "per": 12.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02761-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

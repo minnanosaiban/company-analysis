@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E02481",
+    "sec_code": "7832",
+    "company_name": "株式会社バンダイナムコホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-19",
+    "doc_id": "S100QYWF"
+  },
+  "financials": {
+    "net_sales": 889270000000,
+    "ordinary_income": 133608000000,
+    "net_income": 92752000000,
+    "comprehensive_income": 96299000000,
+    "eps": 140.7,
+    "dps": 212,
+    "operating_cf": 121212000000,
+    "investing_cf": -27136000000,
+    "financing_cf": -25450000000,
+    "net_assets": 584233000000,
+    "total_assets": 862650000000,
+    "bps": 884.94,
+    "cash_end": 277891000000,
+    "equity_ratio": 0.677,
+    "roe": 0.169,
+    "per": 22,
+    "gross_profit": 356265000000,
+    "operating_income": 125496000000,
+    "income_tax_expense": 38216000000,
+    "interest_bearing_debt_current": 10810000000,
+    "depreciation": 25726000000,
+    "capex_ppe": -19228000000,
+    "capex_intangible": -7569000000,
+    "current_assets": 577206000000,
+    "current_liabilities": 243362000000,
+    "noncurrent_assets": 285443000000,
+    "noncurrent_liabilities": 35053000000,
+    "trade_payables": 99810000000,
+    "ppe": 92450000000,
+    "goodwill": 14887000000,
+    "intangible_assets": 34428000000,
+    "investment_securities": 113261000000,
+    "treasury_stock": -2140000000,
+    "noncontrolling_interests": 237000000
+  },
+  "segments": [
+    {
+      "key": "AmusementBusiness",
+      "label": null,
+      "external_revenue": 81165000000,
+      "intersegment_revenue": 1178000000,
+      "operating_income": 4051000000
+    },
+    {
+      "key": "DigitalBusiness",
+      "label": null,
+      "external_revenue": 373509000000,
+      "intersegment_revenue": 4663000000,
+      "operating_income": 69634000000
+    },
+    {
+      "key": "IPProductionBusiness",
+      "label": null,
+      "external_revenue": 66776000000,
+      "intersegment_revenue": 13187000000,
+      "operating_income": 8833000000
+    },
+    {
+      "key": "ToysAndHobbyBusiness",
+      "label": null,
+      "external_revenue": 361884000000,
+      "intersegment_revenue": 11740000000,
+      "operating_income": 52319000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02481-000_2023-03-31_01_2023-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

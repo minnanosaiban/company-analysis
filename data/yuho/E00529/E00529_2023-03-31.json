@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "edinet_code": "E00529",
+    "sec_code": "3107",
+    "company_name": "ダイワボウホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R86D"
+  },
+  "financials": {
+    "net_sales": 903918000000,
+    "ordinary_income": 28608000000,
+    "net_income": 19059000000,
+    "comprehensive_income": 16491000000,
+    "eps": 202.79,
+    "dps": 62,
+    "operating_cf": 16958000000,
+    "investing_cf": -1628000000,
+    "financing_cf": -10335000000,
+    "net_assets": 143961000000,
+    "total_assets": 406688000000,
+    "bps": 1529.95,
+    "cash_end": 51923000000,
+    "equity_ratio": 0.352,
+    "roe": 0.137,
+    "per": 10.8,
+    "gross_profit": 70523000000,
+    "operating_income": 27944000000,
+    "income_tax_expense": 9304000000,
+    "interest_bearing_debt_current": 12869000000,
+    "interest_bearing_debt_noncurrent": 13230000000,
+    "depreciation": 3381000000,
+    "capex_ppe": -1653000000,
+    "capex_intangible": -368000000,
+    "current_assets": 354188000000,
+    "current_liabilities": 231884000000,
+    "noncurrent_assets": 52500000000,
+    "noncurrent_liabilities": 30842000000,
+    "trade_payables": 192594000000,
+    "ppe": 37127000000,
+    "intangible_assets": 2081000000,
+    "investment_securities": 6488000000,
+    "treasury_stock": -5137000000,
+    "noncontrolling_interests": 966000000
+  },
+  "segments": [
+    {
+      "key": "FiberBusiness",
+      "label": null,
+      "external_revenue": 61980000000,
+      "intersegment_revenue": 16000000,
+      "operating_income": 1499000000
+    },
+    {
+      "key": "ITInfrastructureDistributionBusiness",
+      "label": null,
+      "external_revenue": 828997000000,
+      "intersegment_revenue": 228000000,
+      "operating_income": 25394000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00529-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

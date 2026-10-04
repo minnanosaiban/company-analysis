@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "edinet_code": "E04235",
+    "sec_code": "9101",
+    "company_name": "日本郵船株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R01E"
+  },
+  "financials": {
+    "net_sales": 2616066000000,
+    "ordinary_income": 1109790000000,
+    "net_income": 1012523000000,
+    "comprehensive_income": 1168452000000,
+    "eps": 1993.71,
+    "dps": 520,
+    "operating_cf": 824853000000,
+    "investing_cf": -252964000000,
+    "financing_cf": -581203000000,
+    "net_assets": 2524993000000,
+    "total_assets": 3776797000000,
+    "bps": 4877.55,
+    "cash_end": 196231000000,
+    "equity_ratio": 0.656,
+    "roe": 0.483,
+    "per": 1.5,
+    "gross_profit": 510150000000,
+    "operating_income": 296350000000,
+    "income_tax_expense": 45189000000,
+    "interest_bearing_debt_current": 73581000000,
+    "interest_bearing_debt_noncurrent": 422691000000,
+    "bonds_payable": 87000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_current": 26412000000,
+    "lease_liabilities_noncurrent": 74406000000,
+    "depreciation": 121658000000,
+    "current_assets": 720142000000,
+    "current_liabilities": 499034000000,
+    "noncurrent_assets": 3056464000000,
+    "noncurrent_liabilities": 752769000000,
+    "inventories": 57593000000,
+    "ppe": 1143751000000,
+    "goodwill": 13712000000,
+    "intangible_assets": 41392000000,
+    "investment_securities": 1688380000000,
+    "treasury_stock": -3793000000,
+    "noncontrolling_interests": 46352000000
+  },
+  "segments": [
+    {
+      "key": "AirCargoTransportation",
+      "label": null,
+      "external_revenue": 206785000000,
+      "intersegment_revenue": 11310000000,
+      "ordinary_income": 61849000000
+    },
+    {
+      "key": "BulkShipping",
+      "label": null,
+      "external_revenue": 1240166000000,
+      "intersegment_revenue": 649000000,
+      "ordinary_income": 212152000000,
+      "equity_method_income": 42226000000
+    },
+    {
+      "key": "LinerTrade",
+      "label": null,
+      "external_revenue": 195265000000,
+      "intersegment_revenue": 5439000000,
+      "ordinary_income": 791397000000,
+      "equity_method_income": 771925000000
+    },
+    {
+      "key": "Logistics",
+      "label": null,
+      "external_revenue": 858644000000,
+      "intersegment_revenue": 3802000000,
+      "ordinary_income": 54306000000,
+      "equity_method_income": -27000000
+    },
+    {
+      "key": "Others",
+      "label": null,
+      "external_revenue": 111851000000,
+      "intersegment_revenue": 122661000000,
+      "ordinary_income": -2203000000,
+      "equity_method_income": -2303000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 3352000000,
+      "ordinary_income": 1330000000,
+      "equity_method_income": 131000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04235-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

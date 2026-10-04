@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E01880",
+    "sec_code": "6923",
+    "company_name": "スタンレー電気株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YERJ"
+  },
+  "financials": {
+    "net_sales": 518456000000,
+    "ordinary_income": 50853000000,
+    "net_income": 32813000000,
+    "comprehensive_income": 80172000000,
+    "eps": 240.51,
+    "eps_diluted": 240.44,
+    "dps": 104,
+    "operating_cf": 78344000000,
+    "investing_cf": -48901000000,
+    "financing_cf": -31712000000,
+    "net_assets": 571938000000,
+    "total_assets": 809264000000,
+    "bps": 3695.49,
+    "cash_end": 135925000000,
+    "equity_ratio": 0.561,
+    "roe": 0.07,
+    "per": 11.9,
+    "gross_profit": 107874000000,
+    "operating_income": 42674000000,
+    "income_tax_expense": 13259000000,
+    "interest_bearing_debt_current": 76700000000,
+    "bonds_payable": 40000000000,
+    "lease_liabilities_current": 1867000000,
+    "lease_liabilities_noncurrent": 2343000000,
+    "depreciation": 41815000000,
+    "capex_ppe": -55260000000,
+    "capex_intangible": -2346000000,
+    "current_assets": 411055000000,
+    "current_liabilities": 176302000000,
+    "noncurrent_assets": 398208000000,
+    "noncurrent_liabilities": 61023000000,
+    "trade_receivables": 84360000000,
+    "inventories": 56341000000,
+    "trade_payables": 40598000000,
+    "ppe": 263285000000,
+    "goodwill": 5242000000,
+    "intangible_assets": 12293000000,
+    "investment_securities": 71740000000,
+    "treasury_stock": -9282000000,
+    "noncontrolling_interests": 117410000000
+  },
+  "segments": [
+    {
+      "key": "AppliedElectronicProductsBisiness",
+      "label": null,
+      "external_revenue": 52879000000,
+      "intersegment_revenue": 59690000000,
+      "operating_income": 9302000000
+    },
+    {
+      "key": "AutomotiveEquipmentBusiness",
+      "label": null,
+      "external_revenue": 445215000000,
+      "intersegment_revenue": 1923000000,
+      "operating_income": 44937000000
+    },
+    {
+      "key": "ElectricComponentsBusiness",
+      "label": null,
+      "external_revenue": 20356000000,
+      "intersegment_revenue": 18967000000,
+      "operating_income": 2884000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 4000000,
+      "intersegment_revenue": 3203000000,
+      "operating_income": 122000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01880-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

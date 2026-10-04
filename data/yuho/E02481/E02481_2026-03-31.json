@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E02481",
+    "sec_code": "7832",
+    "company_name": "株式会社バンダイナムコホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-16",
+    "doc_id": "S100YBXE"
+  },
+  "financials": {
+    "net_sales": 1348246000000,
+    "ordinary_income": 201923000000,
+    "net_income": 140651000000,
+    "comprehensive_income": 146590000000,
+    "eps": 217.49,
+    "dps": 73,
+    "operating_cf": 164719000000,
+    "investing_cf": -41154000000,
+    "financing_cf": -82966000000,
+    "net_assets": 861424000000,
+    "total_assets": 1190494000000,
+    "bps": 1342.11,
+    "cash_end": 412416000000,
+    "equity_ratio": 0.723,
+    "roe": 0.17,
+    "per": 17.8,
+    "gross_profit": 531172000000,
+    "operating_income": 189517000000,
+    "income_tax_expense": 63255000000,
+    "lease_liabilities_noncurrent": 12125000000,
+    "depreciation": 47204000000,
+    "capex_ppe": -35811000000,
+    "capex_intangible": -10010000000,
+    "current_assets": 780901000000,
+    "current_liabilities": 293300000000,
+    "noncurrent_assets": 409593000000,
+    "noncurrent_liabilities": 35769000000,
+    "trade_payables": 101717000000,
+    "ppe": 152933000000,
+    "goodwill": 7635000000,
+    "intangible_assets": 27426000000,
+    "investment_securities": 161418000000,
+    "treasury_stock": -33359000000,
+    "noncontrolling_interests": 642000000
+  },
+  "segments": [
+    {
+      "key": "AmusementBusiness",
+      "label": null,
+      "external_revenue": 151759000000,
+      "intersegment_revenue": 987000000,
+      "operating_income": 10106000000
+    },
+    {
+      "key": "DigitalBusiness",
+      "label": null,
+      "external_revenue": 470714000000,
+      "intersegment_revenue": 5878000000,
+      "operating_income": 56682000000
+    },
+    {
+      "key": "ToysAndHobbyBusiness",
+      "label": null,
+      "external_revenue": 646180000000,
+      "intersegment_revenue": 27788000000,
+      "operating_income": 126938000000
+    },
+    {
+      "key": "VisualAndMusicBusiness",
+      "label": null,
+      "external_revenue": 73251000000,
+      "intersegment_revenue": 22254000000,
+      "operating_income": 12181000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02481-000_2026-03-31_01_2026-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

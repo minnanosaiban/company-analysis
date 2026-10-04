@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03618",
+    "sec_code": "8377",
+    "company_name": "株式会社ほくほくフィナンシャルグループ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R74M"
+  },
+  "financials": {
+    "ordinary_income": 31685000000,
+    "net_income": 20252000000,
+    "comprehensive_income": -20046000000,
+    "eps": 142.74,
+    "eps_diluted": 142.37,
+    "dps": 40,
+    "operating_cf": 213741000000,
+    "investing_cf": -32838000000,
+    "financing_cf": -12761000000,
+    "net_assets": 595319000000,
+    "total_assets": 13644861000000,
+    "bps": 4138.44,
+    "cash_end": 2721353000000,
+    "equity_ratio": 0.0433,
+    "roe": 0.0335,
+    "per": 6.78,
+    "ordinary_revenue": 182402000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03618-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

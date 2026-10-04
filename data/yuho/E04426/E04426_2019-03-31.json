@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04426",
+    "sec_code": "9434",
+    "company_name": "ソフトバンク株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R04O"
+  },
+  "financials": {
+    "dps": 37.5,
+    "net_income": 462455000000,
+    "comprehensive_income": 455147000000,
+    "net_assets": 1498157000000,
+    "total_assets": 8036328000000,
+    "equity_ratio": 0.186,
+    "bps": 312.95,
+    "eps": 96.6,
+    "eps_diluted": 95.91,
+    "roe": 0.328,
+    "per": 12.9,
+    "operating_cf": 965526000000,
+    "investing_cf": -586272000000,
+    "financing_cf": -429158000000,
+    "cash_end": 938388000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04426-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

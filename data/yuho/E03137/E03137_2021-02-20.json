@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E03137",
+    "sec_code": "8227",
+    "company_name": "株式会社しまむら",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-02-20",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-15",
+    "doc_id": "S100QR59"
+  },
+  "financials": {
+    "net_sales": 542608000000,
+    "ordinary_income": 39404000000,
+    "net_income": 26163000000,
+    "comprehensive_income": 25926000000,
+    "eps": 711.93,
+    "dps": 220,
+    "operating_cf": 46234000000,
+    "investing_cf": -111324000000,
+    "financing_cf": -7362000000,
+    "net_assets": 384388000000,
+    "total_assets": 451798000000,
+    "bps": 10459.72,
+    "cash_end": 10486000000,
+    "equity_ratio": 0.851,
+    "roe": 0.07,
+    "per": 16.29
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03137-000_2023-02-20_01_2023-05-15.csv",
+    "parser_version": "0.1.3"
+  }
+}

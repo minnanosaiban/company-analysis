@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "edinet_code": "E00331",
+    "sec_code": "2264",
+    "company_name": "森永乳業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RA7X"
+  },
+  "financials": {
+    "net_sales": 503354000000,
+    "ordinary_income": 31127000000,
+    "net_income": 33782000000,
+    "comprehensive_income": 34792000000,
+    "eps": 687.45,
+    "eps_diluted": 686.33,
+    "dps": 80,
+    "operating_cf": 40268000000,
+    "investing_cf": 8371000000,
+    "financing_cf": -44522000000,
+    "net_assets": 208026000000,
+    "total_assets": 458788000000,
+    "bps": 4554.84,
+    "cash_end": 23486000000,
+    "equity_ratio": 0.449,
+    "roe": 0.167,
+    "per": 7.6,
+    "gross_profit": 122277000000,
+    "operating_income": 29792000000,
+    "income_tax_expense": 14279000000,
+    "interest_bearing_debt_current": 3084000000,
+    "interest_bearing_debt_noncurrent": 26051000000,
+    "bonds_payable": 50000000000,
+    "current_portion_lt_loans": 7905000000,
+    "lease_liabilities_current": 856000000,
+    "lease_liabilities_noncurrent": 1368000000,
+    "depreciation": 21102000000,
+    "current_assets": 164127000000,
+    "current_liabilities": 142500000000,
+    "noncurrent_assets": 294660000000,
+    "noncurrent_liabilities": 108261000000,
+    "trade_payables": 52122000000,
+    "ppe": 247446000000,
+    "goodwill": 2066000000,
+    "intangible_assets": 9735000000,
+    "investment_securities": 21583000000,
+    "treasury_stock": -25476000000,
+    "noncontrolling_interests": 1955000000
+  },
+  "segments": [
+    {
+      "key": "Food",
+      "label": null,
+      "external_revenue": 478662000000,
+      "intersegment_revenue": 278000000,
+      "operating_income": 38262000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00331-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

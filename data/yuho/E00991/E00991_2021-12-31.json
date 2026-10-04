@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00991",
+    "sec_code": "4912",
+    "company_name": "ライオン株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T3XS"
+  },
+  "financials": {
+    "dps": 24,
+    "net_sales": 366234000000,
+    "net_income": 23759000000,
+    "comprehensive_income": 26618000000,
+    "net_assets": 251572000000,
+    "total_assets": 428025000000,
+    "equity_ratio": 0.588,
+    "bps": 865.31,
+    "eps": 81.73,
+    "eps_diluted": 81.59,
+    "roe": 0.098,
+    "per": 18.8,
+    "operating_cf": 19296000000,
+    "investing_cf": -34177000000,
+    "financing_cf": -10225000000,
+    "cash_end": 97250000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00991-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

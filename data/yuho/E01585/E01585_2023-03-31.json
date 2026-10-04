@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E01585",
+    "sec_code": "6305",
+    "company_name": "日立建機株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R5E3"
+  },
+  "financials": {
+    "dps": 110,
+    "net_sales": 1279468000000,
+    "net_income": 70175000000,
+    "comprehensive_income": 75515000000,
+    "net_assets": 659992000000,
+    "total_assets": 1627003000000,
+    "equity_ratio": 0.406,
+    "bps": 3103.66,
+    "eps": 330,
+    "eps_diluted": 330,
+    "roe": 0.11,
+    "per": 9.32,
+    "operating_cf": -26135000000,
+    "investing_cf": -42647000000,
+    "financing_cf": 87089000000,
+    "cash_end": 111992000000,
+    "operating_income": 133310000000,
+    "gross_profit": 377948000000,
+    "income_tax_expense": 36939000000,
+    "interest_bearing_debt_current": 310944000000,
+    "interest_bearing_debt_noncurrent": 196523000000,
+    "lease_liabilities_current": 11649000000,
+    "lease_liabilities_noncurrent": 60149000000,
+    "sga_expense": 242247000000,
+    "profit_before_tax": 112661000000,
+    "depreciation": 55022000000,
+    "capex_ppe": -52839000000,
+    "capex_intangible": -6301000000,
+    "current_assets": 908905000000,
+    "current_liabilities": 614870000000,
+    "noncurrent_assets": 718098000000,
+    "inventories": 450782000000,
+    "trade_payables": 244034000000,
+    "ppe": 417077000000,
+    "goodwill": 40421000000,
+    "intangible_assets": 39704000000,
+    "equity_method_investments": 16508000000,
+    "treasury_stock": -3094000000,
+    "noncontrolling_interests": 41048000000
+  },
+  "segments": [
+    {
+      "key": "ConstructionMachineryBusiness",
+      "label": "建設機械ビジネス",
+      "external_revenue": 1154103000000,
+      "intersegment_revenue": 33000000,
+      "revenue": 1154136000000,
+      "operating_income": 122959000000,
+      "equity_method_income": -5537000000,
+      "profit_before_tax": 117422000000,
+      "assets": 1451119000000
+    },
+    {
+      "key": "SolutionBusiness",
+      "label": null,
+      "external_revenue": 125365000000,
+      "intersegment_revenue": 5799000000,
+      "revenue": 131164000000,
+      "operating_income": 10351000000,
+      "profit_before_tax": 10351000000,
+      "assets": 177495000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01585-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "edinet_code": "E01533",
+    "sec_code": "6302",
+    "company_name": "住友重機械工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T4PX"
+  },
+  "financials": {
+    "net_sales": 1081533000000,
+    "ordinary_income": 70250000000,
+    "net_income": 32742000000,
+    "comprehensive_income": 63905000000,
+    "eps": 267.3,
+    "dps": 120,
+    "operating_cf": 65370000000,
+    "investing_cf": -43271000000,
+    "financing_cf": -17207000000,
+    "net_assets": 627464000000,
+    "total_assets": 1200857000000,
+    "bps": 5059.88,
+    "cash_end": 100235000000,
+    "equity_ratio": 0.516,
+    "roe": 0.055,
+    "per": 13.3,
+    "gross_profit": 255247000000,
+    "operating_income": 74367000000,
+    "income_tax_expense": 23530000000,
+    "interest_bearing_debt_current": 63258000000,
+    "interest_bearing_debt_noncurrent": 39231000000,
+    "bonds_payable": 40000000000,
+    "current_portion_of_bonds": 10000000000,
+    "current_portion_lt_loans": 9741000000,
+    "depreciation": 36374000000,
+    "current_assets": 748285000000,
+    "current_liabilities": 416329000000,
+    "noncurrent_assets": 452572000000,
+    "noncurrent_liabilities": 157064000000,
+    "trade_payables": 180822000000,
+    "ppe": 330007000000,
+    "goodwill": 19312000000,
+    "intangible_assets": 45612000000,
+    "investment_securities": 19854000000,
+    "treasury_stock": -1177000000,
+    "noncontrolling_interests": 7693000000
+  },
+  "segments": [
+    {
+      "key": "EnergyAndLifeline",
+      "label": null,
+      "external_revenue": 182155000000,
+      "intersegment_revenue": 707000000,
+      "operating_income": 6342000000
+    },
+    {
+      "key": "IndustrialMachinery",
+      "label": "インダストリアル マシナリ―",
+      "external_revenue": 279830000000,
+      "intersegment_revenue": 1669000000,
+      "operating_income": 25602000000
+    },
+    {
+      "key": "LogisticsAndConstruction",
+      "label": "ロジスティックス　アンド　コンストラクション",
+      "external_revenue": 393422000000,
+      "intersegment_revenue": 435000000,
+      "operating_income": 28123000000
+    },
+    {
+      "key": "Mechatronics",
+      "label": "メカトロニクス",
+      "external_revenue": 220044000000,
+      "intersegment_revenue": 2156000000,
+      "operating_income": 12408000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 6081000000,
+      "intersegment_revenue": 3303000000,
+      "operating_income": 1880000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01533-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01765",
+    "sec_code": "6701",
+    "company_name": "日本電気株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R0D0"
+  },
+  "financials": {
+    "dps": 40,
+    "net_sales": 2913446000000,
+    "net_income": 39675000000,
+    "comprehensive_income": -4955000000,
+    "net_assets": 858939000000,
+    "total_assets": 2963222000000,
+    "equity_ratio": 0.29,
+    "bps": 3307.3,
+    "eps": 152.75,
+    "eps_diluted": 152.75,
+    "roe": 0.046,
+    "per": 24.52,
+    "operating_cf": 64235000000,
+    "investing_cf": -76675000000,
+    "financing_cf": -50503000000,
+    "cash_end": 278314000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01765-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

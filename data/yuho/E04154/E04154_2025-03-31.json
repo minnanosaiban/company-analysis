@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "edinet_code": "E04154",
+    "sec_code": "9024",
+    "company_name": "株式会社西武ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-23",
+    "doc_id": "S100W1OD"
+  },
+  "financials": {
+    "ordinary_income": 287639000000,
+    "net_income": 258182000000,
+    "comprehensive_income": 274564000000,
+    "eps": 901.99,
+    "eps_diluted": 901.67,
+    "dps": 40,
+    "operating_cf": 474378000000,
+    "investing_cf": -93692000000,
+    "financing_cf": -136394000000,
+    "net_assets": 567128000000,
+    "total_assets": 1834120000000,
+    "bps": 2117.32,
+    "cash_end": 276953000000,
+    "equity_ratio": 0.306,
+    "roe": 0.522,
+    "per": 3.66,
+    "operating_income": 292735000000,
+    "income_tax_expense": 89324000000,
+    "interest_bearing_debt_current": 67315000000,
+    "interest_bearing_debt_noncurrent": 535064000000,
+    "bonds_payable": 50000000000,
+    "lease_liabilities_current": 1176000000,
+    "lease_liabilities_noncurrent": 11649000000,
+    "depreciation": 53688000000,
+    "current_assets": 359816000000,
+    "current_liabilities": 430079000000,
+    "noncurrent_assets": 1474304000000,
+    "noncurrent_liabilities": 836912000000,
+    "trade_payables": 19810000000,
+    "ppe": 1297711000000,
+    "intangible_assets": 30629000000,
+    "investment_securities": 86672000000,
+    "treasury_stock": -185490000000,
+    "noncontrolling_interests": 5377000000
+  },
+  "segments": [
+    {
+      "key": "HotelAndLeisure",
+      "label": null,
+      "external_revenue": 239881000000,
+      "intersegment_revenue": 1377000000,
+      "operating_income": 18640000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 468672000000,
+      "intersegment_revenue": 11935000000,
+      "operating_income": 237617000000
+    },
+    {
+      "key": "UrbanTransportationAndRegional",
+      "label": null,
+      "external_revenue": 146461000000,
+      "intersegment_revenue": 6206000000,
+      "operating_income": 11315000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04154-000_2025-03-31_01_2025-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

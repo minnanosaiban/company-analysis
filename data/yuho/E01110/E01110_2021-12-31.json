@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E01110",
+    "sec_code": "5110",
+    "company_name": "住友ゴム工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T676"
+  },
+  "financials": {
+    "dps": 55,
+    "net_sales": 936039000000,
+    "net_income": 29470000000,
+    "comprehensive_income": 62356000000,
+    "net_assets": 501540000000,
+    "total_assets": 1086169000000,
+    "equity_ratio": 0.462,
+    "bps": 1907.03,
+    "eps": 112.05,
+    "roe": 0.062,
+    "per": 10.5,
+    "operating_cf": 63090000000,
+    "investing_cf": -54023000000,
+    "financing_cf": -13332000000,
+    "cash_end": 75093000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01110-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

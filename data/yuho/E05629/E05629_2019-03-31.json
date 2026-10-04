@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E05629",
+    "sec_code": "2127",
+    "company_name": "株式会社日本Ｍ＆Ａセンターホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R1V7"
+  },
+  "financials": {
+    "net_sales": 28463098000,
+    "ordinary_income": 12533086000,
+    "net_income": 8867814000,
+    "comprehensive_income": 8772041000,
+    "eps": 27.57,
+    "eps_diluted": 27.04,
+    "dps": 23,
+    "operating_cf": 6914182000,
+    "investing_cf": -605058000,
+    "financing_cf": -4549805000,
+    "net_assets": 27264313000,
+    "total_assets": 35638280000,
+    "bps": 84.37,
+    "cash_end": 8995097000,
+    "equity_ratio": 0.762,
+    "roe": 0.361,
+    "per": 55
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05629-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

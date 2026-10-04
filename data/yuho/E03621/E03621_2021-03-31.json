@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "edinet_code": "E03621",
+    "sec_code": "5838",
+    "company_name": "楽天銀行株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZUI"
+  },
+  "financials": {
+    "ordinary_income": 27581000000,
+    "net_income": 19337000000,
+    "comprehensive_income": 21269000000,
+    "eps": 117.57,
+    "operating_cf": 1501494000000,
+    "investing_cf": 37548000000,
+    "net_assets": 186790000000,
+    "total_assets": 6486841000000,
+    "bps": 1021.34,
+    "cash_end": 2682969000000,
+    "equity_ratio": 0.025,
+    "roe": 0.122,
+    "ordinary_revenue": 103386000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03621-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

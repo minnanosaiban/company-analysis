@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E05438",
+    "sec_code": "8424",
+    "company_name": "芙蓉総合リース株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4HV"
+  },
+  "financials": {
+    "net_sales": 740263000000,
+    "ordinary_income": 47996000000,
+    "net_income": 29566000000,
+    "comprehensive_income": 41092000000,
+    "eps": 986.18,
+    "eps_diluted": 979.39,
+    "dps": 240,
+    "operating_cf": -35080000000,
+    "investing_cf": -5970000000,
+    "financing_cf": 63405000000,
+    "net_assets": 344796000000,
+    "total_assets": 2979285000000,
+    "bps": 10153.22,
+    "cash_end": 98753000000,
+    "equity_ratio": 0.102,
+    "roe": 0.102,
+    "per": 7.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05438-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

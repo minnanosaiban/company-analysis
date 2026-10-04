@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01333",
+    "sec_code": "5802",
+    "company_name": "住友電気工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R635"
+  },
+  "financials": {
+    "net_sales": 3177985000000,
+    "ordinary_income": 188649000000,
+    "net_income": 118063000000,
+    "comprehensive_income": 85433000000,
+    "eps": 151.38,
+    "dps": 48,
+    "operating_cf": 177656000000,
+    "investing_cf": -184601000000,
+    "financing_cf": -4324000000,
+    "net_assets": 1776313000000,
+    "total_assets": 3053263000000,
+    "bps": 1988.58,
+    "cash_end": 168873000000,
+    "equity_ratio": 0.508,
+    "roe": 0.076,
+    "per": 9.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01333-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

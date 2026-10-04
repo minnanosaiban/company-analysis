@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E03859",
+    "sec_code": "8804",
+    "company_name": "東京建物株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XSKF"
+  },
+  "financials": {
+    "ordinary_income": 78187000000,
+    "net_income": 58879000000,
+    "comprehensive_income": 81558000000,
+    "eps": 283.08,
+    "dps": 105,
+    "operating_cf": 32106000000,
+    "investing_cf": -97408000000,
+    "financing_cf": 104166000000,
+    "net_assets": 603137000000,
+    "total_assets": 2272720000000,
+    "bps": 2846.85,
+    "cash_end": 152292000000,
+    "equity_ratio": 0.26,
+    "roe": 0.104,
+    "per": 12.5,
+    "operating_income": 95763000000,
+    "income_tax_expense": 26614000000,
+    "interest_bearing_debt_current": 65508000000,
+    "interest_bearing_debt_noncurrent": 973366000000,
+    "bonds_payable": 295000000000,
+    "current_portion_of_bonds": 10000000000,
+    "depreciation": 23580000000,
+    "current_assets": 826865000000,
+    "current_liabilities": 195915000000,
+    "noncurrent_assets": 1445855000000,
+    "noncurrent_liabilities": 1473667000000,
+    "ppe": 1005129000000,
+    "goodwill": 10655000000,
+    "intangible_assets": 136541000000,
+    "investment_securities": 197720000000,
+    "treasury_stock": -752000000,
+    "noncontrolling_interests": 12113000000
+  },
+  "segments": [
+    {
+      "key": "AssetService",
+      "label": null,
+      "external_revenue": 63454000000,
+      "intersegment_revenue": 822000000,
+      "operating_income": 11482000000
+    },
+    {
+      "key": "CommercialProperties",
+      "label": null,
+      "external_revenue": 220177000000,
+      "intersegment_revenue": 943000000,
+      "operating_income": 67059000000
+    },
+    {
+      "key": "Residential",
+      "label": null,
+      "external_revenue": 165139000000,
+      "intersegment_revenue": 446000000,
+      "operating_income": 25569000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03859-000_2025-12-31_01_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

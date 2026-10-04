@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01532",
+    "sec_code": "6301",
+    "company_name": "株式会社小松製作所",
+    "accounting_standard": "US",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QYNI"
+  },
+  "financials": {
+    "dps": 96,
+    "net_sales": 2802323000000,
+    "profit_before_tax": 324568000000,
+    "net_income": 224927000000,
+    "comprehensive_income": 388477000000,
+    "net_assets": 2232511000000,
+    "total_assets": 4347522000000,
+    "bps": 2361.66,
+    "eps": 237.97,
+    "eps_diluted": 237.92,
+    "equity_ratio": 0.514,
+    "roe": 0.109,
+    "per": 12.4,
+    "operating_cf": 300970000000,
+    "investing_cf": -143569000000,
+    "financing_cf": -93868000000,
+    "cash_end": 315360000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01532-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01259",
+    "sec_code": "5444",
+    "company_name": "大和工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RA60"
+  },
+  "financials": {
+    "net_sales": 181964000000,
+    "ordinary_income": 23125000000,
+    "net_income": 14762000000,
+    "comprehensive_income": 15529000000,
+    "eps": 220.72,
+    "dps": 100,
+    "operating_cf": 26105000000,
+    "investing_cf": -22319000000,
+    "financing_cf": -6694000000,
+    "net_assets": 342606000000,
+    "total_assets": 383025000000,
+    "bps": 4751.1,
+    "cash_end": 26487000000,
+    "equity_ratio": 0.83,
+    "roe": 0.047,
+    "per": 8.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01259-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

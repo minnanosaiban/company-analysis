@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "edinet_code": "E00776",
+    "sec_code": "4063",
+    "company_name": "信越化学工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QV2A"
+  },
+  "financials": {
+    "net_sales": 1594036000000,
+    "ordinary_income": 415311000000,
+    "net_income": 309125000000,
+    "comprehensive_income": 279945000000,
+    "eps": 725.99,
+    "eps_diluted": 725.92,
+    "dps": 200,
+    "operating_cf": 400687000000,
+    "investing_cf": -181553000000,
+    "financing_cf": -164538000000,
+    "net_assets": 2532556000000,
+    "total_assets": 3038717000000,
+    "bps": 5915.47,
+    "cash_end": 828345000000,
+    "equity_ratio": 0.811,
+    "roe": 0.128,
+    "per": 12.8,
+    "gross_profit": 554057000000,
+    "operating_income": 403705000000,
+    "income_tax_expense": 104186000000,
+    "interest_bearing_debt_current": 7008000000,
+    "interest_bearing_debt_noncurrent": 7624000000,
+    "depreciation": 137570000000,
+    "capex_ppe": -226768000000,
+    "capex_intangible": -1334000000,
+    "current_assets": 1750469000000,
+    "current_liabilities": 391854000000,
+    "noncurrent_assets": 1288248000000,
+    "noncurrent_liabilities": 114306000000,
+    "trade_receivables": 338701000000,
+    "trade_payables": 141027000000,
+    "ppe": 987960000000,
+    "goodwill": 3079000000,
+    "intangible_assets": 8740000000,
+    "investment_securities": 141685000000,
+    "treasury_stock": -94702000000,
+    "noncontrolling_interests": 65814000000
+  },
+  "segments": [
+    {
+      "key": "DiversifiedBusiness",
+      "label": "加工・商事・技術サービス事業",
+      "external_revenue": 108790000000,
+      "intersegment_revenue": 115585000000,
+      "operating_income": 13296000000
+    },
+    {
+      "key": "ElectronicsAndFunctionalMaterialsBusiness",
+      "label": null,
+      "external_revenue": 226098000000,
+      "intersegment_revenue": 8588000000,
+      "operating_income": 66993000000
+    },
+    {
+      "key": "PVCChlorAlkaliBusiness",
+      "label": null,
+      "external_revenue": 524270000000,
+      "intersegment_revenue": 3564000000,
+      "operating_income": 106521000000
+    },
+    {
+      "key": "SemiconductorSiliconBusiness",
+      "label": null,
+      "external_revenue": 380349000000,
+      "intersegment_revenue": 48000000,
+      "operating_income": 131998000000
+    },
+    {
+      "key": "SiliconesBusiness",
+      "label": null,
+      "external_revenue": 233383000000,
+      "intersegment_revenue": 7103000000,
+      "operating_income": 58546000000
+    },
+    {
+      "key": "SpecialtyChemicalsBusiness",
+      "label": null,
+      "external_revenue": 121143000000,
+      "intersegment_revenue": 21132000000,
+      "operating_income": 26603000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00776-000_2019-03-31_02_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "edinet_code": "E01920",
+    "sec_code": "6586",
+    "company_name": "株式会社マキタ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R22E"
+  },
+  "financials": {
+    "dps": 21,
+    "net_sales": 764702000000,
+    "net_income": 11705000000,
+    "comprehensive_income": 42093000000,
+    "net_assets": 769247000000,
+    "total_assets": 1099351000000,
+    "equity_ratio": 0.7,
+    "bps": 2832.89,
+    "eps": 43.11,
+    "roe": 0.015,
+    "per": 76.1,
+    "operating_cf": 44430000000,
+    "investing_cf": -37680000000,
+    "financing_cf": 80970000000,
+    "cash_end": 162720000000,
+    "operating_income": 28246000000,
+    "gross_profit": 188748000000,
+    "income_tax_expense": 12316000000,
+    "sga_expense": 160502000000,
+    "profit_before_tax": 23887000000,
+    "depreciation": 25889000000,
+    "current_assets": 753439000000,
+    "current_liabilities": 291593000000,
+    "noncurrent_assets": 345912000000,
+    "trade_receivables": 110884000000,
+    "inventories": 453752000000,
+    "trade_payables": 41767000000,
+    "ppe": 265638000000,
+    "goodwill": 721000000,
+    "treasury_stock": -11528000000,
+    "noncontrolling_interests": 6452000000
+  },
+  "segments": [
+    {
+      "key": "Asia",
+      "label": "アジア",
+      "external_revenue": 34477000000,
+      "intersegment_revenue": 301409000000,
+      "revenue": 335886000000,
+      "operating_income": 33028000000,
+      "assets": 232642000000
+    },
+    {
+      "key": "Europe",
+      "label": "欧州",
+      "external_revenue": 351252000000,
+      "intersegment_revenue": 11810000000,
+      "revenue": 363062000000,
+      "operating_income": 9088000000,
+      "assets": 414873000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 146364000000,
+      "intersegment_revenue": 268723000000,
+      "revenue": 415087000000,
+      "operating_income": -2119000000,
+      "assets": 635279000000
+    },
+    {
+      "key": "NorthAmerica",
+      "label": "北米",
+      "external_revenue": 121685000000,
+      "intersegment_revenue": 3449000000,
+      "revenue": 125134000000,
+      "operating_income": -912000000,
+      "assets": 158870000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01920-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

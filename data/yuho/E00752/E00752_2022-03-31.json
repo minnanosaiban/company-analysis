@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "edinet_code": "E00752",
+    "sec_code": "4005",
+    "company_name": "住友化学株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QXTB"
+  },
+  "financials": {
+    "dps": 24,
+    "net_sales": 2765321000000,
+    "net_income": 162130000000,
+    "comprehensive_income": 229765000000,
+    "net_assets": 1218101000000,
+    "total_assets": 4308151000000,
+    "equity_ratio": 0.283,
+    "bps": 745.03,
+    "eps": 99.16,
+    "roe": 0.145,
+    "per": 5.67,
+    "operating_cf": 171715000000,
+    "investing_cf": -115421000000,
+    "financing_cf": -81394000000,
+    "cash_end": 365429000000,
+    "operating_income": 215003000000,
+    "gross_profit": 873863000000,
+    "income_tax_expense": 64699000000,
+    "interest_bearing_debt_current": 261280000000,
+    "interest_bearing_debt_noncurrent": 1089190000000,
+    "sga_expense": 690860000000,
+    "profit_before_tax": 251136000000,
+    "depreciation": 156667000000,
+    "current_assets": 1812642000000,
+    "current_liabilities": 1173491000000,
+    "noncurrent_assets": 2495509000000,
+    "trade_receivables": 720422000000,
+    "inventories": 651358000000,
+    "trade_payables": 551583000000,
+    "ppe": 823022000000,
+    "goodwill": 244517000000,
+    "intangible_assets": 471109000000,
+    "equity_method_investments": 289968000000,
+    "treasury_stock": -8343000000,
+    "noncontrolling_interests": 483876000000
+  },
+  "segments": [
+    {
+      "key": "EnergyAndFunctionalMaterials",
+      "label": null,
+      "external_revenue": 316386000000,
+      "intersegment_revenue": 12359000000,
+      "revenue": 328745000000,
+      "operating_income": 20058000000,
+      "assets": 356926000000,
+      "equity_method_income": 142000000
+    },
+    {
+      "key": "EssentialChemicalsAndPlastics",
+      "label": null,
+      "external_revenue": 842511000000,
+      "intersegment_revenue": 5421000000,
+      "revenue": 847932000000,
+      "operating_income": 53515000000,
+      "assets": 908536000000,
+      "equity_method_income": 31044000000
+    },
+    {
+      "key": "HealthAndAgricultureRelated",
+      "label": null,
+      "external_revenue": 473778000000,
+      "intersegment_revenue": 7060000000,
+      "revenue": 480838000000,
+      "operating_income": 42253000000,
+      "assets": 841677000000,
+      "equity_method_income": 210000000
+    },
+    {
+      "key": "InformationElectronicChemistry",
+      "label": null,
+      "external_revenue": 473742000000,
+      "intersegment_revenue": 447000000,
+      "revenue": 474189000000,
+      "operating_income": 57827000000,
+      "assets": 501405000000,
+      "equity_method_income": 64000000
+    },
+    {
+      "key": "MedicalProducts",
+      "label": null,
+      "external_revenue": 591709000000,
+      "intersegment_revenue": 15000000,
+      "revenue": 591724000000,
+      "operating_income": 61712000000,
+      "assets": 1367378000000,
+      "equity_method_income": 9000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00752-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

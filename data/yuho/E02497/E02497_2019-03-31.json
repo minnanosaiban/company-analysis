@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02497",
+    "sec_code": "8001",
+    "company_name": "伊藤忠商事株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R19K"
+  },
+  "financials": {
+    "dps": 83,
+    "net_sales": 11600485000000,
+    "net_income": 500523000000,
+    "comprehensive_income": 464785000000,
+    "net_assets": 2936908000000,
+    "total_assets": 10098703000000,
+    "equity_ratio": 0.2908,
+    "bps": 1930.47,
+    "eps": 324.07,
+    "eps_diluted": 324.07,
+    "roe": 0.1786,
+    "per": 6.18,
+    "operating_cf": 476551000000,
+    "investing_cf": 201149000000,
+    "financing_cf": -538318000000,
+    "cash_end": 572030000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02497-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

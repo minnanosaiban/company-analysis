@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00944",
+    "sec_code": "4530",
+    "company_name": "久光製薬株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-26",
+    "doc_id": "S100QTXW"
+  },
+  "financials": {
+    "net_sales": 140992000000,
+    "ordinary_income": 25628000000,
+    "net_income": 18694000000,
+    "comprehensive_income": 13478000000,
+    "eps": 227.58,
+    "eps_diluted": 227.3,
+    "dps": 83,
+    "operating_cf": 27395000000,
+    "investing_cf": -17229000000,
+    "financing_cf": -11726000000,
+    "net_assets": 250746000000,
+    "total_assets": 307401000000,
+    "bps": 3046.45,
+    "cash_end": 86996000000,
+    "equity_ratio": 0.809,
+    "roe": 0.075,
+    "per": 21.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00944-000_2023-02-28_01_2023-05-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

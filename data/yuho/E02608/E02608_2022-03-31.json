@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E02608",
+    "sec_code": "8129",
+    "company_name": "東邦ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R9FR"
+  },
+  "financials": {
+    "net_sales": 1266171000000,
+    "ordinary_income": 18182000000,
+    "net_income": 13379000000,
+    "comprehensive_income": 5701000000,
+    "eps": 189.7,
+    "eps_diluted": 174.48,
+    "dps": 30,
+    "operating_cf": 16341000000,
+    "investing_cf": -11032000000,
+    "financing_cf": -4473000000,
+    "net_assets": 241281000000,
+    "total_assets": 702376000000,
+    "bps": 3415.5,
+    "cash_end": 90014000000,
+    "equity_ratio": 0.343,
+    "roe": 0.056,
+    "per": 9.75,
+    "gross_profit": 108687000000,
+    "operating_income": 12527000000,
+    "income_tax_expense": 7180000000,
+    "interest_bearing_debt_current": 247000000,
+    "interest_bearing_debt_noncurrent": 12596000000,
+    "bonds_payable": 20023000000,
+    "current_portion_lt_loans": 6298000000,
+    "lease_liabilities_current": 596000000,
+    "lease_liabilities_noncurrent": 977000000,
+    "depreciation": 6634000000,
+    "capex_ppe": -3621000000,
+    "capex_intangible": -581000000,
+    "current_assets": 513107000000,
+    "current_liabilities": 402819000000,
+    "noncurrent_assets": 189268000000,
+    "noncurrent_liabilities": 58275000000,
+    "trade_payables": 370012000000,
+    "ppe": 94653000000,
+    "goodwill": 733000000,
+    "intangible_assets": 5177000000,
+    "investment_securities": 78742000000,
+    "treasury_stock": -15719000000,
+    "noncontrolling_interests": 199000000
+  },
+  "segments": [
+    {
+      "key": "DispensingPharmacy",
+      "label": null,
+      "external_revenue": 91786000000,
+      "intersegment_revenue": 14000000,
+      "operating_income": 2963000000
+    },
+    {
+      "key": "MedicalProductsManufacturingAndSales",
+      "label": null,
+      "external_revenue": 1899000000,
+      "intersegment_revenue": 7193000000,
+      "operating_income": 884000000
+    },
+    {
+      "key": "MedicalProductsRetail",
+      "label": null,
+      "external_revenue": 1168155000000,
+      "intersegment_revenue": 47864000000,
+      "operating_income": 9967000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02608-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

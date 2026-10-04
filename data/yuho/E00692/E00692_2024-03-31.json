@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E00692",
+    "sec_code": "7911",
+    "company_name": "TOPPANホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TUT1"
+  },
+  "financials": {
+    "net_sales": 1678249000000,
+    "ordinary_income": 82812000000,
+    "net_income": 74395000000,
+    "comprehensive_income": 172724000000,
+    "eps": 231.57,
+    "dps": 48,
+    "operating_cf": 157502000000,
+    "investing_cf": -8653000000,
+    "financing_cf": -85672000000,
+    "net_assets": 1567307000000,
+    "total_assets": 2432887000000,
+    "bps": 4516.98,
+    "cash_end": 522818000000,
+    "equity_ratio": 0.582,
+    "roe": 0.054,
+    "per": 16.75,
+    "gross_profit": 387346000000,
+    "operating_income": 74286000000,
+    "income_tax_expense": 49710000000,
+    "interest_bearing_debt_current": 19041000000,
+    "interest_bearing_debt_noncurrent": 102967000000,
+    "bonds_payable": 50000000000,
+    "current_portion_of_bonds": 30000000,
+    "current_portion_lt_loans": 36417000000,
+    "depreciation": 83112000000,
+    "capex_ppe": -81776000000,
+    "capex_intangible": -20128000000,
+    "current_assets": 1196642000000,
+    "current_liabilities": 544227000000,
+    "noncurrent_assets": 1236245000000,
+    "noncurrent_liabilities": 321351000000,
+    "trade_payables": 146724000000,
+    "ppe": 623514000000,
+    "goodwill": 23942000000,
+    "intangible_assets": 91097000000,
+    "investment_securities": 450595000000,
+    "treasury_stock": -46207000000,
+    "noncontrolling_interests": 150528000000
+  },
+  "segments": [
+    {
+      "key": "Electronics",
+      "label": null,
+      "external_revenue": 266185000000,
+      "intersegment_revenue": 373000000,
+      "operating_income": 49586000000
+    },
+    {
+      "key": "InformationAndCommunication",
+      "label": null,
+      "external_revenue": 882620000000,
+      "intersegment_revenue": 17389000000,
+      "operating_income": 45696000000
+    },
+    {
+      "key": "LivingAndIndustry",
+      "label": null,
+      "external_revenue": 529443000000,
+      "intersegment_revenue": 8002000000,
+      "operating_income": 27421000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00692-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

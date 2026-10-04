@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E05476",
+    "sec_code": "3769",
+    "company_name": "GMOペイメントゲートウェイ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-09-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-12-18",
+    "doc_id": "S100SHAA"
+  },
+  "financials": {
+    "dps": 160,
+    "net_sales": 50298354000,
+    "net_income": 24152140000,
+    "comprehensive_income": 35671476000,
+    "net_assets": 87122860000,
+    "total_assets": 273407179000,
+    "equity_ratio": 0.319,
+    "bps": 1148.73,
+    "eps": 318.45,
+    "eps_diluted": 314.66,
+    "roe": 0.338,
+    "per": 31.25,
+    "operating_cf": 7656330000,
+    "investing_cf": -2443843000,
+    "financing_cf": 2635462000,
+    "cash_end": 113967930000,
+    "operating_income": 16249114000,
+    "gross_profit": 33635563000,
+    "income_tax_expense": 10395424000,
+    "sga_expense": 17604584000,
+    "profit_before_tax": 34756561000,
+    "depreciation": 2148382000,
+    "capex_ppe": -321711000,
+    "capex_intangible": -2649120000,
+    "current_assets": 244256990000,
+    "current_liabilities": 147820480000,
+    "noncurrent_assets": 29150189000,
+    "trade_receivables": 13964116000,
+    "inventories": 1532298000,
+    "ppe": 3542380000,
+    "goodwill": 1256097000,
+    "equity_method_investments": 8608123000,
+    "treasury_stock": -1152444000,
+    "noncontrolling_interests": 2137790000
+  },
+  "segments": [
+    {
+      "key": "MoneyServiceBusiness",
+      "label": null,
+      "external_revenue": 11402183000,
+      "revenue": 11402183000,
+      "operating_income": 2466696000
+    },
+    {
+      "key": "PaymentEnhancementBusiness",
+      "label": null,
+      "external_revenue": 941650000,
+      "intersegment_revenue": 1053000,
+      "revenue": 942703000,
+      "operating_income": 174462000
+    },
+    {
+      "key": "PaymentProcessingBusiness",
+      "label": null,
+      "external_revenue": 37954521000,
+      "intersegment_revenue": 23555000,
+      "revenue": 37978077000,
+      "operating_income": 17539462000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05476-000_2023-09-30_01_2023-12-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

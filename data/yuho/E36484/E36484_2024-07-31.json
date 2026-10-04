@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E36484",
+    "sec_code": "4194",
+    "company_name": "ビジョナル株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-07-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-10-30",
+    "doc_id": "S100ULII"
+  },
+  "financials": {
+    "net_sales": 66146000000,
+    "ordinary_income": 18476000000,
+    "net_income": 12990000000,
+    "comprehensive_income": 12883000000,
+    "eps": 330.71,
+    "eps_diluted": 313.74,
+    "operating_cf": 18369000000,
+    "investing_cf": -1712000000,
+    "financing_cf": 279000000,
+    "net_assets": 52388000000,
+    "total_assets": 76314000000,
+    "bps": 1315.68,
+    "cash_end": 58107000000,
+    "equity_ratio": 0.683,
+    "roe": 0.285,
+    "per": 23.8,
+    "gross_profit": 60428000000,
+    "operating_income": 17837000000,
+    "income_tax_expense": 6343000000,
+    "interest_bearing_debt_noncurrent": 37000000,
+    "current_portion_lt_loans": 9000000,
+    "depreciation": 708000000,
+    "capex_ppe": -930000000,
+    "current_assets": 65652000000,
+    "current_liabilities": 21869000000,
+    "noncurrent_assets": 10662000000,
+    "noncurrent_liabilities": 2056000000,
+    "ppe": 1880000000,
+    "goodwill": 2523000000,
+    "intangible_assets": 3852000000,
+    "investment_securities": 687000000,
+    "treasury_stock": -1000000,
+    "noncontrolling_interests": 58000000
+  },
+  "segments": [
+    {
+      "key": "HRTech",
+      "label": null,
+      "external_revenue": 63791000000,
+      "intersegment_revenue": 45000000,
+      "operating_income": 20062000000
+    },
+    {
+      "key": "Incubation",
+      "label": null,
+      "external_revenue": 2219000000,
+      "intersegment_revenue": 42000000,
+      "operating_income": -1020000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E36484-000_2024-07-31_01_2024-10-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

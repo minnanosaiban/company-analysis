@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E00396",
+    "sec_code": "2531",
+    "company_name": "宝ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100QZAK"
+  },
+  "financials": {
+    "net_sales": 350665000000,
+    "ordinary_income": 38706000000,
+    "net_income": 21206000000,
+    "comprehensive_income": 41278000000,
+    "eps": 107.26,
+    "dps": 38,
+    "operating_cf": 45478000000,
+    "investing_cf": -10474000000,
+    "financing_cf": -22215000000,
+    "net_assets": 255318000000,
+    "total_assets": 399174000000,
+    "bps": 1031.6,
+    "cash_end": 91785000000,
+    "equity_ratio": 0.511,
+    "roe": 0.11,
+    "per": 9.5,
+    "gross_profit": 119941000000,
+    "operating_income": 37945000000,
+    "income_tax_expense": 10144000000,
+    "interest_bearing_debt_current": 4919000000,
+    "interest_bearing_debt_noncurrent": 15186000000,
+    "bonds_payable": 20000000000,
+    "lease_liabilities_noncurrent": 4452000000,
+    "depreciation": 9118000000,
+    "current_assets": 241513000000,
+    "current_liabilities": 67454000000,
+    "noncurrent_assets": 157661000000,
+    "noncurrent_liabilities": 76401000000,
+    "trade_receivables": 61624000000,
+    "trade_payables": 21775000000,
+    "ppe": 88890000000,
+    "goodwill": 10668000000,
+    "intangible_assets": 15931000000,
+    "investment_securities": 30573000000,
+    "treasury_stock": -1682000000,
+    "noncontrolling_interests": 51366000000
+  },
+  "segments": [
+    {
+      "key": "TakaraBioGroup",
+      "label": null,
+      "external_revenue": 78139000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 20541000000
+    },
+    {
+      "key": "TakaraShuzo",
+      "label": null,
+      "external_revenue": 122116000000,
+      "intersegment_revenue": 805000000,
+      "operating_income": 4890000000
+    },
+    {
+      "key": "TakaraShuzoInternationalGroup",
+      "label": null,
+      "external_revenue": 137256000000,
+      "intersegment_revenue": 226000000,
+      "operating_income": 10821000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00396-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

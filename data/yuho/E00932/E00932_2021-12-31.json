@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E00932",
+    "sec_code": "4519",
+    "company_name": "中外製薬株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5H8"
+  },
+  "financials": {
+    "dps": 76,
+    "net_sales": 999759000000,
+    "net_income": 302995000000,
+    "comprehensive_income": 306020000000,
+    "total_assets": 1538694000000,
+    "equity_ratio": 0.772,
+    "bps": 722.5,
+    "eps": 184.29,
+    "eps_diluted": 184.17,
+    "roe": 0.28,
+    "per": 20.27,
+    "operating_cf": 279626000000,
+    "investing_cf": -118927000000,
+    "financing_cf": -107408000000,
+    "cash_end": 267753000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00932-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

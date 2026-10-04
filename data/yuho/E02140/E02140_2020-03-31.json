@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02140",
+    "sec_code": "7276",
+    "company_name": "株式会社小糸製作所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R7HO"
+  },
+  "financials": {
+    "net_sales": 800928000000,
+    "ordinary_income": 85264000000,
+    "net_income": 58022000000,
+    "comprehensive_income": 41268000000,
+    "eps": 180.49,
+    "eps_diluted": 180.44,
+    "dps": 72,
+    "operating_cf": 84972000000,
+    "investing_cf": -44728000000,
+    "financing_cf": -32010000000,
+    "net_assets": 513524000000,
+    "total_assets": 729715000000,
+    "bps": 1494.72,
+    "cash_end": 104202000000,
+    "equity_ratio": 0.6585,
+    "roe": 0.1232,
+    "per": 10.13
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02140-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

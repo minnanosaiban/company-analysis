@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "edinet_code": "E04235",
+    "sec_code": "9101",
+    "company_name": "日本郵船株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-17",
+    "doc_id": "S100VY80"
+  },
+  "financials": {
+    "net_sales": 2588700000000,
+    "ordinary_income": 490866000000,
+    "net_income": 477707000000,
+    "comprehensive_income": 504866000000,
+    "eps": 1070.32,
+    "dps": 325,
+    "operating_cf": 510755000000,
+    "investing_cf": -59783000000,
+    "financing_cf": -427747000000,
+    "net_assets": 2969973000000,
+    "total_assets": 4320269000000,
+    "bps": 6735.03,
+    "cash_end": 149859000000,
+    "equity_ratio": 0.676,
+    "roe": 0.172,
+    "per": 4.6,
+    "gross_profit": 469338000000,
+    "operating_income": 210820000000,
+    "income_tax_expense": 39219000000,
+    "interest_bearing_debt_current": 54412000000,
+    "interest_bearing_debt_noncurrent": 465763000000,
+    "bonds_payable": 99000000000,
+    "lease_liabilities_current": 26894000000,
+    "lease_liabilities_noncurrent": 92392000000,
+    "depreciation": 154632000000,
+    "current_assets": 696334000000,
+    "current_liabilities": 523106000000,
+    "noncurrent_assets": 3623640000000,
+    "noncurrent_liabilities": 827189000000,
+    "inventories": 64641000000,
+    "ppe": 1295356000000,
+    "goodwill": 27168000000,
+    "intangible_assets": 58294000000,
+    "investment_securities": 1987760000000,
+    "treasury_stock": -131968000000,
+    "noncontrolling_interests": 51097000000
+  },
+  "segments": [
+    {
+      "key": "AirCargoTransportation",
+      "label": null,
+      "external_revenue": 179225000000,
+      "intersegment_revenue": 6497000000,
+      "ordinary_income": 21070000000
+    },
+    {
+      "key": "Automotive",
+      "label": null,
+      "external_revenue": 531867000000,
+      "intersegment_revenue": 524000000,
+      "ordinary_income": 113380000000,
+      "equity_method_income": 11008000000
+    },
+    {
+      "key": "DryBulk",
+      "label": null,
+      "external_revenue": 601322000000,
+      "intersegment_revenue": 5934000000,
+      "ordinary_income": 18104000000,
+      "equity_method_income": 3171000000
+    },
+    {
+      "key": "Energy",
+      "label": null,
+      "external_revenue": 178225000000,
+      "intersegment_revenue": 339000000,
+      "ordinary_income": 46172000000,
+      "equity_method_income": 31386000000
+    },
+    {
+      "key": "LinerTrade",
+      "label": null,
+      "external_revenue": 174412000000,
+      "intersegment_revenue": 6012000000,
+      "ordinary_income": 274366000000,
+      "equity_method_income": 249060000000
+    },
+    {
+      "key": "Logistics",
+      "label": null,
+      "external_revenue": 808997000000,
+      "intersegment_revenue": 3151000000,
+      "ordinary_income": 21271000000,
+      "equity_method_income": 187000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 114650000000,
+      "intersegment_revenue": 89984000000,
+      "ordinary_income": 6954000000,
+      "equity_method_income": -1426000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04235-000_2025-03-31_01_2025-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

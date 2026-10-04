@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E04710",
+    "sec_code": "4680",
+    "company_name": "株式会社ラウンドワン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R3LA"
+  },
+  "financials": {
+    "net_sales": 142051000000,
+    "ordinary_income": 16690000000,
+    "net_income": 9737000000,
+    "comprehensive_income": 11616000000,
+    "eps": 34.03,
+    "eps_diluted": 34.01,
+    "dps": 16,
+    "operating_cf": 35830000000,
+    "investing_cf": -11911000000,
+    "financing_cf": -42110000000,
+    "net_assets": 61180000000,
+    "total_assets": 170623000000,
+    "bps": 217.3,
+    "cash_end": 29106000000,
+    "equity_ratio": 0.357,
+    "roe": 0.169,
+    "per": 15.02,
+    "gross_profit": 21364000000,
+    "operating_income": 16921000000,
+    "income_tax_expense": 977000000,
+    "interest_bearing_debt_current": 800000000,
+    "interest_bearing_debt_noncurrent": 15696000000,
+    "bonds_payable": 628000000,
+    "current_portion_of_bonds": 342000000,
+    "current_portion_lt_loans": 6102000000,
+    "lease_liabilities_current": 14599000000,
+    "lease_liabilities_noncurrent": 44789000000,
+    "depreciation": 19823000000,
+    "capex_ppe": -11830000000,
+    "current_assets": 38739000000,
+    "current_liabilities": 37828000000,
+    "noncurrent_assets": 131883000000,
+    "noncurrent_liabilities": 71614000000,
+    "ppe": 116539000000,
+    "intangible_assets": 763000000,
+    "treasury_stock": -3503000000,
+    "noncontrolling_interests": 0
+  },
+  "segments": [
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 89808000000,
+      "ordinary_income": 10881000000
+    },
+    {
+      "key": "UnitedStatesOfAmerica",
+      "label": null,
+      "external_revenue": 51390000000,
+      "ordinary_income": 8816000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04710-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

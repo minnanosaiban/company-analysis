@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E27633",
+    "sec_code": "3289",
+    "company_name": "東急不動産ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R64J"
+  },
+  "financials": {
+    "ordinary_income": 99558000000,
+    "net_income": 48227000000,
+    "comprehensive_income": 72983000000,
+    "eps": 67.21,
+    "dps": 23.5,
+    "operating_cf": 94739000000,
+    "investing_cf": -120060000000,
+    "financing_cf": 42764000000,
+    "net_assets": 700702000000,
+    "total_assets": 2738458000000,
+    "bps": 964.77,
+    "cash_end": 170649000000,
+    "equity_ratio": 0.25,
+    "roe": 0.073,
+    "per": 9.4,
+    "operating_income": 110410000000,
+    "income_tax_expense": 22613000000,
+    "interest_bearing_debt_current": 156431000000,
+    "interest_bearing_debt_noncurrent": 1046501000000,
+    "bonds_payable": 270000000000,
+    "current_portion_of_bonds": 10000000000,
+    "depreciation": 44502000000,
+    "current_assets": 1115603000000,
+    "current_liabilities": 406090000000,
+    "noncurrent_assets": 1622854000000,
+    "noncurrent_liabilities": 1631665000000,
+    "trade_payables": 41847000000,
+    "ppe": 1066456000000,
+    "goodwill": 53412000000,
+    "intangible_assets": 105880000000,
+    "investment_securities": 295496000000,
+    "treasury_stock": -6502000000,
+    "noncontrolling_interests": 16071000000
+  },
+  "segments": [
+    {
+      "key": "PropertyManagementAndOperation",
+      "label": null,
+      "external_revenue": 323885000000,
+      "intersegment_revenue": 13250000000,
+      "operating_income": 12292000000
+    },
+    {
+      "key": "RealEstateAgents",
+      "label": null,
+      "external_revenue": 261554000000,
+      "intersegment_revenue": 1408000000,
+      "operating_income": 33679000000
+    },
+    {
+      "key": "StrategicInvestment",
+      "label": null,
+      "external_revenue": 77932000000,
+      "intersegment_revenue": 831000000,
+      "operating_income": 15241000000
+    },
+    {
+      "key": "UrbanDevelopment",
+      "label": null,
+      "external_revenue": 342462000000,
+      "intersegment_revenue": 3618000000,
+      "operating_income": 58634000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27633-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

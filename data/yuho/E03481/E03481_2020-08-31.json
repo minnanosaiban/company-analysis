@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03481",
+    "sec_code": "3048",
+    "company_name": "株式会社ビックカメラ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-08-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-11-24",
+    "doc_id": "S100SCP0"
+  },
+  "financials": {
+    "net_sales": 847905000000,
+    "ordinary_income": 14690000000,
+    "net_income": 5450000000,
+    "comprehensive_income": 10457000000,
+    "eps": 30.98,
+    "eps_diluted": 30.96,
+    "dps": 13,
+    "operating_cf": 52004000000,
+    "investing_cf": -15691000000,
+    "financing_cf": 55106000000,
+    "net_assets": 169791000000,
+    "total_assets": 472074000000,
+    "bps": 779.15,
+    "cash_end": 117211000000,
+    "equity_ratio": 0.29,
+    "roe": 0.04,
+    "per": 37.89
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03481-000_2023-08-31_01_2023-11-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

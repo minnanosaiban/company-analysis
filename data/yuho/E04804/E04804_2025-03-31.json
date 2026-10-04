@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E04804",
+    "sec_code": "9744",
+    "company_name": "株式会社メイテックグループホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VYUN"
+  },
+  "financials": {
+    "net_sales": 133068000000,
+    "ordinary_income": 18911000000,
+    "net_income": 12740000000,
+    "comprehensive_income": 13279000000,
+    "eps": 165.01,
+    "dps": 198,
+    "operating_cf": 13448000000,
+    "investing_cf": -998000000,
+    "financing_cf": -12189000000,
+    "net_assets": 48776000000,
+    "total_assets": 93605000000,
+    "bps": 631.76,
+    "cash_end": 53005000000,
+    "equity_ratio": 0.5211,
+    "roe": 0.2641,
+    "per": 17.67,
+    "gross_profit": 35933000000,
+    "operating_income": 18830000000,
+    "income_tax_expense": 6120000000,
+    "depreciation": 292000000,
+    "capex_ppe": -142000000,
+    "capex_intangible": -18000000,
+    "current_assets": 77050000000,
+    "current_liabilities": 28005000000,
+    "noncurrent_assets": 16554000000,
+    "noncurrent_liabilities": 16823000000,
+    "trade_receivables": 18106000000,
+    "ppe": 4250000000,
+    "intangible_assets": 312000000,
+    "investment_securities": 27000000,
+    "treasury_stock": -1693000000
+  },
+  "segments": [
+    {
+      "key": "Other",
+      "label": null,
+      "intersegment_revenue": 7679000000,
+      "external_revenue": 7679000000,
+      "operating_income": 6976000000
+    },
+    {
+      "key": "RecruitingPlacementBusinessForEngineers",
+      "label": null,
+      "external_revenue": 1460000000,
+      "intersegment_revenue": 5000000,
+      "operating_income": 568000000
+    },
+    {
+      "key": "TemporaryStaffingBusiness",
+      "label": null,
+      "external_revenue": 131608000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 18316000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04804-000_2025-03-31_01_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

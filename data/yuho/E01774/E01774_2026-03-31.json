@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E01774",
+    "sec_code": "6754",
+    "company_name": "アンリツ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YH5E"
+  },
+  "financials": {
+    "dps": 50,
+    "net_sales": 117462000000,
+    "net_income": 11677000000,
+    "comprehensive_income": 14839000000,
+    "net_assets": 132717000000,
+    "total_assets": 173258000000,
+    "equity_ratio": 0.766,
+    "bps": 1036.92,
+    "eps": 91.2,
+    "roe": 0.091,
+    "per": 30.02,
+    "operating_cf": 17881000000,
+    "investing_cf": -14681000000,
+    "financing_cf": -6405000000,
+    "cash_end": 49314000000,
+    "operating_income": 14828000000,
+    "gross_profit": 60075000000,
+    "income_tax_expense": 4469000000,
+    "interest_bearing_debt_current": 570000000,
+    "interest_bearing_debt_noncurrent": 2994000000,
+    "sga_expense": 36391000000,
+    "profit_before_tax": 16147000000,
+    "depreciation": 6014000000,
+    "capex_ppe": -4112000000,
+    "capex_intangible": -1162000000,
+    "current_assets": 109404000000,
+    "current_liabilities": 32550000000,
+    "noncurrent_assets": 63854000000,
+    "trade_receivables": 29295000000,
+    "inventories": 26281000000,
+    "trade_payables": 8317000000,
+    "ppe": 29213000000,
+    "goodwill": 8063000000,
+    "equity_method_investments": 347000000,
+    "treasury_stock": -11132000000
+  },
+  "segments": [
+    {
+      "key": "EnvironmentalMeasurement",
+      "label": "環境計測",
+      "external_revenue": 10787000000,
+      "revenue": 10787000000,
+      "operating_income": 850000000,
+      "assets": 24382000000
+    },
+    {
+      "key": "PQA",
+      "label": "PQA",
+      "external_revenue": 31033000000,
+      "intersegment_revenue": 1000000,
+      "revenue": 31034000000,
+      "operating_income": 3318000000,
+      "assets": 31278000000
+    },
+    {
+      "key": "TestAndMeasurement",
+      "label": "通信計測",
+      "external_revenue": 68774000000,
+      "intersegment_revenue": 13000000,
+      "revenue": 68788000000,
+      "operating_income": 10782000000,
+      "assets": 101519000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01774-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

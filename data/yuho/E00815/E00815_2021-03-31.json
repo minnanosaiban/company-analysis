@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00815",
+    "sec_code": "4182",
+    "company_name": "三菱瓦斯化学株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4HI"
+  },
+  "financials": {
+    "net_sales": 595718000000,
+    "ordinary_income": 50240000000,
+    "net_income": 36070000000,
+    "comprehensive_income": 53101000000,
+    "eps": 173.41,
+    "dps": 70,
+    "operating_cf": 55464000000,
+    "investing_cf": -40370000000,
+    "financing_cf": 5154000000,
+    "net_assets": 581411000000,
+    "total_assets": 836364000000,
+    "bps": 2520.34,
+    "cash_end": 91075000000,
+    "equity_ratio": 0.6268,
+    "roe": 0.0709,
+    "per": 15.65
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00815-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "edinet_code": "E04948",
+    "sec_code": "9435",
+    "company_name": "株式会社光通信",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-29",
+    "doc_id": "S100YN0V"
+  },
+  "financials": {
+    "dps": 751,
+    "net_sales": 734791000000,
+    "net_income": 151014000000,
+    "comprehensive_income": 306020000000,
+    "net_assets": 1185668000000,
+    "total_assets": 2853866000000,
+    "equity_ratio": 0.415,
+    "bps": 27056.17,
+    "eps": 3440.12,
+    "eps_diluted": 3436.87,
+    "roe": 0.144,
+    "per": 11.6,
+    "operating_cf": 57073000000,
+    "investing_cf": -104100000000,
+    "financing_cf": 104685000000,
+    "cash_end": 539854000000,
+    "operating_income": 116664000000,
+    "gross_profit": 363956000000,
+    "income_tax_expense": 42852000000,
+    "sga_expense": 250881000000,
+    "profit_before_tax": 199081000000,
+    "depreciation": 16475000000,
+    "current_assets": 1019640000000,
+    "current_liabilities": 482597000000,
+    "noncurrent_assets": 1834225000000,
+    "trade_receivables": 411499000000,
+    "inventories": 1789000000,
+    "trade_payables": 263788000000,
+    "ppe": 41744000000,
+    "goodwill": 18395000000,
+    "intangible_assets": 6671000000,
+    "equity_method_investments": 319720000000,
+    "treasury_stock": -6215000000,
+    "noncontrolling_interests": 31982000000
+  },
+  "segments": [
+    {
+      "key": "AgencySales",
+      "label": null,
+      "external_revenue": 98493000000,
+      "revenue": 98493000000,
+      "operating_income": 12799000000
+    },
+    {
+      "key": "Beverage",
+      "label": null,
+      "external_revenue": 85314000000,
+      "revenue": 85314000000,
+      "operating_income": 9695000000
+    },
+    {
+      "key": "Communication",
+      "label": null,
+      "external_revenue": 127540000000,
+      "revenue": 127540000000,
+      "operating_income": 29383000000
+    },
+    {
+      "key": "ElectricityAndGas",
+      "label": null,
+      "external_revenue": 319571000000,
+      "revenue": 319571000000,
+      "operating_income": 35848000000
+    },
+    {
+      "key": "Finance",
+      "label": null,
+      "external_revenue": 45526000000,
+      "revenue": 45526000000,
+      "operating_income": 22086000000
+    },
+    {
+      "key": "Insurance",
+      "label": null,
+      "external_revenue": 31478000000,
+      "revenue": 31478000000,
+      "operating_income": 9368000000
+    },
+    {
+      "key": "Solution",
+      "label": null,
+      "external_revenue": 26866000000,
+      "revenue": 26866000000,
+      "operating_income": 3790000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04948-000_2026-03-31_01_2026-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

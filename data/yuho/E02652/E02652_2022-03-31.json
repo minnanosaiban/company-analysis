@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "edinet_code": "E02652",
+    "sec_code": "8035",
+    "company_name": "東京エレクトロン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-20",
+    "doc_id": "S100QYR0"
+  },
+  "financials": {
+    "net_sales": 2003805000000,
+    "ordinary_income": 601724000000,
+    "net_income": 437076000000,
+    "comprehensive_income": 486183000000,
+    "eps": 935.95,
+    "eps_diluted": 931.3,
+    "dps": 1403,
+    "operating_cf": 283387000000,
+    "investing_cf": -55632000000,
+    "financing_cf": -167256000000,
+    "net_assets": 1347048000000,
+    "total_assets": 1894457000000,
+    "bps": 2857.48,
+    "cash_end": 335648000000,
+    "equity_ratio": 0.705,
+    "roe": 0.372,
+    "per": 22.53,
+    "gross_profit": 911822000000,
+    "operating_income": 599271000000,
+    "income_tax_expense": 162708000000,
+    "depreciation": 36727000000,
+    "capex_ppe": -56153000000,
+    "capex_intangible": -8950000000,
+    "current_assets": 1408703000000,
+    "current_liabilities": 468578000000,
+    "noncurrent_assets": 485754000000,
+    "noncurrent_liabilities": 78829000000,
+    "trade_payables": 120908000000,
+    "ppe": 223078000000,
+    "intangible_assets": 22540000000,
+    "investment_securities": 144972000000,
+    "treasury_stock": -27418000000
+  },
+  "segments": [
+    {
+      "key": "FlatPanelDisplayProductionEquipment",
+      "label": null,
+      "external_revenue": 59830000000
+    },
+    {
+      "key": "SemiconductorProductionEquipment",
+      "label": null,
+      "external_revenue": 1943843000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02652-000_2023-03-31_01_2023-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

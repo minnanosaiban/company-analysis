@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "edinet_code": "E03610",
+    "sec_code": "8308",
+    "company_name": "株式会社りそなホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3ZD"
+  },
+  "financials": {
+    "ordinary_income": 227690000000,
+    "net_income": 160400000000,
+    "comprehensive_income": 139087000000,
+    "eps": 67.49,
+    "eps_diluted": 67.48,
+    "dps": 21,
+    "operating_cf": -5207582000000,
+    "investing_cf": -390365000000,
+    "financing_cf": -64034000000,
+    "net_assets": 2534052000000,
+    "total_assets": 74812710000000,
+    "bps": 1065.31,
+    "cash_end": 22257558000000,
+    "equity_ratio": 0.0336,
+    "roe": 0.0647,
+    "per": 9.47,
+    "income_tax_expense": 51300000000,
+    "bonds_payable": 196000000000,
+    "depreciation": 38542000000,
+    "capex_ppe": -12896000000,
+    "capex_intangible": -7605000000,
+    "ppe": 352442000000,
+    "intangible_assets": 51931000000,
+    "treasury_stock": -8154000000,
+    "noncontrolling_interests": 17953000000,
+    "ordinary_revenue": 867974000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03610-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00878",
+    "sec_code": "4401",
+    "company_name": "株式会社ＡＤＥＫＡ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1VD"
+  },
+  "financials": {
+    "net_sales": 304131000000,
+    "ordinary_income": 21976000000,
+    "net_income": 15216000000,
+    "comprehensive_income": 11632000000,
+    "eps": 147.69,
+    "dps": 48,
+    "operating_cf": 27398000000,
+    "investing_cf": -15228000000,
+    "financing_cf": -7496000000,
+    "net_assets": 250634000000,
+    "total_assets": 409452000000,
+    "bps": 2036.98,
+    "cash_end": 60888000000,
+    "equity_ratio": 0.5135,
+    "roe": 0.0734,
+    "per": 9.15
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00878-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E01607",
+    "sec_code": "6479",
+    "company_name": "ミネベアミツミ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YISS"
+  },
+  "financials": {
+    "dps": 50,
+    "net_sales": 1664387000000,
+    "net_income": 99034000000,
+    "comprehensive_income": 175569000000,
+    "net_assets": 898971000000,
+    "total_assets": 1814837000000,
+    "equity_ratio": 0.495,
+    "bps": 2238.5,
+    "eps": 246.6,
+    "eps_diluted": 246.59,
+    "roe": 0.121,
+    "per": 10.3,
+    "operating_cf": 94850000000,
+    "investing_cf": -82775000000,
+    "financing_cf": -16133000000,
+    "cash_end": 227522000000,
+    "operating_income": 103979000000,
+    "gross_profit": 293010000000,
+    "income_tax_expense": 34545000000,
+    "interest_bearing_debt_current": 264122000000,
+    "interest_bearing_debt_noncurrent": 218369000000,
+    "sga_expense": 190281000000,
+    "profit_before_tax": 133779000000,
+    "depreciation": 70422000000,
+    "capex_ppe": -79364000000,
+    "capex_intangible": -8199000000,
+    "current_assets": 1028731000000,
+    "current_liabilities": 602200000000,
+    "noncurrent_assets": 786106000000,
+    "trade_receivables": 356517000000,
+    "inventories": 391314000000,
+    "trade_payables": 235583000000,
+    "ppe": 585303000000,
+    "goodwill": 61164000000,
+    "intangible_assets": 33290000000,
+    "treasury_stock": -59901000000,
+    "noncontrolling_interests": 12060000000
+  },
+  "segments": [
+    {
+      "key": "AccessSolutions",
+      "label": null,
+      "external_revenue": 332249000000,
+      "intersegment_revenue": 450000000,
+      "operating_income": 17087000000,
+      "assets": 244606000000
+    },
+    {
+      "key": "PrecisionTechnologies",
+      "label": null,
+      "external_revenue": 281151000000,
+      "intersegment_revenue": 7880000000,
+      "operating_income": 62245000000,
+      "assets": 268967000000
+    },
+    {
+      "key": "SemiconductorAndElectronics",
+      "label": null,
+      "external_revenue": 590263000000,
+      "intersegment_revenue": 5980000000,
+      "operating_income": 26669000000,
+      "assets": 414040000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01607-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

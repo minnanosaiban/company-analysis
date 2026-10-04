@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E24951",
+    "sec_code": "4927",
+    "company_name": "株式会社ポーラ・オルビスホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T3O2"
+  },
+  "financials": {
+    "net_sales": 166307000000,
+    "ordinary_income": 14928000000,
+    "net_income": 11446000000,
+    "comprehensive_income": 10719000000,
+    "eps": 51.74,
+    "eps_diluted": 51.69,
+    "dps": 52,
+    "operating_cf": 15548000000,
+    "investing_cf": -12370000000,
+    "financing_cf": -12668000000,
+    "net_assets": 171459000000,
+    "total_assets": 205935000000,
+    "bps": 772.6,
+    "cash_end": 62562000000,
+    "equity_ratio": 0.83,
+    "roe": 0.067,
+    "per": 35.9,
+    "gross_profit": 135270000000,
+    "operating_income": 12581000000,
+    "income_tax_expense": 5233000000,
+    "interest_bearing_debt_noncurrent": 59000000,
+    "current_portion_lt_loans": 12000000,
+    "lease_liabilities_current": 739000000,
+    "lease_liabilities_noncurrent": 1067000000,
+    "depreciation": 8482000000,
+    "capex_ppe": -7482000000,
+    "capex_intangible": -3917000000,
+    "current_assets": 118273000000,
+    "current_liabilities": 25954000000,
+    "noncurrent_assets": 87661000000,
+    "noncurrent_liabilities": 8521000000,
+    "trade_receivables": 17817000000,
+    "trade_payables": 2745000000,
+    "ppe": 44446000000,
+    "intangible_assets": 12604000000,
+    "investment_securities": 16154000000,
+    "treasury_stock": -2860000000,
+    "noncontrolling_interests": 291000000
+  },
+  "segments": [
+    {
+      "key": "BeautyCare",
+      "label": null,
+      "external_revenue": 161654000000,
+      "intersegment_revenue": 72000000,
+      "operating_income": 13793000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 2083000000,
+      "intersegment_revenue": 484000000,
+      "operating_income": 491000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E24951-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

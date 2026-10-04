@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04149",
+    "sec_code": "9022",
+    "company_name": "東海旅客鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R0WN"
+  },
+  "financials": {
+    "ordinary_income": 632653000000,
+    "net_income": 438715000000,
+    "comprehensive_income": 446213000000,
+    "eps": 2238.95,
+    "dps": 145,
+    "operating_cf": 600319000000,
+    "investing_cf": -597502000000,
+    "financing_cf": -33635000000,
+    "net_assets": 3508065000000,
+    "total_assets": 9295745000000,
+    "bps": 17703.74,
+    "cash_end": 751636000000,
+    "equity_ratio": 0.373,
+    "roe": 0.134,
+    "per": 11.48
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04149-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E02289",
+    "sec_code": "7729",
+    "company_name": "株式会社東京精密",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R3VK"
+  },
+  "financials": {
+    "net_sales": 146801000000,
+    "ordinary_income": 35297000000,
+    "net_income": 23630000000,
+    "comprehensive_income": 24745000000,
+    "eps": 581.33,
+    "eps_diluted": 575.62,
+    "dps": 235,
+    "operating_cf": 1000000000,
+    "investing_cf": -8421000000,
+    "financing_cf": -2174000000,
+    "net_assets": 146028000000,
+    "total_assets": 209032000000,
+    "bps": 3573.81,
+    "cash_end": 40036000000,
+    "equity_ratio": 0.69,
+    "roe": 0.173,
+    "per": 8.8,
+    "gross_profit": 61834000000,
+    "operating_income": 34494000000,
+    "income_tax_expense": 10046000000,
+    "interest_bearing_debt_current": 1300000000,
+    "interest_bearing_debt_noncurrent": 8000000000,
+    "current_portion_lt_loans": 4000000000,
+    "lease_liabilities_current": 278000000,
+    "lease_liabilities_noncurrent": 612000000,
+    "depreciation": 3832000000,
+    "capex_ppe": -8054000000,
+    "capex_intangible": -932000000,
+    "current_assets": 143972000000,
+    "current_liabilities": 50947000000,
+    "noncurrent_assets": 65060000000,
+    "noncurrent_liabilities": 12057000000,
+    "trade_payables": 10164000000,
+    "ppe": 48954000000,
+    "goodwill": 279000000,
+    "intangible_assets": 3951000000,
+    "investment_securities": 2914000000,
+    "treasury_stock": -7098000000,
+    "noncontrolling_interests": 668000000
+  },
+  "segments": [
+    {
+      "key": "MeasurementEquipment",
+      "label": null,
+      "external_revenue": 34436000000,
+      "operating_income": 4628000000
+    },
+    {
+      "key": "SemiconductorManufacturingDevice",
+      "label": null,
+      "external_revenue": 112365000000,
+      "operating_income": 29866000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02289-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

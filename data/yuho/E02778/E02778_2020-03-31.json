@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E02778",
+    "sec_code": "9984",
+    "company_name": "ソフトバンクグループ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZOM"
+  },
+  "financials": {
+    "dps": 44,
+    "net_sales": 5238938000000,
+    "net_income": -961576000000,
+    "comprehensive_income": -1425587000000,
+    "net_assets": 5913613000000,
+    "total_assets": 37257292000000,
+    "equity_ratio": 0.159,
+    "bps": 2619.32,
+    "eps": -478.5,
+    "eps_diluted": -485.33,
+    "roe": -0.142,
+    "operating_cf": 1117879000000,
+    "investing_cf": -4286921000000,
+    "financing_cf": 2920863000000,
+    "cash_end": 3369015000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02778-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

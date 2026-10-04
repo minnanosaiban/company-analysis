@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02552",
+    "sec_code": "8012",
+    "company_name": "長瀬産業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100QZSZ"
+  },
+  "financials": {
+    "net_sales": 799559000000,
+    "ordinary_income": 19083000000,
+    "net_income": 15144000000,
+    "comprehensive_income": 3579000000,
+    "eps": 122.12,
+    "dps": 44,
+    "operating_cf": 33074000000,
+    "investing_cf": -49208000000,
+    "financing_cf": 24334000000,
+    "net_assets": 313243000000,
+    "total_assets": 611477000000,
+    "bps": 2462.04,
+    "cash_end": 50471000000,
+    "equity_ratio": 0.499,
+    "roe": 0.049,
+    "per": 10.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02552-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

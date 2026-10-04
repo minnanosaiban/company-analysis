@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "edinet_code": "E02127",
+    "sec_code": "7012",
+    "company_name": "川崎重工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-24",
+    "doc_id": "S100VWDC"
+  },
+  "financials": {
+    "dps": 150,
+    "net_sales": 2129321000000,
+    "net_income": 88001000000,
+    "comprehensive_income": 89213000000,
+    "net_assets": 702915000000,
+    "total_assets": 3016951000000,
+    "equity_ratio": 0.233,
+    "bps": 4205.63,
+    "eps": 525.44,
+    "roe": 0.132,
+    "per": 17,
+    "operating_cf": 148943000000,
+    "investing_cf": -111201000000,
+    "financing_cf": 9605000000,
+    "cash_end": 132776000000,
+    "gross_profit": 431537000000,
+    "income_tax_expense": 17190000000,
+    "sga_expense": 306963000000,
+    "profit_before_tax": 107518000000,
+    "depreciation": 93431000000,
+    "capex_ppe": -98682000000,
+    "capex_intangible": -14962000000,
+    "current_assets": 2023901000000,
+    "current_liabilities": 1847303000000,
+    "noncurrent_assets": 993050000000,
+    "trade_receivables": 764383000000,
+    "inventories": 775434000000,
+    "trade_payables": 593878000000,
+    "ppe": 515743000000,
+    "intangible_assets": 75760000000,
+    "equity_method_investments": 108271000000,
+    "treasury_stock": -4093000000,
+    "noncontrolling_interests": 22148000000
+  },
+  "segments": [
+    {
+      "key": "AerospaceSystems",
+      "label": null,
+      "external_revenue": 567838000000,
+      "intersegment_revenue": 15801000000,
+      "revenue": 583639000000
+    },
+    {
+      "key": "EnergySolutionAndMarine",
+      "label": null,
+      "external_revenue": 398138000000,
+      "intersegment_revenue": 24270000000,
+      "revenue": 422408000000,
+      "equity_method_income": 22946000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 90177000000,
+      "intersegment_revenue": 28571000000,
+      "revenue": 118749000000,
+      "equity_method_income": 140000000
+    },
+    {
+      "key": "PowersportsAndEngine",
+      "label": null,
+      "external_revenue": 609357000000,
+      "intersegment_revenue": 1326000000,
+      "revenue": 610684000000,
+      "equity_method_income": 1711000000
+    },
+    {
+      "key": "PrecisionMachineryAndRobot",
+      "label": null,
+      "external_revenue": 241503000000,
+      "intersegment_revenue": 21329000000,
+      "revenue": 262833000000,
+      "equity_method_income": -1559000000
+    },
+    {
+      "key": "RollingStock",
+      "label": null,
+      "external_revenue": 222306000000,
+      "intersegment_revenue": 240000000,
+      "revenue": 222546000000,
+      "equity_method_income": 3000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02127-000_2025-03-31_01_2025-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

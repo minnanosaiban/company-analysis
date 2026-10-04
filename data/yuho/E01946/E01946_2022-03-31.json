@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "edinet_code": "E01946",
+    "sec_code": "6954",
+    "company_name": "ファナック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R8VC"
+  },
+  "financials": {
+    "net_sales": 733008000000,
+    "ordinary_income": 213395000000,
+    "net_income": 155273000000,
+    "comprehensive_income": 201257000000,
+    "eps": 161.9,
+    "dps": 485.7,
+    "operating_cf": 125581000000,
+    "investing_cf": -53929000000,
+    "financing_cf": -89154000000,
+    "net_assets": 1549879000000,
+    "total_assets": 1783964000000,
+    "bps": 1601.31,
+    "cash_end": 574655000000,
+    "equity_ratio": 0.861,
+    "roe": 0.105,
+    "per": 26.7,
+    "gross_profit": 295634000000,
+    "operating_income": 183240000000,
+    "income_tax_expense": 57721000000,
+    "depreciation": 47077000000,
+    "capex_ppe": -34363000000,
+    "current_assets": 1014946000000,
+    "current_liabilities": 177602000000,
+    "noncurrent_assets": 769018000000,
+    "noncurrent_liabilities": 56483000000,
+    "trade_payables": 49473000000,
+    "ppe": 578133000000,
+    "intangible_assets": 8933000000,
+    "investment_securities": 135709000000,
+    "treasury_stock": -105950000000,
+    "noncontrolling_interests": 14070000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01946-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

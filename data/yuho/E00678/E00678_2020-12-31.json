@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00678",
+    "sec_code": "8113",
+    "company_name": "ユニ・チャーム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5WP"
+  },
+  "financials": {
+    "dps": 32,
+    "net_sales": 727475000000,
+    "net_income": 52344000000,
+    "comprehensive_income": 36248000000,
+    "net_assets": 493002000000,
+    "total_assets": 893413000000,
+    "equity_ratio": 0.552,
+    "bps": 822.19,
+    "eps": 87.6,
+    "eps_diluted": 87.46,
+    "roe": 0.108,
+    "per": 55.8,
+    "operating_cf": 150254000000,
+    "investing_cf": -41698000000,
+    "financing_cf": -35239000000,
+    "cash_end": 199522000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00678-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

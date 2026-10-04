@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E01901",
+    "sec_code": "6856",
+    "company_name": "株式会社堀場製作所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-23",
+    "doc_id": "S100XSIJ"
+  },
+  "financials": {
+    "net_sales": 333081000000,
+    "ordinary_income": 54226000000,
+    "net_income": 37090000000,
+    "comprehensive_income": 44996000000,
+    "eps": 883.5,
+    "eps_diluted": 879.27,
+    "dps": 450,
+    "operating_cf": 54383000000,
+    "investing_cf": -24923000000,
+    "financing_cf": -11993000000,
+    "net_assets": 348640000000,
+    "total_assets": 518279000000,
+    "bps": 8286.08,
+    "cash_end": 162471000000,
+    "equity_ratio": 0.6714,
+    "roe": 0.1121,
+    "per": 18.06,
+    "gross_profit": 146359000000,
+    "operating_income": 53040000000,
+    "income_tax_expense": 13736000000,
+    "interest_bearing_debt_current": 12189000000,
+    "interest_bearing_debt_noncurrent": 24294000000,
+    "bonds_payable": 15000000000,
+    "current_portion_of_bonds": 15000000000,
+    "depreciation": 13180000000,
+    "capex_ppe": -25275000000,
+    "capex_intangible": -867000000,
+    "current_assets": 352229000000,
+    "current_liabilities": 117978000000,
+    "noncurrent_assets": 166050000000,
+    "noncurrent_liabilities": 51660000000,
+    "trade_payables": 19595000000,
+    "ppe": 132147000000,
+    "goodwill": 1984000000,
+    "intangible_assets": 6445000000,
+    "investment_securities": 17126000000,
+    "treasury_stock": -2402000000,
+    "noncontrolling_interests": 37000000
+  },
+  "segments": [
+    {
+      "key": "BioAndHealthcare",
+      "label": null,
+      "external_revenue": 42173000000,
+      "operating_income": -894000000
+    },
+    {
+      "key": "EnergyAndEnvironment",
+      "label": null,
+      "external_revenue": 134407000000,
+      "operating_income": 9417000000
+    },
+    {
+      "key": "MaterialsAndSemiconductor",
+      "label": null,
+      "external_revenue": 156500000000,
+      "operating_income": 44517000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01901-000_2025-12-31_01_2026-03-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

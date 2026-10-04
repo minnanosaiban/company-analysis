@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04762",
+    "sec_code": "8591",
+    "company_name": "オリックス株式会社",
+    "accounting_standard": "US",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-22",
+    "doc_id": "S100YG5L"
+  },
+  "financials": {
+    "dps": 156.1,
+    "net_sales": 3330831000000,
+    "profit_before_tax": 691431000000,
+    "net_income": 447265000000,
+    "comprehensive_income": 711049000000,
+    "net_assets": 4482500000000,
+    "total_assets": 18002776000000,
+    "bps": 4080.24,
+    "eps": 400.27,
+    "eps_diluted": 399.4,
+    "equity_ratio": 0.249,
+    "roe": 0.104,
+    "per": 11.5,
+    "operating_cf": 1369567000000,
+    "investing_cf": -1114671000000,
+    "financing_cf": -160535000000,
+    "cash_end": 1451099000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04762-000_2026-03-31_01_2026-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

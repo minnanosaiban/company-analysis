@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01946",
+    "sec_code": "6954",
+    "company_name": "ファナック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R8VC"
+  },
+  "financials": {
+    "net_sales": 508252000000,
+    "ordinary_income": 102816000000,
+    "net_income": 73371000000,
+    "comprehensive_income": 57377000000,
+    "eps": 76.38,
+    "dps": 300,
+    "operating_cf": 144872000000,
+    "investing_cf": -84319000000,
+    "financing_cf": -140726000000,
+    "net_assets": 1362865000000,
+    "total_assets": 1512499000000,
+    "bps": 1412.84,
+    "cash_end": 515008000000,
+    "equity_ratio": 0.896,
+    "roe": 0.053,
+    "per": 38.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01946-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

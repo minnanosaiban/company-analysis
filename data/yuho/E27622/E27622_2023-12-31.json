@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E27622",
+    "sec_code": "2587",
+    "company_name": "サントリー食品インターナショナル株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T62P"
+  },
+  "financials": {
+    "dps": 80,
+    "net_sales": 1591722000000,
+    "net_income": 82743000000,
+    "comprehensive_income": 147178000000,
+    "net_assets": 1087370000000,
+    "total_assets": 1912415000000,
+    "equity_ratio": 0.569,
+    "bps": 3519,
+    "eps": 267.78,
+    "roe": 0.081,
+    "per": 17.37,
+    "operating_cf": 158292000000,
+    "investing_cf": -77798000000,
+    "financing_cf": -115404000000,
+    "cash_end": 171755000000,
+    "operating_income": 141726000000,
+    "gross_profit": 589996000000,
+    "income_tax_expense": 37301000000,
+    "interest_bearing_debt_current": 49431000000,
+    "interest_bearing_debt_noncurrent": 25000000000,
+    "sga_expense": 445401000000,
+    "profit_before_tax": 141781000000,
+    "depreciation": 73079000000,
+    "current_assets": 638907000000,
+    "current_liabilities": 535730000000,
+    "noncurrent_assets": 1273507000000,
+    "inventories": 115967000000,
+    "ppe": 416600000000,
+    "goodwill": 278231000000,
+    "intangible_assets": 495339000000,
+    "equity_method_investments": 114000000,
+    "treasury_stock": 0,
+    "noncontrolling_interests": 97656000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": null,
+      "external_revenue": 172871000000,
+      "revenue": 172871000000,
+      "operating_income": 20982000000
+    },
+    {
+      "key": "AsiaPacific",
+      "label": null,
+      "external_revenue": 371435000000,
+      "intersegment_revenue": 5000000,
+      "revenue": 371440000000,
+      "operating_income": 43075000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 339274000000,
+      "intersegment_revenue": 1026000000,
+      "revenue": 340301000000,
+      "operating_income": 51725000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 708141000000,
+      "intersegment_revenue": 93000000,
+      "revenue": 708234000000,
+      "operating_income": 40455000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E27622-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

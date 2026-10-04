@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E02213",
+    "sec_code": "7211",
+    "company_name": "三菱自動車工業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-16",
+    "doc_id": "S100YCMC"
+  },
+  "financials": {
+    "net_sales": 2896536000000,
+    "ordinary_income": 78908000000,
+    "net_income": 10015000000,
+    "comprehensive_income": 64047000000,
+    "eps": 7.48,
+    "eps_diluted": 7.48,
+    "dps": 10,
+    "operating_cf": 35755000000,
+    "investing_cf": -122444000000,
+    "financing_cf": 46900000000,
+    "net_assets": 963318000000,
+    "total_assets": 2418145000000,
+    "bps": 687.01,
+    "cash_end": 438860000000,
+    "equity_ratio": 0.3802,
+    "roe": 0.0108,
+    "per": 41.05,
+    "gross_profit": 449117000000,
+    "operating_income": 75517000000,
+    "income_tax_expense": 26016000000,
+    "interest_bearing_debt_current": 69901000000,
+    "interest_bearing_debt_noncurrent": 140749000000,
+    "commercial_papers": 30000000000,
+    "current_portion_lt_loans": 117538000000,
+    "lease_liabilities_current": 5385000000,
+    "lease_liabilities_noncurrent": 31846000000,
+    "depreciation": 82631000000,
+    "capex_ppe": -112640000000,
+    "capex_intangible": -10257000000,
+    "current_assets": 1609869000000,
+    "current_liabilities": 1166513000000,
+    "noncurrent_assets": 808275000000,
+    "noncurrent_liabilities": 288313000000,
+    "trade_payables": 447143000000,
+    "ppe": 551183000000,
+    "intangible_assets": 49415000000,
+    "investment_securities": 52235000000,
+    "treasury_stock": -56310000000,
+    "noncontrolling_interests": 43849000000
+  },
+  "segments": [
+    {
+      "key": "CarBusiness",
+      "label": "自動車",
+      "external_revenue": 2854548000000,
+      "intersegment_revenue": 7700000000,
+      "operating_income": 72492000000
+    },
+    {
+      "key": "FinancialBusiness",
+      "label": "金融",
+      "external_revenue": 41988000000,
+      "intersegment_revenue": 9502000000,
+      "operating_income": 2820000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02213-000_2026-03-31_01_2026-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

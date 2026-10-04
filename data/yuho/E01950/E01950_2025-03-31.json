@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E01950",
+    "sec_code": "6857",
+    "company_name": "株式会社アドバンテスト",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W4E8"
+  },
+  "financials": {
+    "dps": 39,
+    "net_sales": 779707000000,
+    "net_income": 161177000000,
+    "comprehensive_income": 149428000000,
+    "net_assets": 506539000000,
+    "total_assets": 854210000000,
+    "equity_ratio": 0.593,
+    "bps": 690.8,
+    "eps": 218.67,
+    "eps_diluted": 218.01,
+    "roe": 0.344,
+    "per": 29.6,
+    "operating_cf": 285971000000,
+    "investing_cf": -42189000000,
+    "financing_cf": -82818000000,
+    "cash_end": 262544000000,
+    "operating_income": 228161000000,
+    "gross_profit": 445085000000,
+    "income_tax_expense": 63597000000,
+    "lease_liabilities_current": 5046000000,
+    "lease_liabilities_noncurrent": 13502000000,
+    "sga_expense": 195392000000,
+    "profit_before_tax": 224774000000,
+    "depreciation": 27075000000,
+    "capex_ppe": -17414000000,
+    "capex_intangible": -2017000000,
+    "current_assets": 599753000000,
+    "current_liabilities": 309424000000,
+    "noncurrent_assets": 254457000000,
+    "trade_receivables": 113031000000,
+    "inventories": 209707000000,
+    "trade_payables": 107093000000,
+    "ppe": 78602000000,
+    "goodwill": 61160000000,
+    "treasury_stock": -104193000000
+  },
+  "segments": [
+    {
+      "key": "MechatronicsSystemBusiness",
+      "label": null,
+      "external_revenue": 73180000000,
+      "operating_income": 16786000000
+    },
+    {
+      "key": "SemiconductorAndComponentTestSystemBusiness",
+      "label": null,
+      "external_revenue": 598128000000,
+      "operating_income": 244021000000
+    },
+    {
+      "key": "ServicesSupportAndOthers",
+      "label": "サービス他",
+      "external_revenue": 108399000000,
+      "operating_income": -10914000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01950-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

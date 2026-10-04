@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E02015",
+    "sec_code": "6869",
+    "company_name": "シスメックス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R2BN"
+  },
+  "financials": {
+    "dps": 82,
+    "net_sales": 410502000000,
+    "net_income": 45784000000,
+    "comprehensive_income": 55625000000,
+    "net_assets": 387665000000,
+    "total_assets": 531074000000,
+    "equity_ratio": 0.73,
+    "bps": 1852.68,
+    "eps": 218.83,
+    "eps_diluted": 218.73,
+    "roe": 0.1244,
+    "per": 39.5,
+    "operating_cf": 68835000000,
+    "investing_cf": -51751000000,
+    "financing_cf": -24234000000,
+    "cash_end": 69460000000,
+    "operating_income": 73679000000,
+    "gross_profit": 216082000000,
+    "income_tax_expense": 22988000000,
+    "lease_liabilities_current": 7149000000,
+    "lease_liabilities_noncurrent": 15442000000,
+    "sga_expense": 112371000000,
+    "profit_before_tax": 68713000000,
+    "depreciation": 31807000000,
+    "capex_ppe": -17485000000,
+    "capex_intangible": -25020000000,
+    "current_assets": 295491000000,
+    "current_liabilities": 111102000000,
+    "noncurrent_assets": 235583000000,
+    "trade_receivables": 126319000000,
+    "inventories": 73310000000,
+    "trade_payables": 31678000000,
+    "ppe": 102106000000,
+    "goodwill": 16842000000,
+    "intangible_assets": 73530000000,
+    "equity_method_investments": 92000000,
+    "treasury_stock": -314000000,
+    "noncontrolling_interests": 690000000
+  },
+  "segments": [
+    {
+      "key": "Americas",
+      "label": null,
+      "external_revenue": 100807000000,
+      "intersegment_revenue": 853000000,
+      "operating_income": 4064000000
+    },
+    {
+      "key": "AsiaPacific",
+      "label": null,
+      "external_revenue": 36322000000,
+      "intersegment_revenue": 17000000,
+      "operating_income": 3456000000
+    },
+    {
+      "key": "China",
+      "label": null,
+      "external_revenue": 96797000000,
+      "intersegment_revenue": 45000000,
+      "operating_income": 9968000000
+    },
+    {
+      "key": "EMEA",
+      "label": null,
+      "external_revenue": 113274000000,
+      "intersegment_revenue": 5058000000,
+      "operating_income": 8392000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 63300000000,
+      "intersegment_revenue": 145093000000,
+      "operating_income": 51344000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02015-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

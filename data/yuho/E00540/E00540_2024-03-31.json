@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "edinet_code": "E00540",
+    "sec_code": "3116",
+    "company_name": "トヨタ紡織株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TO0E"
+  },
+  "financials": {
+    "dps": 86,
+    "net_sales": 1953625000000,
+    "net_income": 57885000000,
+    "net_assets": 448961000000,
+    "total_assets": 1127694000000,
+    "equity_ratio": 0.398,
+    "bps": 2515.01,
+    "eps": 311.74,
+    "eps_diluted": 311.69,
+    "roe": 0.136,
+    "per": 8.2,
+    "operating_cf": 174898000000,
+    "investing_cf": -86698000000,
+    "financing_cf": -91595000000,
+    "cash_end": 244191000000,
+    "operating_income": 78636000000,
+    "gross_profit": 211473000000,
+    "income_tax_expense": 19877000000,
+    "interest_bearing_debt_current": 10000000000,
+    "interest_bearing_debt_noncurrent": 155000000000,
+    "sga_expense": 119984000000,
+    "profit_before_tax": 87372000000,
+    "depreciation": 52294000000,
+    "capex_ppe": -64663000000,
+    "capex_intangible": -6320000000,
+    "current_assets": 708788000000,
+    "current_liabilities": 405495000000,
+    "noncurrent_assets": 418906000000,
+    "trade_receivables": 304115000000,
+    "inventories": 83648000000,
+    "trade_payables": 251524000000,
+    "ppe": 329382000000,
+    "goodwill": 6026000000,
+    "intangible_assets": 18091000000,
+    "equity_method_investments": 11778000000,
+    "treasury_stock": -21515000000,
+    "noncontrolling_interests": 43985000000
+  },
+  "segments": [
+    {
+      "key": "AsiaAndOceania",
+      "label": null,
+      "external_revenue": 255684000000,
+      "intersegment_revenue": 18252000000,
+      "revenue": 273936000000,
+      "operating_income": 36948000000,
+      "assets": 151240000000
+    },
+    {
+      "key": "China",
+      "label": "中国",
+      "external_revenue": 224677000000,
+      "intersegment_revenue": 11564000000,
+      "revenue": 236242000000,
+      "operating_income": 18480000000,
+      "assets": 143887000000
+    },
+    {
+      "key": "EuropeAndAfrica",
+      "label": "欧州・アフリカ",
+      "external_revenue": 129375000000,
+      "intersegment_revenue": 1882000000,
+      "revenue": 131257000000,
+      "operating_income": 11921000000,
+      "assets": 61129000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 848314000000,
+      "intersegment_revenue": 74529000000,
+      "revenue": 922844000000,
+      "operating_income": 10652000000,
+      "assets": 705327000000
+    },
+    {
+      "key": "NorthCentralAndSouthAmerica",
+      "label": "北中南米",
+      "external_revenue": 495572000000,
+      "intersegment_revenue": 4814000000,
+      "revenue": 500386000000,
+      "operating_income": 619000000,
+      "assets": 214863000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00540-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

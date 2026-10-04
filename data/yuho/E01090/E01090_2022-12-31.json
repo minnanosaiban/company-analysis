@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E01090",
+    "sec_code": "5105",
+    "company_name": "ＴＯＹＯ　ＴＩＲＥ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-27",
+    "doc_id": "S100T4F2"
+  },
+  "financials": {
+    "net_sales": 497213000000,
+    "ordinary_income": 51035000000,
+    "net_income": 47956000000,
+    "comprehensive_income": 53977000000,
+    "eps": 311.51,
+    "dps": 80,
+    "operating_cf": 15172000000,
+    "investing_cf": -16712000000,
+    "financing_cf": -16231000000,
+    "net_assets": 320915000000,
+    "total_assets": 598889000000,
+    "bps": 2083,
+    "cash_end": 41600000000,
+    "equity_ratio": 0.535,
+    "roe": 0.1597,
+    "per": 4.81,
+    "gross_profit": 197976000000,
+    "operating_income": 44046000000,
+    "income_tax_expense": 20452000000,
+    "interest_bearing_debt_current": 24780000000,
+    "interest_bearing_debt_noncurrent": 51366000000,
+    "bonds_payable": 10000000000,
+    "commercial_papers": 43000000000,
+    "depreciation": 26748000000,
+    "capex_ppe": -43030000000,
+    "capex_intangible": -3360000000,
+    "current_assets": 289579000000,
+    "current_liabilities": 191048000000,
+    "noncurrent_assets": 309310000000,
+    "noncurrent_liabilities": 86926000000,
+    "trade_receivables": 109468000000,
+    "trade_payables": 42577000000,
+    "ppe": 265051000000,
+    "intangible_assets": 8529000000,
+    "investment_securities": 27204000000,
+    "treasury_stock": -132000000,
+    "noncontrolling_interests": 231000000
+  },
+  "segments": [
+    {
+      "key": "AutomotivePartsBusiness",
+      "label": null,
+      "external_revenue": 41346000000,
+      "operating_income": -2591000000
+    },
+    {
+      "key": "TireBusiness",
+      "label": null,
+      "external_revenue": 455796000000,
+      "operating_income": 46636000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01090-000_2023-12-31_01_2024-03-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

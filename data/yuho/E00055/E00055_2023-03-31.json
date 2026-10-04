@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "edinet_code": "E00055",
+    "sec_code": "1802",
+    "company_name": "株式会社大林組",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R95O"
+  },
+  "financials": {
+    "net_sales": 1983888000000,
+    "ordinary_income": 100802000000,
+    "net_income": 77671000000,
+    "comprehensive_income": 74244000000,
+    "eps": 108.34,
+    "dps": 42,
+    "operating_cf": 228456000000,
+    "investing_cf": -101610000000,
+    "financing_cf": 22118000000,
+    "net_assets": 1035881000000,
+    "total_assets": 2609929000000,
+    "bps": 1390.77,
+    "cash_end": 405633000000,
+    "equity_ratio": 0.382,
+    "roe": 0.08,
+    "per": 9.4,
+    "gross_profit": 216569000000,
+    "operating_income": 93800000000,
+    "income_tax_expense": 35533000000,
+    "interest_bearing_debt_current": 67170000000,
+    "interest_bearing_debt_noncurrent": 124051000000,
+    "bonds_payable": 50000000000,
+    "current_portion_of_bonds": 20000000000,
+    "lease_liabilities_current": 1425000000,
+    "lease_liabilities_noncurrent": 5018000000,
+    "depreciation": 23941000000,
+    "current_assets": 1505551000000,
+    "current_liabilities": 1226434000000,
+    "noncurrent_assets": 1104377000000,
+    "noncurrent_liabilities": 347613000000,
+    "ppe": 692545000000,
+    "goodwill": 5036000000,
+    "intangible_assets": 17932000000,
+    "investment_securities": 306570000000,
+    "treasury_stock": -2754000000,
+    "noncontrolling_interests": 38772000000
+  },
+  "segments": [
+    {
+      "key": "DomesticBuildingConstruction",
+      "label": null,
+      "external_revenue": 1056407000000,
+      "intersegment_revenue": 39452000000,
+      "operating_income": 36075000000
+    },
+    {
+      "key": "DomesticCivilEngineering",
+      "label": null,
+      "external_revenue": 343464000000,
+      "intersegment_revenue": 16195000000,
+      "operating_income": 21646000000
+    },
+    {
+      "key": "OverseasBuildingConstruction",
+      "label": null,
+      "external_revenue": 343894000000,
+      "intersegment_revenue": 84000000,
+      "operating_income": 4992000000
+    },
+    {
+      "key": "OverseasCivilEngineering",
+      "label": null,
+      "external_revenue": 103921000000,
+      "operating_income": 3451000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 83875000000,
+      "intersegment_revenue": 1175000000,
+      "operating_income": 26871000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00055-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

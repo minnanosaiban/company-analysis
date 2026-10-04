@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "edinet_code": "E01495",
+    "sec_code": "6134",
+    "company_name": "株式会社ＦＵＪＩ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R5T4"
+  },
+  "financials": {
+    "net_sales": 153326000000,
+    "ordinary_income": 29016000000,
+    "net_income": 20454000000,
+    "comprehensive_income": 23502000000,
+    "eps": 212.05,
+    "dps": 80,
+    "operating_cf": 12994000000,
+    "investing_cf": -5779000000,
+    "financing_cf": -7951000000,
+    "net_assets": 225104000000,
+    "total_assets": 254167000000,
+    "bps": 2332.15,
+    "cash_end": 59982000000,
+    "equity_ratio": 0.885,
+    "roe": 0.094,
+    "per": 10.5,
+    "gross_profit": 60652000000,
+    "operating_income": 27108000000,
+    "income_tax_expense": 8740000000,
+    "depreciation": 8605000000,
+    "current_assets": 176750000000,
+    "current_liabilities": 27569000000,
+    "noncurrent_assets": 77416000000,
+    "noncurrent_liabilities": 1493000000,
+    "trade_receivables": 42089000000,
+    "trade_payables": 9084000000,
+    "ppe": 28271000000,
+    "goodwill": 10570000000,
+    "intangible_assets": 24269000000,
+    "investment_securities": 19848000000,
+    "treasury_stock": -1625000000,
+    "noncontrolling_interests": 116000000
+  },
+  "segments": [
+    {
+      "key": "MachineTools",
+      "label": null,
+      "external_revenue": 10261000000,
+      "operating_income": -644000000
+    },
+    {
+      "key": "RoboticSolutions",
+      "label": null,
+      "external_revenue": 139879000000,
+      "intersegment_revenue": 26000000,
+      "operating_income": 31399000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01495-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

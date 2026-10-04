@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E03854",
+    "sec_code": "8725",
+    "company_name": "ＭＳ＆ＡＤインシュアランスグループホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-30",
+    "doc_id": "S100YNCJ"
+  },
+  "financials": {
+    "ordinary_income": 1120230000000,
+    "net_income": 787339000000,
+    "comprehensive_income": 1219940000000,
+    "eps": 528.87,
+    "eps_diluted": 528.8,
+    "dps": 160,
+    "operating_cf": 762608000000,
+    "investing_cf": -696997000000,
+    "financing_cf": -129233000000,
+    "net_assets": 4825140000000,
+    "total_assets": 28640815000000,
+    "bps": 3286.85,
+    "cash_end": 2222892000000,
+    "equity_ratio": 0.1665,
+    "roe": 0.1796,
+    "per": 7.62,
+    "income_tax_expense": 187389000000,
+    "profit_before_tax": 703521000000,
+    "depreciation": 103398000000,
+    "capex_ppe": -30833000000,
+    "capex_intangible": -62302000000,
+    "ppe": 375137000000,
+    "goodwill": 41088000000,
+    "intangible_assets": 333980000000,
+    "equity_method_investments": 917477000000,
+    "treasury_stock": -150623000000,
+    "noncontrolling_interests": 61407000000,
+    "ordinary_revenue": 7653030000000
+  },
+  "segments": [
+    {
+      "key": "AioiNissayDowaInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 1383727000000,
+      "intersegment_revenue": 61427000000,
+      "profit_attributable_to_owners": 118983000000
+    },
+    {
+      "key": "MitsuiDirectGeneralInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 40265000000,
+      "profit_attributable_to_owners": -2248000000
+    },
+    {
+      "key": "MitsuiSumitomoAioiLifeInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 256278000000,
+      "profit_attributable_to_owners": -60293000000
+    },
+    {
+      "key": "MitsuiSumitomoInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 1888116000000,
+      "intersegment_revenue": 46633000000,
+      "profit_attributable_to_owners": 182987000000
+    },
+    {
+      "key": "MitsuiSumitomoPrimaryLifeInsuranceCoLtd",
+      "label": null,
+      "external_revenue": 106741000000,
+      "profit_attributable_to_owners": 127359000000
+    },
+    {
+      "key": "OverseasSubsidiariesAndAffiliates",
+      "label": null,
+      "external_revenue": 2462744000000,
+      "intersegment_revenue": 5314000000,
+      "profit_attributable_to_owners": 234456000000,
+      "equity_method_income": 33491000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03854-000_2026-03-31_01_2026-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

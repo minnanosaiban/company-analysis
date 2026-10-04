@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E02691",
+    "sec_code": "8283",
+    "company_name": "株式会社ＰＡＬＴＡＣ",
+    "accounting_standard": "JP",
+    "is_consolidated": false,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1O8"
+  },
+  "financials": {
+    "dps": 70,
+    "net_sales": 1046412000000,
+    "ordinary_income": 27316000000,
+    "eps": 399.9,
+    "operating_cf": 21005000000,
+    "investing_cf": -3788000000,
+    "financing_cf": -13001000000,
+    "net_assets": 218297000000,
+    "total_assets": 418756000000,
+    "bps": 3435.2,
+    "cash_end": 22575000000,
+    "equity_ratio": 0.521,
+    "roe": 0.122,
+    "per": 13.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02691-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

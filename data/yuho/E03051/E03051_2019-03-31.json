@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E03051",
+    "sec_code": "8174",
+    "company_name": "日本瓦斯株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R4MS"
+  },
+  "financials": {
+    "net_sales": 122577000000,
+    "ordinary_income": 7375000000,
+    "net_income": 4328000000,
+    "comprehensive_income": 3419000000,
+    "eps": 33.9,
+    "dps": 70,
+    "operating_cf": 15151000000,
+    "investing_cf": -26846000000,
+    "financing_cf": -1570000000,
+    "net_assets": 69064000000,
+    "total_assets": 141267000000,
+    "bps": 555.03,
+    "cash_end": 18193000000,
+    "equity_ratio": 0.489,
+    "roe": 0.061,
+    "per": 30.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03051-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

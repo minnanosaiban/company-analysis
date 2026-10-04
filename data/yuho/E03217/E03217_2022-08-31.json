@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E03217",
+    "sec_code": "9983",
+    "company_name": "株式会社ファーストリテイリング",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-08-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-11-30",
+    "doc_id": "S100SD9V"
+  },
+  "financials": {
+    "dps": 206.67,
+    "net_sales": 2301122000000,
+    "net_income": 273335000000,
+    "comprehensive_income": 554833000000,
+    "net_assets": 1561652000000,
+    "total_assets": 3183762000000,
+    "equity_ratio": 0.491,
+    "bps": 5093.97,
+    "eps": 891.77,
+    "eps_diluted": 890.43,
+    "roe": 0.204,
+    "per": 30.6,
+    "operating_cf": 430817000000,
+    "investing_cf": -212226000000,
+    "financing_cf": -213050000000,
+    "cash_end": 1358292000000,
+    "operating_income": 297325000000,
+    "gross_profit": 1206859000000,
+    "income_tax_expense": 128834000000,
+    "lease_liabilities_current": 123885000000,
+    "lease_liabilities_noncurrent": 356840000000,
+    "sga_expense": 900154000000,
+    "profit_before_tax": 413584000000,
+    "depreciation": 180275000000,
+    "capex_ppe": -51271000000,
+    "capex_intangible": -28335000000,
+    "current_assets": 2178851000000,
+    "current_liabilities": 876242000000,
+    "noncurrent_assets": 1004911000000,
+    "inventories": 485928000000,
+    "ppe": 195226000000,
+    "goodwill": 8092000000,
+    "intangible_assets": 76621000000,
+    "equity_method_investments": 18557000000,
+    "treasury_stock": -14813000000,
+    "noncontrolling_interests": 53750000000
+  },
+  "segments": [
+    {
+      "key": "GU",
+      "label": null,
+      "revenue": 246055000000,
+      "operating_income": 16667000000,
+      "profit_before_tax": 18492000000
+    },
+    {
+      "key": "GlobalBrands",
+      "label": null,
+      "revenue": 123162000000,
+      "operating_income": -792000000,
+      "profit_before_tax": -1212000000
+    },
+    {
+      "key": "UNIQLOInternational",
+      "label": null,
+      "revenue": 1118763000000,
+      "operating_income": 158364000000,
+      "profit_before_tax": 156503000000
+    },
+    {
+      "key": "UNIQLOJAPAN",
+      "label": null,
+      "revenue": 810261000000,
+      "operating_income": 107975000000,
+      "profit_before_tax": 117809000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03217-000_2023-08-31_01_2023-11-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

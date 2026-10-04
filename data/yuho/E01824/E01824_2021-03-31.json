@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01824",
+    "sec_code": "6976",
+    "company_name": "太陽誘電株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100RAQ1"
+  },
+  "financials": {
+    "net_sales": 300920000000,
+    "ordinary_income": 41247000000,
+    "net_income": 28615000000,
+    "comprehensive_income": 37372000000,
+    "eps": 227.99,
+    "eps_diluted": 227.32,
+    "dps": 40,
+    "operating_cf": 52882000000,
+    "investing_cf": -42218000000,
+    "financing_cf": 12604000000,
+    "net_assets": 243941000000,
+    "total_assets": 404642000000,
+    "bps": 1937.86,
+    "cash_end": 81785000000,
+    "equity_ratio": 0.601,
+    "roe": 0.126,
+    "per": 22.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01824-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

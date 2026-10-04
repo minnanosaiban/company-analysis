@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "edinet_code": "E01944",
+    "sec_code": "6592",
+    "company_name": "マブチモーター株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T6GJ"
+  },
+  "financials": {
+    "net_sales": 156706000000,
+    "ordinary_income": 21473000000,
+    "net_income": 14295000000,
+    "comprehensive_income": 31248000000,
+    "eps": 110.39,
+    "eps_diluted": 110.37,
+    "dps": 135,
+    "operating_cf": 10206000000,
+    "investing_cf": -10468000000,
+    "financing_cf": -10088000000,
+    "net_assets": 280175000000,
+    "total_assets": 307786000000,
+    "bps": 2166.88,
+    "cash_end": 101255000000,
+    "equity_ratio": 0.91,
+    "roe": 0.053,
+    "per": 16.9,
+    "gross_profit": 37462000000,
+    "operating_income": 10824000000,
+    "income_tax_expense": 5476000000,
+    "interest_bearing_debt_noncurrent": 1112000000,
+    "depreciation": 11890000000,
+    "current_assets": 200554000000,
+    "current_liabilities": 21442000000,
+    "noncurrent_assets": 107231000000,
+    "noncurrent_liabilities": 6169000000,
+    "trade_receivables": 28944000000,
+    "trade_payables": 7989000000,
+    "ppe": 90386000000,
+    "goodwill": 2853000000,
+    "intangible_assets": 5477000000,
+    "investment_securities": 9064000000,
+    "treasury_stock": -10389000000
+  },
+  "segments": [
+    {
+      "key": "Asia",
+      "label": "アジア",
+      "external_revenue": 76817000000,
+      "intersegment_revenue": 82381000000,
+      "operating_income": 9986000000
+    },
+    {
+      "key": "Europe",
+      "label": "ヨーロッパ",
+      "external_revenue": 36731000000,
+      "intersegment_revenue": 100000000,
+      "operating_income": -177000000
+    },
+    {
+      "key": "Japan",
+      "label": "日本",
+      "external_revenue": 13962000000,
+      "intersegment_revenue": 86098000000,
+      "operating_income": 128000000
+    },
+    {
+      "key": "UnitedStates",
+      "label": "アメリカ",
+      "external_revenue": 29194000000,
+      "intersegment_revenue": 4468000000,
+      "operating_income": -210000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01944-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

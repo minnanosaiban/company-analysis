@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04425",
+    "sec_code": "9433",
+    "company_name": "ＫＤＤＩ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R0PR"
+  },
+  "financials": {
+    "dps": 105,
+    "net_sales": 5080353000000,
+    "net_income": 617669000000,
+    "comprehensive_income": 604136000000,
+    "net_assets": 4183492000000,
+    "total_assets": 7330416000000,
+    "equity_ratio": 0.571,
+    "bps": 1779.41,
+    "eps": 259.1,
+    "eps_diluted": 259.01,
+    "roe": 0.155,
+    "per": 9.2,
+    "operating_cf": 1029607000000,
+    "investing_cf": -714578000000,
+    "financing_cf": -310951000000,
+    "cash_end": 204597000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04425-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

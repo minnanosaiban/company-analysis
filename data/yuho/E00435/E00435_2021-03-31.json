@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00435",
+    "sec_code": "2801",
+    "company_name": "キッコーマン株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R6C4"
+  },
+  "financials": {
+    "net_sales": 468119000000,
+    "ordinary_income": 41464000000,
+    "net_income": 28828000000,
+    "comprehensive_income": 42060000000,
+    "eps": 150.17,
+    "dps": 45,
+    "operating_cf": 55136000000,
+    "investing_cf": -16811000000,
+    "financing_cf": -13179000000,
+    "net_assets": 311402000000,
+    "total_assets": 427470000000,
+    "bps": 1593.89,
+    "cash_end": 55873000000,
+    "equity_ratio": 0.716,
+    "roe": 0.1,
+    "per": 43.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00435-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

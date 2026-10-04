@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "edinet_code": "E04426",
+    "sec_code": "9434",
+    "company_name": "ソフトバンク株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YE76"
+  },
+  "financials": {
+    "dps": 8.6,
+    "net_income": 550759000000,
+    "comprehensive_income": 579763000000,
+    "net_assets": 2957859000000,
+    "total_assets": 18502175000000,
+    "equity_ratio": 0.16,
+    "bps": 55.13,
+    "eps": 11.35,
+    "eps_diluted": 11.27,
+    "roe": 0.193,
+    "per": 18.6,
+    "operating_cf": 1393760000000,
+    "investing_cf": -1270806000000,
+    "financing_cf": -136854000000,
+    "cash_end": 1438799000000,
+    "operating_income": 1042576000000,
+    "gross_profit": 3383995000000,
+    "income_tax_expense": 203399000000,
+    "sga_expense": 2384078000000,
+    "profit_before_tax": 930022000000,
+    "depreciation": 785278000000,
+    "current_assets": 5405531000000,
+    "current_liabilities": 8525235000000,
+    "noncurrent_assets": 13096644000000,
+    "trade_receivables": 3026078000000,
+    "inventories": 232037000000,
+    "trade_payables": 3285304000000,
+    "ppe": 2003769000000,
+    "goodwill": 2189385000000,
+    "intangible_assets": 2576720000000,
+    "equity_method_investments": 205823000000,
+    "treasury_stock": -27078000000,
+    "noncontrolling_interests": 1710596000000
+  },
+  "segments": [
+    {
+      "key": "Consumer",
+      "label": null,
+      "external_revenue": 2996054000000,
+      "intersegment_revenue": 19026000000,
+      "revenue": 3015080000000,
+      "operating_income": 550807000000
+    },
+    {
+      "key": "Distribution",
+      "label": null,
+      "external_revenue": 923551000000,
+      "intersegment_revenue": 132774000000,
+      "revenue": 1056325000000,
+      "operating_income": 35259000000
+    },
+    {
+      "key": "Enterprise",
+      "label": null,
+      "external_revenue": 970136000000,
+      "intersegment_revenue": 32759000000,
+      "revenue": 1002895000000,
+      "operating_income": 192390000000
+    },
+    {
+      "key": "Financial",
+      "label": null,
+      "external_revenue": 379312000000,
+      "intersegment_revenue": 25179000000,
+      "revenue": 404491000000,
+      "operating_income": 86290000000
+    },
+    {
+      "key": "MediaEC",
+      "label": null,
+      "external_revenue": 1641041000000,
+      "intersegment_revenue": 26937000000,
+      "revenue": 1667978000000,
+      "operating_income": 240418000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04426-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

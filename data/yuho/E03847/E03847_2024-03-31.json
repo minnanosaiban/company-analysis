@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E03847",
+    "sec_code": "8766",
+    "company_name": "東京海上ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-21",
+    "doc_id": "S100TOZP"
+  },
+  "financials": {
+    "ordinary_income": 842576000000,
+    "net_income": 695808000000,
+    "comprehensive_income": 1874295000000,
+    "eps": 351.59,
+    "eps_diluted": 351.59,
+    "dps": 123,
+    "operating_cf": 1072124000000,
+    "investing_cf": -627647000000,
+    "financing_cf": -406204000000,
+    "net_assets": 5183341000000,
+    "total_assets": 30594869000000,
+    "bps": 2623.94,
+    "cash_end": 1086981000000,
+    "equity_ratio": 0.1692,
+    "roe": 0.1588,
+    "per": 13.38,
+    "bonds_payable": 224404000000,
+    "depreciation": 127916000000,
+    "capex_ppe": -20723000000,
+    "ppe": 399579000000,
+    "goodwill": 372624000000,
+    "intangible_assets": 1150669000000,
+    "treasury_stock": -14167000000,
+    "noncontrolling_interests": 6704000000,
+    "ordinary_revenue": 7424667000000
+  },
+  "segments": [
+    {
+      "key": "DomesticLifeInsurance",
+      "label": null,
+      "external_revenue": 640590000000,
+      "intersegment_revenue": 415000000,
+      "ordinary_income": 57156000000
+    },
+    {
+      "key": "DomesticPropertyAndCasualtyInsurance",
+      "label": null,
+      "external_revenue": 3250178000000,
+      "intersegment_revenue": 16574000000,
+      "ordinary_income": 323498000000
+    },
+    {
+      "key": "FinancialAndOther",
+      "label": null,
+      "external_revenue": 80435000000,
+      "intersegment_revenue": 25204000000,
+      "ordinary_income": 9082000000
+    },
+    {
+      "key": "OverseasInsurance",
+      "label": null,
+      "external_revenue": 3646826000000,
+      "intersegment_revenue": 3988000000,
+      "ordinary_income": 452838000000,
+      "equity_method_income": 9241000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03847-000_2024-03-31_01_2024-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

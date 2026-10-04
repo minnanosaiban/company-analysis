@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E21320",
+    "sec_code": "6632",
+    "company_name": "株式会社ＪＶＣケンウッド",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R2FG"
+  },
+  "financials": {
+    "dps": 5,
+    "net_sales": 291304000000,
+    "net_income": 954000000,
+    "comprehensive_income": -3098000000,
+    "net_assets": 56485000000,
+    "total_assets": 249660000000,
+    "equity_ratio": 0.226,
+    "bps": 344.55,
+    "eps": 5.82,
+    "roe": 0.016,
+    "per": 33.51,
+    "operating_cf": 21642000000,
+    "investing_cf": -19675000000,
+    "financing_cf": -1665000000,
+    "cash_end": 39933000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21320-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

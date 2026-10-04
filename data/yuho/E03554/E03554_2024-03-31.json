@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "edinet_code": "E03554",
+    "sec_code": "8334",
+    "company_name": "株式会社群馬銀行",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TO5C"
+  },
+  "financials": {
+    "ordinary_income": 43788000000,
+    "net_income": 31125000000,
+    "comprehensive_income": 73225000000,
+    "eps": 78.43,
+    "dps": 22,
+    "operating_cf": -394524000000,
+    "investing_cf": 411002000000,
+    "financing_cf": -15929000000,
+    "net_assets": 573095000000,
+    "total_assets": 10818218000000,
+    "bps": 1460.16,
+    "cash_end": 1830503000000,
+    "equity_ratio": 0.0529,
+    "roe": 0.0571,
+    "per": 11.19,
+    "income_tax_expense": 11850000000,
+    "bonds_payable": 50000000000,
+    "depreciation": 6193000000,
+    "capex_ppe": -4347000000,
+    "capex_intangible": -2941000000,
+    "ppe": 64772000000,
+    "intangible_assets": 8162000000,
+    "treasury_stock": -17146000000,
+    "ordinary_revenue": 200356000000
+  },
+  "segments": [
+    {
+      "key": "Banking",
+      "label": null,
+      "external_revenue": 166040000000,
+      "intersegment_revenue": 861000000,
+      "ordinary_income": 39348000000,
+      "equity_method_income": 166000000
+    },
+    {
+      "key": "Leasing",
+      "label": null,
+      "external_revenue": 29256000000,
+      "intersegment_revenue": 392000000,
+      "ordinary_income": 1226000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03554-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

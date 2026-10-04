@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01108",
+    "sec_code": "7282",
+    "company_name": "豊田合成株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-16",
+    "doc_id": "S100QX4W"
+  },
+  "financials": {
+    "dps": 60,
+    "net_sales": 721498000000,
+    "net_income": 35205000000,
+    "comprehensive_income": 53857000000,
+    "net_assets": 391083000000,
+    "total_assets": 775155000000,
+    "equity_ratio": 0.505,
+    "bps": 3021.28,
+    "eps": 271.99,
+    "eps_diluted": 271.97,
+    "roe": 0.096,
+    "per": 10.7,
+    "operating_cf": 67247000000,
+    "investing_cf": -49949000000,
+    "financing_cf": -13065000000,
+    "cash_end": 134003000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01108-000_2023-03-31_01_2023-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

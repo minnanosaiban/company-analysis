@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E04425",
+    "sec_code": "9433",
+    "company_name": "ＫＤＤＩ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YKG2"
+  },
+  "financials": {
+    "dps": 80,
+    "net_sales": 6071915000000,
+    "net_income": 707112000000,
+    "comprehensive_income": 748800000000,
+    "net_assets": 5076738000000,
+    "total_assets": 19063364000000,
+    "equity_ratio": 0.266,
+    "bps": 1333.5,
+    "eps": 183.59,
+    "eps_diluted": 183.55,
+    "roe": 0.14,
+    "per": 14.83,
+    "operating_cf": 1788853000000,
+    "investing_cf": -1080455000000,
+    "financing_cf": -553130000000,
+    "cash_end": 1078807000000,
+    "operating_income": 1099125000000,
+    "gross_profit": 2590636000000,
+    "income_tax_expense": 337243000000,
+    "interest_bearing_debt_current": 2279998000000,
+    "interest_bearing_debt_noncurrent": 2588058000000,
+    "lease_liabilities_current": 124381000000,
+    "lease_liabilities_noncurrent": 382914000000,
+    "sga_expense": 1529370000000,
+    "profit_before_tax": 1117904000000,
+    "depreciation": 688271000000,
+    "capex_ppe": -404828000000,
+    "capex_intangible": -274178000000,
+    "current_assets": 5578428000000,
+    "current_liabilities": 9937974000000,
+    "noncurrent_assets": 13484936000000,
+    "trade_receivables": 3227074000000,
+    "inventories": 140295000000,
+    "trade_payables": 973109000000,
+    "ppe": 2999321000000,
+    "goodwill": 580269000000,
+    "intangible_assets": 1058151000000,
+    "equity_method_investments": 715022000000,
+    "treasury_stock": -822073000000,
+    "noncontrolling_interests": 515952000000
+  },
+  "segments": [
+    {
+      "key": "Business",
+      "label": null,
+      "external_revenue": 1292298000000,
+      "intersegment_revenue": 235616000000,
+      "operating_income": 263884000000,
+      "equity_method_income": -440000000
+    },
+    {
+      "key": "Personal",
+      "label": null,
+      "external_revenue": 4755571000000,
+      "intersegment_revenue": 57166000000,
+      "operating_income": 828337000000,
+      "equity_method_income": 38192000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04425-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

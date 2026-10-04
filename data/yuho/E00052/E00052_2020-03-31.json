@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00052",
+    "sec_code": "1801",
+    "company_name": "大成建設株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R0RE"
+  },
+  "financials": {
+    "net_sales": 1751330000000,
+    "ordinary_income": 173347000000,
+    "net_income": 122087000000,
+    "comprehensive_income": 86343000000,
+    "eps": 573.14,
+    "dps": 130,
+    "operating_cf": 77475000000,
+    "investing_cf": 33260000000,
+    "financing_cf": -66647000000,
+    "net_assets": 753915000000,
+    "total_assets": 1889995000000,
+    "bps": 3550.03,
+    "cash_end": 482655000000,
+    "equity_ratio": 0.397,
+    "roe": 0.166,
+    "per": 5.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00052-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

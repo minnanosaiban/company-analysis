@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "edinet_code": "E35810",
+    "sec_code": "7337",
+    "company_name": "株式会社ひろぎんホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YCZN"
+  },
+  "financials": {
+    "ordinary_income": 62018000000,
+    "net_income": 43734000000,
+    "comprehensive_income": 84459000000,
+    "eps": 145.84,
+    "eps_diluted": 145.75,
+    "dps": 58,
+    "operating_cf": -345169000000,
+    "investing_cf": -202797000000,
+    "financing_cf": -20907000000,
+    "net_assets": 568824000000,
+    "total_assets": 12210589000000,
+    "bps": 1904.72,
+    "cash_end": 1116522000000,
+    "equity_ratio": 0.0465,
+    "roe": 0.0815,
+    "per": 11.78,
+    "income_tax_expense": 15877000000,
+    "bonds_payable": 30000000000,
+    "depreciation": 7008000000,
+    "capex_ppe": -2528000000,
+    "capex_intangible": -7475000000,
+    "ppe": 110184000000,
+    "goodwill": 5000000,
+    "intangible_assets": 20240000000,
+    "treasury_stock": -7817000000,
+    "noncontrolling_interests": 100000000,
+    "ordinary_revenue": 251214000000
+  },
+  "segments": [
+    {
+      "key": "Banking",
+      "label": null,
+      "external_revenue": 214414000000,
+      "intersegment_revenue": 1333000000,
+      "ordinary_income": 56905000000
+    },
+    {
+      "key": "Leasing",
+      "label": null,
+      "external_revenue": 23465000000,
+      "intersegment_revenue": 304000000,
+      "ordinary_income": 1438000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E35810-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

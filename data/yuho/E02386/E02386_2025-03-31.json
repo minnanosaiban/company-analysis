@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "edinet_code": "E02386",
+    "sec_code": "7988",
+    "company_name": "株式会社ニフコ",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-23",
+    "doc_id": "S100W273"
+  },
+  "financials": {
+    "net_sales": 353038000000,
+    "ordinary_income": 52147000000,
+    "net_income": 44767000000,
+    "comprehensive_income": 54199000000,
+    "eps": 461.95,
+    "dps": 75,
+    "operating_cf": 54217000000,
+    "investing_cf": -23891000000,
+    "financing_cf": -35154000000,
+    "net_assets": 278725000000,
+    "total_assets": 379816000000,
+    "bps": 2888.37,
+    "cash_end": 141097000000,
+    "equity_ratio": 0.724,
+    "roe": 0.173,
+    "per": 7.8,
+    "gross_profit": 107200000000,
+    "operating_income": 49200000000,
+    "income_tax_expense": 11834000000,
+    "interest_bearing_debt_current": 199000000,
+    "interest_bearing_debt_noncurrent": 225000000,
+    "bonds_payable": 25000000000,
+    "current_portion_of_bonds": 10000000000,
+    "current_portion_lt_loans": 60000000,
+    "depreciation": 13007000000,
+    "current_assets": 259565000000,
+    "current_liabilities": 67223000000,
+    "noncurrent_assets": 120250000000,
+    "noncurrent_liabilities": 33867000000,
+    "trade_payables": 26284000000,
+    "ppe": 107685000000,
+    "intangible_assets": 2194000000,
+    "investment_securities": 684000000,
+    "treasury_stock": -18588000000,
+    "noncontrolling_interests": 3757000000
+  },
+  "segments": [
+    {
+      "key": "BeddingAndFurniture",
+      "label": null,
+      "external_revenue": 37096000000,
+      "operating_income": 5967000000
+    },
+    {
+      "key": "IndustrialPlasticPartsAndComponents",
+      "label": null,
+      "external_revenue": 315942000000,
+      "operating_income": 49016000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02386-000_2025-03-31_01_2025-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

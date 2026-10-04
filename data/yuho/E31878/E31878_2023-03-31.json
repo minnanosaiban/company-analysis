@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "edinet_code": "E31878",
+    "sec_code": "3923",
+    "company_name": "株式会社ラクス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R4DC"
+  },
+  "financials": {
+    "net_sales": 27399000000,
+    "ordinary_income": 1677000000,
+    "net_income": 1274000000,
+    "comprehensive_income": 1275000000,
+    "eps": 7.03,
+    "dps": 1.95,
+    "operating_cf": 2170000000,
+    "investing_cf": -699000000,
+    "financing_cf": -348000000,
+    "net_assets": 9548000000,
+    "total_assets": 14073000000,
+    "bps": 52.69,
+    "cash_end": 5990000000,
+    "equity_ratio": 0.678,
+    "roe": 0.14,
+    "per": 269.86,
+    "gross_profit": 18777000000,
+    "operating_income": 1656000000,
+    "income_tax_expense": 808000000,
+    "interest_bearing_debt_noncurrent": 32000000,
+    "current_portion_lt_loans": 4000000,
+    "depreciation": 422000000,
+    "capex_ppe": -625000000,
+    "capex_intangible": -9000000,
+    "current_assets": 10479000000,
+    "current_liabilities": 4347000000,
+    "noncurrent_assets": 3594000000,
+    "noncurrent_liabilities": 178000000,
+    "ppe": 1091000000,
+    "goodwill": 464000000,
+    "intangible_assets": 494000000,
+    "treasury_stock": 0
+  },
+  "segments": [
+    {
+      "key": "CloudService",
+      "label": null,
+      "external_revenue": 22276000000,
+      "intersegment_revenue": 0,
+      "operating_income": 1215000000
+    },
+    {
+      "key": "HumanResource",
+      "label": null,
+      "external_revenue": 5122000000,
+      "intersegment_revenue": 29000000,
+      "operating_income": 440000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31878-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

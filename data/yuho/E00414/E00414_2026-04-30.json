@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E00414",
+    "sec_code": "2593",
+    "company_name": "株式会社伊藤園",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-04-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-07-21",
+    "doc_id": "S100YRK7"
+  },
+  "financials": {
+    "net_sales": 497877000000,
+    "ordinary_income": 23267000000,
+    "net_income": 3466000000,
+    "comprehensive_income": 7845000000,
+    "eps": 26.87,
+    "eps_diluted": 26.82,
+    "dps": 48,
+    "operating_cf": 11301000000,
+    "investing_cf": -11072000000,
+    "financing_cf": -16609000000,
+    "net_assets": 177951000000,
+    "total_assets": 342667000000,
+    "bps": 1527.27,
+    "cash_end": 71080000000,
+    "equity_ratio": 0.514,
+    "roe": 0.02,
+    "per": 107.52,
+    "gross_profit": 179417000000,
+    "operating_income": 21684000000,
+    "income_tax_expense": 6634000000,
+    "interest_bearing_debt_current": 5997000000,
+    "interest_bearing_debt_noncurrent": 46037000000,
+    "bonds_payable": 10000000000,
+    "lease_liabilities_current": 1134000000,
+    "lease_liabilities_noncurrent": 2470000000,
+    "depreciation": 8553000000,
+    "current_assets": 237179000000,
+    "current_liabilities": 93961000000,
+    "noncurrent_assets": 105487000000,
+    "noncurrent_liabilities": 70754000000,
+    "ppe": 65669000000,
+    "goodwill": 1071000000,
+    "intangible_assets": 7446000000,
+    "investment_securities": 5966000000,
+    "treasury_stock": -5764000000,
+    "noncontrolling_interests": 1730000000
+  },
+  "segments": [
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 7938000000,
+      "intersegment_revenue": 541000000,
+      "operating_income": 659000000
+    },
+    {
+      "key": "RestaurantBusiness",
+      "label": null,
+      "external_revenue": 46495000000,
+      "intersegment_revenue": 360000000,
+      "operating_income": 3555000000
+    },
+    {
+      "key": "TeaLeavesBeveragesBusiness",
+      "label": null,
+      "external_revenue": 443443000000,
+      "intersegment_revenue": 1689000000,
+      "operating_income": 17500000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00414-000_2026-04-30_01_2026-07-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

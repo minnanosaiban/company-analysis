@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "edinet_code": "E02529",
+    "sec_code": "8058",
+    "company_name": "三菱商事株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VYM1"
+  },
+  "financials": {
+    "dps": 70,
+    "net_sales": 19567601000000,
+    "net_income": 964034000000,
+    "comprehensive_income": 1714019000000,
+    "net_assets": 9043867000000,
+    "total_assets": 23459572000000,
+    "equity_ratio": 0.386,
+    "bps": 2206.97,
+    "eps": 230.1,
+    "eps_diluted": 222.37,
+    "roe": 0.113,
+    "per": 15.15,
+    "operating_cf": 1347380000000,
+    "investing_cf": -205761000000,
+    "financing_cf": -1086233000000,
+    "cash_end": 1251550000000,
+    "gross_profit": 2359709000000,
+    "income_tax_expense": 337736000000,
+    "interest_bearing_debt_current": 1733684000000,
+    "interest_bearing_debt_noncurrent": 3394268000000,
+    "lease_liabilities_current": 111821000000,
+    "lease_liabilities_noncurrent": 446818000000,
+    "sga_expense": 1692282000000,
+    "profit_before_tax": 1362594000000,
+    "depreciation": 599330000000,
+    "capex_ppe": -520542000000,
+    "current_assets": 11676499000000,
+    "current_liabilities": 8132081000000,
+    "noncurrent_assets": 11783073000000,
+    "trade_receivables": 4242973000000,
+    "inventories": 1724221000000,
+    "trade_payables": 2848897000000,
+    "ppe": 2692368000000,
+    "goodwill": 296473000000,
+    "intangible_assets": 446420000000,
+    "investment_securities": 1814773000000,
+    "equity_method_investments": 4500877000000,
+    "treasury_stock": -187011000000,
+    "noncontrolling_interests": 1050962000000
+  },
+  "segments": [
+    {
+      "key": "EnvironmentalEnergy",
+      "label": "地球環境エネルギー",
+      "gross_profit": 107990000000,
+      "equity_method_income": 147214000000,
+      "profit_attributable_to_owners": 238804000000,
+      "assets": 2875279000000
+    },
+    {
+      "key": "FoodIndustry",
+      "label": "食品産業",
+      "gross_profit": 300606000000,
+      "equity_method_income": 14518000000,
+      "profit_attributable_to_owners": -25315000000,
+      "assets": 2164638000000
+    },
+    {
+      "key": "MaterialsSolution",
+      "label": "マテリアルソリューション",
+      "gross_profit": 232521000000,
+      "equity_method_income": 35451000000,
+      "profit_attributable_to_owners": 73877000000,
+      "assets": 2103534000000
+    },
+    {
+      "key": "MineralResources",
+      "label": "金属資源",
+      "gross_profit": 397918000000,
+      "equity_method_income": 70322000000,
+      "profit_attributable_to_owners": 295524000000,
+      "assets": 4379232000000
+    },
+    {
+      "key": "Mobility",
+      "label": "モビリティ",
+      "gross_profit": 182085000000,
+      "equity_method_income": 94406000000,
+      "profit_attributable_to_owners": 141434000000,
+      "assets": 1976039000000
+    },
+    {
+      "key": "PowerSolution",
+      "label": "電力ソリューション",
+      "gross_profit": 155082000000,
+      "equity_method_income": 25969000000,
+      "profit_attributable_to_owners": 97907000000,
+      "assets": 2731046000000
+    },
+    {
+      "key": "SmartLifeCreation",
+      "label": "S．L．C．",
+      "gross_profit": 806054000000,
+      "equity_method_income": 45728000000,
+      "profit_attributable_to_owners": 102664000000,
+      "assets": 4662158000000
+    },
+    {
+      "key": "UrbanDevelopmentAndInfrastructure",
+      "label": "社会インフラ",
+      "gross_profit": 168949000000,
+      "equity_method_income": 10715000000,
+      "profit_attributable_to_owners": 50921000000,
+      "assets": 2093401000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02529-000_2025-03-31_01_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

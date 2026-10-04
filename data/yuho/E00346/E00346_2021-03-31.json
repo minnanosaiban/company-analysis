@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00346",
+    "sec_code": "2002",
+    "company_name": "株式会社日清製粉グループ本社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R7Q5"
+  },
+  "financials": {
+    "net_sales": 679495000000,
+    "ordinary_income": 29886000000,
+    "net_income": 19011000000,
+    "comprehensive_income": 49252000000,
+    "eps": 63.95,
+    "eps_diluted": 63.94,
+    "dps": 37,
+    "operating_cf": 49506000000,
+    "investing_cf": -17105000000,
+    "financing_cf": -31264000000,
+    "net_assets": 444774000000,
+    "total_assets": 687415000000,
+    "bps": 1456.37,
+    "cash_end": 59152000000,
+    "equity_ratio": 0.63,
+    "roe": 0.046,
+    "per": 28.93
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00346-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

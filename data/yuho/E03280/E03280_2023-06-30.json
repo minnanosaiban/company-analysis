@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E03280",
+    "sec_code": "7532",
+    "company_name": "株式会社パン・パシフィック・インターナショナルホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-09-27",
+    "doc_id": "S100RX47"
+  },
+  "financials": {
+    "net_sales": 1936783000000,
+    "ordinary_income": 110994000000,
+    "net_income": 66167000000,
+    "comprehensive_income": 71775000000,
+    "eps": 110.94,
+    "eps_diluted": 110.67,
+    "dps": 20,
+    "operating_cf": 137955000000,
+    "investing_cf": -61997000000,
+    "financing_cf": -18217000000,
+    "net_assets": 463539000000,
+    "total_assets": 1481058000000,
+    "bps": 759.75,
+    "cash_end": 246195000000,
+    "equity_ratio": 0.306,
+    "roe": 0.157,
+    "per": 23.19,
+    "gross_profit": 600390000000,
+    "operating_income": 105259000000,
+    "income_tax_expense": 37367000000,
+    "interest_bearing_debt_noncurrent": 272499000000,
+    "bonds_payable": 261625000000,
+    "current_portion_of_bonds": 10930000000,
+    "current_portion_lt_loans": 34364000000,
+    "lease_liabilities_current": 2263000000,
+    "lease_liabilities_noncurrent": 31036000000,
+    "capex_ppe": -51678000000,
+    "capex_intangible": -7884000000,
+    "current_assets": 551836000000,
+    "current_liabilities": 368422000000,
+    "noncurrent_assets": 929222000000,
+    "noncurrent_liabilities": 649097000000,
+    "trade_receivables": 13782000000,
+    "trade_payables": 168661000000,
+    "ppe": 689209000000,
+    "goodwill": 61002000000,
+    "intangible_assets": 88530000000,
+    "investment_securities": 34643000000,
+    "treasury_stock": -80956000000,
+    "noncontrolling_interests": 9507000000
+  },
+  "segments": [
+    {
+      "key": "AsiaBusiness",
+      "label": null,
+      "external_revenue": 82343000000,
+      "intersegment_revenue": 133000000,
+      "operating_income": 1630000000
+    },
+    {
+      "key": "JapanBusiness",
+      "label": null,
+      "external_revenue": 1620851000000,
+      "intersegment_revenue": 10822000000,
+      "operating_income": 96404000000
+    },
+    {
+      "key": "NorthAmericaBusiness",
+      "label": null,
+      "external_revenue": 233590000000,
+      "operating_income": 7225000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03280-000_2023-06-30_01_2023-09-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

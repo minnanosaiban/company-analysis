@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02632",
+    "sec_code": "7459",
+    "company_name": "株式会社メディパルホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R51F"
+  },
+  "financials": {
+    "net_sales": 3181928000000,
+    "ordinary_income": 63914000000,
+    "net_income": 34359000000,
+    "comprehensive_income": 35238000000,
+    "eps": 154.09,
+    "eps_diluted": 145.15,
+    "dps": 38,
+    "operating_cf": 63716000000,
+    "investing_cf": -23512000000,
+    "financing_cf": -30755000000,
+    "net_assets": 592848000000,
+    "total_assets": 1617911000000,
+    "bps": 2233.52,
+    "cash_end": 230011000000,
+    "equity_ratio": 0.307,
+    "roe": 0.07,
+    "per": 17.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02632-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

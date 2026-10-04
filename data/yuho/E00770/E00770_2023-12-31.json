@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E00770",
+    "sec_code": "4045",
+    "company_name": "東亞合成株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5RS"
+  },
+  "financials": {
+    "net_sales": 159371000000,
+    "ordinary_income": 14503000000,
+    "net_income": 12179000000,
+    "comprehensive_income": 17024000000,
+    "eps": 102.78,
+    "dps": 53,
+    "operating_cf": 21638000000,
+    "investing_cf": -3528000000,
+    "financing_cf": -15524000000,
+    "net_assets": 212518000000,
+    "total_assets": 272285000000,
+    "bps": 1816.1,
+    "cash_end": 47636000000,
+    "equity_ratio": 0.777,
+    "roe": 0.058,
+    "per": 13.3,
+    "gross_profit": 41367000000,
+    "operating_income": 12499000000,
+    "income_tax_expense": 4851000000,
+    "interest_bearing_debt_current": 2499000000,
+    "interest_bearing_debt_noncurrent": 8595000000,
+    "lease_liabilities_current": 174000000,
+    "lease_liabilities_noncurrent": 1077000000,
+    "depreciation": 10656000000,
+    "capex_ppe": -11660000000,
+    "current_assets": 134860000000,
+    "current_liabilities": 41480000000,
+    "noncurrent_assets": 137425000000,
+    "noncurrent_liabilities": 18287000000,
+    "trade_receivables": 51102000000,
+    "inventories": 24792000000,
+    "trade_payables": 19091000000,
+    "ppe": 96532000000,
+    "intangible_assets": 1579000000,
+    "investment_securities": 32912000000,
+    "treasury_stock": -786000000,
+    "noncontrolling_interests": 1008000000
+  },
+  "segments": [
+    {
+      "key": "AdhesiveMaterial",
+      "label": "接着材料事業",
+      "external_revenue": 12410000000,
+      "intersegment_revenue": 136000000,
+      "operating_income": 361000000
+    },
+    {
+      "key": "CommodityChemicals",
+      "label": "基幹化学品事業",
+      "external_revenue": 73488000000,
+      "intersegment_revenue": 3566000000,
+      "operating_income": 6769000000
+    },
+    {
+      "key": "PerformanceChemicals",
+      "label": "高機能材料事業",
+      "external_revenue": 9943000000,
+      "intersegment_revenue": 280000000,
+      "operating_income": 1547000000
+    },
+    {
+      "key": "Plastics",
+      "label": "樹脂加工製品事業",
+      "external_revenue": 27867000000,
+      "intersegment_revenue": 729000000,
+      "operating_income": 1473000000
+    },
+    {
+      "key": "PolymerAndOligomer",
+      "label": "ポリマー・オリゴマー事業",
+      "external_revenue": 33765000000,
+      "intersegment_revenue": 1641000000,
+      "operating_income": 3182000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00770-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

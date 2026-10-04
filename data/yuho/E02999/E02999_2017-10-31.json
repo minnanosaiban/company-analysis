@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E02999",
+    "sec_code": "3038",
+    "company_name": "株式会社神戸物産",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-10-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2026-01-23",
+    "doc_id": "S100XH2R"
+  },
+  "financials": {
+    "net_sales": 251503000000,
+    "ordinary_income": 15778000000,
+    "net_income": 8346000000,
+    "comprehensive_income": 8034000000,
+    "eps": 39.82,
+    "eps_diluted": 38.89,
+    "dps": 50,
+    "operating_cf": 13661000000,
+    "investing_cf": -3071000000,
+    "financing_cf": 457000000,
+    "net_assets": 30066000000,
+    "total_assets": 144484000000,
+    "bps": 113.64,
+    "cash_end": 74758000000,
+    "equity_ratio": 0.166,
+    "roe": 0.412,
+    "per": 15.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02999-000_2021-10-31_02_2026-01-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

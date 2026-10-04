@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E00991",
+    "sec_code": "4912",
+    "company_name": "ライオン株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T3XS"
+  },
+  "financials": {
+    "dps": 25,
+    "net_sales": 389869000000,
+    "net_income": 21939000000,
+    "comprehensive_income": 29411000000,
+    "net_assets": 264255000000,
+    "total_assets": 469278000000,
+    "equity_ratio": 0.563,
+    "bps": 929.72,
+    "eps": 77.04,
+    "eps_diluted": 76.91,
+    "roe": 0.085,
+    "per": 19.7,
+    "operating_cf": 41962000000,
+    "investing_cf": -19535000000,
+    "financing_cf": -19821000000,
+    "cash_end": 101078000000,
+    "operating_income": 28843000000,
+    "gross_profit": 174605000000,
+    "income_tax_expense": 8182000000,
+    "lease_liabilities_current": 1746000000,
+    "lease_liabilities_noncurrent": 28849000000,
+    "sga_expense": 151046000000,
+    "profit_before_tax": 31292000000,
+    "depreciation": 17665000000,
+    "capex_ppe": -18490000000,
+    "capex_intangible": -4655000000,
+    "current_assets": 237691000000,
+    "current_liabilities": 141574000000,
+    "noncurrent_assets": 231587000000,
+    "trade_receivables": 71263000000,
+    "inventories": 53909000000,
+    "trade_payables": 126024000000,
+    "ppe": 130137000000,
+    "goodwill": 327000000,
+    "intangible_assets": 23917000000,
+    "equity_method_investments": 8939000000,
+    "treasury_stock": -8056000000,
+    "noncontrolling_interests": 14912000000
+  },
+  "segments": [
+    {
+      "key": "GeneralUseConsumableProductsBusiness",
+      "label": null,
+      "external_revenue": 230520000000,
+      "intersegment_revenue": 35035000000
+    },
+    {
+      "key": "IndustrialProductsBusiness",
+      "label": null,
+      "external_revenue": 37849000000,
+      "intersegment_revenue": 20226000000
+    },
+    {
+      "key": "OverseasBusiness",
+      "label": null,
+      "external_revenue": 118042000000,
+      "intersegment_revenue": 11300000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00991-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

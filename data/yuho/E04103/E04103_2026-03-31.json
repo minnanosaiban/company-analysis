@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "edinet_code": "E04103",
+    "sec_code": "9042",
+    "company_name": "阪急阪神ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-17",
+    "doc_id": "S100YCBL"
+  },
+  "financials": {
+    "ordinary_income": 124548000000,
+    "net_income": 78538000000,
+    "comprehensive_income": 96330000000,
+    "eps": 330.42,
+    "eps_diluted": 330.2,
+    "dps": 100,
+    "operating_cf": 51679000000,
+    "investing_cf": -163059000000,
+    "financing_cf": 122681000000,
+    "net_assets": 1201345000000,
+    "total_assets": 3543589000000,
+    "bps": 4653.53,
+    "cash_end": 69573000000,
+    "equity_ratio": 0.312,
+    "roe": 0.073,
+    "per": 13.78,
+    "operating_income": 127136000000,
+    "income_tax_expense": 34228000000,
+    "interest_bearing_debt_current": 227317000000,
+    "interest_bearing_debt_noncurrent": 879747000000,
+    "bonds_payable": 305000000000,
+    "current_portion_of_bonds": 10000000000,
+    "lease_liabilities_current": 3362000000,
+    "lease_liabilities_noncurrent": 9131000000,
+    "depreciation": 68779000000,
+    "current_assets": 756658000000,
+    "current_liabilities": 592732000000,
+    "noncurrent_assets": 2786931000000,
+    "noncurrent_liabilities": 1749511000000,
+    "trade_receivables": 131139000000,
+    "trade_payables": 49639000000,
+    "ppe": 2086931000000,
+    "intangible_assets": 46300000000,
+    "investment_securities": 546193000000,
+    "treasury_stock": -53460000000,
+    "noncontrolling_interests": 97396000000
+  },
+  "segments": [
+    {
+      "key": "Entertainment",
+      "label": null,
+      "external_revenue": 88742000000,
+      "intersegment_revenue": 2429000000,
+      "operating_income": 13091000000
+    },
+    {
+      "key": "InformationAndCommunicationTechnology",
+      "label": null,
+      "external_revenue": 55778000000,
+      "intersegment_revenue": 16190000000,
+      "operating_income": 7841000000
+    },
+    {
+      "key": "InternationalTransportation",
+      "label": null,
+      "external_revenue": 106393000000,
+      "intersegment_revenue": 79000000,
+      "operating_income": 2049000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 396184000000,
+      "intersegment_revenue": 10520000000,
+      "operating_income": 67113000000
+    },
+    {
+      "key": "Travel",
+      "label": null,
+      "external_revenue": 295768000000,
+      "intersegment_revenue": 778000000,
+      "operating_income": 5423000000
+    },
+    {
+      "key": "UrbanTransportation",
+      "label": null,
+      "external_revenue": 209018000000,
+      "intersegment_revenue": 5275000000,
+      "operating_income": 35298000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04103-000_2026-03-31_01_2026-06-17.csv",
+    "parser_version": "0.1.3"
+  }
+}

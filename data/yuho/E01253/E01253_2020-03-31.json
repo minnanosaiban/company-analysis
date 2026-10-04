@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01253",
+    "sec_code": "5463",
+    "company_name": "丸一鋼管株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R2QI"
+  },
+  "financials": {
+    "net_sales": 154926000000,
+    "ordinary_income": 17104000000,
+    "net_income": 6354000000,
+    "comprehensive_income": -406000000,
+    "eps": 76.79,
+    "eps_diluted": 76.7,
+    "dps": 105.5,
+    "operating_cf": 29739000000,
+    "investing_cf": -2690000000,
+    "financing_cf": -11337000000,
+    "net_assets": 267282000000,
+    "total_assets": 310120000000,
+    "bps": 3108.63,
+    "cash_end": 70732000000,
+    "equity_ratio": 0.83,
+    "roe": 0.024,
+    "per": 33.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01253-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

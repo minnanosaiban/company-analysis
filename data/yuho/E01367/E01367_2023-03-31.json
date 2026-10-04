@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E01367",
+    "sec_code": "5991",
+    "company_name": "日本発条株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R45X"
+  },
+  "financials": {
+    "net_sales": 693246000000,
+    "ordinary_income": 37317000000,
+    "net_income": 21537000000,
+    "comprehensive_income": 36917000000,
+    "eps": 94.5,
+    "dps": 32,
+    "operating_cf": 13656000000,
+    "investing_cf": -41758000000,
+    "financing_cf": -11546000000,
+    "net_assets": 365860000000,
+    "total_assets": 606039000000,
+    "bps": 1541.7,
+    "cash_end": 57845000000,
+    "equity_ratio": 0.576,
+    "roe": 0.064,
+    "per": 10,
+    "gross_profit": 80835000000,
+    "operating_income": 28838000000,
+    "income_tax_expense": 8339000000,
+    "interest_bearing_debt_current": 21167000000,
+    "interest_bearing_debt_noncurrent": 17090000000,
+    "bonds_payable": 11000000000,
+    "lease_liabilities_noncurrent": 759000000,
+    "depreciation": 28879000000,
+    "capex_ppe": -26543000000,
+    "capex_intangible": -450000000,
+    "current_assets": 337237000000,
+    "current_liabilities": 171615000000,
+    "noncurrent_assets": 268801000000,
+    "noncurrent_liabilities": 68563000000,
+    "trade_payables": 91525000000,
+    "ppe": 166269000000,
+    "intangible_assets": 3317000000,
+    "investment_securities": 62287000000,
+    "treasury_stock": -15703000000,
+    "noncontrolling_interests": 16638000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialMachineryAndEquipmentAndOtherOperations",
+      "label": null,
+      "external_revenue": 113196000000,
+      "intersegment_revenue": 12361000000,
+      "operating_income": 12790000000
+    },
+    {
+      "key": "PrecisionSpringsAndComponents",
+      "label": null,
+      "external_revenue": 159415000000,
+      "intersegment_revenue": 1549000000,
+      "operating_income": 11471000000
+    },
+    {
+      "key": "Seating",
+      "label": null,
+      "external_revenue": 273787000000,
+      "intersegment_revenue": 281000000,
+      "operating_income": 7311000000
+    },
+    {
+      "key": "SuspensionSprings",
+      "label": null,
+      "external_revenue": 146847000000,
+      "intersegment_revenue": 1785000000,
+      "operating_income": -2734000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01367-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

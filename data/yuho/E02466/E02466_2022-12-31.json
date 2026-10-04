@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E02466",
+    "sec_code": "7846",
+    "company_name": "株式会社パイロットコーポレーション",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T4Z1"
+  },
+  "financials": {
+    "net_sales": 112850000000,
+    "ordinary_income": 22633000000,
+    "net_income": 15773000000,
+    "comprehensive_income": 18417000000,
+    "eps": 399.86,
+    "dps": 90,
+    "operating_cf": 13753000000,
+    "investing_cf": -5350000000,
+    "financing_cf": -8370000000,
+    "net_assets": 117989000000,
+    "total_assets": 156542000000,
+    "bps": 2954.51,
+    "cash_end": 45444000000,
+    "equity_ratio": 0.745,
+    "roe": 0.145,
+    "per": 12,
+    "gross_profit": 60112000000,
+    "operating_income": 21244000000,
+    "income_tax_expense": 8303000000,
+    "interest_bearing_debt_current": 4441000000,
+    "interest_bearing_debt_noncurrent": 16000000,
+    "current_portion_lt_loans": 8000000,
+    "depreciation": 3822000000,
+    "capex_ppe": -4316000000,
+    "capex_intangible": -197000000,
+    "current_assets": 106606000000,
+    "current_liabilities": 36792000000,
+    "noncurrent_assets": 49936000000,
+    "noncurrent_liabilities": 1760000000,
+    "trade_receivables": 22738000000,
+    "trade_payables": 14354000000,
+    "ppe": 31023000000,
+    "intangible_assets": 6268000000,
+    "investment_securities": 5728000000,
+    "treasury_stock": -10858000000,
+    "noncontrolling_interests": 1436000000
+  },
+  "segments": [
+    {
+      "key": "America",
+      "label": null,
+      "external_revenue": 32090000000,
+      "intersegment_revenue": 6000000,
+      "operating_income": 605000000
+    },
+    {
+      "key": "Asia",
+      "label": null,
+      "external_revenue": 20202000000,
+      "operating_income": 996000000
+    },
+    {
+      "key": "Europe",
+      "label": null,
+      "external_revenue": 25506000000,
+      "intersegment_revenue": 3000000,
+      "operating_income": 1772000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 35051000000,
+      "intersegment_revenue": 51744000000,
+      "operating_income": 22591000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02466-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

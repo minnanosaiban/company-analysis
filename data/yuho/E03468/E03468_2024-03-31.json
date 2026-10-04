@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E03468",
+    "sec_code": "3397",
+    "company_name": "株式会社　トリドールホールディングス",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TKT1"
+  },
+  "financials": {
+    "dps": 9,
+    "net_sales": 231952000000,
+    "net_income": 5675000000,
+    "comprehensive_income": 14039000000,
+    "net_assets": 80827000000,
+    "total_assets": 322357000000,
+    "equity_ratio": 0.251,
+    "bps": 925.82,
+    "eps": 60.7,
+    "eps_diluted": 60.08,
+    "roe": 0.075,
+    "per": 68.5,
+    "operating_cf": 42794000000,
+    "investing_cf": -26817000000,
+    "financing_cf": -16548000000,
+    "cash_end": 70627000000,
+    "operating_income": 11647000000,
+    "gross_profit": 176172000000,
+    "income_tax_expense": 4636000000,
+    "lease_liabilities_current": 20001000000,
+    "lease_liabilities_noncurrent": 88912000000,
+    "sga_expense": 161636000000,
+    "profit_before_tax": 10839000000,
+    "depreciation": 28873000000,
+    "capex_ppe": -9094000000,
+    "capex_intangible": -37000000,
+    "current_assets": 85960000000,
+    "current_liabilities": 92583000000,
+    "noncurrent_assets": 236397000000,
+    "trade_receivables": 9678000000,
+    "inventories": 1087000000,
+    "trade_payables": 16963000000,
+    "ppe": 43672000000,
+    "goodwill": 52780000000,
+    "equity_method_investments": 4498000000,
+    "treasury_stock": -994000000,
+    "noncontrolling_interests": 9535000000
+  },
+  "segments": [
+    {
+      "key": "MarugameSeimenSegment",
+      "label": null,
+      "external_revenue": 114856000000,
+      "revenue": 114856000000,
+      "operating_income": 18351000000
+    },
+    {
+      "key": "OthersSegment",
+      "label": null,
+      "external_revenue": 28460000000,
+      "revenue": 28460000000,
+      "operating_income": 4451000000
+    },
+    {
+      "key": "OverseasSegment",
+      "label": null,
+      "external_revenue": 88637000000,
+      "revenue": 88637000000,
+      "operating_income": 2970000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03468-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

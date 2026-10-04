@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E01766",
+    "sec_code": "6702",
+    "company_name": "富士通株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R3OA"
+  },
+  "financials": {
+    "dps": 220,
+    "net_sales": 3586839000000,
+    "net_income": 182691000000,
+    "comprehensive_income": 231311000000,
+    "net_assets": 1590713000000,
+    "total_assets": 3331809000000,
+    "equity_ratio": 0.477,
+    "bps": 8094.7,
+    "eps": 924.21,
+    "eps_diluted": 922.97,
+    "roe": 0.12,
+    "per": 19.93,
+    "operating_cf": 248347000000,
+    "investing_cf": -59267000000,
+    "financing_cf": -193685000000,
+    "cash_end": 484020000000,
+    "operating_income": 219201000000,
+    "gross_profit": 1118651000000,
+    "income_tax_expense": 26845000000,
+    "sga_expense": 852775000000,
+    "profit_before_tax": 239986000000,
+    "depreciation": 182471000000,
+    "current_assets": 1941829000000,
+    "current_liabilities": 1320735000000,
+    "noncurrent_assets": 1389980000000,
+    "inventories": 309829000000,
+    "ppe": 571168000000,
+    "goodwill": 47487000000,
+    "intangible_assets": 133856000000,
+    "investment_securities": 170105000000,
+    "equity_method_investments": 166126000000,
+    "treasury_stock": -128897000000,
+    "noncontrolling_interests": 125036000000
+  },
+  "segments": [
+    {
+      "key": "DeviceSolutions",
+      "label": null,
+      "external_revenue": 364451000000,
+      "intersegment_revenue": 11532000000,
+      "revenue": 375983000000,
+      "operating_income": 78319000000
+    },
+    {
+      "key": "TechnologySolutions",
+      "label": null,
+      "external_revenue": 3035438000000,
+      "intersegment_revenue": 20940000000,
+      "revenue": 3056378000000,
+      "operating_income": 135001000000
+    },
+    {
+      "key": "UbiquitousSolutions",
+      "label": "ユビキタスソリューション",
+      "external_revenue": 186950000000,
+      "intersegment_revenue": 50165000000,
+      "revenue": 237115000000,
+      "operating_income": 5881000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01766-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

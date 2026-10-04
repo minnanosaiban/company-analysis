@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E03516",
+    "sec_code": "3086",
+    "company_name": "Ｊ.フロント リテイリング株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-26",
+    "doc_id": "S100QU70"
+  },
+  "financials": {
+    "dps": 27,
+    "net_sales": 319079000000,
+    "net_income": -26193000000,
+    "comprehensive_income": -27296000000,
+    "net_assets": 352171000000,
+    "total_assets": 1263722000000,
+    "equity_ratio": 0.279,
+    "bps": 1344.91,
+    "eps": -100.03,
+    "eps_diluted": -100.03,
+    "roe": -0.071,
+    "operating_cf": 56471000000,
+    "investing_cf": -20870000000,
+    "financing_cf": 58727000000,
+    "cash_end": 128925000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03516-000_2023-02-28_01_2023-05-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

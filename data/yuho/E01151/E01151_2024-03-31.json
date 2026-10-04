@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "edinet_code": "E01151",
+    "sec_code": "5393",
+    "company_name": "ニチアス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TPES"
+  },
+  "financials": {
+    "net_sales": 249391000000,
+    "ordinary_income": 38974000000,
+    "net_income": 26961000000,
+    "comprehensive_income": 36242000000,
+    "eps": 406.6,
+    "dps": 98,
+    "operating_cf": 19167000000,
+    "investing_cf": -12897000000,
+    "financing_cf": -11107000000,
+    "net_assets": 200918000000,
+    "total_assets": 290788000000,
+    "bps": 3039.26,
+    "cash_end": 55574000000,
+    "equity_ratio": 0.687,
+    "roe": 0.145,
+    "per": 10,
+    "gross_profit": 64764000000,
+    "operating_income": 35208000000,
+    "income_tax_expense": 11488000000,
+    "interest_bearing_debt_current": 16805000000,
+    "current_portion_of_bonds": 5000000000,
+    "lease_liabilities_current": 262000000,
+    "lease_liabilities_noncurrent": 700000000,
+    "depreciation": 7593000000,
+    "capex_ppe": -12397000000,
+    "capex_intangible": -443000000,
+    "current_assets": 185114000000,
+    "current_liabilities": 75274000000,
+    "noncurrent_assets": 105673000000,
+    "noncurrent_liabilities": 14595000000,
+    "trade_receivables": 33455000000,
+    "trade_payables": 21302000000,
+    "ppe": 67976000000,
+    "intangible_assets": 1577000000,
+    "investment_securities": 22377000000,
+    "treasury_stock": -6590000000,
+    "noncontrolling_interests": 1236000000
+  },
+  "segments": [
+    {
+      "key": "AdvancedProducts",
+      "label": null,
+      "external_revenue": 42830000000,
+      "operating_income": 9635000000
+    },
+    {
+      "key": "AutomotiveParts",
+      "label": null,
+      "external_revenue": 50133000000,
+      "operating_income": 3770000000
+    },
+    {
+      "key": "BuildingMaterialsAndContracts",
+      "label": null,
+      "external_revenue": 31699000000,
+      "operating_income": 733000000
+    },
+    {
+      "key": "EnergyAndIndustrialPlants",
+      "label": null,
+      "external_revenue": 73518000000,
+      "operating_income": 10580000000
+    },
+    {
+      "key": "IndustrialProducts",
+      "label": null,
+      "external_revenue": 51209000000,
+      "intersegment_revenue": 10256000000,
+      "operating_income": 10489000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01151-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

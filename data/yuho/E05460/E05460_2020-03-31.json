@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "edinet_code": "E05460",
+    "sec_code": "2432",
+    "company_name": "株式会社ディー・エヌ・エー",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R3HZ"
+  },
+  "financials": {
+    "dps": 20,
+    "net_sales": 121387000000,
+    "net_income": -49166000000,
+    "total_assets": 255740000000,
+    "equity_ratio": 0.706,
+    "bps": 1432.14,
+    "eps": -352.49,
+    "eps_diluted": -352.49,
+    "roe": -0.228,
+    "operating_cf": 12946000000,
+    "investing_cf": -8706000000,
+    "financing_cf": -32154000000,
+    "cash_end": 73536000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05460-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

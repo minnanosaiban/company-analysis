@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E01773",
+    "sec_code": "6753",
+    "company_name": "シャープ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R5CO"
+  },
+  "financials": {
+    "net_sales": 2394767000000,
+    "ordinary_income": 62849000000,
+    "net_income": 64012000000,
+    "comprehensive_income": 63802000000,
+    "eps": 100.08,
+    "eps_diluted": 79.07,
+    "dps": 20,
+    "operating_cf": 78305000000,
+    "investing_cf": -168052000000,
+    "financing_cf": -88517000000,
+    "net_assets": 357331000000,
+    "total_assets": 1848551000000,
+    "bps": 377.53,
+    "cash_end": 228798000000,
+    "equity_ratio": 0.185,
+    "roe": 0.178,
+    "per": 12.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01773-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

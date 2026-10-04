@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E01905",
+    "sec_code": "6951",
+    "company_name": "日本電子株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W5KW"
+  },
+  "financials": {
+    "net_sales": 196695000000,
+    "ordinary_income": 34424000000,
+    "net_income": 18688000000,
+    "comprehensive_income": 16789000000,
+    "eps": 365.55,
+    "dps": 106,
+    "operating_cf": 23104000000,
+    "investing_cf": -855000000,
+    "financing_cf": -17116000000,
+    "net_assets": 136653000000,
+    "total_assets": 222486000000,
+    "bps": 2672.19,
+    "cash_end": 34605000000,
+    "equity_ratio": 0.614,
+    "roe": 0.143,
+    "per": 12.53,
+    "gross_profit": 92397000000,
+    "operating_income": 35501000000,
+    "income_tax_expense": 10070000000,
+    "interest_bearing_debt_noncurrent": 3170000000,
+    "current_portion_lt_loans": 4413000000,
+    "lease_liabilities_current": 574000000,
+    "lease_liabilities_noncurrent": 1127000000,
+    "depreciation": 4925000000,
+    "capex_ppe": -2960000000,
+    "capex_intangible": -1303000000,
+    "current_assets": 169492000000,
+    "current_liabilities": 72995000000,
+    "noncurrent_assets": 52994000000,
+    "noncurrent_liabilities": 12838000000,
+    "trade_payables": 11197000000,
+    "ppe": 24108000000,
+    "goodwill": 911000000,
+    "intangible_assets": 3776000000,
+    "investment_securities": 14769000000,
+    "treasury_stock": -688000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialEquipment",
+      "label": null,
+      "external_revenue": 56483000000,
+      "operating_income": 26316000000
+    },
+    {
+      "key": "MedicalEquipment",
+      "label": null,
+      "external_revenue": 15418000000,
+      "operating_income": 662000000
+    },
+    {
+      "key": "ScientificAndMeasurementInstruments",
+      "label": null,
+      "external_revenue": 124793000000,
+      "operating_income": 15017000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01905-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

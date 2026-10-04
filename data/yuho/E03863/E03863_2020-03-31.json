@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03863",
+    "sec_code": "9706",
+    "company_name": "日本空港ビルデング株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R77P"
+  },
+  "financials": {
+    "net_sales": 249756000000,
+    "ordinary_income": 8705000000,
+    "net_income": 5012000000,
+    "comprehensive_income": 4119000000,
+    "eps": 61.71,
+    "eps_diluted": 60.2,
+    "dps": 32,
+    "operating_cf": 20222000000,
+    "investing_cf": -57334000000,
+    "financing_cf": 21644000000,
+    "net_assets": 201899000000,
+    "total_assets": 521363000000,
+    "bps": 2001.83,
+    "cash_end": 71795000000,
+    "equity_ratio": 0.3119,
+    "roe": 0.0308,
+    "per": 67.65
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03863-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

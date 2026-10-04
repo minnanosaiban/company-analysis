@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00942",
+    "sec_code": "4527",
+    "company_name": "ロート製薬株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8E4"
+  },
+  "financials": {
+    "net_sales": 181287000000,
+    "ordinary_income": 23910000000,
+    "net_income": 16743000000,
+    "comprehensive_income": 19794000000,
+    "eps": 73.39,
+    "eps_diluted": 73.18,
+    "dps": 28,
+    "operating_cf": 20008000000,
+    "investing_cf": -10237000000,
+    "financing_cf": -2347000000,
+    "net_assets": 156612000000,
+    "total_assets": 226149000000,
+    "bps": 681.71,
+    "cash_end": 52254000000,
+    "equity_ratio": 0.688,
+    "roe": 0.117,
+    "per": 20.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00942-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

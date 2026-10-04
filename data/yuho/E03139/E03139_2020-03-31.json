@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03139",
+    "sec_code": "9831",
+    "company_name": "株式会社ヤマダホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R87T"
+  },
+  "financials": {
+    "net_sales": 1611538000000,
+    "ordinary_income": 46074000000,
+    "net_income": 24605000000,
+    "comprehensive_income": 22548000000,
+    "eps": 28.38,
+    "eps_diluted": 27.01,
+    "dps": 10,
+    "operating_cf": 62433000000,
+    "investing_cf": -8234000000,
+    "financing_cf": -58091000000,
+    "net_assets": 645166000000,
+    "total_assets": 1163494000000,
+    "bps": 721.37,
+    "cash_end": 48397000000,
+    "equity_ratio": 0.546,
+    "roe": 0.04,
+    "per": 15.19
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03139-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

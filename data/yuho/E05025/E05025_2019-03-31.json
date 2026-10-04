@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E05025",
+    "sec_code": "4684",
+    "company_name": "株式会社オービック",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R4R5"
+  },
+  "financials": {
+    "net_sales": 74163000000,
+    "ordinary_income": 41927000000,
+    "net_income": 32223000000,
+    "comprehensive_income": 32201000000,
+    "eps": 362.26,
+    "dps": 135,
+    "operating_cf": 29843000000,
+    "investing_cf": -8209000000,
+    "financing_cf": -11119000000,
+    "net_assets": 218476000000,
+    "total_assets": 244909000000,
+    "bps": 2456.16,
+    "cash_end": 119972000000,
+    "equity_ratio": 0.892,
+    "roe": 0.155,
+    "per": 30.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05025-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E00529",
+    "sec_code": "3107",
+    "company_name": "ダイワボウホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-27",
+    "doc_id": "S100TTA1"
+  },
+  "financials": {
+    "net_sales": 967760000000,
+    "ordinary_income": 31431000000,
+    "net_income": 4283000000,
+    "comprehensive_income": 7410000000,
+    "eps": 45.82,
+    "dps": 64,
+    "operating_cf": 24544000000,
+    "investing_cf": -4946000000,
+    "financing_cf": -2856000000,
+    "net_assets": 142133000000,
+    "total_assets": 405256000000,
+    "bps": 1518.56,
+    "cash_end": 69172000000,
+    "equity_ratio": 0.35,
+    "roe": 0.03,
+    "per": 56,
+    "gross_profit": 78209000000,
+    "operating_income": 30963000000,
+    "income_tax_expense": 8695000000,
+    "interest_bearing_debt_current": 8400000000,
+    "interest_bearing_debt_noncurrent": 12500000000,
+    "depreciation": 3290000000,
+    "capex_ppe": -2018000000,
+    "capex_intangible": -708000000,
+    "current_assets": 377245000000,
+    "current_liabilities": 239742000000,
+    "noncurrent_assets": 28011000000,
+    "noncurrent_liabilities": 23380000000,
+    "trade_payables": 206212000000,
+    "ppe": 10238000000,
+    "goodwill": 1351000000,
+    "intangible_assets": 3691000000,
+    "investment_securities": 9289000000,
+    "treasury_stock": -5133000000,
+    "noncontrolling_interests": 199000000
+  },
+  "segments": [
+    {
+      "key": "FiberBusiness",
+      "label": null,
+      "external_revenue": 59210000000,
+      "intersegment_revenue": 18000000,
+      "operating_income": 1580000000
+    },
+    {
+      "key": "ITInfrastructureDistributionBusiness",
+      "label": null,
+      "external_revenue": 894693000000,
+      "intersegment_revenue": 194000000,
+      "operating_income": 28244000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00529-000_2024-03-31_01_2024-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

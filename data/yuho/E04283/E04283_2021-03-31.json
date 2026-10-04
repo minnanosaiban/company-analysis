@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04283",
+    "sec_code": "9301",
+    "company_name": "三菱倉庫株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7D0"
+  },
+  "financials": {
+    "ordinary_income": 16013000000,
+    "net_income": 39160000000,
+    "comprehensive_income": 55603000000,
+    "eps": 462.28,
+    "dps": 60,
+    "operating_cf": 40176000000,
+    "investing_cf": -14002000000,
+    "financing_cf": -5270000000,
+    "net_assets": 326829000000,
+    "total_assets": 535761000000,
+    "bps": 3914.63,
+    "cash_end": 61367000000,
+    "equity_ratio": 0.604,
+    "roe": 0.129,
+    "per": 7.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04283-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

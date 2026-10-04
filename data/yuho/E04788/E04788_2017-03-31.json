@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04788",
+    "sec_code": "8593",
+    "company_name": "三菱ＵＦＪリース株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2017-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-07-21",
+    "doc_id": "S100RFSW"
+  },
+  "financials": {
+    "net_sales": 838886000000,
+    "ordinary_income": 84731000000,
+    "net_income": 53157000000,
+    "comprehensive_income": 55551000000,
+    "eps": 59.77,
+    "eps_diluted": 59.56,
+    "dps": 13,
+    "operating_cf": -220251000000,
+    "investing_cf": -28865000000,
+    "financing_cf": 234908000000,
+    "net_assets": 686378000000,
+    "total_assets": 5388844000000,
+    "bps": 738.7,
+    "cash_end": 95263000000,
+    "equity_ratio": 0.122,
+    "roe": 0.084,
+    "per": 9.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04788-000_2019-03-31_02_2023-07-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

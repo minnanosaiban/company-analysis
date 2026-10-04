@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E02632",
+    "sec_code": "7459",
+    "company_name": "株式会社メディパルホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TRUJ"
+  },
+  "financials": {
+    "net_sales": 3558732000000,
+    "ordinary_income": 64570000000,
+    "net_income": 41474000000,
+    "comprehensive_income": 64684000000,
+    "eps": 195.83,
+    "dps": 60,
+    "operating_cf": 61843000000,
+    "investing_cf": -7817000000,
+    "financing_cf": -25248000000,
+    "net_assets": 736612000000,
+    "total_assets": 1799127000000,
+    "bps": 2858.57,
+    "cash_end": 228084000000,
+    "equity_ratio": 0.334,
+    "roe": 0.071,
+    "per": 11.8,
+    "gross_profit": 246654000000,
+    "operating_income": 47330000000,
+    "income_tax_expense": 24693000000,
+    "depreciation": 16931000000,
+    "capex_ppe": -15560000000,
+    "capex_intangible": -3835000000,
+    "current_assets": 1244190000000,
+    "current_liabilities": 1007719000000,
+    "noncurrent_assets": 554937000000,
+    "noncurrent_liabilities": 54796000000,
+    "trade_payables": 924297000000,
+    "ppe": 270953000000,
+    "goodwill": 11625000000,
+    "intangible_assets": 39014000000,
+    "investment_securities": 210865000000,
+    "treasury_stock": -21254000000,
+    "noncontrolling_interests": 136263000000
+  },
+  "segments": [
+    {
+      "key": "AnimalHealthProductsAndFoodProcessingRawMaterialsWholesaleAndRelatedBusiness",
+      "label": null,
+      "external_revenue": 114020000000,
+      "intersegment_revenue": 2000000,
+      "operating_income": 2727000000
+    },
+    {
+      "key": "CosmeticsDailyNecessitiesAndOTCPharmaceuticalWholesaleBusiness",
+      "label": null,
+      "external_revenue": 1151659000000,
+      "intersegment_revenue": 306000000,
+      "operating_income": 27172000000
+    },
+    {
+      "key": "PrescriptionPharmaceuticalWholesaleBusiness",
+      "label": null,
+      "external_revenue": 2293052000000,
+      "intersegment_revenue": 2742000000,
+      "operating_income": 17471000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02632-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

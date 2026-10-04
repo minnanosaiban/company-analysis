@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E04191",
+    "sec_code": "9072",
+    "company_name": "ニッコンホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R903"
+  },
+  "financials": {
+    "net_sales": 182536000000,
+    "ordinary_income": 20572000000,
+    "net_income": 14544000000,
+    "comprehensive_income": 19667000000,
+    "eps": 221.26,
+    "eps_diluted": 220.51,
+    "dps": 67,
+    "operating_cf": 23229000000,
+    "investing_cf": -25402000000,
+    "financing_cf": 1473000000,
+    "net_assets": 208290000000,
+    "total_assets": 322139000000,
+    "bps": 3160.46,
+    "cash_end": 30366000000,
+    "equity_ratio": 0.645,
+    "roe": 0.073,
+    "per": 10
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04191-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

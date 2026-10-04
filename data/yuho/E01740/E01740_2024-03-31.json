@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "edinet_code": "E01740",
+    "sec_code": "6504",
+    "company_name": "富士電機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TQ72"
+  },
+  "financials": {
+    "net_sales": 1103214000000,
+    "ordinary_income": 107822000000,
+    "net_income": 75353000000,
+    "comprehensive_income": 110358000000,
+    "eps": 527.57,
+    "dps": 135,
+    "operating_cf": 84858000000,
+    "investing_cf": -62418000000,
+    "financing_cf": -45867000000,
+    "net_assets": 661472000000,
+    "total_assets": 1271174000000,
+    "bps": 4218.41,
+    "cash_end": 65543000000,
+    "equity_ratio": 0.474,
+    "roe": 0.135,
+    "per": 19.4,
+    "gross_profit": 303289000000,
+    "operating_income": 106066000000,
+    "income_tax_expense": 32118000000,
+    "interest_bearing_debt_current": 40259000000,
+    "interest_bearing_debt_noncurrent": 15100000000,
+    "bonds_payable": 20000000000,
+    "commercial_papers": 36000000000,
+    "lease_liabilities_current": 20283000000,
+    "lease_liabilities_noncurrent": 28711000000,
+    "depreciation": 51875000000,
+    "capex_ppe": -66960000000,
+    "current_assets": 763072000000,
+    "current_liabilities": 475342000000,
+    "noncurrent_assets": 508064000000,
+    "noncurrent_liabilities": 134359000000,
+    "trade_payables": 207408000000,
+    "ppe": 311456000000,
+    "goodwill": 4850000000,
+    "intangible_assets": 25462000000,
+    "investment_securities": 118427000000,
+    "treasury_stock": -7397000000,
+    "noncontrolling_interests": 58956000000
+  },
+  "segments": [
+    {
+      "key": "Energy",
+      "label": "エネルギー",
+      "external_revenue": 338932000000,
+      "intersegment_revenue": 3827000000,
+      "operating_income": 30146000000
+    },
+    {
+      "key": "FoodAndBeverageDistribution",
+      "label": "食品流通",
+      "external_revenue": 105536000000,
+      "intersegment_revenue": 1750000000,
+      "operating_income": 8803000000
+    },
+    {
+      "key": "Industry",
+      "label": "インダストリー",
+      "external_revenue": 400999000000,
+      "intersegment_revenue": 18911000000,
+      "operating_income": 34264000000
+    },
+    {
+      "key": "Semiconductors",
+      "label": "半導体",
+      "external_revenue": 222659000000,
+      "intersegment_revenue": 5378000000,
+      "operating_income": 36164000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01740-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

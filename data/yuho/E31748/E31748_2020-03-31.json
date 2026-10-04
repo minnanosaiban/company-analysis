@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "edinet_code": "E31748",
+    "sec_code": "6178",
+    "company_name": "日本郵政株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-06-08",
+    "doc_id": "S100QWQH"
+  },
+  "financials": {
+    "ordinary_income": 864457000000,
+    "net_income": 483733000000,
+    "comprehensive_income": -2225078000000,
+    "eps": 119.64,
+    "dps": 50,
+    "operating_cf": 305850000000,
+    "investing_cf": 1040484000000,
+    "financing_cf": 99003000000,
+    "net_assets": 12616774000000,
+    "total_assets": 286098449000000,
+    "bps": 2704.24,
+    "cash_end": 53603857000000,
+    "equity_ratio": 0.038,
+    "roe": 0.04,
+    "per": 7.1,
+    "income_tax_expense": 256663000000,
+    "bonds_payable": 100000000000,
+    "depreciation": 294011000000,
+    "capex_ppe": -133811000000,
+    "capex_intangible": -80053000000,
+    "ppe": 3186558000000,
+    "goodwill": 2550000000,
+    "intangible_assets": 291694000000,
+    "treasury_stock": -831707000000,
+    "noncontrolling_interests": 1682622000000,
+    "ordinary_revenue": 11950185000000
+  },
+  "segments": [
+    {
+      "key": "BankingBusiness",
+      "label": null,
+      "external_revenue": 1797365000000,
+      "intersegment_revenue": 2173000000,
+      "ordinary_income": 379131000000,
+      "equity_method_income": 233000000
+    },
+    {
+      "key": "InternationalLogisticsBusinesses",
+      "label": null,
+      "external_revenue": 635028000000,
+      "intersegment_revenue": 165000000,
+      "ordinary_income": -21447000000,
+      "equity_method_income": -164000000
+    },
+    {
+      "key": "LifeInsuranceBusiness",
+      "label": null,
+      "external_revenue": 7211365000000,
+      "intersegment_revenue": 40000000,
+      "ordinary_income": 286601000000
+    },
+    {
+      "key": "PostOfficeBusiness",
+      "label": null,
+      "external_revenue": 170543000000,
+      "intersegment_revenue": 1129387000000,
+      "ordinary_income": 45086000000,
+      "equity_method_income": 175000000
+    },
+    {
+      "key": "PostalAndLogisticsBusinesses",
+      "label": null,
+      "external_revenue": 2082736000000,
+      "intersegment_revenue": 45450000000,
+      "ordinary_income": 149185000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31748-000_2021-03-31_04_2023-06-08.csv",
+    "parser_version": "0.1.3"
+  }
+}

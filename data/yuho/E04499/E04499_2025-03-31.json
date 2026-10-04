@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E04499",
+    "sec_code": "9503",
+    "company_name": "関西電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W38I"
+  },
+  "financials": {
+    "net_sales": 4337111000000,
+    "ordinary_income": 531686000000,
+    "net_income": 420364000000,
+    "comprehensive_income": 500158000000,
+    "eps": 436.09,
+    "dps": 60,
+    "operating_cf": 575299000000,
+    "investing_cf": -342353000000,
+    "financing_cf": 137673000000,
+    "net_assets": 3107452000000,
+    "total_assets": 9652655000000,
+    "bps": 2752.01,
+    "cash_end": 941432000000,
+    "equity_ratio": 0.318,
+    "roe": 0.157,
+    "per": 4.06,
+    "operating_income": 468877000000,
+    "income_tax_expense": 139186000000,
+    "interest_bearing_debt_current": 159849000000,
+    "interest_bearing_debt_noncurrent": 2296339000000,
+    "bonds_payable": 1450635000000,
+    "depreciation": 331771000000,
+    "current_assets": 1971023000000,
+    "current_liabilities": 1680147000000,
+    "noncurrent_assets": 7681631000000,
+    "noncurrent_liabilities": 4843095000000,
+    "inventories": 287421000000,
+    "trade_payables": 234190000000,
+    "treasury_stock": -935000000,
+    "noncontrolling_interests": 41595000000
+  },
+  "segments": [
+    {
+      "key": "Energy",
+      "label": "エネルギー事業",
+      "external_revenue": 3540779000000,
+      "intersegment_revenue": 233362000000,
+      "ordinary_income": 411321000000,
+      "equity_method_income": 25477000000
+    },
+    {
+      "key": "ITCommunications",
+      "label": "情報通信事業",
+      "external_revenue": 223584000000,
+      "intersegment_revenue": 89046000000,
+      "ordinary_income": 46945000000
+    },
+    {
+      "key": "LifeBusinessSolutions",
+      "label": "生活・ビジネスソリューション事業",
+      "external_revenue": 183626000000,
+      "intersegment_revenue": 37782000000,
+      "ordinary_income": 26208000000
+    },
+    {
+      "key": "TransmissionAndDistribution",
+      "label": "送配電事業",
+      "external_revenue": 389120000000,
+      "intersegment_revenue": 708430000000,
+      "ordinary_income": 55794000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04499-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E00317",
+    "sec_code": "1719",
+    "company_name": "株式会社 安藤・間（呼称：安藤ハザマ）",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-25",
+    "doc_id": "S100YHJP"
+  },
+  "financials": {
+    "net_sales": 439615000000,
+    "ordinary_income": 33257000000,
+    "net_income": 29746000000,
+    "comprehensive_income": 49888000000,
+    "eps": 189.68,
+    "dps": 80,
+    "operating_cf": 28432000000,
+    "investing_cf": -6363000000,
+    "financing_cf": -13770000000,
+    "net_assets": 209380000000,
+    "total_assets": 411575000000,
+    "bps": 1327.51,
+    "cash_end": 64591000000,
+    "equity_ratio": 0.506,
+    "roe": 0.157,
+    "per": 10.29,
+    "gross_profit": 63959000000,
+    "operating_income": 33618000000,
+    "income_tax_expense": 12686000000,
+    "interest_bearing_debt_current": 20995000000,
+    "interest_bearing_debt_noncurrent": 6519000000,
+    "depreciation": 3658000000,
+    "capex_ppe": -2521000000,
+    "current_assets": 300735000000,
+    "current_liabilities": 186382000000,
+    "noncurrent_assets": 110839000000,
+    "noncurrent_liabilities": 15812000000,
+    "ppe": 35773000000,
+    "intangible_assets": 5574000000,
+    "investment_securities": 49544000000,
+    "treasury_stock": -21335000000,
+    "noncontrolling_interests": 1115000000
+  },
+  "segments": [
+    {
+      "key": "BuildingConstruction",
+      "label": null,
+      "external_revenue": 262273000000,
+      "operating_income": 24371000000
+    },
+    {
+      "key": "CivilEngineering",
+      "label": null,
+      "external_revenue": 140863000000,
+      "operating_income": 15484000000
+    },
+    {
+      "key": "ConsolidatedSubsidiaries",
+      "label": null,
+      "external_revenue": 26522000000,
+      "intersegment_revenue": 67292000000,
+      "operating_income": 2020000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00317-000_2026-03-31_01_2026-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

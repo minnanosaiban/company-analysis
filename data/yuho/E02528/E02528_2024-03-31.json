@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "edinet_code": "E02528",
+    "sec_code": "8053",
+    "company_name": "住友商事株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2025-06-18",
+    "doc_id": "S100VYYG"
+  },
+  "financials": {
+    "dps": 125,
+    "net_sales": 6910302000000,
+    "net_income": 386352000000,
+    "comprehensive_income": 847100000000,
+    "net_assets": 4445494000000,
+    "total_assets": 11032583000000,
+    "equity_ratio": 0.403,
+    "bps": 3638.06,
+    "eps": 315.87,
+    "eps_diluted": 315.64,
+    "roe": 0.094,
+    "per": 11.58,
+    "operating_cf": 608850000000,
+    "investing_cf": -219210000000,
+    "financing_cf": -415478000000,
+    "cash_end": 667852000000,
+    "gross_profit": 1342488000000,
+    "income_tax_expense": 101530000000,
+    "interest_bearing_debt_current": 745186000000,
+    "interest_bearing_debt_noncurrent": 2456547000000,
+    "lease_liabilities_current": 77651000000,
+    "lease_liabilities_noncurrent": 427457000000,
+    "sga_expense": 927594000000,
+    "profit_before_tax": 527646000000,
+    "capex_ppe": -93380000000,
+    "current_assets": 5235704000000,
+    "current_liabilities": 3140583000000,
+    "noncurrent_assets": 5796879000000,
+    "trade_receivables": 1863238000000,
+    "inventories": 1486770000000,
+    "trade_payables": 1713936000000,
+    "ppe": 1152019000000,
+    "goodwill": 141783000000,
+    "intangible_assets": 349829000000,
+    "investment_securities": 485540000000,
+    "equity_method_investments": 2857899000000,
+    "treasury_stock": -2733000000,
+    "noncontrolling_interests": 226810000000
+  },
+  "segments": [
+    {
+      "key": "Infrastructure",
+      "label": null,
+      "gross_profit": 120684000000,
+      "equity_method_income": 7103000000,
+      "profit_attributable_to_owners": 48735000000,
+      "assets": 1476581000000
+    },
+    {
+      "key": "LivingRelatedAndRealEstate",
+      "label": null,
+      "gross_profit": 295451000000,
+      "equity_method_income": 11959000000,
+      "profit_attributable_to_owners": 48532000000,
+      "assets": 1935919000000
+    },
+    {
+      "key": "MediaAndDigital",
+      "label": "メディア・デジタル",
+      "gross_profit": 133571000000,
+      "equity_method_income": 542000000,
+      "profit_attributable_to_owners": -647000000,
+      "assets": 1131755000000
+    },
+    {
+      "key": "MetalProducts",
+      "label": null,
+      "gross_profit": 191374000000,
+      "equity_method_income": 13063000000,
+      "profit_attributable_to_owners": 69170000000,
+      "assets": 1144826000000
+    },
+    {
+      "key": "MineralResourcesEnergyChemicalAndElectronics",
+      "label": null,
+      "gross_profit": 267709000000,
+      "equity_method_income": 24649000000,
+      "profit_attributable_to_owners": 52413000000,
+      "assets": 2553240000000
+    },
+    {
+      "key": "TransportationAndConstructi",
+      "label": "輸送機・建機",
+      "gross_profit": 340824000000,
+      "equity_method_income": 116240000000,
+      "profit_attributable_to_owners": 147978000000,
+      "assets": 2421580000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02528-000_2024-03-31_02_2025-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

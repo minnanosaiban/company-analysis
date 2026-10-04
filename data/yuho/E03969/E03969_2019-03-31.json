@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E03969",
+    "sec_code": "4681",
+    "company_name": "リゾートトラスト株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R6N2"
+  },
+  "financials": {
+    "net_sales": 179542000000,
+    "ordinary_income": 19528000000,
+    "net_income": 12358000000,
+    "comprehensive_income": 11653000000,
+    "eps": 115.53,
+    "eps_diluted": 106.42,
+    "dps": 46,
+    "operating_cf": 16674000000,
+    "investing_cf": -2057000000,
+    "financing_cf": -23198000000,
+    "net_assets": 132050000000,
+    "total_assets": 401426000000,
+    "bps": 1190.63,
+    "cash_end": 23895000000,
+    "equity_ratio": 0.317,
+    "roe": 0.0996,
+    "per": 12.98
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03969-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E00775",
+    "sec_code": "4062",
+    "company_name": "イビデン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-19",
+    "doc_id": "S100VXHK"
+  },
+  "financials": {
+    "net_sales": 369436000000,
+    "ordinary_income": 47890000000,
+    "net_income": 33704000000,
+    "comprehensive_income": 1831000000,
+    "eps": 241.32,
+    "eps_diluted": 226.19,
+    "dps": 40,
+    "operating_cf": 118895000000,
+    "investing_cf": -164182000000,
+    "financing_cf": -7113000000,
+    "net_assets": 497298000000,
+    "total_assets": 1081684000000,
+    "bps": 3513.31,
+    "cash_end": 390656000000,
+    "equity_ratio": 0.4535,
+    "roe": 0.0684,
+    "per": 16.53,
+    "gross_profit": 113328000000,
+    "operating_income": 47621000000,
+    "income_tax_expense": 21353000000,
+    "interest_bearing_debt_current": 50000000000,
+    "interest_bearing_debt_noncurrent": 120000000000,
+    "bonds_payable": 60000000000,
+    "current_portion_of_bonds": 40000000000,
+    "lease_liabilities_noncurrent": 84000000,
+    "depreciation": 54205000000,
+    "capex_ppe": -197484000000,
+    "capex_intangible": -1040000000,
+    "current_assets": 549580000000,
+    "current_liabilities": 327717000000,
+    "noncurrent_assets": 532103000000,
+    "noncurrent_liabilities": 256668000000,
+    "trade_payables": 28483000000,
+    "ppe": 460054000000,
+    "intangible_assets": 4349000000,
+    "investment_securities": 58797000000,
+    "treasury_stock": -3497000000,
+    "noncontrolling_interests": 6803000000
+  },
+  "segments": [
+    {
+      "key": "Ceramics",
+      "label": null,
+      "external_revenue": 84068000000,
+      "intersegment_revenue": 146000000,
+      "operating_income": 12218000000
+    },
+    {
+      "key": "Electronics",
+      "label": null,
+      "external_revenue": 197223000000,
+      "intersegment_revenue": 20000000,
+      "operating_income": 26847000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00775-000_2025-03-31_01_2025-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04345",
+    "sec_code": "9364",
+    "company_name": "株式会社上組",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R341"
+  },
+  "financials": {
+    "ordinary_income": 26407000000,
+    "net_income": 18378000000,
+    "comprehensive_income": 14873000000,
+    "eps": 155.06,
+    "dps": 46,
+    "operating_cf": 33701000000,
+    "investing_cf": -44490000000,
+    "financing_cf": -9342000000,
+    "net_assets": 337744000000,
+    "total_assets": 400057000000,
+    "bps": 2849.94,
+    "cash_end": 32137000000,
+    "equity_ratio": 0.839,
+    "roe": 0.055,
+    "per": 11.8
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04345-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "edinet_code": "E03013",
+    "sec_code": "8233",
+    "company_name": "株式会社髙島屋",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-25",
+    "doc_id": "S100QT8M"
+  },
+  "financials": {
+    "net_sales": 695693000000,
+    "ordinary_income": 6903000000,
+    "net_income": 5360000000,
+    "comprehensive_income": 9750000000,
+    "eps": 32.14,
+    "eps_diluted": 27.48,
+    "dps": 24,
+    "operating_cf": 21044000000,
+    "investing_cf": -37120000000,
+    "financing_cf": -4758000000,
+    "net_assets": 420489000000,
+    "total_assets": 1144335000000,
+    "bps": 2390.47,
+    "cash_end": 88996000000,
+    "equity_ratio": 0.348,
+    "roe": 0.014,
+    "per": 34.9,
+    "gross_profit": 167713000000,
+    "operating_income": 4110000000,
+    "income_tax_expense": 2644000000,
+    "interest_bearing_debt_current": 18160000000,
+    "interest_bearing_debt_noncurrent": 116345000000,
+    "bonds_payable": 80203000000,
+    "current_portion_of_bonds": 55000000,
+    "lease_liabilities_current": 8942000000,
+    "lease_liabilities_noncurrent": 78529000000,
+    "depreciation": 31428000000,
+    "current_assets": 269828000000,
+    "current_liabilities": 352815000000,
+    "noncurrent_assets": 874507000000,
+    "noncurrent_liabilities": 371030000000,
+    "trade_receivables": 96120000000,
+    "trade_payables": 93698000000,
+    "ppe": 706306000000,
+    "goodwill": 2380000000,
+    "intangible_assets": 35931000000,
+    "investment_securities": 74563000000,
+    "treasury_stock": -15994000000,
+    "noncontrolling_interests": 21919000000
+  },
+  "segments": [
+    {
+      "key": "ContractAndDesign",
+      "label": "建装業",
+      "external_revenue": 16331000000,
+      "intersegment_revenue": 1616000000,
+      "operating_income": -504000000
+    },
+    {
+      "key": "DepartmentStore",
+      "label": null,
+      "external_revenue": 648361000000,
+      "intersegment_revenue": 8983000000,
+      "operating_income": -6561000000
+    },
+    {
+      "key": "Finance",
+      "label": "金融業",
+      "external_revenue": 16515000000,
+      "intersegment_revenue": 3630000000,
+      "operating_income": 4358000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03013-000_2023-02-28_01_2023-05-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

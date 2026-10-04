@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "edinet_code": "E01594",
+    "sec_code": "6448",
+    "company_name": "ブラザー工業株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-26",
+    "doc_id": "S100TKYL"
+  },
+  "financials": {
+    "dps": 84,
+    "net_sales": 822930000000,
+    "net_income": 31645000000,
+    "comprehensive_income": 88690000000,
+    "net_assets": 668047000000,
+    "total_assets": 896109000000,
+    "equity_ratio": 0.745,
+    "bps": 2613.43,
+    "eps": 123.81,
+    "eps_diluted": 123.48,
+    "roe": 0.05,
+    "per": 22.8,
+    "operating_cf": 141028000000,
+    "investing_cf": -42068000000,
+    "financing_cf": -61584000000,
+    "cash_end": 166146000000,
+    "operating_income": 49792000000,
+    "gross_profit": 355340000000,
+    "income_tax_expense": 20861000000,
+    "interest_bearing_debt_noncurrent": 600000000,
+    "sga_expense": 279761000000,
+    "profit_before_tax": 52523000000,
+    "depreciation": 47537000000,
+    "capex_ppe": -38015000000,
+    "capex_intangible": -9470000000,
+    "current_assets": 541899000000,
+    "current_liabilities": 166743000000,
+    "noncurrent_assets": 354210000000,
+    "trade_receivables": 131591000000,
+    "inventories": 207971000000,
+    "trade_payables": 74289000000,
+    "ppe": 147757000000,
+    "goodwill": 52955000000,
+    "equity_method_investments": 2186000000,
+    "treasury_stock": -3443000000,
+    "noncontrolling_interests": 73000000
+  },
+  "segments": [
+    {
+      "key": "Domino",
+      "label": null,
+      "external_revenue": 109643000000,
+      "revenue": 109643000000,
+      "operating_income": 5071000000
+    },
+    {
+      "key": "Machinery",
+      "label": "マシナリー",
+      "external_revenue": 77372000000,
+      "revenue": 77372000000,
+      "operating_income": 2213000000
+    },
+    {
+      "key": "NetworkAndContents",
+      "label": null,
+      "external_revenue": 38098000000,
+      "revenue": 38098000000,
+      "operating_income": 1623000000
+    },
+    {
+      "key": "Nissei",
+      "label": "ニッセイ",
+      "external_revenue": 20830000000,
+      "revenue": 20830000000,
+      "operating_income": 1019000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 11562000000,
+      "intersegment_revenue": 14827000000,
+      "revenue": 26389000000,
+      "operating_income": 727000000
+    },
+    {
+      "key": "PersonalAndHome",
+      "label": "パーソナル・アンド・ホーム",
+      "external_revenue": 50480000000,
+      "revenue": 50480000000,
+      "operating_income": 2516000000
+    },
+    {
+      "key": "PrintingAndSolutions",
+      "label": "プリンティング・アンド・ソリューションズ",
+      "external_revenue": 514942000000,
+      "revenue": 514942000000,
+      "operating_income": 62526000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01594-000_2024-03-31_01_2024-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

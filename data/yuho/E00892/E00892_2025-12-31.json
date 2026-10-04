@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "edinet_code": "E00892",
+    "sec_code": "4612",
+    "company_name": "日本ペイントホールディングス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-03-26",
+    "doc_id": "S100XU2S"
+  },
+  "financials": {
+    "dps": 16,
+    "net_sales": 1774231000000,
+    "net_income": 179800000000,
+    "comprehensive_income": 273133000000,
+    "net_assets": 1803859000000,
+    "total_assets": 4017738000000,
+    "equity_ratio": 0.449,
+    "bps": 774.87,
+    "eps": 76.66,
+    "eps_diluted": 76.66,
+    "roe": 0.106,
+    "per": 13.7,
+    "operating_cf": 187526000000,
+    "investing_cf": -321988000000,
+    "financing_cf": 254732000000,
+    "cash_end": 424337000000,
+    "operating_income": 257104000000,
+    "gross_profit": 750235000000,
+    "income_tax_expense": 69390000000,
+    "interest_bearing_debt_current": 124188000000,
+    "interest_bearing_debt_noncurrent": 1297704000000,
+    "sga_expense": 502558000000,
+    "profit_before_tax": 250565000000,
+    "depreciation": 70063000000,
+    "capex_ppe": -42513000000,
+    "current_assets": 1278882000000,
+    "current_liabilities": 592677000000,
+    "noncurrent_assets": 2738856000000,
+    "trade_receivables": 409007000000,
+    "inventories": 225146000000,
+    "trade_payables": 289380000000,
+    "ppe": 562598000000,
+    "goodwill": 1468989000000,
+    "equity_method_investments": 30056000000,
+    "treasury_stock": -26885000000,
+    "noncontrolling_interests": 19213000000
+  },
+  "segments": [
+    {
+      "key": "AOC",
+      "label": null,
+      "external_revenue": 157282000000,
+      "revenue": 157282000000,
+      "operating_income": 48585000000
+    },
+    {
+      "key": "Americas",
+      "label": null,
+      "external_revenue": 118952000000,
+      "intersegment_revenue": 96000000,
+      "revenue": 119049000000,
+      "operating_income": 6393000000
+    },
+    {
+      "key": "DuluxGroup",
+      "label": null,
+      "external_revenue": 405173000000,
+      "intersegment_revenue": 534000000,
+      "revenue": 405708000000,
+      "operating_income": 34943000000
+    },
+    {
+      "key": "Japan",
+      "label": null,
+      "external_revenue": 205360000000,
+      "intersegment_revenue": 21041000000,
+      "revenue": 226402000000,
+      "operating_income": 28125000000
+    },
+    {
+      "key": "NIPSEA",
+      "label": null,
+      "external_revenue": 887462000000,
+      "intersegment_revenue": 15508000000,
+      "revenue": 902971000000,
+      "operating_income": 144021000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00892-000_2025-12-31_01_2026-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

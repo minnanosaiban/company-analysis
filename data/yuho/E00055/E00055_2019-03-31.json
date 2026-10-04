@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00055",
+    "sec_code": "1802",
+    "company_name": "株式会社大林組",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R95O"
+  },
+  "financials": {
+    "net_sales": 2039685000000,
+    "ordinary_income": 163054000000,
+    "net_income": 113155000000,
+    "comprehensive_income": 107691000000,
+    "eps": 157.65,
+    "dps": 32,
+    "operating_cf": 44203000000,
+    "investing_cf": -45302000000,
+    "financing_cf": -24823000000,
+    "net_assets": 798149000000,
+    "total_assets": 2214512000000,
+    "bps": 1071.49,
+    "cash_end": 157699000000,
+    "equity_ratio": 0.347,
+    "roe": 0.156,
+    "per": 7.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00055-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

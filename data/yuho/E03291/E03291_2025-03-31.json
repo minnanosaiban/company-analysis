@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "edinet_code": "E03291",
+    "sec_code": "7550",
+    "company_name": "株式会社ゼンショーホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-30",
+    "doc_id": "S100W4UE"
+  },
+  "financials": {
+    "net_sales": 1136684000000,
+    "ordinary_income": 71890000000,
+    "net_income": 39290000000,
+    "comprehensive_income": 37281000000,
+    "eps": 240.45,
+    "dps": 70,
+    "operating_cf": 78953000000,
+    "investing_cf": -66497000000,
+    "financing_cf": -16225000000,
+    "net_assets": 240371000000,
+    "total_assets": 813109000000,
+    "bps": 1335.69,
+    "cash_end": 79695000000,
+    "equity_ratio": 0.295,
+    "roe": 0.173,
+    "per": 33.5,
+    "gross_profit": 622208000000,
+    "operating_income": 75128000000,
+    "income_tax_expense": 24090000000,
+    "interest_bearing_debt_current": 6857000000,
+    "interest_bearing_debt_noncurrent": 227923000000,
+    "bonds_payable": 35000000000,
+    "current_portion_lt_loans": 29925000000,
+    "lease_liabilities_current": 17160000000,
+    "lease_liabilities_noncurrent": 48836000000,
+    "depreciation": 46509000000,
+    "capex_ppe": -61520000000,
+    "capex_intangible": -2275000000,
+    "current_assets": 252006000000,
+    "current_liabilities": 191114000000,
+    "noncurrent_assets": 560522000000,
+    "noncurrent_liabilities": 381623000000,
+    "ppe": 274360000000,
+    "goodwill": 11234000000,
+    "intangible_assets": 215741000000,
+    "investment_securities": 1528000000,
+    "treasury_stock": -13723000000,
+    "noncontrolling_interests": 309000000
+  },
+  "segments": [
+    {
+      "key": "GlobalFastfood",
+      "label": null,
+      "external_revenue": 314125000000,
+      "intersegment_revenue": 13000000,
+      "operating_income": 29150000000
+    },
+    {
+      "key": "GlobalHamazushi",
+      "label": null,
+      "external_revenue": 248495000000,
+      "intersegment_revenue": 91000000,
+      "operating_income": 21352000000
+    },
+    {
+      "key": "GlobalSukiya",
+      "label": null,
+      "external_revenue": 295757000000,
+      "intersegment_revenue": 304000000,
+      "operating_income": 24508000000
+    },
+    {
+      "key": "HeadofficeAndSupport",
+      "label": null,
+      "external_revenue": 4887000000,
+      "intersegment_revenue": 408001000000,
+      "operating_income": -7418000000
+    },
+    {
+      "key": "Restaurant",
+      "label": null,
+      "external_revenue": 156085000000,
+      "intersegment_revenue": 254000000,
+      "operating_income": 11393000000
+    },
+    {
+      "key": "Retail",
+      "label": null,
+      "external_revenue": 76032000000,
+      "intersegment_revenue": 773000000,
+      "operating_income": -1794000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03291-000_2025-03-31_01_2025-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

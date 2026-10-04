@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01551",
+    "sec_code": "6383",
+    "company_name": "株式会社ダイフク",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R500"
+  },
+  "financials": {
+    "net_sales": 459486000000,
+    "ordinary_income": 55842000000,
+    "net_income": 39567000000,
+    "comprehensive_income": 40800000000,
+    "eps": 104.85,
+    "dps": 90,
+    "operating_cf": 8559000000,
+    "investing_cf": 5937000000,
+    "financing_cf": -6893000000,
+    "net_assets": 222885000000,
+    "total_assets": 409982000000,
+    "bps": 579.4,
+    "cash_end": 90903000000,
+    "equity_ratio": 0.533,
+    "roe": 0.195,
+    "per": 18.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01551-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

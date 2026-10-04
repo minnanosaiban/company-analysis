@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01085",
+    "sec_code": "5101",
+    "company_name": "横浜ゴム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T56Z"
+  },
+  "financials": {
+    "dps": 65,
+    "net_sales": 670809000000,
+    "net_income": 65500000000,
+    "comprehensive_income": 120356000000,
+    "net_assets": 525312000000,
+    "total_assets": 984988000000,
+    "equity_ratio": 0.5333,
+    "bps": 3275.98,
+    "eps": 408.47,
+    "eps_diluted": 407.86,
+    "roe": 0.1392,
+    "per": 4.51,
+    "operating_cf": 68303000000,
+    "investing_cf": -4479000000,
+    "financing_cf": -55195000000,
+    "cash_end": 42523000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01085-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E35810",
+    "sec_code": "7337",
+    "company_name": "株式会社ひろぎんホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R79B"
+  },
+  "financials": {
+    "ordinary_income": 31042000000,
+    "net_income": 21574000000,
+    "comprehensive_income": 43243000000,
+    "eps": 69.26,
+    "eps_diluted": 69.22,
+    "dps": 12,
+    "operating_cf": 1486338000000,
+    "investing_cf": -370404000000,
+    "financing_cf": -9312000000,
+    "net_assets": 516880000000,
+    "total_assets": 11009572000000,
+    "bps": 1664.01,
+    "cash_end": 2570007000000,
+    "equity_ratio": 0.0469,
+    "roe": 0.0432,
+    "per": 9.77,
+    "ordinary_revenue": 115478000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E35810-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

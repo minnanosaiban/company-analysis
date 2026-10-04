@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "edinet_code": "E04147",
+    "sec_code": "9020",
+    "company_name": "東日本旅客鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R09D"
+  },
+  "financials": {
+    "ordinary_income": -579798000000,
+    "net_income": -577900000000,
+    "comprehensive_income": -565771000000,
+    "eps": -1531.91,
+    "dps": 100,
+    "operating_cf": -189968000000,
+    "investing_cf": -749397000000,
+    "financing_cf": 983385000000,
+    "net_assets": 2557361000000,
+    "total_assets": 8916420000000,
+    "bps": 6719.93,
+    "cash_end": 197960000000,
+    "equity_ratio": 0.284,
+    "roe": -0.203
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04147-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

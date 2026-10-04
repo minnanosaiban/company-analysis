@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04503",
+    "sec_code": "9505",
+    "company_name": "北陸電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-06-13",
+    "doc_id": "S100QXLS"
+  },
+  "financials": {
+    "net_sales": 628039000000,
+    "ordinary_income": 23236000000,
+    "net_income": 13433000000,
+    "comprehensive_income": 9782000000,
+    "eps": 64.34,
+    "dps": 10,
+    "operating_cf": 101475000000,
+    "investing_cf": -75141000000,
+    "financing_cf": -6285000000,
+    "net_assets": 336456000000,
+    "total_assets": 1592933000000,
+    "bps": 1542.2,
+    "cash_end": 163019000000,
+    "equity_ratio": 0.202,
+    "roe": 0.042,
+    "per": 11.77
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04503-000_2022-03-31_03_2023-06-13.csv",
+    "parser_version": "0.1.3"
+  }
+}

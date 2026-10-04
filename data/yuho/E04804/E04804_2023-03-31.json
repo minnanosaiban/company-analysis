@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "edinet_code": "E04804",
+    "sec_code": "9744",
+    "company_name": "株式会社メイテック",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1WF"
+  },
+  "financials": {
+    "net_sales": 119069000000,
+    "ordinary_income": 16540000000,
+    "net_income": 12252000000,
+    "comprehensive_income": 12469000000,
+    "eps": 153.87,
+    "dps": 102,
+    "operating_cf": 12808000000,
+    "investing_cf": -446000000,
+    "financing_cf": -11040000000,
+    "net_assets": 46719000000,
+    "total_assets": 84576000000,
+    "bps": 595.74,
+    "cash_end": 51028000000,
+    "equity_ratio": 0.5524,
+    "roe": 0.2663,
+    "per": 15.36,
+    "gross_profit": 32708000000,
+    "operating_income": 16462000000,
+    "income_tax_expense": 4916000000,
+    "depreciation": 411000000,
+    "capex_ppe": -130000000,
+    "capex_intangible": -156000000,
+    "current_assets": 69484000000,
+    "current_liabilities": 20824000000,
+    "noncurrent_assets": 15091000000,
+    "noncurrent_liabilities": 17032000000,
+    "trade_receivables": 17354000000,
+    "ppe": 4785000000,
+    "intangible_assets": 369000000,
+    "investment_securities": 27000000,
+    "treasury_stock": -7795000000
+  },
+  "segments": [
+    {
+      "key": "RecruitingPlacementBusinessForEngineers",
+      "label": null,
+      "external_revenue": 1622000000,
+      "intersegment_revenue": 58000000,
+      "operating_income": 547000000
+    },
+    {
+      "key": "TemporaryStaffingBusiness",
+      "label": null,
+      "external_revenue": 117446000000,
+      "intersegment_revenue": 10000000,
+      "operating_income": 15915000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04804-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

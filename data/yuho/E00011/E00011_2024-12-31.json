@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "edinet_code": "E00011",
+    "sec_code": "1911",
+    "company_name": "住友林業株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-28",
+    "doc_id": "S100VIRG"
+  },
+  "financials": {
+    "net_sales": 2053650000000,
+    "ordinary_income": 197955000000,
+    "net_income": 116528000000,
+    "comprehensive_income": 232614000000,
+    "eps": 569.4,
+    "eps_diluted": 569.01,
+    "dps": 145,
+    "operating_cf": 27078000000,
+    "investing_cf": -135103000000,
+    "financing_cf": 133225000000,
+    "net_assets": 1020127000000,
+    "total_assets": 2261128000000,
+    "bps": 4497.17,
+    "cash_end": 206297000000,
+    "equity_ratio": 0.407,
+    "roe": 0.139,
+    "per": 9.3,
+    "gross_profit": 502952000000,
+    "operating_income": 194588000000,
+    "income_tax_expense": 41697000000,
+    "interest_bearing_debt_current": 93702000000,
+    "interest_bearing_debt_noncurrent": 413856000000,
+    "bonds_payable": 70116000000,
+    "current_portion_of_bonds": 10044000000,
+    "lease_liabilities_current": 5778000000,
+    "lease_liabilities_noncurrent": 19915000000,
+    "depreciation": 27916000000,
+    "capex_ppe": -63852000000,
+    "capex_intangible": -5579000000,
+    "current_assets": 1546090000000,
+    "current_liabilities": 662152000000,
+    "noncurrent_assets": 715038000000,
+    "noncurrent_liabilities": 578850000000,
+    "trade_receivables": 104734000000,
+    "trade_payables": 96983000000,
+    "ppe": 286103000000,
+    "goodwill": 42246000000,
+    "intangible_assets": 75006000000,
+    "investment_securities": 268895000000,
+    "treasury_stock": -2521000000,
+    "noncontrolling_interests": 99711000000
+  },
+  "segments": [
+    {
+      "key": "ConstructionAndRealEstateDivision",
+      "label": null,
+      "external_revenue": 1238859000000,
+      "intersegment_revenue": 1138000000,
+      "ordinary_income": 147451000000,
+      "equity_method_income": -2331000000
+    },
+    {
+      "key": "EnvironmentAndResourcesDivision",
+      "label": null,
+      "external_revenue": 25619000000,
+      "intersegment_revenue": 1331000000,
+      "ordinary_income": 236000000,
+      "equity_method_income": 232000000
+    },
+    {
+      "key": "HousingBusiness",
+      "label": null,
+      "external_revenue": 541803000000,
+      "intersegment_revenue": 497000000,
+      "ordinary_income": 35173000000
+    },
+    {
+      "key": "TimberAndBuildingMaterialsBusiness",
+      "label": null,
+      "external_revenue": 231519000000,
+      "intersegment_revenue": 21637000000,
+      "ordinary_income": 10001000000,
+      "equity_method_income": -193000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00011-000_2024-12-31_01_2025-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

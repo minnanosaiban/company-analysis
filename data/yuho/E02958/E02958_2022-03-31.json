@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "edinet_code": "E02958",
+    "sec_code": "2768",
+    "company_name": "双日株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-16",
+    "doc_id": "S100VY7S"
+  },
+  "financials": {
+    "dps": 106,
+    "net_sales": 2100752000000,
+    "net_income": 82332000000,
+    "comprehensive_income": 142429000000,
+    "net_assets": 728012000000,
+    "total_assets": 2661680000000,
+    "equity_ratio": 0.274,
+    "bps": 3153.9,
+    "eps": 352.65,
+    "eps_diluted": 352.65,
+    "roe": 0.122,
+    "per": 5.7,
+    "operating_cf": 65084000000,
+    "investing_cf": -138819000000,
+    "financing_cf": 46898000000,
+    "cash_end": 271651000000
+  },
+  "segments": [
+    {
+      "key": "AerospaceAndTransportationProject",
+      "label": null,
+      "external_revenue": 70020000000,
+      "intersegment_revenue": 10000000,
+      "gross_profit": 16157000000,
+      "equity_method_income": -395000000,
+      "profit_attributable_to_owners": 4687000000,
+      "assets": 218035000000
+    },
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "external_revenue": 243051000000,
+      "gross_profit": 45635000000,
+      "equity_method_income": 762000000,
+      "profit_attributable_to_owners": 7083000000,
+      "assets": 191809000000
+    },
+    {
+      "key": "Chemicals",
+      "label": "化学",
+      "external_revenue": 538299000000,
+      "intersegment_revenue": 4000000,
+      "gross_profit": 50725000000,
+      "equity_method_income": 706000000,
+      "profit_attributable_to_owners": 12630000000,
+      "assets": 320476000000
+    },
+    {
+      "key": "ConsumerIndustryAndAgricultureBusiness",
+      "label": "生活産業・アグリビジネス",
+      "external_revenue": 285753000000,
+      "intersegment_revenue": 19000000,
+      "gross_profit": 30122000000,
+      "equity_method_income": 875000000,
+      "profit_attributable_to_owners": 6360000000,
+      "assets": 238934000000
+    },
+    {
+      "key": "InfrastructureAndHealthcare",
+      "label": null,
+      "external_revenue": 61794000000,
+      "intersegment_revenue": 3220000000,
+      "gross_profit": 18999000000,
+      "equity_method_income": 13806000000,
+      "profit_attributable_to_owners": 6624000000,
+      "assets": 421050000000
+    },
+    {
+      "key": "MetalsMineralResourcesAndRecycling",
+      "label": "金属・資源・リサイクル",
+      "external_revenue": 560460000000,
+      "gross_profit": 60035000000,
+      "equity_method_income": 21489000000,
+      "profit_attributable_to_owners": 34068000000,
+      "assets": 511464000000
+    },
+    {
+      "key": "RetailAndConsumerService",
+      "label": "リテール・コンシューマーサービス",
+      "external_revenue": 220652000000,
+      "intersegment_revenue": 364000000,
+      "gross_profit": 32466000000,
+      "equity_method_income": -19000000,
+      "profit_attributable_to_owners": 5010000000,
+      "assets": 427141000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02958-000_2025-03-31_01_2025-06-16.csv",
+    "parser_version": "0.1.3"
+  }
+}

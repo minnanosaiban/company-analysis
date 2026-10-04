@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01950",
+    "sec_code": "6857",
+    "company_name": "株式会社アドバンテスト",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R218"
+  },
+  "financials": {
+    "dps": 92,
+    "net_sales": 282456000000,
+    "net_income": 56993000000,
+    "comprehensive_income": 56645000000,
+    "net_assets": 198731000000,
+    "total_assets": 304580000000,
+    "equity_ratio": 0.652,
+    "bps": 1004.53,
+    "eps": 302.35,
+    "eps_diluted": 287.37,
+    "roe": 0.353,
+    "per": 8.51,
+    "operating_cf": 44792000000,
+    "investing_cf": -15915000000,
+    "financing_cf": -13724000000,
+    "cash_end": 119943000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01950-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

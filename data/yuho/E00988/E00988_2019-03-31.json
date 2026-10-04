@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E00988",
+    "sec_code": "4901",
+    "company_name": "富士フイルムホールディングス株式会社",
+    "accounting_standard": "US",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R9YB"
+  },
+  "financials": {
+    "dps": 80,
+    "net_sales": 2431489000000,
+    "profit_before_tax": 212762000000,
+    "net_income": 138106000000,
+    "comprehensive_income": 144272000000,
+    "net_assets": 2036963000000,
+    "total_assets": 3414692000000,
+    "bps": 4976.88,
+    "eps": 326.81,
+    "eps_diluted": 325.82,
+    "equity_ratio": 0.597,
+    "roe": 0.067,
+    "per": 15.4,
+    "operating_cf": 249343000000,
+    "investing_cf": -208585000000,
+    "financing_cf": -153522000000,
+    "cash_end": 654747000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00988-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01239",
+    "sec_code": "5471",
+    "company_name": "大同特殊鋼株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R5A1"
+  },
+  "financials": {
+    "net_sales": 412722000000,
+    "ordinary_income": 12642000000,
+    "net_income": 4516000000,
+    "comprehensive_income": 32439000000,
+    "eps": 105.96,
+    "dps": 35,
+    "operating_cf": 33766000000,
+    "investing_cf": -29395000000,
+    "financing_cf": 2999000000,
+    "net_assets": 339353000000,
+    "total_assets": 665506000000,
+    "bps": 7111.48,
+    "cash_end": 65558000000,
+    "equity_ratio": 0.456,
+    "roe": 0.016,
+    "per": 48.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01239-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

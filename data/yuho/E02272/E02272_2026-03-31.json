@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "edinet_code": "E02272",
+    "sec_code": "7733",
+    "company_name": "オリンパス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-18",
+    "doc_id": "S100YDN3"
+  },
+  "financials": {
+    "dps": 30,
+    "net_sales": 1010676000000,
+    "net_income": 68172000000,
+    "comprehensive_income": 130451000000,
+    "net_assets": 812040000000,
+    "total_assets": 1537162000000,
+    "equity_ratio": 0.528,
+    "bps": 737.48,
+    "eps": 61.32,
+    "eps_diluted": 61.2,
+    "roe": 0.087,
+    "per": 24.27,
+    "operating_cf": 100585000000,
+    "investing_cf": -87408000000,
+    "financing_cf": -87627000000,
+    "cash_end": 188038000000,
+    "operating_income": 97120000000,
+    "gross_profit": 654090000000,
+    "income_tax_expense": 25822000000,
+    "interest_bearing_debt_current": 79876000000,
+    "interest_bearing_debt_noncurrent": 159700000000,
+    "sga_expense": 507080000000,
+    "profit_before_tax": 93994000000,
+    "depreciation": 67216000000,
+    "capex_ppe": -55558000000,
+    "capex_intangible": -26865000000,
+    "current_assets": 706308000000,
+    "current_liabilities": 436874000000,
+    "noncurrent_assets": 830854000000,
+    "trade_receivables": 236833000000,
+    "inventories": 207092000000,
+    "trade_payables": 80646000000,
+    "ppe": 287209000000,
+    "goodwill": 194238000000,
+    "intangible_assets": 101032000000,
+    "equity_method_investments": 1397000000,
+    "treasury_stock": -26631000000
+  },
+  "segments": [
+    {
+      "key": "GastrointestinalSolutions",
+      "label": null,
+      "external_revenue": 697359000000,
+      "operating_income": 136359000000,
+      "equity_method_income": -4437000000,
+      "assets": 735067000000
+    },
+    {
+      "key": "SurgicalAndInterventionalSolutions",
+      "label": null,
+      "external_revenue": 313109000000,
+      "operating_income": -14986000000,
+      "equity_method_income": 737000000,
+      "assets": 555240000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02272-000_2026-03-31_01_2026-06-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

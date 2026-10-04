@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "edinet_code": "E03344",
+    "sec_code": "7649",
+    "company_name": "スギホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QUCN"
+  },
+  "financials": {
+    "net_sales": 667647000000,
+    "ordinary_income": 32391000000,
+    "net_income": 19007000000,
+    "comprehensive_income": 18842000000,
+    "eps": 311.45,
+    "dps": 80,
+    "operating_cf": 38279000000,
+    "investing_cf": -23256000000,
+    "financing_cf": -14209000000,
+    "net_assets": 216538000000,
+    "total_assets": 351895000000,
+    "bps": 3590.04,
+    "cash_end": 34622000000,
+    "equity_ratio": 0.615,
+    "roe": 0.088,
+    "per": 18.3,
+    "gross_profit": 202524000000,
+    "operating_income": 31658000000,
+    "income_tax_expense": 10587000000,
+    "depreciation": 12362000000,
+    "capex_ppe": -18192000000,
+    "capex_intangible": -3320000000,
+    "current_assets": 199984000000,
+    "current_liabilities": 117015000000,
+    "noncurrent_assets": 151911000000,
+    "noncurrent_liabilities": 18341000000,
+    "ppe": 91913000000,
+    "intangible_assets": 8121000000,
+    "investment_securities": 5459000000,
+    "treasury_stock": -18215000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03344-000_2023-02-28_01_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "edinet_code": "E04101",
+    "sec_code": "9048",
+    "company_name": "名古屋鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YHOL"
+  },
+  "financials": {
+    "ordinary_income": 38363000000,
+    "net_income": 22954000000,
+    "comprehensive_income": 26738000000,
+    "eps": 117.05,
+    "eps_diluted": 104,
+    "dps": 40,
+    "operating_cf": 61433000000,
+    "investing_cf": -150874000000,
+    "financing_cf": 89728000000,
+    "net_assets": 517225000000,
+    "total_assets": 1584842000000,
+    "bps": 2473.18,
+    "cash_end": 56780000000,
+    "equity_ratio": 0.306,
+    "roe": 0.048,
+    "per": 14.75,
+    "operating_income": 36185000000,
+    "income_tax_expense": 13235000000,
+    "interest_bearing_debt_current": 83374000000,
+    "interest_bearing_debt_noncurrent": 262707000000,
+    "bonds_payable": 300000000000,
+    "commercial_papers": 15000000000,
+    "current_portion_of_bonds": 15000000000,
+    "lease_liabilities_current": 1175000000,
+    "lease_liabilities_noncurrent": 8477000000,
+    "depreciation": 46516000000,
+    "current_assets": 272392000000,
+    "current_liabilities": 370251000000,
+    "noncurrent_assets": 1312449000000,
+    "noncurrent_liabilities": 697364000000,
+    "trade_payables": 84897000000,
+    "ppe": 1096429000000,
+    "goodwill": 3051000000,
+    "intangible_assets": 17710000000,
+    "investment_securities": 170157000000,
+    "treasury_stock": -1011000000,
+    "noncontrolling_interests": 32159000000
+  },
+  "segments": [
+    {
+      "key": "AviationAndRelatedServices",
+      "label": null,
+      "external_revenue": 32635000000,
+      "operating_income": 2583000000
+    },
+    {
+      "key": "Distribution",
+      "label": null,
+      "external_revenue": 65848000000,
+      "intersegment_revenue": 3786000000,
+      "operating_income": -1900000000
+    },
+    {
+      "key": "LeisureAndServices",
+      "label": null,
+      "external_revenue": 106156000000,
+      "intersegment_revenue": 622000000,
+      "operating_income": 3429000000
+    },
+    {
+      "key": "RealEstate",
+      "label": null,
+      "external_revenue": 100331000000,
+      "intersegment_revenue": 14448000000,
+      "operating_income": 13573000000
+    },
+    {
+      "key": "Traffic",
+      "label": null,
+      "external_revenue": 175331000000,
+      "intersegment_revenue": 2941000000,
+      "operating_income": 21803000000
+    },
+    {
+      "key": "Transport",
+      "label": null,
+      "external_revenue": 170360000000,
+      "intersegment_revenue": 397000000,
+      "operating_income": -7711000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04101-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

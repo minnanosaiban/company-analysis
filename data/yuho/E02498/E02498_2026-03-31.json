@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "edinet_code": "E02498",
+    "sec_code": "8002",
+    "company_name": "丸紅株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-12",
+    "doc_id": "S100YAY4"
+  },
+  "financials": {
+    "dps": 107.5,
+    "net_sales": 8265841000000,
+    "net_income": 543852000000,
+    "comprehensive_income": 967663000000,
+    "net_assets": 4363719000000,
+    "total_assets": 10531764000000,
+    "equity_ratio": 0.4143,
+    "bps": 2663.18,
+    "eps": 330.42,
+    "eps_diluted": 330.09,
+    "roe": 0.1361,
+    "per": 17,
+    "operating_cf": 535398000000,
+    "investing_cf": -117992000000,
+    "financing_cf": -466211000000,
+    "cash_end": 551064000000,
+    "gross_profit": 1182699000000,
+    "income_tax_expense": 105292000000,
+    "interest_bearing_debt_current": 471738000000,
+    "interest_bearing_debt_noncurrent": 1938239000000,
+    "sga_expense": 913596000000,
+    "profit_before_tax": 664457000000,
+    "depreciation": 209060000000,
+    "capex_ppe": -153490000000,
+    "current_assets": 4506136000000,
+    "current_liabilities": 3281008000000,
+    "noncurrent_assets": 6025628000000,
+    "inventories": 1272883000000,
+    "ppe": 1144761000000,
+    "goodwill": 267016000000,
+    "intangible_assets": 557926000000,
+    "investment_securities": 341176000000,
+    "equity_method_investments": 3504176000000,
+    "treasury_stock": -74333000000,
+    "noncontrolling_interests": 150079000000
+  },
+  "segments": [
+    {
+      "key": "AerospaceAndMobility",
+      "label": "エアロスペース・モビリティ",
+      "gross_profit": 158953000000,
+      "equity_method_income": 14486000000,
+      "profit_attributable_to_owners": 47823000000,
+      "assets": 838588000000
+    },
+    {
+      "key": "EnergyAndChemicals",
+      "label": "エネルギー・化学品",
+      "gross_profit": 115687000000,
+      "equity_method_income": 11204000000,
+      "profit_attributable_to_owners": 23153000000,
+      "assets": 1147594000000
+    },
+    {
+      "key": "FinanceLeasingAndRealEstateBusiness",
+      "label": "金融・リース・不動産",
+      "gross_profit": 22112000000,
+      "equity_method_income": 90373000000,
+      "profit_attributable_to_owners": 162030000000,
+      "assets": 1021012000000
+    },
+    {
+      "key": "FoodAndAgriBusiness",
+      "label": "食料・アグリ",
+      "gross_profit": 469261000000,
+      "equity_method_income": 11217000000,
+      "profit_attributable_to_owners": 81461000000,
+      "assets": 2700620000000
+    },
+    {
+      "key": "ITSolutions",
+      "label": "情報ソリューション",
+      "gross_profit": 51220000000,
+      "equity_method_income": -105000000,
+      "profit_attributable_to_owners": 5384000000,
+      "assets": 272189000000
+    },
+    {
+      "key": "Lifestyle",
+      "label": "ライフスタイル",
+      "gross_profit": 179559000000,
+      "equity_method_income": 2883000000,
+      "profit_attributable_to_owners": 25861000000,
+      "assets": 667637000000
+    },
+    {
+      "key": "MetalsAndMineralResources",
+      "label": "金属",
+      "gross_profit": 48578000000,
+      "equity_method_income": 128666000000,
+      "profit_attributable_to_owners": 134291000000,
+      "assets": 1647649000000
+    },
+    {
+      "key": "NextGenerationBusinessDevelopment",
+      "label": "次世代事業開発",
+      "gross_profit": 54939000000,
+      "equity_method_income": 5796000000,
+      "profit_attributable_to_owners": 19632000000,
+      "assets": 297550000000
+    },
+    {
+      "key": "NextGenerationCorporateDevelopment",
+      "label": "次世代コーポレートディベロップメント",
+      "gross_profit": 18781000000,
+      "equity_method_income": 1708000000,
+      "profit_attributable_to_owners": -1662000000,
+      "assets": 132407000000
+    },
+    {
+      "key": "PowerAndInfrastructureServices",
+      "label": "電力・インフラサービス",
+      "gross_profit": 77047000000,
+      "equity_method_income": 71990000000,
+      "profit_attributable_to_owners": 53625000000,
+      "assets": 1776109000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02498-000_2026-03-31_01_2026-06-12.csv",
+    "parser_version": "0.1.3"
+  }
+}

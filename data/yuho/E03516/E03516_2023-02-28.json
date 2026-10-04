@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "edinet_code": "E03516",
+    "sec_code": "3086",
+    "company_name": "Ｊ.フロント リテイリング株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-26",
+    "doc_id": "S100QU70"
+  },
+  "financials": {
+    "dps": 31,
+    "net_sales": 359679000000,
+    "net_income": 14237000000,
+    "comprehensive_income": 16384000000,
+    "net_assets": 359385000000,
+    "total_assets": 1120953000000,
+    "equity_ratio": 0.321,
+    "bps": 1370.43,
+    "eps": 54.32,
+    "eps_diluted": 54.3,
+    "roe": 0.04,
+    "per": 23.27,
+    "operating_cf": 65480000000,
+    "investing_cf": -13371000000,
+    "financing_cf": -105694000000,
+    "cash_end": 39874000000,
+    "operating_income": 19059000000,
+    "gross_profit": 169536000000,
+    "income_tax_expense": 2611000000,
+    "interest_bearing_debt_current": 63530000000,
+    "interest_bearing_debt_noncurrent": 185593000000,
+    "lease_liabilities_current": 28411000000,
+    "lease_liabilities_noncurrent": 136414000000,
+    "sga_expense": 144682000000,
+    "profit_before_tax": 16873000000,
+    "depreciation": 49107000000,
+    "capex_ppe": -8641000000,
+    "current_assets": 201860000000,
+    "current_liabilities": 317953000000,
+    "noncurrent_assets": 919092000000,
+    "trade_receivables": 129121000000,
+    "inventories": 16932000000,
+    "trade_payables": 133835000000,
+    "ppe": 469401000000,
+    "goodwill": 995000000,
+    "intangible_assets": 7797000000,
+    "equity_method_investments": 41402000000,
+    "treasury_stock": -14466000000,
+    "noncontrolling_interests": 12025000000
+  },
+  "segments": [
+    {
+      "key": "DepartmentStoreBusiness",
+      "label": "百貨店事業",
+      "external_revenue": 215295000000,
+      "intersegment_revenue": 459000000,
+      "revenue": 215754000000,
+      "operating_income": 7529000000,
+      "assets": 544939000000
+    },
+    {
+      "key": "DeveloperBusiness",
+      "label": "デベロッパー事業",
+      "external_revenue": 42297000000,
+      "intersegment_revenue": 12372000000,
+      "revenue": 54670000000,
+      "operating_income": 3695000000,
+      "assets": 115536000000
+    },
+    {
+      "key": "PaymentAndFinanceBusiness",
+      "label": "決済・金融事業",
+      "external_revenue": 7585000000,
+      "intersegment_revenue": 5304000000,
+      "revenue": 12889000000,
+      "operating_income": 3485000000,
+      "assets": 80272000000
+    },
+    {
+      "key": "SCBusiness",
+      "label": "ＳＣ事業",
+      "external_revenue": 53308000000,
+      "intersegment_revenue": 1053000000,
+      "revenue": 54361000000,
+      "operating_income": 3733000000,
+      "assets": 321529000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03516-000_2023-02-28_01_2023-05-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

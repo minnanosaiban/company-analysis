@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E03515",
+    "sec_code": "3197",
+    "company_name": "株式会社すかいらーくホールディングス",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-29",
+    "doc_id": "S100T6PL"
+  },
+  "financials": {
+    "dps": 19,
+    "net_sales": 375394000000,
+    "net_income": 9487000000,
+    "net_assets": 132817000000,
+    "total_assets": 453979000000,
+    "equity_ratio": 0.293,
+    "bps": 672.48,
+    "eps": 48.07,
+    "eps_diluted": 48.04,
+    "roe": 0.072,
+    "per": 44.4,
+    "operating_cf": 67825000000,
+    "investing_cf": -20446000000,
+    "financing_cf": -47350000000,
+    "cash_end": 18949000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03515-000_2023-12-31_01_2024-03-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

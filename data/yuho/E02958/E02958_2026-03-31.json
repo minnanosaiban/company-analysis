@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "edinet_code": "E02958",
+    "sec_code": "2768",
+    "company_name": "双日株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-09",
+    "doc_id": "S100Y9EI"
+  },
+  "financials": {
+    "dps": 165,
+    "net_sales": 2757350000000,
+    "net_income": 103611000000,
+    "comprehensive_income": 187859000000,
+    "net_assets": 1090369000000,
+    "total_assets": 3648023000000,
+    "equity_ratio": 0.299,
+    "bps": 5240.64,
+    "eps": 494.95,
+    "eps_diluted": 494.84,
+    "roe": 0.101,
+    "per": 12.4,
+    "operating_cf": 16759000000,
+    "investing_cf": -86608000000,
+    "financing_cf": 110217000000,
+    "cash_end": 245145000000,
+    "gross_profit": 367489000000,
+    "income_tax_expense": 7983000000,
+    "interest_bearing_debt_current": 299474000000,
+    "interest_bearing_debt_noncurrent": 996142000000,
+    "lease_liabilities_current": 21601000000,
+    "lease_liabilities_noncurrent": 84105000000,
+    "sga_expense": 305116000000,
+    "profit_before_tax": 115630000000,
+    "depreciation": 49860000000,
+    "capex_ppe": -40060000000,
+    "capex_intangible": -5675000000,
+    "current_assets": 1928400000000,
+    "current_liabilities": 1240924000000,
+    "noncurrent_assets": 1719623000000,
+    "trade_receivables": 1092352000000,
+    "inventories": 340519000000,
+    "trade_payables": 749927000000,
+    "ppe": 268466000000,
+    "goodwill": 179662000000,
+    "intangible_assets": 145403000000,
+    "investment_securities": 196596000000,
+    "equity_method_investments": 700784000000,
+    "treasury_stock": -5230000000,
+    "noncontrolling_interests": 63430000000
+  },
+  "segments": [
+    {
+      "key": "AerospaceTransportationAndInfrastructure",
+      "label": "航空・社会インフラ",
+      "gross_profit": 27514000000,
+      "equity_method_income": 4171000000,
+      "profit_attributable_to_owners": 15506000000,
+      "assets": 453888000000
+    },
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "gross_profit": 66009000000,
+      "equity_method_income": 1810000000,
+      "profit_attributable_to_owners": -5286000000,
+      "assets": 348538000000
+    },
+    {
+      "key": "Chemicals",
+      "label": "化学",
+      "gross_profit": 72542000000,
+      "equity_method_income": -113000000,
+      "profit_attributable_to_owners": 19989000000,
+      "assets": 382710000000
+    },
+    {
+      "key": "ConsumerIndustryAndAgricultureBusiness",
+      "label": "生活産業・アグリビジネス",
+      "gross_profit": 33499000000,
+      "equity_method_income": 1539000000,
+      "profit_attributable_to_owners": 5902000000,
+      "assets": 244271000000
+    },
+    {
+      "key": "EnergySolutionsAndHealthcare",
+      "label": "エネルギー・ヘルスケア",
+      "gross_profit": 65859000000,
+      "equity_method_income": 15162000000,
+      "profit_attributable_to_owners": 31932000000,
+      "assets": 758584000000
+    },
+    {
+      "key": "MetalsMineralResourcesAndRecycling",
+      "label": "金属・資源・リサイクル",
+      "gross_profit": 17046000000,
+      "equity_method_income": 17971000000,
+      "profit_attributable_to_owners": 4823000000,
+      "assets": 499771000000
+    },
+    {
+      "key": "RetailAndConsumerService",
+      "label": "リテール・コンシューマーサービス",
+      "gross_profit": 70882000000,
+      "equity_method_income": 3421000000,
+      "profit_attributable_to_owners": 14246000000,
+      "assets": 717810000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02958-000_2026-03-31_01_2026-06-09.csv",
+    "parser_version": "0.1.3"
+  }
+}

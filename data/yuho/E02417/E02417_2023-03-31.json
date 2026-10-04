@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "edinet_code": "E02417",
+    "sec_code": "9697",
+    "company_name": "株式会社カプコン",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R0IV"
+  },
+  "financials": {
+    "net_sales": 125930000000,
+    "ordinary_income": 51369000000,
+    "net_income": 36737000000,
+    "comprehensive_income": 39176000000,
+    "eps": 174.73,
+    "dps": 63,
+    "operating_cf": 21789000000,
+    "investing_cf": -7679000000,
+    "financing_cf": -22485000000,
+    "net_assets": 161129000000,
+    "total_assets": 217365000000,
+    "bps": 770.54,
+    "cash_end": 89470000000,
+    "equity_ratio": 0.741,
+    "roe": 0.239,
+    "per": 27.1,
+    "gross_profit": 73819000000,
+    "operating_income": 50812000000,
+    "income_tax_expense": 16895000000,
+    "interest_bearing_debt_current": 3591000000,
+    "interest_bearing_debt_noncurrent": 626000000,
+    "current_portion_lt_loans": 3626000000,
+    "lease_liabilities_current": 919000000,
+    "lease_liabilities_noncurrent": 2992000000,
+    "depreciation": 3438000000,
+    "capex_ppe": -7103000000,
+    "capex_intangible": -312000000,
+    "current_assets": 171402000000,
+    "current_liabilities": 46043000000,
+    "noncurrent_assets": 45963000000,
+    "noncurrent_liabilities": 10193000000,
+    "trade_payables": 3357000000,
+    "ppe": 27945000000,
+    "intangible_assets": 1630000000,
+    "investment_securities": 735000000,
+    "treasury_stock": -50037000000
+  },
+  "segments": [
+    {
+      "key": "AmusementEquipments",
+      "label": null,
+      "external_revenue": 7801000000,
+      "operating_income": 3433000000
+    },
+    {
+      "key": "ArcadeOperations",
+      "label": null,
+      "external_revenue": 15609000000,
+      "operating_income": 1227000000
+    },
+    {
+      "key": "DegitalContents",
+      "label": null,
+      "external_revenue": 98158000000,
+      "operating_income": 53504000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02417-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

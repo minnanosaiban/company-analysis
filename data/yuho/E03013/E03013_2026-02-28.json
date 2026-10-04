@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "edinet_code": "E03013",
+    "sec_code": "8233",
+    "company_name": "株式会社髙島屋",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-05-20",
+    "doc_id": "S100Y4X5"
+  },
+  "financials": {
+    "net_sales": 401958000000,
+    "ordinary_income": 56879000000,
+    "net_income": -8194000000,
+    "comprehensive_income": 1594000000,
+    "eps": -27.44,
+    "dps": 34,
+    "operating_cf": 53837000000,
+    "investing_cf": -34924000000,
+    "financing_cf": -31772000000,
+    "net_assets": 477749000000,
+    "total_assets": 1346229000000,
+    "bps": 1535.03,
+    "cash_end": 77441000000,
+    "equity_ratio": 0.334,
+    "roe": -0.018,
+    "per": -72.1,
+    "gross_profit": 209181000000,
+    "operating_income": 53516000000,
+    "income_tax_expense": 4442000000,
+    "interest_bearing_debt_current": 140748000000,
+    "interest_bearing_debt_noncurrent": 120170000000,
+    "bonds_payable": 10000000000,
+    "current_portion_of_bonds": 10495000000,
+    "lease_liabilities_current": 9760000000,
+    "lease_liabilities_noncurrent": 123297000000,
+    "depreciation": 33777000000,
+    "current_assets": 364353000000,
+    "current_liabilities": 542760000000,
+    "noncurrent_assets": 981876000000,
+    "noncurrent_liabilities": 325719000000,
+    "trade_payables": 132817000000,
+    "ppe": 759140000000,
+    "goodwill": 2729000000,
+    "intangible_assets": 38187000000,
+    "investment_securities": 131966000000,
+    "treasury_stock": -14886000000,
+    "noncontrolling_interests": 27960000000
+  },
+  "segments": [
+    {
+      "key": "CommercialPropertyDevelopmentInJapan",
+      "label": "国内商業開発業",
+      "external_revenue": 41767000000,
+      "intersegment_revenue": 10267000000,
+      "operating_income": 6568000000
+    },
+    {
+      "key": "ContractAndDesign",
+      "label": "建装業",
+      "external_revenue": 33240000000,
+      "intersegment_revenue": 4522000000,
+      "operating_income": 2522000000
+    },
+    {
+      "key": "DepartmentStoresInJapan",
+      "label": "国内百貨店業",
+      "external_revenue": 303856000000,
+      "intersegment_revenue": 18117000000,
+      "operating_income": 24863000000
+    },
+    {
+      "key": "Finance",
+      "label": "金融業",
+      "external_revenue": 20699000000,
+      "intersegment_revenue": 4493000000,
+      "operating_income": 5575000000
+    },
+    {
+      "key": "OverseasCommercialPropertyDevelopment",
+      "label": "海外商業開発業",
+      "external_revenue": 15738000000,
+      "intersegment_revenue": 668000000,
+      "operating_income": 5845000000
+    },
+    {
+      "key": "OverseasDepartmentStores",
+      "label": "海外百貨店業",
+      "external_revenue": 34310000000,
+      "intersegment_revenue": 889000000,
+      "operating_income": 8524000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03013-000_2026-02-28_01_2026-05-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

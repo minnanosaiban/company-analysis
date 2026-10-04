@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E04505",
+    "sec_code": "9507",
+    "company_name": "四国電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7M9"
+  },
+  "financials": {
+    "ordinary_income": -22515000000,
+    "net_income": -22871000000,
+    "comprehensive_income": -13803000000,
+    "eps": -111.19,
+    "operating_cf": 36086000000,
+    "investing_cf": -91600000000,
+    "financing_cf": 84829000000,
+    "net_assets": 298312000000,
+    "total_assets": 1612025000000,
+    "bps": 1438.32,
+    "cash_end": 105904000000,
+    "equity_ratio": 0.183,
+    "roe": -0.075,
+    "operating_income": -12285000000,
+    "income_tax_expense": 1891000000,
+    "interest_bearing_debt_noncurrent": 463700000000,
+    "bonds_payable": 396992000000,
+    "depreciation": 52485000000,
+    "current_assets": 324108000000,
+    "current_liabilities": 254096000000,
+    "noncurrent_assets": 1287917000000,
+    "noncurrent_liabilities": 1059216000000,
+    "inventories": 59974000000,
+    "trade_payables": 61910000000,
+    "treasury_stock": -3440000000,
+    "noncontrolling_interests": 2524000000
+  },
+  "segments": [
+    {
+      "key": "ConstructionEngineering",
+      "label": "建設・エンジニアリング事業",
+      "external_revenue": 26624000000,
+      "intersegment_revenue": 26440000000,
+      "ordinary_income": 3509000000,
+      "equity_method_income": 956000000
+    },
+    {
+      "key": "Energy",
+      "label": "エネルギー事業",
+      "external_revenue": 21953000000,
+      "intersegment_revenue": 3812000000,
+      "ordinary_income": -15118000000,
+      "equity_method_income": -8163000000
+    },
+    {
+      "key": "InformationTechnologyCommunications",
+      "label": "情報通信事業",
+      "external_revenue": 36455000000,
+      "intersegment_revenue": 9126000000,
+      "ordinary_income": 9370000000
+    },
+    {
+      "key": "PowerGenerationAndSales",
+      "label": "発電・販売事業",
+      "external_revenue": 631572000000,
+      "intersegment_revenue": 77462000000,
+      "ordinary_income": -28941000000
+    },
+    {
+      "key": "TransmissionAndDistribution",
+      "label": "送配電事業",
+      "external_revenue": 103497000000,
+      "intersegment_revenue": 162773000000,
+      "ordinary_income": 7264000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04505-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

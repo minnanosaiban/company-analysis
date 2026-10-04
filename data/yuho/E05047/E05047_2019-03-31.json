@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E05047",
+    "sec_code": "8876",
+    "company_name": "株式会社リログループ",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R6MH"
+  },
+  "financials": {
+    "net_sales": 250864000000,
+    "ordinary_income": 20072000000,
+    "net_income": 13005000000,
+    "comprehensive_income": 13439000000,
+    "eps": 87.2,
+    "eps_diluted": 78.9,
+    "dps": 26,
+    "operating_cf": 11611000000,
+    "investing_cf": -3779000000,
+    "financing_cf": -8190000000,
+    "net_assets": 54507000000,
+    "total_assets": 148477000000,
+    "bps": 349.82,
+    "cash_end": 27432000000,
+    "equity_ratio": 0.352,
+    "roe": 0.275,
+    "per": 35.7
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05047-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

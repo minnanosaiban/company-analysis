@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "edinet_code": "E04426",
+    "sec_code": "9434",
+    "company_name": "ソフトバンク株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R04O"
+  },
+  "financials": {
+    "dps": 86,
+    "net_income": 491287000000,
+    "comprehensive_income": 529890000000,
+    "net_assets": 1535723000000,
+    "total_assets": 12207720000000,
+    "equity_ratio": 0.126,
+    "bps": 327.69,
+    "eps": 103.85,
+    "eps_diluted": 102.66,
+    "roe": 0.387,
+    "per": 13.9,
+    "operating_cf": 1338949000000,
+    "investing_cf": -511295000000,
+    "financing_cf": -388462000000,
+    "cash_end": 1584892000000,
+    "current_assets": 4033845000000,
+    "current_liabilities": 5293636000000,
+    "noncurrent_assets": 8586363000000,
+    "trade_receivables": 2082223000000,
+    "inventories": 119411000000,
+    "trade_payables": 1624048000000,
+    "ppe": 1248901000000,
+    "goodwill": 1419566000000,
+    "intangible_assets": 2340777000000,
+    "equity_method_investments": 242558000000,
+    "treasury_stock": -134218000000,
+    "noncontrolling_interests": 1248218000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04426-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

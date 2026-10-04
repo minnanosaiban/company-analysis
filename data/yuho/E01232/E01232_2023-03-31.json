@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E01232",
+    "sec_code": "5631",
+    "company_name": "株式会社日本製鋼所",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R38W"
+  },
+  "financials": {
+    "net_sales": 238721000000,
+    "ordinary_income": 14958000000,
+    "net_income": 11974000000,
+    "comprehensive_income": 14303000000,
+    "eps": 162.75,
+    "dps": 58,
+    "operating_cf": -986000000,
+    "investing_cf": 947000000,
+    "financing_cf": -20112000000,
+    "net_assets": 160636000000,
+    "total_assets": 348358000000,
+    "bps": 2162.18,
+    "cash_end": 86400000000,
+    "equity_ratio": 0.457,
+    "roe": 0.078,
+    "per": 15.23,
+    "gross_profit": 49380000000,
+    "operating_income": 13846000000,
+    "income_tax_expense": 4388000000,
+    "interest_bearing_debt_current": 10905000000,
+    "interest_bearing_debt_noncurrent": 29118000000,
+    "current_portion_lt_loans": 2523000000,
+    "lease_liabilities_current": 292000000,
+    "lease_liabilities_noncurrent": 581000000,
+    "depreciation": 6572000000,
+    "current_assets": 263856000000,
+    "current_liabilities": 137412000000,
+    "noncurrent_assets": 84501000000,
+    "noncurrent_liabilities": 50308000000,
+    "trade_payables": 34715000000,
+    "ppe": 44583000000,
+    "goodwill": 242000000,
+    "intangible_assets": 1537000000,
+    "investment_securities": 19388000000,
+    "treasury_stock": -2315000000,
+    "noncontrolling_interests": 1536000000
+  },
+  "segments": [
+    {
+      "key": "IndustrialMachineryProducts",
+      "label": null,
+      "external_revenue": 202944000000,
+      "intersegment_revenue": 862000000,
+      "operating_income": 18949000000
+    },
+    {
+      "key": "RealEstateAndOtherBusinesses",
+      "label": null,
+      "external_revenue": 1803000000,
+      "intersegment_revenue": 1891000000,
+      "operating_income": -418000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01232-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

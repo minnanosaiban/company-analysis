@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E01551",
+    "sec_code": "6383",
+    "company_name": "株式会社ダイフク",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-26",
+    "doc_id": "S100R500"
+  },
+  "financials": {
+    "net_sales": 601922000000,
+    "ordinary_income": 59759000000,
+    "net_income": 41248000000,
+    "comprehensive_income": 53556000000,
+    "eps": 109.11,
+    "dps": 110,
+    "operating_cf": 20034000000,
+    "investing_cf": -11874000000,
+    "financing_cf": -30187000000,
+    "net_assets": 332323000000,
+    "total_assets": 551552000000,
+    "bps": 878.24,
+    "cash_end": 102389000000,
+    "equity_ratio": 0.602,
+    "roe": 0.132,
+    "per": 22.4,
+    "gross_profit": 109799000000,
+    "operating_income": 58854000000,
+    "income_tax_expense": 19404000000,
+    "interest_bearing_debt_current": 10359000000,
+    "interest_bearing_debt_noncurrent": 1100000000,
+    "depreciation": 8522000000,
+    "current_assets": 433144000000,
+    "current_liabilities": 202816000000,
+    "noncurrent_assets": 118408000000,
+    "noncurrent_liabilities": 16412000000,
+    "ppe": 65037000000,
+    "goodwill": 3804000000,
+    "intangible_assets": 11454000000,
+    "investment_securities": 12265000000,
+    "treasury_stock": -899000000,
+    "noncontrolling_interests": 299000000
+  },
+  "segments": [
+    {
+      "key": "CFI",
+      "label": null,
+      "external_revenue": 42694000000,
+      "intersegment_revenue": 3379000000
+    },
+    {
+      "key": "Contec",
+      "label": null,
+      "external_revenue": 18604000000,
+      "intersegment_revenue": 13850000000
+    },
+    {
+      "key": "DAIFUKU",
+      "label": null,
+      "external_revenue": 238855000000,
+      "intersegment_revenue": 51423000000
+    },
+    {
+      "key": "DNAHC",
+      "label": null,
+      "external_revenue": 158769000000,
+      "intersegment_revenue": 684000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01551-000_2023-03-31_01_2023-06-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

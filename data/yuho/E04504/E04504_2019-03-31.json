@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04504",
+    "sec_code": "9504",
+    "company_name": "中国電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8QI"
+  },
+  "financials": {
+    "ordinary_income": 12685000000,
+    "net_income": 11446000000,
+    "comprehensive_income": -4922000000,
+    "eps": 33.25,
+    "eps_diluted": 25.74,
+    "dps": 50,
+    "operating_cf": 81635000000,
+    "investing_cf": -168744000000,
+    "financing_cf": 97510000000,
+    "net_assets": 558655000000,
+    "total_assets": 3261665000000,
+    "bps": 1613.71,
+    "cash_end": 91399000000,
+    "equity_ratio": 0.17,
+    "roe": 0.02,
+    "per": 41.5
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04504-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E01929",
+    "sec_code": "6925",
+    "company_name": "ウシオ電機株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7CY"
+  },
+  "financials": {
+    "net_sales": 148821000000,
+    "ordinary_income": 15195000000,
+    "net_income": 12606000000,
+    "comprehensive_income": 27188000000,
+    "eps": 104.54,
+    "dps": 50,
+    "operating_cf": 21628000000,
+    "investing_cf": -5519000000,
+    "financing_cf": -10625000000,
+    "net_assets": 235202000000,
+    "total_assets": 321096000000,
+    "bps": 1949.73,
+    "cash_end": 81619000000,
+    "equity_ratio": 0.732,
+    "roe": 0.057,
+    "per": 17.5,
+    "gross_profit": 54029000000,
+    "operating_income": 13068000000,
+    "income_tax_expense": 5470000000,
+    "interest_bearing_debt_current": 2185000000,
+    "current_portion_lt_loans": 16402000000,
+    "lease_liabilities_current": 12000000,
+    "lease_liabilities_noncurrent": 61000000,
+    "depreciation": 6939000000,
+    "capex_ppe": -5958000000,
+    "capex_intangible": -235000000,
+    "current_assets": 201708000000,
+    "current_liabilities": 72393000000,
+    "noncurrent_assets": 119388000000,
+    "noncurrent_liabilities": 13500000000,
+    "trade_payables": 21164000000,
+    "ppe": 46162000000,
+    "goodwill": 235000000,
+    "intangible_assets": 2991000000,
+    "investment_securities": 59146000000,
+    "treasury_stock": -9032000000,
+    "noncontrolling_interests": 84000000
+  },
+  "segments": [
+    {
+      "key": "ImagingEquipmentBusiness",
+      "label": null,
+      "external_revenue": 39173000000,
+      "intersegment_revenue": 7000000,
+      "operating_income": -53000000
+    },
+    {
+      "key": "LightSourcesBusiness",
+      "label": null,
+      "external_revenue": 57811000000,
+      "intersegment_revenue": 9000000,
+      "operating_income": 8288000000
+    },
+    {
+      "key": "OpticalEquipmentBusiness",
+      "label": null,
+      "external_revenue": 48386000000,
+      "intersegment_revenue": 24000000,
+      "operating_income": 4620000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01929-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

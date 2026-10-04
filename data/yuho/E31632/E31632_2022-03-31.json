@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "edinet_code": "E31632",
+    "sec_code": "5021",
+    "company_name": "コスモエネルギーホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W3P9"
+  },
+  "financials": {
+    "net_sales": 2440452000000,
+    "ordinary_income": 233097000000,
+    "net_income": 138890000000,
+    "comprehensive_income": 144616000000,
+    "eps": 1658.64,
+    "eps_diluted": 1389.4,
+    "dps": 100,
+    "operating_cf": 108361000000,
+    "investing_cf": -67511000000,
+    "financing_cf": -42040000000,
+    "net_assets": 583971000000,
+    "total_assets": 1938408000000,
+    "bps": 5446.39,
+    "cash_end": 48066000000,
+    "equity_ratio": 0.235,
+    "roe": 0.356,
+    "per": 1.59
+  },
+  "segments": [
+    {
+      "key": "OilExplorationAndProductionBusiness",
+      "label": "石油開発事業",
+      "external_revenue": 37208000000,
+      "intersegment_revenue": 53824000000,
+      "ordinary_income": 44761000000,
+      "equity_method_income": 1901000000
+    },
+    {
+      "key": "Petrochemicalbusiness",
+      "label": "石油化学事業",
+      "external_revenue": 312286000000,
+      "intersegment_revenue": 47147000000,
+      "ordinary_income": 13617000000,
+      "equity_method_income": -3462000000
+    },
+    {
+      "key": "PetroleumBusiness",
+      "label": "石油事業",
+      "external_revenue": 2054427000000,
+      "intersegment_revenue": 83318000000,
+      "ordinary_income": 166029000000,
+      "equity_method_income": 4234000000
+    },
+    {
+      "key": "RenewableEnergyBusiness",
+      "label": "再生可能エネルギー事業",
+      "external_revenue": 13091000000,
+      "intersegment_revenue": 16000000,
+      "ordinary_income": 3483000000,
+      "equity_method_income": -76000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E31632-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

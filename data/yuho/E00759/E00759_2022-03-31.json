@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "edinet_code": "E00759",
+    "sec_code": "4021",
+    "company_name": "日産化学株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R76C"
+  },
+  "financials": {
+    "net_sales": 207972000000,
+    "ordinary_income": 53690000000,
+    "net_income": 38776000000,
+    "comprehensive_income": 36511000000,
+    "eps": 271.88,
+    "dps": 122,
+    "operating_cf": 41949000000,
+    "investing_cf": -12395000000,
+    "financing_cf": -27868000000,
+    "net_assets": 208009000000,
+    "total_assets": 279687000000,
+    "bps": 1454.01,
+    "cash_end": 34658000000,
+    "equity_ratio": 0.736,
+    "roe": 0.192,
+    "per": 26.59,
+    "gross_profit": 101089000000,
+    "operating_income": 50959000000,
+    "income_tax_expense": 14713000000,
+    "interest_bearing_debt_current": 20981000000,
+    "interest_bearing_debt_noncurrent": 1182000000,
+    "current_portion_lt_loans": 552000000,
+    "depreciation": 10119000000,
+    "capex_ppe": -11253000000,
+    "capex_intangible": -1133000000,
+    "current_assets": 175279000000,
+    "current_liabilities": 65971000000,
+    "noncurrent_assets": 104408000000,
+    "noncurrent_liabilities": 5706000000,
+    "trade_payables": 19043000000,
+    "ppe": 53177000000,
+    "intangible_assets": 11780000000,
+    "investment_securities": 30217000000,
+    "treasury_stock": -8261000000,
+    "noncontrolling_interests": 2097000000
+  },
+  "segments": [
+    {
+      "key": "Agrochemicals",
+      "label": null,
+      "external_revenue": 57965000000,
+      "intersegment_revenue": 7853000000,
+      "operating_income": 18127000000
+    },
+    {
+      "key": "Chemicals",
+      "label": null,
+      "external_revenue": 26032000000,
+      "intersegment_revenue": 11615000000,
+      "operating_income": 3787000000
+    },
+    {
+      "key": "Medicines",
+      "label": null,
+      "external_revenue": 6540000000,
+      "intersegment_revenue": 49000000,
+      "operating_income": 2813000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 10877000000,
+      "intersegment_revenue": 12717000000,
+      "operating_income": 692000000
+    },
+    {
+      "key": "PerformanceMaterials",
+      "label": null,
+      "external_revenue": 69664000000,
+      "intersegment_revenue": 12000000000,
+      "operating_income": 27621000000
+    },
+    {
+      "key": "Trading",
+      "label": null,
+      "external_revenue": 59644000000,
+      "intersegment_revenue": 20792000000,
+      "operating_income": 2903000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00759-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

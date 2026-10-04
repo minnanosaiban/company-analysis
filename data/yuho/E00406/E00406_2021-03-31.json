@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00406",
+    "sec_code": "2267",
+    "company_name": "株式会社ヤクルト本社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100QXAM"
+  },
+  "financials": {
+    "net_sales": 385706000000,
+    "ordinary_income": 57601000000,
+    "net_income": 39267000000,
+    "comprehensive_income": 37085000000,
+    "eps": 244.85,
+    "dps": 52,
+    "operating_cf": 55820000000,
+    "investing_cf": -19623000000,
+    "financing_cf": -31254000000,
+    "net_assets": 439761000000,
+    "total_assets": 635102000000,
+    "bps": 2523.81,
+    "cash_end": 122766000000,
+    "equity_ratio": 0.638,
+    "roe": 0.101,
+    "per": 22.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00406-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

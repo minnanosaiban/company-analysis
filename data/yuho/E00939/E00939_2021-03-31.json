@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E00939",
+    "sec_code": "4523",
+    "company_name": "エーザイ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-21",
+    "doc_id": "S100R09Z"
+  },
+  "financials": {
+    "dps": 160,
+    "net_sales": 645942000000,
+    "net_income": 41942000000,
+    "net_assets": 701601000000,
+    "total_assets": 1088427000000,
+    "equity_ratio": 0.645,
+    "bps": 2447.45,
+    "eps": 146.34,
+    "eps_diluted": 146.29,
+    "roe": 0.061,
+    "per": 50.7,
+    "operating_cf": 73067000000,
+    "investing_cf": -36086000000,
+    "financing_cf": -55908000000,
+    "cash_end": 248740000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00939-000_2023-03-31_01_2023-06-21.csv",
+    "parser_version": "0.1.3"
+  }
+}

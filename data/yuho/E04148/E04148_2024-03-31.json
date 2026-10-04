@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "edinet_code": "E04148",
+    "sec_code": "9021",
+    "company_name": "西日本旅客鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-20",
+    "doc_id": "S100TOS4"
+  },
+  "financials": {
+    "ordinary_income": 167382000000,
+    "net_income": 98761000000,
+    "comprehensive_income": 110052000000,
+    "eps": 202.63,
+    "dps": 142,
+    "operating_cf": 318314000000,
+    "investing_cf": -243651000000,
+    "financing_cf": -131620000000,
+    "net_assets": 1224961000000,
+    "total_assets": 3777923000000,
+    "bps": 2268.88,
+    "cash_end": 233218000000,
+    "equity_ratio": 0.293,
+    "roe": 0.092,
+    "per": 15.5,
+    "operating_income": 179748000000,
+    "income_tax_expense": 17102000000,
+    "interest_bearing_debt_current": 19298000000,
+    "interest_bearing_debt_noncurrent": 519855000000,
+    "bonds_payable": 799994000000,
+    "current_portion_of_bonds": 60000000000,
+    "current_portion_lt_loans": 77130000000,
+    "depreciation": 163322000000,
+    "current_assets": 700963000000,
+    "current_liabilities": 710175000000,
+    "noncurrent_assets": 3076763000000,
+    "noncurrent_liabilities": 1842786000000,
+    "trade_receivables": 58437000000,
+    "inventories": 160631000000,
+    "trade_payables": 59894000000,
+    "ppe": 2633423000000,
+    "intangible_assets": 46490000000,
+    "investment_securities": 127931000000,
+    "treasury_stock": -1262000000,
+    "noncontrolling_interests": 119064000000
+  },
+  "segments": [
+    {
+      "key": "Logistics",
+      "label": "流通業",
+      "external_revenue": 197000000000,
+      "intersegment_revenue": 4743000000,
+      "operating_income": 13076000000
+    },
+    {
+      "key": "Mobility",
+      "label": "モビリティ業",
+      "external_revenue": 986434000000,
+      "intersegment_revenue": 50964000000,
+      "operating_income": 114473000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産業",
+      "external_revenue": 217741000000,
+      "intersegment_revenue": 17169000000,
+      "operating_income": 40642000000
+    },
+    {
+      "key": "TravelAndRegionalSolutions",
+      "label": "旅行・地域ソリューション業",
+      "external_revenue": 206000000000,
+      "intersegment_revenue": 3235000000,
+      "operating_income": 7846000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04148-000_2024-03-31_01_2024-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

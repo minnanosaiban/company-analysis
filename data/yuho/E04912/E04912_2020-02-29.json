@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04912",
+    "sec_code": "8570",
+    "company_name": "イオンフィナンシャルサービス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-02-29",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-05-27",
+    "doc_id": "S100TI2A"
+  },
+  "financials": {
+    "ordinary_income": 65797000000,
+    "net_income": 34149000000,
+    "comprehensive_income": 34058000000,
+    "eps": 158.25,
+    "eps_diluted": 154.15,
+    "dps": 68,
+    "operating_cf": 352217000000,
+    "investing_cf": -177438000000,
+    "financing_cf": -89040000000,
+    "net_assets": 459075000000,
+    "total_assets": 5781370000000,
+    "bps": 1823.05,
+    "cash_end": 713407000000,
+    "equity_ratio": 0.068,
+    "roe": 0.088,
+    "per": 7.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04912-000_2024-02-29_01_2024-05-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

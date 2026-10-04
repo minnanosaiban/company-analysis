@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00462",
+    "sec_code": "2810",
+    "company_name": "ハウス食品グループ本社株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-27",
+    "doc_id": "S100R1XD"
+  },
+  "financials": {
+    "net_sales": 250066000000,
+    "ordinary_income": 19837000000,
+    "net_income": 8752000000,
+    "comprehensive_income": 12284000000,
+    "eps": 86.87,
+    "dps": 46,
+    "operating_cf": 23181000000,
+    "investing_cf": -8558000000,
+    "financing_cf": -6172000000,
+    "net_assets": 286883000000,
+    "total_assets": 369335000000,
+    "bps": 2559.12,
+    "cash_end": 78343000000,
+    "equity_ratio": 0.6981,
+    "roe": 0.0346,
+    "per": 41.9
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00462-000_2023-03-31_01_2023-06-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01317",
+    "sec_code": "5938",
+    "company_name": "株式会社LIXIL",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-22",
+    "doc_id": "S100R0AV"
+  },
+  "financials": {
+    "dps": 70,
+    "net_sales": 1514449000000,
+    "net_income": 12518000000,
+    "comprehensive_income": -11632000000,
+    "net_assets": 502165000000,
+    "total_assets": 2091529000000,
+    "equity_ratio": 0.24,
+    "bps": 1730.99,
+    "eps": 43.15,
+    "eps_diluted": 39.65,
+    "roe": 0.024,
+    "per": 31.2,
+    "operating_cf": 157701000000,
+    "investing_cf": -41314000000,
+    "financing_cf": -153285000000,
+    "cash_end": 95862000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01317-000_2023-03-31_01_2023-06-22.csv",
+    "parser_version": "0.1.3"
+  }
+}

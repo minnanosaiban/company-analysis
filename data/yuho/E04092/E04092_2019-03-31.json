@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "edinet_code": "E04092",
+    "sec_code": "9008",
+    "company_name": "京王電鉄株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7I3"
+  },
+  "financials": {
+    "ordinary_income": 39281000000,
+    "net_income": 27213000000,
+    "comprehensive_income": 21897000000,
+    "eps": 222.87,
+    "dps": 50,
+    "operating_cf": 60620000000,
+    "investing_cf": -47608000000,
+    "financing_cf": -20376000000,
+    "net_assets": 368022000000,
+    "total_assets": 889341000000,
+    "bps": 3011.54,
+    "cash_end": 57934000000,
+    "equity_ratio": 0.413,
+    "roe": 0.076,
+    "per": 32.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04092-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

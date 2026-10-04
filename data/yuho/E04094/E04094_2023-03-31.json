@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E04094",
+    "sec_code": "9001",
+    "company_name": "東武鉄道株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2023-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R06O"
+  },
+  "financials": {
+    "ordinary_income": 54815000000,
+    "net_income": 29179000000,
+    "comprehensive_income": 32636000000,
+    "eps": 140.06,
+    "dps": 30,
+    "operating_cf": 101115000000,
+    "investing_cf": -52711000000,
+    "financing_cf": -25285000000,
+    "net_assets": 480575000000,
+    "total_assets": 1738195000000,
+    "bps": 2296.65,
+    "cash_end": 69074000000,
+    "equity_ratio": 0.273,
+    "roe": 0.063,
+    "per": 22.6,
+    "operating_income": 56688000000,
+    "income_tax_expense": 15175000000,
+    "interest_bearing_debt_current": 36362000000,
+    "interest_bearing_debt_noncurrent": 494592000000,
+    "bonds_payable": 158160000000,
+    "current_portion_of_bonds": 19920000000,
+    "current_portion_lt_loans": 83143000000,
+    "depreciation": 53354000000,
+    "current_assets": 206090000000,
+    "current_liabilities": 459439000000,
+    "noncurrent_assets": 1532105000000,
+    "noncurrent_liabilities": 798181000000,
+    "trade_receivables": 70561000000,
+    "trade_payables": 51922000000,
+    "ppe": 1393848000000,
+    "intangible_assets": 19455000000,
+    "investment_securities": 73614000000,
+    "treasury_stock": -10302000000,
+    "noncontrolling_interests": 5820000000
+  },
+  "segments": [
+    {
+      "key": "Leisure",
+      "label": "レジャー事業",
+      "external_revenue": 187759000000,
+      "intersegment_revenue": 594000000,
+      "operating_income": 19470000000
+    },
+    {
+      "key": "Logistics",
+      "label": "流通事業",
+      "external_revenue": 153894000000,
+      "intersegment_revenue": 9543000000,
+      "operating_income": 2602000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 39303000000,
+      "intersegment_revenue": 42599000000,
+      "operating_income": 2646000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産事業",
+      "external_revenue": 47967000000,
+      "intersegment_revenue": 12947000000,
+      "operating_income": 13681000000
+    },
+    {
+      "key": "Transportation",
+      "label": "運輸事業",
+      "external_revenue": 185826000000,
+      "intersegment_revenue": 3363000000,
+      "operating_income": 19381000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04094-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "edinet_code": "E00406",
+    "sec_code": "2267",
+    "company_name": "株式会社ヤクルト本社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-19",
+    "doc_id": "S100YCBJ"
+  },
+  "financials": {
+    "net_sales": 486425000000,
+    "ordinary_income": 61084000000,
+    "net_income": 44228000000,
+    "comprehensive_income": 75106000000,
+    "eps": 150.72,
+    "dps": 70,
+    "operating_cf": 52121000000,
+    "investing_cf": -39008000000,
+    "financing_cf": -44696000000,
+    "net_assets": 654321000000,
+    "total_assets": 912578000000,
+    "bps": 2075.29,
+    "cash_end": 165042000000,
+    "equity_ratio": 0.664,
+    "roe": 0.075,
+    "per": 17.6,
+    "gross_profit": 286235000000,
+    "operating_income": 45185000000,
+    "income_tax_expense": 21899000000,
+    "interest_bearing_debt_current": 49232000000,
+    "interest_bearing_debt_noncurrent": 51104000000,
+    "current_portion_lt_loans": 3064000000,
+    "lease_liabilities_current": 3505000000,
+    "lease_liabilities_noncurrent": 7196000000,
+    "depreciation": 28809000000,
+    "current_assets": 340139000000,
+    "current_liabilities": 148223000000,
+    "noncurrent_assets": 572438000000,
+    "noncurrent_liabilities": 110032000000,
+    "trade_receivables": 55049000000,
+    "trade_payables": 19509000000,
+    "ppe": 346134000000,
+    "goodwill": 921000000,
+    "intangible_assets": 10305000000,
+    "investment_securities": 80392000000,
+    "treasury_stock": -46419000000,
+    "noncontrolling_interests": 48120000000
+  },
+  "segments": [
+    {
+      "key": "AsiaAndOceaniaFoodAndBeverages",
+      "label": null,
+      "external_revenue": 136209000000,
+      "operating_income": 12611000000
+    },
+    {
+      "key": "EuropeFoodAndBeverages",
+      "label": null,
+      "external_revenue": 12694000000,
+      "operating_income": -91000000
+    },
+    {
+      "key": "JapanFoodAndBeverages",
+      "label": null,
+      "external_revenue": 220386000000,
+      "intersegment_revenue": 9218000000,
+      "operating_income": 27668000000
+    },
+    {
+      "key": "TheAmericasFoodAndBeverages",
+      "label": null,
+      "external_revenue": 91120000000,
+      "operating_income": 23798000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00406-000_2026-03-31_01_2026-06-19.csv",
+    "parser_version": "0.1.3"
+  }
+}

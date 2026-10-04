@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "edinet_code": "E04979",
+    "sec_code": "4666",
+    "company_name": "パーク２４株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-10-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-01-26",
+    "doc_id": "S100SNVV"
+  },
+  "financials": {
+    "net_sales": 290253000000,
+    "ordinary_income": 16970000000,
+    "net_income": 2476000000,
+    "comprehensive_income": -1495000000,
+    "eps": 15.22,
+    "eps_diluted": 14.41,
+    "operating_cf": 29369000000,
+    "investing_cf": -17357000000,
+    "financing_cf": -20116000000,
+    "net_assets": 40042000000,
+    "total_assets": 307626000000,
+    "bps": 234.46,
+    "cash_end": 85065000000,
+    "equity_ratio": 0.13,
+    "roe": 0.088,
+    "per": 130.4,
+    "gross_profit": 70593000000,
+    "operating_income": 20672000000,
+    "income_tax_expense": 9276000000,
+    "interest_bearing_debt_current": 17309000000,
+    "interest_bearing_debt_noncurrent": 96398000000,
+    "current_portion_lt_loans": 16001000000,
+    "lease_liabilities_current": 11047000000,
+    "lease_liabilities_noncurrent": 19158000000,
+    "depreciation": 30273000000,
+    "capex_ppe": -13130000000,
+    "capex_intangible": -2905000000,
+    "current_assets": 137814000000,
+    "current_liabilities": 100687000000,
+    "noncurrent_assets": 169513000000,
+    "noncurrent_liabilities": 166897000000,
+    "inventories": 2497000000,
+    "ppe": 117658000000,
+    "goodwill": 18147000000,
+    "intangible_assets": 34058000000,
+    "treasury_stock": -1255000000
+  },
+  "segments": [
+    {
+      "key": "DomesticParking",
+      "label": null,
+      "external_revenue": 154114000000,
+      "intersegment_revenue": 4743000000,
+      "operating_income": 34222000000
+    },
+    {
+      "key": "Mobility",
+      "label": null,
+      "external_revenue": 78155000000,
+      "intersegment_revenue": 133000000,
+      "operating_income": 4772000000
+    },
+    {
+      "key": "OverseasParking",
+      "label": null,
+      "external_revenue": 57983000000,
+      "operating_income": -5049000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04979-000_2023-10-31_01_2024-01-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

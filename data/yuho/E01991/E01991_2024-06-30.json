@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "edinet_code": "E01991",
+    "sec_code": "6920",
+    "company_name": "レーザーテック株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-06-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-09-27",
+    "doc_id": "S100UFKD"
+  },
+  "financials": {
+    "net_sales": 213506000000,
+    "ordinary_income": 82021000000,
+    "net_income": 59076000000,
+    "comprehensive_income": 60216000000,
+    "eps": 655.05,
+    "eps_diluted": 654.49,
+    "dps": 230,
+    "operating_cf": 33317000000,
+    "investing_cf": -3571000000,
+    "financing_cf": -23145000000,
+    "net_assets": 151315000000,
+    "total_assets": 271288000000,
+    "bps": 1677.55,
+    "cash_end": 38152000000,
+    "equity_ratio": 0.558,
+    "roe": 0.454,
+    "per": 55.1,
+    "gross_profit": 107479000000,
+    "operating_income": 81375000000,
+    "income_tax_expense": 24127000000,
+    "depreciation": 4726000000,
+    "capex_ppe": -2970000000,
+    "capex_intangible": -562000000,
+    "current_assets": 231978000000,
+    "current_liabilities": 118284000000,
+    "noncurrent_assets": 39309000000,
+    "noncurrent_liabilities": 1688000000,
+    "ppe": 28168000000,
+    "intangible_assets": 4245000000,
+    "investment_securities": 1320000000,
+    "treasury_stock": -976000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01991-000_2024-06-30_01_2024-09-27.csv",
+    "parser_version": "0.1.3"
+  }
+}

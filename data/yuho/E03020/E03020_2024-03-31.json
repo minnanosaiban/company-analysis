@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "edinet_code": "E03020",
+    "sec_code": "8242",
+    "company_name": "エイチ・ツー・オー リテイリング株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-06-25",
+    "doc_id": "S100TQI4"
+  },
+  "financials": {
+    "net_sales": 657400000000,
+    "ordinary_income": 27875000000,
+    "net_income": 21905000000,
+    "comprehensive_income": 26352000000,
+    "eps": 189.82,
+    "eps_diluted": 188.05,
+    "dps": 28,
+    "operating_cf": 49332000000,
+    "investing_cf": -17752000000,
+    "financing_cf": -22531000000,
+    "net_assets": 293149000000,
+    "total_assets": 709212000000,
+    "bps": 2323.87,
+    "cash_end": 66373000000,
+    "equity_ratio": 0.378,
+    "roe": 0.085,
+    "per": 10.2,
+    "gross_profit": 287608000000,
+    "operating_income": 26188000000,
+    "income_tax_expense": 6289000000,
+    "interest_bearing_debt_noncurrent": 143494000000,
+    "bonds_payable": 10000000000,
+    "current_portion_of_bonds": 10000000000,
+    "current_portion_lt_loans": 350000000,
+    "lease_liabilities_current": 713000000,
+    "lease_liabilities_noncurrent": 9572000000,
+    "depreciation": 19970000000,
+    "capex_ppe": -17507000000,
+    "capex_intangible": -13076000000,
+    "current_assets": 180095000000,
+    "current_liabilities": 190648000000,
+    "noncurrent_assets": 529117000000,
+    "noncurrent_liabilities": 225414000000,
+    "trade_receivables": 74653000000,
+    "trade_payables": 78875000000,
+    "ppe": 292828000000,
+    "goodwill": 1183000000,
+    "intangible_assets": 25951000000,
+    "investment_securities": 103951000000,
+    "treasury_stock": -13768000000,
+    "noncontrolling_interests": 24006000000
+  },
+  "segments": [
+    {
+      "key": "Department",
+      "label": null,
+      "external_revenue": 178336000000,
+      "intersegment_revenue": 615000000,
+      "operating_income": 21591000000
+    },
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 34598000000,
+      "intersegment_revenue": 25541000000,
+      "operating_income": -21000000
+    },
+    {
+      "key": "ShoppingCenterBusiness",
+      "label": null,
+      "external_revenue": 30330000000,
+      "intersegment_revenue": 10496000000,
+      "operating_income": 3655000000
+    },
+    {
+      "key": "SupermarketBusiness",
+      "label": null,
+      "external_revenue": 410155000000,
+      "intersegment_revenue": 2654000000,
+      "operating_income": 7925000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03020-000_2024-03-31_01_2024-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

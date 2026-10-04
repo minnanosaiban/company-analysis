@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E00659",
+    "sec_code": "3941",
+    "company_name": "レンゴー株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-30",
+    "doc_id": "S100R69D"
+  },
+  "financials": {
+    "net_sales": 680714000000,
+    "ordinary_income": 43200000000,
+    "net_income": 28599000000,
+    "comprehensive_income": 41657000000,
+    "eps": 115.51,
+    "dps": 24,
+    "operating_cf": 66000000000,
+    "investing_cf": -46007000000,
+    "financing_cf": -7293000000,
+    "net_assets": 324463000000,
+    "total_assets": 869992000000,
+    "bps": 1265.53,
+    "cash_end": 50099000000,
+    "equity_ratio": 0.36,
+    "roe": 0.097,
+    "per": 8.3
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00659-000_2023-03-31_01_2023-06-30.csv",
+    "parser_version": "0.1.3"
+  }
+}

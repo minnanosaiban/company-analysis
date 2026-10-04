@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "edinet_code": "E33390",
+    "sec_code": "3994",
+    "company_name": "株式会社マネーフォワード",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-11-30",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-02-28",
+    "doc_id": "S100SYEO"
+  },
+  "financials": {
+    "net_sales": 15632601000,
+    "ordinary_income": -1432529000,
+    "net_income": -1482262000,
+    "comprehensive_income": -1548382000,
+    "eps": -29.97,
+    "operating_cf": -2327653000,
+    "investing_cf": -5199470000,
+    "financing_cf": 34797825000,
+    "net_assets": 42332981000,
+    "total_assets": 56942558000,
+    "bps": 759.04,
+    "cash_end": 36020522000,
+    "equity_ratio": 0.711
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E33390-000_2023-11-30_01_2024-02-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

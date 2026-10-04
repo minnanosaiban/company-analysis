@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E02528",
+    "sec_code": "8053",
+    "company_name": "住友商事株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-23",
+    "doc_id": "S100R1TH"
+  },
+  "financials": {
+    "dps": 75,
+    "net_sales": 5339238000000,
+    "net_income": 320523000000,
+    "comprehensive_income": 305075000000,
+    "net_assets": 2771483000000,
+    "total_assets": 7916523000000,
+    "equity_ratio": 0.35,
+    "bps": 2219.11,
+    "eps": 256.68,
+    "eps_diluted": 256.41,
+    "roe": 0.12,
+    "per": 5.96,
+    "operating_cf": 268883000000,
+    "investing_cf": -51317000000,
+    "financing_cf": -233196000000,
+    "cash_end": 660359000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02528-000_2023-03-31_01_2023-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

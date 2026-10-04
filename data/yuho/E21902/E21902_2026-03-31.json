@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "edinet_code": "E21902",
+    "sec_code": "2269",
+    "company_name": "明治ホールディングス株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YILP"
+  },
+  "financials": {
+    "net_sales": 1173688000000,
+    "ordinary_income": 96571000000,
+    "net_income": 35076000000,
+    "comprehensive_income": 65181000000,
+    "eps": 129.42,
+    "dps": 105,
+    "operating_cf": 56522000000,
+    "investing_cf": -110375000000,
+    "financing_cf": 34603000000,
+    "net_assets": 817552000000,
+    "total_assets": 1261759000000,
+    "bps": 2849.8,
+    "cash_end": 49611000000,
+    "equity_ratio": 0.612,
+    "roe": 0.046,
+    "per": 29.8,
+    "gross_profit": 359040000000,
+    "operating_income": 93307000000,
+    "income_tax_expense": 23811000000,
+    "interest_bearing_debt_current": 21317000000,
+    "interest_bearing_debt_noncurrent": 67267000000,
+    "commercial_papers": 14000000000,
+    "current_portion_of_bonds": 10000000000,
+    "depreciation": 54954000000,
+    "capex_ppe": -96847000000,
+    "capex_intangible": -6903000000,
+    "current_assets": 585361000000,
+    "current_liabilities": 313271000000,
+    "noncurrent_assets": 676397000000,
+    "noncurrent_liabilities": 130935000000,
+    "trade_receivables": 195682000000,
+    "trade_payables": 101131000000,
+    "ppe": 509924000000,
+    "intangible_assets": 21791000000,
+    "investment_securities": 75335000000,
+    "treasury_stock": -33312000000,
+    "noncontrolling_interests": 44965000000
+  },
+  "segments": [
+    {
+      "key": "Food",
+      "label": null,
+      "external_revenue": 941470000000,
+      "intersegment_revenue": 1408000000,
+      "operating_income": 68746000000
+    },
+    {
+      "key": "Pharmaceuticals",
+      "label": null,
+      "external_revenue": 232218000000,
+      "intersegment_revenue": 26000000,
+      "operating_income": 30463000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E21902-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

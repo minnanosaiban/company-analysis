@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E02081",
+    "sec_code": "6723",
+    "company_name": "ルネサスエレクトロニクス株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-03-26",
+    "doc_id": "S100VFR6"
+  },
+  "financials": {
+    "dps": 28,
+    "net_sales": 1348479000000,
+    "net_income": 219084000000,
+    "comprehensive_income": 528320000000,
+    "net_assets": 2537382000000,
+    "total_assets": 4490436000000,
+    "equity_ratio": 0.565,
+    "bps": 1413.77,
+    "eps": 122.51,
+    "eps_diluted": 120.85,
+    "roe": 0.097,
+    "per": 16.7,
+    "operating_cf": 340484000000,
+    "investing_cf": -1284105000000,
+    "financing_cf": 677345000000,
+    "cash_end": 229249000000,
+    "operating_income": 222977000000,
+    "gross_profit": 749796000000,
+    "income_tax_expense": 44411000000,
+    "interest_bearing_debt_current": 144137000000,
+    "interest_bearing_debt_noncurrent": 1256535000000,
+    "sga_expense": 527475000000,
+    "profit_before_tax": 263833000000,
+    "depreciation": 210728000000,
+    "capex_ppe": -129889000000,
+    "capex_intangible": -39946000000,
+    "current_assets": 617326000000,
+    "current_liabilities": 491438000000,
+    "noncurrent_assets": 3873110000000,
+    "trade_receivables": 167113000000,
+    "inventories": 176544000000,
+    "trade_payables": 231029000000,
+    "ppe": 341447000000,
+    "goodwill": 2256169000000,
+    "intangible_assets": 724768000000,
+    "equity_method_investments": 328000000,
+    "treasury_stock": -92120000000,
+    "noncontrolling_interests": 4916000000
+  },
+  "segments": [
+    {
+      "key": "Automotive",
+      "label": "自動車",
+      "external_revenue": 702812000000,
+      "gross_profit": 367771000000,
+      "operating_income": 222486000000
+    },
+    {
+      "key": "IndustrialInfrastructureIoT",
+      "label": "産業・インフラ・IoT",
+      "external_revenue": 636760000000,
+      "gross_profit": 385823000000,
+      "operating_income": 173379000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02081-000_2024-12-31_01_2025-03-26.csv",
+    "parser_version": "0.1.3"
+  }
+}

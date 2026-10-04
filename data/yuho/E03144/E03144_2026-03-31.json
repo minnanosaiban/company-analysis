@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "edinet_code": "E03144",
+    "sec_code": "9843",
+    "company_name": "株式会社ニトリホールディングス",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-24",
+    "doc_id": "S100YIMF"
+  },
+  "financials": {
+    "dps": 92.4,
+    "net_sales": 912248000000,
+    "net_income": 89270000000,
+    "comprehensive_income": 103913000000,
+    "net_assets": 988559000000,
+    "total_assets": 1571284000000,
+    "equity_ratio": 0.629,
+    "bps": 1749.49,
+    "eps": 157.98,
+    "eps_diluted": 157.98,
+    "roe": 0.094,
+    "per": 15.94,
+    "operating_cf": 148911000000,
+    "investing_cf": -55103000000,
+    "financing_cf": -86502000000,
+    "cash_end": 145010000000,
+    "operating_income": 125526000000,
+    "gross_profit": 485413000000,
+    "income_tax_expense": 38083000000,
+    "sga_expense": 363747000000,
+    "profit_before_tax": 127357000000,
+    "depreciation": 69509000000,
+    "capex_intangible": -3000000000,
+    "current_assets": 397898000000,
+    "current_liabilities": 323497000000,
+    "noncurrent_assets": 1173386000000,
+    "trade_receivables": 80667000000,
+    "inventories": 122167000000,
+    "trade_payables": 69837000000,
+    "ppe": 909005000000,
+    "intangible_assets": 9983000000,
+    "equity_method_investments": 27263000000,
+    "treasury_stock": -10120000000,
+    "noncontrolling_interests": 11000000
+  },
+  "segments": [
+    {
+      "key": "NITORI",
+      "label": null,
+      "external_revenue": 803548000000,
+      "intersegment_revenue": 12647000000,
+      "revenue": 816196000000,
+      "operating_income": 118381000000,
+      "assets": 1329216000000
+    },
+    {
+      "key": "SHIMACHU",
+      "label": null,
+      "external_revenue": 108699000000,
+      "intersegment_revenue": 1573000000,
+      "revenue": 110273000000,
+      "operating_income": 7212000000,
+      "assets": 278336000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03144-000_2026-03-31_01_2026-06-24.csv",
+    "parser_version": "0.1.3"
+  }
+}

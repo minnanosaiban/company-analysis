@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "edinet_code": "E01741",
+    "sec_code": "6506",
+    "company_name": "株式会社安川電機",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-05-29",
+    "doc_id": "S100VUHZ"
+  },
+  "financials": {
+    "dps": 68,
+    "net_sales": 537682000000,
+    "net_income": 56987000000,
+    "comprehensive_income": 57735000000,
+    "net_assets": 431188000000,
+    "total_assets": 743774000000,
+    "equity_ratio": 0.58,
+    "bps": 1662.6,
+    "eps": 218.62,
+    "eps_diluted": 218.38,
+    "roe": 0.137,
+    "per": 18.45,
+    "operating_cf": 56505000000,
+    "investing_cf": -21287000000,
+    "financing_cf": -15673000000,
+    "cash_end": 59028000000,
+    "operating_income": 50156000000,
+    "gross_profit": 191481000000,
+    "income_tax_expense": 20758000000,
+    "interest_bearing_debt_noncurrent": 71175000000,
+    "lease_liabilities_current": 3373000000,
+    "lease_liabilities_noncurrent": 10459000000,
+    "sga_expense": 142193000000,
+    "profit_before_tax": 78454000000,
+    "depreciation": 20799000000,
+    "current_assets": 462837000000,
+    "current_liabilities": 179505000000,
+    "noncurrent_assets": 280937000000,
+    "inventories": 206259000000,
+    "ppe": 129069000000,
+    "goodwill": 7144000000,
+    "intangible_assets": 23608000000,
+    "equity_method_investments": 4373000000,
+    "treasury_stock": -31702000000,
+    "noncontrolling_interests": 8421000000
+  },
+  "segments": [
+    {
+      "key": "MotionControl",
+      "label": "モーションコントロール",
+      "external_revenue": 238752000000,
+      "intersegment_revenue": 16247000000,
+      "revenue": 255000000000,
+      "operating_income": 23005000000
+    },
+    {
+      "key": "Robotics",
+      "label": "ロボット",
+      "external_revenue": 237413000000,
+      "intersegment_revenue": 2764000000,
+      "revenue": 240177000000,
+      "operating_income": 23751000000
+    },
+    {
+      "key": "SystemEngineering",
+      "label": "システムエンジニアリング",
+      "external_revenue": 38352000000,
+      "intersegment_revenue": 808000000,
+      "revenue": 39161000000,
+      "operating_income": 4605000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01741-000_2025-02-28_01_2025-05-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

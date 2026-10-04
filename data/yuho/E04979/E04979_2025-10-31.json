@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E04979",
+    "sec_code": "4666",
+    "company_name": "パーク二四株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-10-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-01-28",
+    "doc_id": "S100XHMO"
+  },
+  "financials": {
+    "net_sales": 406168000000,
+    "ordinary_income": 34157000000,
+    "net_income": 15917000000,
+    "comprehensive_income": 20745000000,
+    "eps": 93.28,
+    "eps_diluted": 85.29,
+    "dps": 30,
+    "operating_cf": 62880000000,
+    "investing_cf": -46064000000,
+    "financing_cf": 14826000000,
+    "net_assets": 98193000000,
+    "total_assets": 354376000000,
+    "bps": 575.07,
+    "cash_end": 80150000000,
+    "equity_ratio": 0.277,
+    "roe": 0.181,
+    "per": 19.3,
+    "gross_profit": 104243000000,
+    "operating_income": 37561000000,
+    "income_tax_expense": 13447000000,
+    "interest_bearing_debt_current": 2358000000,
+    "interest_bearing_debt_noncurrent": 94724000000,
+    "current_portion_lt_loans": 8099000000,
+    "lease_liabilities_current": 10213000000,
+    "lease_liabilities_noncurrent": 22248000000,
+    "depreciation": 35383000000,
+    "capex_ppe": -40591000000,
+    "capex_intangible": -4900000000,
+    "current_assets": 148001000000,
+    "current_liabilities": 89363000000,
+    "noncurrent_assets": 206374000000,
+    "noncurrent_liabilities": 166818000000,
+    "ppe": 155886000000,
+    "goodwill": 16350000000,
+    "intangible_assets": 31227000000,
+    "treasury_stock": -901000000
+  },
+  "segments": [
+    {
+      "key": "DomesticParking",
+      "label": null,
+      "external_revenue": 193635000000,
+      "intersegment_revenue": 6786000000,
+      "operating_income": 37548000000
+    },
+    {
+      "key": "Mobility",
+      "label": null,
+      "external_revenue": 128158000000,
+      "intersegment_revenue": 348000000,
+      "operating_income": 14888000000
+    },
+    {
+      "key": "OverseasParking",
+      "label": null,
+      "external_revenue": 84373000000,
+      "intersegment_revenue": 0,
+      "operating_income": -1398000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04979-000_2025-10-31_01_2026-01-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

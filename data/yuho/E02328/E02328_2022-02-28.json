@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E02328",
+    "sec_code": "6323",
+    "company_name": "ローツェ株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-02-28",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-05-31",
+    "doc_id": "S100QUUU"
+  },
+  "financials": {
+    "net_sales": 67004000000,
+    "ordinary_income": 17818000000,
+    "net_income": 12824000000,
+    "comprehensive_income": 16118000000,
+    "eps": 742.1,
+    "eps_diluted": 740.72,
+    "dps": 65,
+    "operating_cf": 3016000000,
+    "investing_cf": -916000000,
+    "financing_cf": 3578000000,
+    "net_assets": 50222000000,
+    "total_assets": 88290000000,
+    "bps": 2624.39,
+    "cash_end": 23631000000,
+    "equity_ratio": 0.514,
+    "roe": 0.337,
+    "per": 14.4,
+    "gross_profit": 22639000000,
+    "operating_income": 15809000000,
+    "income_tax_expense": 5449000000,
+    "interest_bearing_debt_current": 11923000000,
+    "interest_bearing_debt_noncurrent": 8961000000,
+    "lease_liabilities_current": 1000000,
+    "depreciation": 1419000000,
+    "capex_ppe": -2040000000,
+    "capex_intangible": -76000000,
+    "current_assets": 66455000000,
+    "current_liabilities": 28491000000,
+    "noncurrent_assets": 21834000000,
+    "noncurrent_liabilities": 9576000000,
+    "trade_receivables": 18915000000,
+    "trade_payables": 6850000000,
+    "ppe": 17481000000,
+    "intangible_assets": 614000000,
+    "investment_securities": 1318000000,
+    "treasury_stock": -54000000,
+    "noncontrolling_interests": 4788000000
+  },
+  "segments": [
+    {
+      "key": "LifeScience",
+      "label": "ライフサイエンス事業",
+      "external_revenue": 752000000,
+      "operating_income": 10000000
+    },
+    {
+      "key": "SemiconductorAndFlatPanelDisplay",
+      "label": "半導体・ＦＰＤ関連装置事業",
+      "external_revenue": 66251000000,
+      "intersegment_revenue": 18000000,
+      "operating_income": 16169000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E02328-000_2023-02-28_01_2023-05-31.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "edinet_code": "E04283",
+    "sec_code": "9301",
+    "company_name": "三菱倉庫株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R7D0"
+  },
+  "financials": {
+    "ordinary_income": 23151000000,
+    "net_income": 17892000000,
+    "comprehensive_income": 31645000000,
+    "eps": 219.47,
+    "dps": 80,
+    "operating_cf": 36216000000,
+    "investing_cf": -29221000000,
+    "financing_cf": -16518000000,
+    "net_assets": 347759000000,
+    "total_assets": 562187000000,
+    "bps": 4238.85,
+    "cash_end": 52505000000,
+    "equity_ratio": 0.612,
+    "roe": 0.054,
+    "per": 13.9,
+    "operating_income": 18144000000,
+    "income_tax_expense": 6773000000,
+    "interest_bearing_debt_current": 48296000000,
+    "interest_bearing_debt_noncurrent": 13600000000,
+    "bonds_payable": 41000000000,
+    "depreciation": 15465000000,
+    "current_assets": 109885000000,
+    "current_liabilities": 91245000000,
+    "noncurrent_assets": 452301000000,
+    "noncurrent_liabilities": 123181000000,
+    "ppe": 283788000000,
+    "goodwill": 82000000,
+    "intangible_assets": 12935000000,
+    "investment_securities": 145185000000,
+    "treasury_stock": -20747000000,
+    "noncontrolling_interests": 3674000000
+  },
+  "segments": [
+    {
+      "key": "Logistics",
+      "label": "物流事業",
+      "external_revenue": 214550000000,
+      "intersegment_revenue": 689000000,
+      "operating_income": 13703000000
+    },
+    {
+      "key": "RealEstate",
+      "label": "不動産事業",
+      "external_revenue": 42679000000,
+      "intersegment_revenue": 983000000,
+      "operating_income": 10316000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04283-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

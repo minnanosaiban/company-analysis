@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "edinet_code": "E05041",
+    "sec_code": "9449",
+    "company_name": "GMOインターネット株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": true,
+    "filing_date": "2023-12-06",
+    "doc_id": "S100SF06"
+  },
+  "financials": {
+    "net_sales": 196171000000,
+    "ordinary_income": 24506000000,
+    "net_income": 8337000000,
+    "comprehensive_income": 16686000000,
+    "eps": 73.16,
+    "eps_diluted": 72.08,
+    "dps": 24.2,
+    "operating_cf": 7502000000,
+    "investing_cf": -21617000000,
+    "financing_cf": 30323000000,
+    "net_assets": 102269000000,
+    "total_assets": 871214000000,
+    "bps": 474.95,
+    "cash_end": 159715000000,
+    "equity_ratio": 0.062,
+    "roe": 0.157,
+    "per": 28.4
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E05041-000_2021-12-31_02_2023-12-06.csv",
+    "parser_version": "0.1.3"
+  }
+}

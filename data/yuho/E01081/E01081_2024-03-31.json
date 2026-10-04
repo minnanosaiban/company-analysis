@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "edinet_code": "E01081",
+    "sec_code": "5016",
+    "company_name": "ＪＸ金属株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2024-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-25",
+    "doc_id": "S100W549"
+  },
+  "financials": {
+    "net_income": 102624000000,
+    "comprehensive_income": 115017000000,
+    "net_assets": 627388000000,
+    "total_assets": 1325887000000,
+    "equity_ratio": 0.473,
+    "bps": 675.73,
+    "eps": 110.53,
+    "eps_diluted": 110.53,
+    "roe": 0.183,
+    "operating_cf": 38400000000,
+    "investing_cf": 90241000000,
+    "financing_cf": -154360000000,
+    "cash_end": 36779000000,
+    "operating_income": 86172000000,
+    "gross_profit": 173404000000,
+    "income_tax_expense": -36173000000,
+    "lease_liabilities_current": 3730000000,
+    "lease_liabilities_noncurrent": 16650000000,
+    "sga_expense": 105392000000,
+    "profit_before_tax": 78714000000,
+    "depreciation": 39098000000,
+    "current_assets": 501187000000,
+    "current_liabilities": 340726000000,
+    "noncurrent_assets": 824700000000,
+    "trade_receivables": 108967000000,
+    "inventories": 254957000000,
+    "trade_payables": 70775000000,
+    "ppe": 328245000000,
+    "goodwill": 12546000000,
+    "intangible_assets": 20906000000,
+    "equity_method_investments": 374805000000,
+    "noncontrolling_interests": 93414000000
+  },
+  "segments": [
+    {
+      "key": "ICTMaterials",
+      "label": null,
+      "external_revenue": 186279000000,
+      "intersegment_revenue": 1793000000,
+      "operating_income": 933000000,
+      "assets": 291822000000,
+      "equity_method_income": 446000000
+    },
+    {
+      "key": "MetalsAndRecycling",
+      "label": null,
+      "external_revenue": 1201109000000,
+      "intersegment_revenue": 25893000000,
+      "operating_income": 77240000000,
+      "assets": 618218000000,
+      "equity_method_income": 55018000000
+    },
+    {
+      "key": "SemiconductorMaterials",
+      "label": null,
+      "external_revenue": 122582000000,
+      "intersegment_revenue": 569000000,
+      "operating_income": 26410000000,
+      "assets": 260642000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01081-000_2025-03-31_01_2025-06-25.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04375",
+    "sec_code": "9401",
+    "company_name": "株式会社ＴＢＳホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-29",
+    "doc_id": "S100R8MV"
+  },
+  "financials": {
+    "net_sales": 325682000000,
+    "ordinary_income": 19233000000,
+    "net_income": 28072000000,
+    "comprehensive_income": 211067000000,
+    "eps": 164.32,
+    "dps": 30,
+    "operating_cf": 22713000000,
+    "investing_cf": -8618000000,
+    "financing_cf": 16898000000,
+    "net_assets": 794884000000,
+    "total_assets": 1100223000000,
+    "bps": 4575.61,
+    "cash_end": 116061000000,
+    "equity_ratio": 0.71,
+    "roe": 0.041,
+    "per": 13.2
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04375-000_2023-03-31_01_2023-06-29.csv",
+    "parser_version": "0.1.3"
+  }
+}

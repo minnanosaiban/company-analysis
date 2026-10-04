@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "edinet_code": "E03521",
+    "sec_code": "3099",
+    "company_name": "株式会社三越伊勢丹ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2025-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2025-06-20",
+    "doc_id": "S100W16O"
+  },
+  "financials": {
+    "net_sales": 555517000000,
+    "ordinary_income": 88123000000,
+    "net_income": 52814000000,
+    "comprehensive_income": 60589000000,
+    "eps": 142.42,
+    "eps_diluted": 142.27,
+    "dps": 54,
+    "operating_cf": 89564000000,
+    "investing_cf": -25955000000,
+    "financing_cf": -94909000000,
+    "net_assets": 602878000000,
+    "total_assets": 1205726000000,
+    "bps": 1646.23,
+    "cash_end": 41834000000,
+    "equity_ratio": 0.499,
+    "roe": 0.088,
+    "per": 15,
+    "gross_profit": 337675000000,
+    "operating_income": 76313000000,
+    "income_tax_expense": 13076000000,
+    "interest_bearing_debt_current": 41329000000,
+    "interest_bearing_debt_noncurrent": 25000000000,
+    "bonds_payable": 20000000000,
+    "depreciation": 24213000000,
+    "capex_ppe": -21372000000,
+    "capex_intangible": -5789000000,
+    "current_assets": 254916000000,
+    "current_liabilities": 379344000000,
+    "noncurrent_assets": 950779000000,
+    "noncurrent_liabilities": 223502000000,
+    "trade_payables": 114661000000,
+    "ppe": 709305000000,
+    "intangible_assets": 40757000000,
+    "investment_securities": 148975000000,
+    "treasury_stock": -28519000000,
+    "noncontrolling_interests": 983000000
+  },
+  "segments": [
+    {
+      "key": "CreditAndFinanceBusinessCustomerOrganizationManagementBusiness",
+      "label": null,
+      "external_revenue": 19983000000,
+      "intersegment_revenue": 14449000000,
+      "operating_income": 5743000000
+    },
+    {
+      "key": "DepartmentStoreBusiness",
+      "label": null,
+      "external_revenue": 458219000000,
+      "intersegment_revenue": 2917000000,
+      "operating_income": 64563000000
+    },
+    {
+      "key": "RealEstateBusiness",
+      "label": null,
+      "external_revenue": 24319000000,
+      "intersegment_revenue": 5220000000,
+      "operating_income": 3615000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E03521-000_2025-03-31_01_2025-06-20.csv",
+    "parser_version": "0.1.3"
+  }
+}

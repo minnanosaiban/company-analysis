@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E04462",
+    "sec_code": "4676",
+    "company_name": "株式会社フジ・メディア・ホールディングス",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2023-06-28",
+    "doc_id": "S100R1H1"
+  },
+  "financials": {
+    "net_sales": 669230000000,
+    "ordinary_income": 41975000000,
+    "net_income": 23627000000,
+    "comprehensive_income": 33797000000,
+    "eps": 102.03,
+    "dps": 44,
+    "operating_cf": 103640000000,
+    "investing_cf": -99386000000,
+    "financing_cf": -7310000000,
+    "net_assets": 743348000000,
+    "total_assets": 1290484000000,
+    "bps": 3150.57,
+    "cash_end": 89900000000,
+    "equity_ratio": 0.565,
+    "roe": 0.033,
+    "per": 15
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04462-000_2023-03-31_01_2023-06-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

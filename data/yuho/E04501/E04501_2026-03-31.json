@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "edinet_code": "E04501",
+    "sec_code": "9506",
+    "company_name": "東北電力株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2026-03-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2026-06-23",
+    "doc_id": "S100YEK2"
+  },
+  "financials": {
+    "net_sales": 2372420000000,
+    "ordinary_income": 126407000000,
+    "net_income": 84975000000,
+    "comprehensive_income": 147128000000,
+    "eps": 169.85,
+    "dps": 40,
+    "operating_cf": 370156000000,
+    "investing_cf": -375694000000,
+    "financing_cf": 115185000000,
+    "net_assets": 1135730000000,
+    "total_assets": 5731856000000,
+    "bps": 2221.3,
+    "cash_end": 660589000000,
+    "equity_ratio": 0.194,
+    "roe": 0.081,
+    "per": 6.89,
+    "operating_income": 160380000000,
+    "income_tax_expense": 26416000000,
+    "interest_bearing_debt_noncurrent": 1493847000000,
+    "bonds_payable": 1611695000000,
+    "depreciation": 225866000000,
+    "current_assets": 1258566000000,
+    "current_liabilities": 1204096000000,
+    "noncurrent_assets": 4473289000000,
+    "noncurrent_liabilities": 3392028000000,
+    "trade_receivables": 183377000000,
+    "inventories": 91678000000,
+    "trade_payables": 180418000000,
+    "treasury_stock": -3948000000,
+    "noncontrolling_interests": 24390000000
+  },
+  "segments": [
+    {
+      "key": "PowerGenerationSales",
+      "label": "発電・販売事業",
+      "external_revenue": 1843438000000,
+      "intersegment_revenue": 138275000000,
+      "ordinary_income": 126604000000,
+      "equity_method_income": 2114000000
+    },
+    {
+      "key": "PowerTransmissionAndDistribution",
+      "label": "送配電事業",
+      "external_revenue": 476702000000,
+      "intersegment_revenue": 444614000000,
+      "ordinary_income": -1078000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E04501-000_2026-03-31_01_2026-06-23.csv",
+    "parser_version": "0.1.3"
+  }
+}

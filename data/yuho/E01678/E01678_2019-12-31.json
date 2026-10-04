@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01678",
+    "sec_code": "6481",
+    "company_name": "ＴＨＫ株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2019-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-18",
+    "doc_id": "S100T2J2"
+  },
+  "financials": {
+    "net_sales": 277900000000,
+    "ordinary_income": 18940000000,
+    "net_income": 9602000000,
+    "comprehensive_income": 7733000000,
+    "eps": 75.87,
+    "dps": 32,
+    "operating_cf": 27177000000,
+    "investing_cf": -30000000000,
+    "financing_cf": 19470000000,
+    "net_assets": 294229000000,
+    "total_assets": 459909000000,
+    "bps": 2238.77,
+    "cash_end": 149091000000,
+    "equity_ratio": 0.616,
+    "roe": 0.034,
+    "per": 39.1
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01678-000_2023-12-31_01_2024-03-18.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "edinet_code": "E00678",
+    "sec_code": "8113",
+    "company_name": "ユニ・チャーム株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2022-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T5WP"
+  },
+  "financials": {
+    "dps": 38,
+    "net_sales": 898022000000,
+    "net_income": 67608000000,
+    "comprehensive_income": 98094000000,
+    "net_assets": 618883000000,
+    "total_assets": 1049218000000,
+    "equity_ratio": 0.59,
+    "bps": 1043.17,
+    "eps": 113.61,
+    "eps_diluted": 113.59,
+    "roe": 0.115,
+    "per": 44.6,
+    "operating_cf": 92216000000,
+    "investing_cf": -7145000000,
+    "financing_cf": -61652000000,
+    "cash_end": 217153000000,
+    "gross_profit": 328600000000,
+    "income_tax_expense": 37333000000,
+    "sga_expense": 209034000000,
+    "profit_before_tax": 115708000000,
+    "depreciation": 41486000000,
+    "current_assets": 603756000000,
+    "current_liabilities": 256663000000,
+    "noncurrent_assets": 445462000000,
+    "inventories": 117590000000,
+    "ppe": 271662000000,
+    "goodwill": 44979000000,
+    "intangible_assets": 90523000000,
+    "equity_method_investments": 597000000,
+    "treasury_stock": -83699000000,
+    "noncontrolling_interests": 89730000000
+  },
+  "segments": [
+    {
+      "key": "Other",
+      "label": null,
+      "external_revenue": 7802000000,
+      "intersegment_revenue": 187000000,
+      "operating_income": 351000000
+    },
+    {
+      "key": "PersonalCare",
+      "label": "パーソナルケア",
+      "external_revenue": 764908000000,
+      "operating_income": 100863000000
+    },
+    {
+      "key": "PetCare",
+      "label": "ペットケア",
+      "external_revenue": 125312000000,
+      "operating_income": 18352000000
+    }
+  ],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E00678-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01162",
+    "sec_code": "5301",
+    "company_name": "東海カーボン株式会社",
+    "accounting_standard": "JP",
+    "is_consolidated": true,
+    "fiscal_year_end": "2020-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T61I"
+  },
+  "financials": {
+    "net_sales": 201542000000,
+    "ordinary_income": 6262000000,
+    "net_income": 1019000000,
+    "comprehensive_income": 743000000,
+    "eps": 4.78,
+    "dps": 30,
+    "operating_cf": 55022000000,
+    "investing_cf": -44301000000,
+    "financing_cf": 927000000,
+    "net_assets": 224815000000,
+    "total_assets": 459709000000,
+    "bps": 944.16,
+    "cash_end": 57727000000,
+    "equity_ratio": 0.438,
+    "roe": 0.005,
+    "per": 269.6
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01162-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "edinet_code": "E01502",
+    "sec_code": "6141",
+    "company_name": "ＤＭＧ森精機株式会社",
+    "accounting_standard": "IFRS",
+    "is_consolidated": true,
+    "fiscal_year_end": "2021-12-31",
+    "period_type": "FY",
+    "is_amendment": false,
+    "filing_date": "2024-03-28",
+    "doc_id": "S100T66J"
+  },
+  "financials": {
+    "dps": 40,
+    "net_sales": 396011000000,
+    "net_income": 13460000000,
+    "comprehensive_income": 31230000000,
+    "net_assets": 213139000000,
+    "total_assets": 597117000000,
+    "equity_ratio": 0.357,
+    "bps": 1703.51,
+    "eps": 91.75,
+    "eps_diluted": 91.75,
+    "roe": 0.068,
+    "per": 21.5,
+    "operating_cf": 49733000000,
+    "investing_cf": -19376000000,
+    "financing_cf": -18270000000,
+    "cash_end": 47298000000
+  },
+  "segments": [],
+  "_source": {
+    "format": "edinet-xbrl-csv",
+    "csv_file": "jpcrp030000-asr-001_E01502-000_2023-12-31_01_2024-03-28.csv",
+    "parser_version": "0.1.3"
+  }
+}
