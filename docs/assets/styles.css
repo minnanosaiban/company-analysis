@@ -140,7 +140,7 @@ table.compare td.best { font-weight: 700; background: color-mix(in srgb, var(--a
 table.compare tr.group-row th { background: var(--surface); font-size: .8rem; color: var(--muted); text-align: left; }
 table.compare thead th { min-width: 8.5rem; vertical-align: top; }
 table.compare thead th .sec { display: block; font-weight: 400; }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   table.compare .sticky-col { white-space: normal; width: 6.6rem; min-width: 6.6rem; max-width: 6.6rem; font-size: .8rem; }
   table.compare td.name .sec { display: block; }
   table.compare thead th { min-width: 6.4rem; font-size: .8rem; }
