@@ -93,4 +93,18 @@ export async function render(root, ctx) {
     <p class="muted small">売上の前期比は、前期の有価証券報告書が公開データにあり、同じ区分の収益で比べられるときだけ表示します。
       「推移を見る」は、会社名のリンクから、財務の推移ページへ進めます。</p>`;
   out.appendChild(tbl);
+
+  // ── 関連する連載記事（ブログ）
+  const BLOG = 'https://minnanosaiban.github.io/tomo/blog/posts/';
+  const articles = [
+    ['01-03_xbrl_to_json', '決算 XBRL を JSON に変換', '有報の数値を JSON にして、元売3社を比べた回（ROE・自己資本比率）'],
+    ['02-01_garp_peg_roe', '4象限で GARP を見る', 'ROE と PER で、成長と割安の両立を探す回'],
+    ['02-05_segment_analysis', 'セグメント分析', '連結に埋もれた強い事業を、セグメントで探す回'],
+    ['02-06_segment_core_stocks', 'コングロマリット・ディスカウント', '総合商社・ＥＮＥＯＳを、セグメントで読み解く回'],
+  ];
+  const rel = document.createElement('section');
+  rel.innerHTML = `<h3 class="bar-title" style="margin-top:2rem">関連する連載記事</h3>
+    <p class="muted small">この表の見方（利益率・ROE・自己資本比率など）や、会社どうしの比べ方は、ブログ連載「株価分析」で扱っています。</p>
+    <ul>${articles.map(([slug, t, d]) => `<li><a href="${BLOG}${slug}/" target="_blank" rel="noopener">${esc(t)}</a><span class="muted small">　${esc(d)}</span></li>`).join('')}</ul>`;
+  out.appendChild(rel);
 }
