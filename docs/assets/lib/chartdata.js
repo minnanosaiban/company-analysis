@@ -1,6 +1,6 @@
 // 図に渡すデータの組み立て（画面・ECharts に依存しない。テストできる部分）。
 // tests/make_expected_charts.py の Python の基準実装と同じ計算にそろえる（tests/charts.test.mjs で照合）。
-import { isNum } from './fields.js?v=f2e57d7edf';
+import { isNum } from './fields.js?v=00492caca6';
 
 /** 昇順にした配列の q 分位点（線形補間）。 */
 export function quantile(sorted, q) {
@@ -196,6 +196,22 @@ export function bestIndexes(values, better) {
   if (nums.length < 2) return [];
   const top = Math.max(...nums);
   return values.map((v, i) => (v === top ? i : -1)).filter((i) => i >= 0);
+}
+
+// Treemap のタイルの色（ECharts の既定と同じ色合い。紫だけ、白い文字が読める濃さに調整）と、文字色
+export const TREEMAP_COLORS = ['#5470c6', '#91cc75', '#fac858', '#ee6666', '#73c0de', '#3ba272', '#fc8452', '#8f55aa', '#ea7ccc'];
+const relLum = (hex) => {
+  const c = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((v) => (v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4));
+  return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2];
+};
+/** 2色のコントラスト比（1〜21）。色は #rrggbb */
+export function contrastRatio(a, b) {
+  const x = relLum(a); const y = relLum(b);
+  return (Math.max(x, y) + 0.05) / (Math.min(x, y) + 0.05);
+}
+/** 背景色の上で読みやすい文字色（白か濃い灰色の、コントラストが高い方） */
+export function readableText(bg) {
+  return contrastRatio(bg, '#ffffff') >= contrastRatio(bg, '#111111') ? '#ffffff' : '#111111';
 }
 
 export function trendData(rows, n = null) {

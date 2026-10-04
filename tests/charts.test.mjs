@@ -7,7 +7,7 @@ import path from 'node:path';
 
 import {
   portfolioItem, segmentSeries, clipBounds, markerSizes, availableMetrics, fmtAmount,
-  trendData, indexSeries, hasValues, standardChange, compareValues, bestIndexes,
+  trendData, indexSeries, hasValues, standardChange, compareValues, bestIndexes, TREEMAP_COLORS, readableText, contrastRatio,
 } from '../docs/assets/lib/chartdata.js';
 import { periodRows, buildData } from '../docs/assets/lib/data.js';
 
@@ -91,6 +91,10 @@ check('compare 前期なし', compareValues([{ fy: '2025-03-31', net_sales: 200 
 check('compare 前期の収益区分が違うと前期比なし', compareValues([{ fy: '2025-03-31', net_sales: 200 }, { fy: '2024-03-31', ordinary_revenue: 100 }]).values.rev_growth, null);
 check('compare 金融は経常収益', compareValues([{ fy: '2025-03-31', ordinary_revenue: 50, operating_income: 5 }]).revSrc, '経常収益');
 check('bestIndexes', [bestIndexes([1, 3, null, 3], 'high'), bestIndexes([5], 'high'), bestIndexes([1, 2], null)], [[1, 3], [], []]);
+// Treemap のタイルの文字色: どのタイル色でも、文字とのコントラストが 4.5:1 以上
+check('Treemap 文字色 全タイルで4.5:1以上', TREEMAP_COLORS.map((c) => contrastRatio(c, readableText(c)) >= 4.5), TREEMAP_COLORS.map(() => true));
+check('readableText 薄い色は濃い文字・濃い色は白', [readableText('#fac858'), readableText('#5470c6'), readableText('#ffffff'), readableText('#000000')], ['#111111', '#ffffff', '#111111', '#ffffff']);
+check('contrastRatio 白黒は21', Math.round(contrastRatio('#ffffff', '#000000')), 21);
 check('markerSizes 一定', markerSizes([5, 5, 5]), [10, 10, 10]);
 check('markerSizes 範囲', markerSizes([1, 2, 3], 6, 40), [6, 23, 40]);
 check('markerSizes 欠損は中央値', markerSizes([1, null, 3], 6, 40)[1], 23);

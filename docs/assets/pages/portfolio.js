@@ -1,11 +1,11 @@
 // 業界ポートフォリオ: 会社ごとの、事業セグメント別の利益を Treemap で一覧する。
-import { esc } from '../lib/fields.js?v=f2e57d7edf';
-import { periodRows, loadSegments } from '../lib/data.js?v=f2e57d7edf';
-import { applyFilters } from '../lib/filters.js?v=f2e57d7edf';
-import { renderSelector } from '../lib/selector_ui.js?v=f2e57d7edf';
-import { renderFilterBanner, optionsHtml } from '../lib/ui_common.js?v=f2e57d7edf';
-import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=f2e57d7edf';
-import { portfolioItem, METRIC_LABEL, SEGMENT_METRICS, PROFIT_PRIORITY, fmtAmount } from '../lib/chartdata.js?v=f2e57d7edf';
+import { esc } from '../lib/fields.js?v=00492caca6';
+import { periodRows, loadSegments } from '../lib/data.js?v=00492caca6';
+import { applyFilters } from '../lib/filters.js?v=00492caca6';
+import { renderSelector } from '../lib/selector_ui.js?v=00492caca6';
+import { renderFilterBanner, optionsHtml } from '../lib/ui_common.js?v=00492caca6';
+import { loadECharts, mountChart, themeColors } from '../lib/charts.js?v=00492caca6';
+import { portfolioItem, METRIC_LABEL, SEGMENT_METRICS, PROFIT_PRIORITY, fmtAmount, TREEMAP_COLORS, readableText } from '../lib/chartdata.js?v=00492caca6';
 
 const PAGE_SIZE = 12;
 const PERIODS = ['最新期', '1期前', '2期前', '3期前', '4期前'];
@@ -98,9 +98,13 @@ export async function render(root, ctx) {
         tooltip: { formatter: (p) => `${esc(p.name)}<br>${fmtAmount(p.value)}<br>構成比 ${((p.value / total) * 100).toFixed(1)}%` },
         series: [{
           type: 'treemap', roam: false, nodeClick: false, breadcrumb: { show: false }, width: '100%', height: '100%', left: 0, top: 0, right: 0, bottom: 0,
-          label: { show: true, color: '#fff', fontSize: 11, formatter: (p) => `${p.name}\n${fmtAmount(p.value)}\n(${((p.value / total) * 100).toFixed(1)}%)` },
+          label: { show: true, fontSize: 11, formatter: (p) => `${p.name}\n${fmtAmount(p.value)}\n(${((p.value / total) * 100).toFixed(1)}%)` },
           itemStyle: { borderColor: tc.bg, borderWidth: 2, gapWidth: 2, borderRadius: 4 },
-          data: item.rows.map((r) => ({ name: r.name, value: r.value })),
+          // タイルの色ごとに、読みやすい文字色（薄い色には濃い文字）
+          data: item.rows.map((r, i) => {
+            const color = TREEMAP_COLORS[i % TREEMAP_COLORS.length];
+            return { name: r.name, value: r.value, itemStyle: { color }, label: { color: readableText(color) } };
+          }),
         }],
       }, { height: 280 });
     }
