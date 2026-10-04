@@ -54,35 +54,35 @@
   "segments": [
     {
       "key": "EcologyAndRecycle",
-      "label": null,
+      "label": "環境・リサイクル",
       "external_revenue": 89038000000,
       "intersegment_revenue": 61351000000,
       "ordinary_income": 11181000000
     },
     {
       "key": "ElectronicMaterials",
-      "label": null,
+      "label": "電子材料",
       "external_revenue": 178064000000,
       "intersegment_revenue": 5109000000,
       "ordinary_income": 3508000000
     },
     {
       "key": "HeatTreat",
-      "label": null,
+      "label": "熱処理",
       "external_revenue": 32200000000,
       "intersegment_revenue": 26000000,
       "ordinary_income": 3218000000
     },
     {
       "key": "Metalworking",
-      "label": null,
+      "label": "金属加工",
       "external_revenue": 116348000000,
       "intersegment_revenue": 99000000,
       "ordinary_income": 5187000000
     },
     {
       "key": "Refinery",
-      "label": null,
+      "label": "製錬",
       "external_revenue": 298653000000,
       "intersegment_revenue": 19195000000,
       "ordinary_income": 18202000000

@@ -51,7 +51,7 @@
   "segments": [
     {
       "key": "FinancialServices",
-      "label": null,
+      "label": "金融サービス",
       "external_revenue": 114033000000,
       "revenue": 114033000000,
       "operating_income": 21056000000,
@@ -59,7 +59,7 @@
     },
     {
       "key": "Landmobility",
-      "label": null,
+      "label": "ランドモビリティ",
       "external_revenue": 1615138000000,
       "revenue": 1615138000000,
       "operating_income": 108693000000,
@@ -67,7 +67,7 @@
     },
     {
       "key": "MarineProducts",
-      "label": null,
+      "label": "マリン",
       "external_revenue": 527630000000,
       "revenue": 527630000000,
       "operating_income": 53593000000,
@@ -75,7 +75,7 @@
     },
     {
       "key": "OutdoorLandVehicle",
-      "label": null,
+      "label": "アウトドアランドビークル",
       "external_revenue": 148526000000,
       "revenue": 148526000000,
       "operating_income": -39757000000,
@@ -83,7 +83,7 @@
     },
     {
       "key": "Robotics",
-      "label": null,
+      "label": "ロボティクス",
       "external_revenue": 111478000000,
       "revenue": 111478000000,
       "operating_income": -565000000,

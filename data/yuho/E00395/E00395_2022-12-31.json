@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "JapanBeerAndSpirits",
-      "label": null,
+      "label": "国内ビール・スピリッツ",
       "external_revenue": 663522000000,
       "intersegment_revenue": 1976000000,
       "revenue": 665498000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "JapanNonAlcoholicBeverages",
-      "label": null,
+      "label": "国内飲料",
       "external_revenue": 243257000000,
       "intersegment_revenue": 2513000000,
       "revenue": 245770000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "Oceania",
-      "label": null,
+      "label": "オセアニア酒類",
       "external_revenue": 255900000000,
       "intersegment_revenue": 91000000,
       "revenue": 255991000000,
@@ -79,7 +79,7 @@
     },
     {
       "key": "Pharmaceuticals",
-      "label": null,
+      "label": "医薬",
       "external_revenue": 397863000000,
       "intersegment_revenue": 507000000,
       "revenue": 398371000000,

@@ -53,19 +53,19 @@
   "segments": [
     {
       "key": "CommercialKaraoke",
-      "label": null,
+      "label": "業務用カラオケ",
       "external_revenue": 65278000000,
       "operating_income": 11922000000
     },
     {
       "key": "KaraokeCabinAndRestaurant",
-      "label": null,
+      "label": "カラオケ・飲食店舗",
       "external_revenue": 71003000000,
       "operating_income": 6633000000
     },
     {
       "key": "MusicSoftware",
-      "label": null,
+      "label": "音楽ソフト",
       "external_revenue": 5459000000,
       "operating_income": 140000000
     }

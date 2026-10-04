@@ -51,7 +51,7 @@
   "segments": [
     {
       "key": "NITORI",
-      "label": null,
+      "label": "ニトリ事業",
       "external_revenue": 809684000000,
       "intersegment_revenue": 11202000000,
       "revenue": 820886000000,
@@ -60,7 +60,7 @@
     },
     {
       "key": "SHIMACHU",
-      "label": null,
+      "label": "島忠事業",
       "external_revenue": 119143000000,
       "intersegment_revenue": 452000000,
       "revenue": 119596000000,

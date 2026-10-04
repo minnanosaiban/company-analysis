@@ -48,13 +48,13 @@
   "segments": [
     {
       "key": "MachineTools",
-      "label": null,
+      "label": "マシンツール",
       "external_revenue": 8106000000,
       "operating_income": -852000000
     },
     {
       "key": "RoboticSolutions",
-      "label": null,
+      "label": "ロボットソリューション",
       "external_revenue": 136863000000,
       "intersegment_revenue": 12000000,
       "operating_income": 32617000000

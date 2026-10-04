@@ -55,20 +55,20 @@
   "segments": [
     {
       "key": "Electronics",
-      "label": null,
+      "label": "エレクトロニクス",
       "external_revenue": 235303000000,
       "operating_income": 58152000000
     },
     {
       "key": "LifeAndHealthcare",
-      "label": null,
+      "label": "ライフ＆ヘルスケア",
       "external_revenue": 472240000000,
       "intersegment_revenue": 120000000,
       "operating_income": 13347000000
     },
     {
       "key": "SmartCommunication",
-      "label": null,
+      "label": "スマートコミュニケーション",
       "external_revenue": 717279000000,
       "intersegment_revenue": 2152000000,
       "operating_income": 26162000000

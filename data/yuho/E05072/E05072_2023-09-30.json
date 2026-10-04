@@ -51,27 +51,27 @@
   "segments": [
     {
       "key": "GameBusiness",
-      "label": null,
+      "label": "ゲーム",
       "external_revenue": 178618000000,
       "intersegment_revenue": 501000000,
       "operating_income": 22708000000
     },
     {
       "key": "InternetAdvertisementBusiness",
-      "label": null,
+      "label": "インターネット広告",
       "external_revenue": 381206000000,
       "intersegment_revenue": 24166000000,
       "operating_income": 18317000000
     },
     {
       "key": "InvestmentDevelopmentBusiness",
-      "label": null,
+      "label": "投資育成",
       "external_revenue": 3198000000,
       "operating_income": 1840000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 24799000000,
       "intersegment_revenue": 4177000000,
       "operating_income": 358000000

@@ -50,7 +50,7 @@
   "segments": [
     {
       "key": "AutomotiveSystems",
-      "label": null,
+      "label": "オートモティブシステム",
       "external_revenue": 1915254000000,
       "intersegment_revenue": 4813000000,
       "revenue": 1920067000000,
@@ -80,7 +80,7 @@
     },
     {
       "key": "GreenEnergyAndMobility",
-      "label": null,
+      "label": "グリーンエナジー＆モビリティ",
       "external_revenue": 2432204000000,
       "intersegment_revenue": 60318000000,
       "revenue": 2492522000000,
@@ -90,7 +90,7 @@
     },
     {
       "key": "HitachiConstructionMachinery",
-      "label": null,
+      "label": "日立建機",
       "external_revenue": 474168000000,
       "intersegment_revenue": 946000000,
       "revenue": 475114000000,
@@ -99,7 +99,7 @@
     },
     {
       "key": "HitachiMetals",
-      "label": null,
+      "label": "日立金属",
       "external_revenue": 825588000000,
       "intersegment_revenue": 22138000000,
       "revenue": 847726000000,
@@ -108,7 +108,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 238631000000,
       "intersegment_revenue": 234384000000,
       "revenue": 473015000000,

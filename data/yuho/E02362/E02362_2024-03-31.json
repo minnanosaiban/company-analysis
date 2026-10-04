@@ -50,13 +50,13 @@
   "segments": [
     {
       "key": "Music",
-      "label": null,
+      "label": "楽器",
       "external_revenue": 305195000000,
       "revenue": 305195000000
     },
     {
       "key": "ProfessionalAndConsumerAudio",
-      "label": null,
+      "label": "音響機器",
       "external_revenue": 121108000000,
       "revenue": 121108000000
     }

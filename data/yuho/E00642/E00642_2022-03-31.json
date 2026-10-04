@@ -51,28 +51,28 @@
   "segments": [
     {
       "key": "ForestResourcesAndEnvironmentalMarketing",
-      "label": null,
+      "label": "資源環境ビジネス",
       "external_revenue": 280954000000,
       "intersegment_revenue": 39656000000,
       "operating_income": 55228000000
     },
     {
       "key": "FunctionalMaterials",
-      "label": null,
+      "label": "機能材",
       "external_revenue": 171471000000,
       "intersegment_revenue": 13251000000,
       "operating_income": 15264000000
     },
     {
       "key": "HouseholdAndIndustrialMaterials",
-      "label": null,
+      "label": "生活産業資材",
       "external_revenue": 640438000000,
       "intersegment_revenue": 58339000000,
       "operating_income": 26220000000
     },
     {
       "key": "PrintingAndCommunicationsMedia",
-      "label": null,
+      "label": "印刷情報メディア",
       "external_revenue": 200126000000,
       "intersegment_revenue": 44422000000,
       "operating_income": 17797000000

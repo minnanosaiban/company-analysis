@@ -52,13 +52,13 @@
   "segments": [
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 63725000000,
       "ordinary_income": 4382000000
     },
     {
       "key": "UnitedStatesOfAmerica",
-      "label": null,
+      "label": "米国",
       "external_revenue": 32134000000,
       "ordinary_income": 3160000000
     }

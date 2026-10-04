@@ -52,14 +52,14 @@
   "segments": [
     {
       "key": "AirCargoTransportation",
-      "label": null,
+      "label": "航空運送事業",
       "external_revenue": 179225000000,
       "intersegment_revenue": 6497000000,
       "ordinary_income": 21070000000
     },
     {
       "key": "Automotive",
-      "label": null,
+      "label": "自動車事業",
       "external_revenue": 531867000000,
       "intersegment_revenue": 524000000,
       "ordinary_income": 113380000000,
@@ -67,7 +67,7 @@
     },
     {
       "key": "DryBulk",
-      "label": null,
+      "label": "ドライバルク事業",
       "external_revenue": 601322000000,
       "intersegment_revenue": 5934000000,
       "ordinary_income": 18104000000,
@@ -75,7 +75,7 @@
     },
     {
       "key": "Energy",
-      "label": null,
+      "label": "エネルギー事業",
       "external_revenue": 178225000000,
       "intersegment_revenue": 339000000,
       "ordinary_income": 46172000000,
@@ -83,7 +83,7 @@
     },
     {
       "key": "LinerTrade",
-      "label": null,
+      "label": "定期船事業",
       "external_revenue": 174412000000,
       "intersegment_revenue": 6012000000,
       "ordinary_income": 274366000000,
@@ -91,7 +91,7 @@
     },
     {
       "key": "Logistics",
-      "label": null,
+      "label": "物流事業",
       "external_revenue": 808997000000,
       "intersegment_revenue": 3151000000,
       "ordinary_income": 21271000000,
@@ -99,7 +99,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他事業",
       "external_revenue": 114650000000,
       "intersegment_revenue": 89984000000,
       "ordinary_income": 6954000000,

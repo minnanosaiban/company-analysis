@@ -42,41 +42,41 @@
   "segments": [
     {
       "key": "Entertainment",
-      "label": null,
+      "label": "エンタテインメント事業",
       "external_revenue": 38623000000,
       "intersegment_revenue": 0,
       "operating_income": 2590000000
     },
     {
       "key": "Finance",
-      "label": null,
+      "label": "ファイナンス事業",
       "external_revenue": 84476000000,
       "intersegment_revenue": 12000000,
       "operating_income": 47306000000
     },
     {
       "key": "Global",
-      "label": null,
+      "label": "グローバル事業",
       "external_revenue": 62438000000,
       "operating_income": -1428000000
     },
     {
       "key": "Lease",
-      "label": null,
+      "label": "リース事業",
       "external_revenue": 14780000000,
       "intersegment_revenue": 2000000,
       "operating_income": 4670000000
     },
     {
       "key": "Payment",
-      "label": null,
+      "label": "ペイメント事業",
       "external_revenue": 274965000000,
       "intersegment_revenue": 2263000000,
       "operating_income": 30625000000
     },
     {
       "key": "RealEstateRelated",
-      "label": null,
+      "label": "不動産関連事業",
       "external_revenue": 70987000000,
       "intersegment_revenue": 286000000,
       "operating_income": 19240000000

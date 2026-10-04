@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "Leasing",
-      "label": null,
+      "label": "賃貸",
       "external_revenue": 668167000000,
       "intersegment_revenue": 21850000000,
       "operating_income": 129983000000
     },
     {
       "key": "Management",
-      "label": null,
+      "label": "マネジメント",
       "external_revenue": 429350000000,
       "intersegment_revenue": 77531000000,
       "operating_income": 57205000000
     },
     {
       "key": "PropertySales",
-      "label": null,
+      "label": "分譲",
       "external_revenue": 643851000000,
       "intersegment_revenue": 85000000,
       "operating_income": 138343000000

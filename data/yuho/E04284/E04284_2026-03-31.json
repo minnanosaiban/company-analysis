@@ -55,13 +55,13 @@
   "segments": [
     {
       "key": "LogisticsSegment",
-      "label": null,
+      "label": "物流事業",
       "external_revenue": 291963000000,
       "operating_income": 24463000000
     },
     {
       "key": "RealEstateSegment",
-      "label": null,
+      "label": "不動産事業",
       "external_revenue": 7509000000,
       "intersegment_revenue": 1122000000,
       "operating_income": 3661000000

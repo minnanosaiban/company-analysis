@@ -42,7 +42,7 @@
   "segments": [
     {
       "key": "DomesticBusiness",
-      "label": null,
+      "label": "国内事業",
       "external_revenue": 123309000000,
       "intersegment_revenue": 27000000,
       "ordinary_income": 29879000000,

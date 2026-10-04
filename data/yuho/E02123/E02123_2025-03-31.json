@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "LogisticsSystems",
-      "label": null,
+      "label": "物流システム",
       "external_revenue": 62767000000,
       "intersegment_revenue": 39000000,
       "operating_income": 5954000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "MarinePropulsionSystems",
-      "label": null,
+      "label": "舶用推進システム",
       "external_revenue": 135506000000,
       "intersegment_revenue": 1004000000,
       "operating_income": 7476000000,
@@ -69,20 +69,20 @@
     },
     {
       "key": "NewBusinessDevelopment",
-      "label": null,
+      "label": "成長事業推進",
       "external_revenue": 40017000000,
       "intersegment_revenue": 1374000000,
       "operating_income": 6831000000
     },
     {
       "key": "OceanDevelopment",
-      "label": null,
+      "label": "海洋開発",
       "operating_income": 3757000000,
       "equity_method_income": 3757000000
     },
     {
       "key": "PeripheralBusinesses",
-      "label": null,
+      "label": "周辺サービス",
       "external_revenue": 75193000000,
       "intersegment_revenue": 13740000000,
       "operating_income": -1615000000,

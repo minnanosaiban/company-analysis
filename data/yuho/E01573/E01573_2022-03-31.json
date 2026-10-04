@@ -55,7 +55,7 @@
   "segments": [
     {
       "key": "WaterTreatmentChemicals",
-      "label": null,
+      "label": "水処理薬品事業",
       "external_revenue": 117672000000,
       "intersegment_revenue": 518000000,
       "revenue": 118191000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "WaterTreatmentFacilities",
-      "label": null,
+      "label": "水処理装置事業",
       "external_revenue": 170534000000,
       "intersegment_revenue": 561000000,
       "revenue": 171095000000,

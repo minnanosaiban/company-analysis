@@ -54,21 +54,21 @@
   "segments": [
     {
       "key": "ClinicalLabTestingBusiness",
-      "label": null,
+      "label": "検査・関連サービス事業",
       "external_revenue": 163093000000,
       "intersegment_revenue": 293000000,
       "operating_income": 279000000
     },
     {
       "key": "InVitroDiagnosticsBusiness",
-      "label": null,
+      "label": "臨床検査薬事業",
       "external_revenue": 70059000000,
       "intersegment_revenue": 7606000000,
       "operating_income": 26528000000
     },
     {
       "key": "SterilizationAndRelatedServices",
-      "label": null,
+      "label": "ヘルスケア関連サービス事業",
       "external_revenue": 27755000000,
       "intersegment_revenue": 17000000,
       "operating_income": 1057000000

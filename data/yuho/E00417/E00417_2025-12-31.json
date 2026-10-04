@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "FoodServiceBusiness",
-      "label": null,
+      "label": "フードサービス事業",
       "external_revenue": 45323000000,
       "revenue": 45323000000,
       "operating_income": 8775000000
     },
     {
       "key": "OTCBusiness",
-      "label": null,
+      "label": "OTC事業",
       "external_revenue": 417949000000,
       "revenue": 417949000000,
       "operating_income": 46975000000
     },
     {
       "key": "VendingBusiness",
-      "label": null,
+      "label": "ベンディング事業",
       "external_revenue": 399880000000,
       "revenue": 399880000000,
       "operating_income": 11266000000

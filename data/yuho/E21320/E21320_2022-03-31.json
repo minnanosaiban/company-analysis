@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "MediaServiceSector",
-      "label": null,
+      "label": "メディアサービス分野",
       "external_revenue": 53432000000,
       "revenue": 53432000000,
       "operating_income": 2703000000,
@@ -68,7 +68,7 @@
     },
     {
       "key": "PublicServiceSector",
-      "label": null,
+      "label": "パブリックサービス分野",
       "external_revenue": 58089000000,
       "revenue": 58089000000,
       "operating_income": 2467000000,

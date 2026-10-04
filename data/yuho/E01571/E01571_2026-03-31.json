@@ -49,7 +49,7 @@
   "segments": [
     {
       "key": "PerformanceProductsBusinessUnit",
-      "label": null,
+      "label": "機能商品事業",
       "external_revenue": 25693000000,
       "intersegment_revenue": 393000000,
       "operating_income": 3309000000

@@ -55,14 +55,14 @@
   "segments": [
     {
       "key": "AssetFinance",
-      "label": null,
+      "label": "アセットファイナンス",
       "external_revenue": 278566000000,
       "intersegment_revenue": 454000000,
       "operating_income": 50453000000
     },
     {
       "key": "CustomerFinance",
-      "label": null,
+      "label": "カスタマーファイナンス",
       "external_revenue": 591382000000,
       "intersegment_revenue": 11000000,
       "operating_income": 38946000000

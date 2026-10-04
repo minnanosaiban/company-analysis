@@ -51,13 +51,13 @@
   "segments": [
     {
       "key": "BeddingAndFurniture",
-      "label": null,
+      "label": "ベッド及び家具事業",
       "external_revenue": 37096000000,
       "operating_income": 5967000000
     },
     {
       "key": "IndustrialPlasticPartsAndComponents",
-      "label": null,
+      "label": "合成樹脂成形品事業",
       "external_revenue": 315942000000,
       "operating_income": 49016000000
     }

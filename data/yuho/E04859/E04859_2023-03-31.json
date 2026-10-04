@@ -50,28 +50,28 @@
   "segments": [
     {
       "key": "AmusementSegment",
-      "label": null,
+      "label": "アミューズメント事業",
       "external_revenue": 54308000000,
       "intersegment_revenue": 2068000000,
       "operating_income": 5285000000
     },
     {
       "key": "DigitalEntertainmentSegment",
-      "label": null,
+      "label": "デジタルエンタテインメント事業",
       "external_revenue": 245524000000,
       "intersegment_revenue": 24000000,
       "operating_income": 41253000000
     },
     {
       "key": "MerchandisingSegment",
-      "label": null,
+      "label": "ライツ・プロパティ等事業",
       "external_revenue": 14418000000,
       "intersegment_revenue": 1245000000,
       "operating_income": 3723000000
     },
     {
       "key": "PublicationSegment",
-      "label": null,
+      "label": "出版事業",
       "external_revenue": 29016000000,
       "intersegment_revenue": 148000000,
       "operating_income": 11641000000

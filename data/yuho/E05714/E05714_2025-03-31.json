@@ -37,14 +37,14 @@
   "segments": [
     {
       "key": "Assurance",
-      "label": null,
+      "label": "損害保険事業",
       "external_revenue": 168854000000,
       "intersegment_revenue": 40000000,
       "ordinary_income": 7200000000
     },
     {
       "key": "Bank",
-      "label": null,
+      "label": "銀行事業",
       "external_revenue": 116991000000,
       "intersegment_revenue": 30000000,
       "ordinary_income": 18881000000,
@@ -52,7 +52,7 @@
     },
     {
       "key": "LifeInsurance",
-      "label": null,
+      "label": "生命保険事業",
       "external_revenue": 2313452000000,
       "intersegment_revenue": 3613000000,
       "ordinary_income": 20615000000

@@ -53,41 +53,41 @@
   "segments": [
     {
       "key": "Condominiums",
-      "label": null,
+      "label": "マンション事業",
       "external_revenue": 89238000000,
       "intersegment_revenue": 56000000,
       "operating_income": 10664000000
     },
     {
       "key": "MeldiaCoLtd",
-      "label": null,
+      "label": "メルディア",
       "external_revenue": 134811000000,
       "intersegment_revenue": 5707000000,
       "operating_income": 3731000000
     },
     {
       "key": "Others",
-      "label": null,
+      "label": "その他",
       "external_revenue": 105832000000,
       "intersegment_revenue": 78000000,
       "operating_income": 11452000000
     },
     {
       "key": "PressanceCorporationCoLtd",
-      "label": null,
+      "label": "プレサンスコーポレーション",
       "external_revenue": 180850000000,
       "operating_income": 27466000000
     },
     {
       "key": "PropertyResales",
-      "label": null,
+      "label": "収益不動産事業",
       "external_revenue": 196048000000,
       "intersegment_revenue": 507000000,
       "operating_income": 17268000000
     },
     {
       "key": "SingleFamilyHomesRelatedBusiness",
-      "label": null,
+      "label": "戸建関連事業",
       "external_revenue": 589053000000,
       "intersegment_revenue": 1116000000,
       "operating_income": 49668000000

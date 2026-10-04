@@ -55,27 +55,27 @@
   "segments": [
     {
       "key": "LongTermCareServices",
-      "label": null,
+      "label": "介護事業",
       "external_revenue": 53364000000,
       "intersegment_revenue": 8000000,
       "operating_income": 1497000000
     },
     {
       "key": "OverseasService",
-      "label": null,
+      "label": "海外事業",
       "external_revenue": 26833000000,
       "operating_income": -547000000
     },
     {
       "key": "SecurityServices",
-      "label": null,
+      "label": "セキュリティ事業",
       "external_revenue": 391946000000,
       "intersegment_revenue": 72000000,
       "operating_income": 40327000000
     },
     {
       "key": "TotalBuildingManagementServicesAndDisasterPreventionServices",
-      "label": null,
+      "label": "綜合管理・防災事業",
       "external_revenue": 79736000000,
       "intersegment_revenue": 434000000,
       "operating_income": 9164000000

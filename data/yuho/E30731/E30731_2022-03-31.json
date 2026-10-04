@@ -53,35 +53,35 @@
   "segments": [
     {
       "key": "EducationBusiness",
-      "label": null,
+      "label": "教育",
       "external_revenue": 10794000000,
       "intersegment_revenue": 8000000,
       "operating_income": 742000000
     },
     {
       "key": "Game",
-      "label": null,
+      "label": "ゲーム",
       "external_revenue": 19411000000,
       "intersegment_revenue": 79000000,
       "operating_income": 5200000000
     },
     {
       "key": "Publication",
-      "label": null,
+      "label": "出版",
       "external_revenue": 131530000000,
       "intersegment_revenue": 1442000000,
       "operating_income": 17370000000
     },
     {
       "key": "Video",
-      "label": null,
+      "label": "映像",
       "external_revenue": 32735000000,
       "intersegment_revenue": 376000000,
       "operating_income": 1341000000
     },
     {
       "key": "WebServices",
-      "label": null,
+      "label": "Webサービス",
       "external_revenue": 21175000000,
       "intersegment_revenue": 166000000,
       "operating_income": 2013000000

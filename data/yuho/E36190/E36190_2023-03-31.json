@@ -49,14 +49,14 @@
   "segments": [
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 163702000000,
       "revenue": 163702000000,
       "operating_income": 16054000000
     },
     {
       "key": "USA",
-      "label": null,
+      "label": "米国",
       "external_revenue": 36642000000,
       "revenue": 36642000000,
       "operating_income": 930000000

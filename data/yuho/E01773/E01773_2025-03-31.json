@@ -52,35 +52,35 @@
   "segments": [
     {
       "key": "DisplayDevice",
-      "label": null,
+      "label": "ディスプレイデバイス",
       "external_revenue": 495273000000,
       "intersegment_revenue": 11866000000,
       "operating_income": -40513000000
     },
     {
       "key": "ElectronicDevice",
-      "label": null,
+      "label": "エレクトロニックデバイス",
       "external_revenue": 186875000000,
       "intersegment_revenue": 15380000000,
       "operating_income": 5754000000
     },
     {
       "key": "SmartLifeAndEnergy",
-      "label": null,
+      "label": "スマートライフ＆エナジー",
       "external_revenue": 459966000000,
       "intersegment_revenue": 1385000000,
       "operating_income": 20343000000
     },
     {
       "key": "SmartOffice",
-      "label": null,
+      "label": "スマートオフィス",
       "external_revenue": 679736000000,
       "intersegment_revenue": 870000000,
       "operating_income": 42627000000
     },
     {
       "key": "UniversalNetwork",
-      "label": null,
+      "label": "ユニバーサルネットワーク",
       "external_revenue": 338295000000,
       "intersegment_revenue": 221000000,
       "operating_income": 18682000000

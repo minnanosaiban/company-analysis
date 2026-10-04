@@ -54,26 +54,26 @@
   "segments": [
     {
       "key": "ElastomersAndInfrastructureSolutions",
-      "label": null,
+      "label": "エラストマー・インフラソリューション",
       "external_revenue": 106879000000,
       "intersegment_revenue": 135000000,
       "operating_income": -3473000000
     },
     {
       "key": "ElectronicsAndInnovativeProducts",
-      "label": null,
+      "label": "電子・先端プロダクツ",
       "external_revenue": 90152000000,
       "operating_income": 18656000000
     },
     {
       "key": "LifeInnovation",
-      "label": null,
+      "label": "ライフイノベーション",
       "external_revenue": 46098000000,
       "operating_income": 15495000000
     },
     {
       "key": "PolymerSolutions",
-      "label": null,
+      "label": "ポリマーソリューション",
       "external_revenue": 126578000000,
       "intersegment_revenue": 116000000,
       "operating_income": 7905000000

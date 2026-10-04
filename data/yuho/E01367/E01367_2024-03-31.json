@@ -53,28 +53,28 @@
   "segments": [
     {
       "key": "IndustrialMachineryAndEquipmentAndOtherOperations",
-      "label": null,
+      "label": "産業機器ほか",
       "external_revenue": 109962000000,
       "intersegment_revenue": 12623000000,
       "operating_income": 6813000000
     },
     {
       "key": "PrecisionSpringsAndComponents",
-      "label": null,
+      "label": "精密部品",
       "external_revenue": 161701000000,
       "intersegment_revenue": 1640000000,
       "operating_income": 7117000000
     },
     {
       "key": "Seating",
-      "label": null,
+      "label": "シート",
       "external_revenue": 324122000000,
       "intersegment_revenue": 274000000,
       "operating_income": 19121000000
     },
     {
       "key": "SuspensionSprings",
-      "label": null,
+      "label": "懸架ばね",
       "external_revenue": 171148000000,
       "intersegment_revenue": 1877000000,
       "operating_income": 1599000000

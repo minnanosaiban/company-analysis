@@ -51,13 +51,13 @@
   "segments": [
     {
       "key": "MechatronicsSystemBusiness",
-      "label": null,
+      "label": "メカトロニクス関連事業",
       "external_revenue": 42305000000,
       "operating_income": 6101000000
     },
     {
       "key": "SemiconductorAndComponentTestSystemBusiness",
-      "label": null,
+      "label": "半導体・部品テストシステム事業",
       "external_revenue": 288793000000,
       "intersegment_revenue": 66000000,
       "operating_income": 105655000000

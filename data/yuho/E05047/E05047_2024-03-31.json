@@ -55,7 +55,7 @@
   "segments": [
     {
       "key": "FringeBenefitBusiness",
-      "label": null,
+      "label": "福利厚生事業",
       "external_revenue": 24971000000,
       "intersegment_revenue": 345000000,
       "revenue": 25317000000,
@@ -63,7 +63,7 @@
     },
     {
       "key": "RelocationBusiness",
-      "label": null,
+      "label": "リロケーション事業",
       "external_revenue": 92459000000,
       "intersegment_revenue": 206000000,
       "revenue": 92666000000,
@@ -71,7 +71,7 @@
     },
     {
       "key": "TourismBusiness",
-      "label": null,
+      "label": "観光事業",
       "external_revenue": 14081000000,
       "intersegment_revenue": 76000000,
       "revenue": 14158000000,

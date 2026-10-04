@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "Materials",
-      "label": null,
+      "label": "材料",
       "external_revenue": 293331000000,
       "intersegment_revenue": 24094000000,
       "profit_before_tax": 17323000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "MineralResources",
-      "label": null,
+      "label": "資源",
       "external_revenue": 118017000000,
       "intersegment_revenue": 54410000000,
       "profit_before_tax": 76443000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "SmeltingAndRefining",
-      "label": null,
+      "label": "製錬",
       "external_revenue": 1007426000000,
       "intersegment_revenue": 65612000000,
       "profit_before_tax": 117866000000,

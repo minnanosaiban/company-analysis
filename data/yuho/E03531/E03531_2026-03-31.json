@@ -42,22 +42,22 @@
   "segments": [
     {
       "key": "CustomersRelationsUnit",
-      "label": null,
+      "label": "カスタマーリレーションユニット",
       "ordinary_income": 1164000000
     },
     {
       "key": "GMOAozoraNetBank",
-      "label": null,
+      "label": "GMOあおぞらネット銀行",
       "ordinary_income": 1974000000
     },
     {
       "key": "MarketAndInternationalBusinessUnit",
-      "label": null,
+      "label": "市場国際ユニット",
       "ordinary_income": 3923000000
     },
     {
       "key": "StrategicInvestmentsUnit",
-      "label": null,
+      "label": "投資銀行ユニット",
       "ordinary_income": 38637000000
     }
   ],

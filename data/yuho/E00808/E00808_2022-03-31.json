@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "Chemicals",
-      "label": null,
+      "label": "ケミカルズ",
       "external_revenue": 1287915000000,
       "intersegment_revenue": 43816000000,
       "revenue": 1331731000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "HealthCare",
-      "label": null,
+      "label": "ヘルスケア",
       "external_revenue": 403638000000,
       "intersegment_revenue": 410000000,
       "revenue": 404048000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "IndustrialGases",
-      "label": null,
+      "label": "産業ガス",
       "external_revenue": 950111000000,
       "intersegment_revenue": 7008000000,
       "revenue": 957119000000,
@@ -79,7 +79,7 @@
     },
     {
       "key": "PerformanceProducts",
-      "label": null,
+      "label": "機能商品",
       "external_revenue": 1136341000000,
       "intersegment_revenue": 52497000000,
       "revenue": 1188838000000,

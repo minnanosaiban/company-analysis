@@ -56,7 +56,7 @@
   "segments": [
     {
       "key": "AlcoholicBeverages",
-      "label": null,
+      "label": "酒類",
       "external_revenue": 334644000000,
       "intersegment_revenue": 12571000000,
       "revenue": 347215000000,
@@ -65,7 +65,7 @@
     },
     {
       "key": "FoodAndSoftDrinks",
-      "label": null,
+      "label": "食品飲料",
       "external_revenue": 122914000000,
       "intersegment_revenue": 912000000,
       "revenue": 123826000000,
@@ -73,7 +73,7 @@
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産",
       "external_revenue": 20724000000,
       "intersegment_revenue": 2332000000,
       "revenue": 23057000000,

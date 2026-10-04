@@ -52,28 +52,28 @@
   "segments": [
     {
       "key": "APAC",
-      "label": null,
+      "label": "APAC",
       "gross_profit": 112330000000,
       "operating_income": 22265000000,
       "assets": 417074000000
     },
     {
       "key": "Americas",
-      "label": null,
+      "label": "Americas",
       "gross_profit": 317156000000,
       "operating_income": 68172000000,
       "assets": 1253556000000
     },
     {
       "key": "EMEA",
-      "label": null,
+      "label": "EMEA",
       "gross_profit": 232774000000,
       "operating_income": 51947000000,
       "assets": 799239000000
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "gross_profit": 441258000000,
       "operating_income": 105665000000,
       "assets": 1231654000000

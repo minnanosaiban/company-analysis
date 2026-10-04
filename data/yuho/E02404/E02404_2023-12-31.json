@@ -52,28 +52,28 @@
   "segments": [
     {
       "key": "China",
-      "label": null,
+      "label": "中国事業",
       "external_revenue": 32310000000,
       "intersegment_revenue": 734000000,
       "operating_income": 8858000000
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本事業",
       "external_revenue": 35027000000,
       "intersegment_revenue": 1838000000,
       "operating_income": 2006000000
     },
     {
       "key": "Lansinoh",
-      "label": null,
+      "label": "ランシノ事業",
       "external_revenue": 18472000000,
       "intersegment_revenue": 8000000,
       "operating_income": 1453000000
     },
     {
       "key": "Singapore",
-      "label": null,
+      "label": "シンガポール事業",
       "external_revenue": 8650000000,
       "intersegment_revenue": 4434000000,
       "operating_income": 1235000000

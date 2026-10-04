@@ -52,20 +52,20 @@
   "segments": [
     {
       "key": "EcoRenewableEnergyBusiness",
-      "label": null,
+      "label": "エコ再生エネルギー事業",
       "external_revenue": 3152000000,
       "operating_income": 676000000
     },
     {
       "key": "GyomuSuperDivision",
-      "label": null,
+      "label": "業務スーパー事業",
       "external_revenue": 396296000000,
       "intersegment_revenue": 3073000000,
       "operating_income": 31612000000
     },
     {
       "key": "KOBECOOKDivision",
-      "label": null,
+      "label": "外食・中食事業",
       "external_revenue": 7323000000,
       "intersegment_revenue": 167000000,
       "operating_income": -119000000

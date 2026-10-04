@@ -41,24 +41,24 @@
   "segments": [
     {
       "key": "DomesticLifeInsuranceBusiness",
-      "label": null,
+      "label": "国内生命保険事業",
       "external_revenue": 318501000000
     },
     {
       "key": "DomesticPAndCInsuranceBusiness",
-      "label": null,
+      "label": "国内損害保険事業",
       "external_revenue": 2217148000000,
       "equity_method_income": 73000000
     },
     {
       "key": "NursingCareAndSeniorBusiness",
-      "label": null,
+      "label": "介護・シニア事業",
       "external_revenue": 136661000000,
       "intersegment_revenue": 1000000
     },
     {
       "key": "OverseasInsuranceBusiness",
-      "label": null,
+      "label": "海外保険事業",
       "external_revenue": 1005247000000,
       "equity_method_income": 888000000
     }

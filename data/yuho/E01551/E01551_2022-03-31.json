@@ -48,25 +48,25 @@
   "segments": [
     {
       "key": "CFI",
-      "label": null,
+      "label": "CFI",
       "external_revenue": 28671000000,
       "intersegment_revenue": 2005000000
     },
     {
       "key": "Contec",
-      "label": null,
+      "label": "コンテック",
       "external_revenue": 15798000000,
       "intersegment_revenue": 10451000000
     },
     {
       "key": "DAIFUKU",
-      "label": null,
+      "label": "ダイフク",
       "external_revenue": 225057000000,
       "intersegment_revenue": 41403000000
     },
     {
       "key": "DNAHC",
-      "label": null,
+      "label": "DNAHC",
       "external_revenue": 140473000000,
       "intersegment_revenue": 505000000
     }

@@ -52,35 +52,35 @@
   "segments": [
     {
       "key": "Engineering",
-      "label": null,
+      "label": "エンジニアリング",
       "external_revenue": 18214000000,
       "intersegment_revenue": 430000000,
       "operating_income": -1277000000
     },
     {
       "key": "HighPerformanceMaterialsAndMagneticMaterials",
-      "label": null,
+      "label": "機能材料・磁性材料",
       "external_revenue": 197604000000,
       "intersegment_revenue": 14714000000,
       "operating_income": 26650000000
     },
     {
       "key": "PartsForAutomobileAndIndustrialEquipment",
-      "label": null,
+      "label": "自動車部品・産業機械部品",
       "external_revenue": 92504000000,
       "intersegment_revenue": 28475000000,
       "operating_income": 4979000000
     },
     {
       "key": "SpecialtySteel",
-      "label": null,
+      "label": "特殊鋼鋼材",
       "external_revenue": 197803000000,
       "intersegment_revenue": 69507000000,
       "operating_income": 3827000000
     },
     {
       "key": "TradingAndService",
-      "label": null,
+      "label": "流通・サービス",
       "external_revenue": 23540000000,
       "intersegment_revenue": 15332000000,
       "operating_income": 2834000000

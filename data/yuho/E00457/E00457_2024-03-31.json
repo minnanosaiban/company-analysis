@@ -51,7 +51,7 @@
   "segments": [
     {
       "key": "ChilledFrozenFoodsAndBeverages",
-      "label": null,
+      "label": "低温・飲料事業",
       "external_revenue": 95221000000,
       "intersegment_revenue": 821000000,
       "revenue": 96043000000,
@@ -59,7 +59,7 @@
     },
     {
       "key": "China",
-      "label": null,
+      "label": "中国地域",
       "external_revenue": 66452000000,
       "intersegment_revenue": 3022000000,
       "revenue": 69474000000,
@@ -67,7 +67,7 @@
     },
     {
       "key": "Confectionery",
-      "label": null,
+      "label": "菓子事業",
       "external_revenue": 85150000000,
       "intersegment_revenue": 419000000,
       "revenue": 85569000000,
@@ -75,7 +75,7 @@
     },
     {
       "key": "MyojoFoods",
-      "label": null,
+      "label": "明星食品",
       "external_revenue": 43450000000,
       "intersegment_revenue": 5853000000,
       "revenue": 49304000000,
@@ -83,7 +83,7 @@
     },
     {
       "key": "NissinFoodProducts",
-      "label": null,
+      "label": "日清食品",
       "external_revenue": 232221000000,
       "intersegment_revenue": 1404000000,
       "revenue": 233626000000,
@@ -91,7 +91,7 @@
     },
     {
       "key": "TheAmericas",
-      "label": null,
+      "label": "米州地域",
       "external_revenue": 160333000000,
       "intersegment_revenue": 54000000,
       "revenue": 160387000000,

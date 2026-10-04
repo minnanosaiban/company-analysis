@@ -50,25 +50,25 @@
   "segments": [
     {
       "key": "AutomobileBusiness",
-      "label": null,
+      "label": "四輪事業",
       "external_revenue": 3204877000000,
       "operating_income": 152832000000
     },
     {
       "key": "MarineBusiness",
-      "label": null,
+      "label": "マリン事業",
       "external_revenue": 97981000000,
       "operating_income": 24017000000
     },
     {
       "key": "MotorcycleBusiness",
-      "label": null,
+      "label": "二輪事業",
       "external_revenue": 253458000000,
       "operating_income": 10859000000
     },
     {
       "key": "OtherBusiness",
-      "label": null,
+      "label": "その他事業",
       "external_revenue": 12064000000,
       "operating_income": 3750000000
     }

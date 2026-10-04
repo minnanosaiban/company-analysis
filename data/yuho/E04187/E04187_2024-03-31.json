@@ -51,14 +51,14 @@
   "segments": [
     {
       "key": "CorporateBusiness",
-      "label": null,
+      "label": "法人部門",
       "external_revenue": 824096000000,
       "intersegment_revenue": 13234000000,
       "operating_income": 4586000000
     },
     {
       "key": "RetailBusiness",
-      "label": null,
+      "label": "リテール部門",
       "external_revenue": 877948000000,
       "intersegment_revenue": 332775000000,
       "operating_income": 22589000000

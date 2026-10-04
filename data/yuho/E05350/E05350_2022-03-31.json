@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "Finance",
-      "label": null,
+      "label": "ファイナンス事業",
       "external_revenue": 2680000000,
       "revenue": 2680000000,
       "operating_income": 658000000,
@@ -60,7 +60,7 @@
     },
     {
       "key": "InternetMedia",
-      "label": null,
+      "label": "インターネット・メディア事業",
       "external_revenue": 49043000000,
       "intersegment_revenue": 1000000,
       "revenue": 49044000000,

@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "Pharmaceuticals",
-      "label": null,
+      "label": "医薬",
       "external_revenue": 94464000000,
       "revenue": 94464000000,
       "operating_income": 9233000000

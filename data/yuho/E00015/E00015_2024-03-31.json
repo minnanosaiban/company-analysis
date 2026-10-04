@@ -53,28 +53,28 @@
   "segments": [
     {
       "key": "FoodstuffDistributionBusiness",
-      "label": null,
+      "label": "食材流通",
       "external_revenue": 315262000000,
       "intersegment_revenue": 9232000000,
       "operating_income": 7276000000
     },
     {
       "key": "Logistics",
-      "label": null,
+      "label": "物流",
       "external_revenue": 17607000000,
       "intersegment_revenue": 7694000000,
       "operating_income": 2306000000
     },
     {
       "key": "MarineProductsBusiness",
-      "label": null,
+      "label": "水産資源",
       "external_revenue": 591119000000,
       "intersegment_revenue": 57222000000,
       "operating_income": 10997000000
     },
     {
       "key": "ProcessedFoodsBusiness",
-      "label": null,
+      "label": "加工食品",
       "external_revenue": 104954000000,
       "intersegment_revenue": 6369000000,
       "operating_income": 5249000000

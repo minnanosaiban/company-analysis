@@ -32,7 +32,7 @@
   "segments": [
     {
       "key": "AutomotiveAndMobility",
-      "label": null,
+      "label": "自動車・モビリティ",
       "gross_profit": 231795000000,
       "equity_method_income": 69098000000,
       "profit_attributable_to_owners": 131575000000,
@@ -40,7 +40,7 @@
     },
     {
       "key": "ChemicalsSolution",
-      "label": null,
+      "label": "化学ソリューション",
       "gross_profit": 82262000000,
       "equity_method_income": 9816000000,
       "profit_attributable_to_owners": 29479000000,
@@ -48,7 +48,7 @@
     },
     {
       "key": "ConsumerIndustry",
-      "label": null,
+      "label": "コンシューマー産業",
       "gross_profit": 733277000000,
       "equity_method_income": 10009000000,
       "profit_attributable_to_owners": 18861000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "IndustrialInfrastructure",
-      "label": null,
+      "label": "産業インフラ",
       "gross_profit": 125293000000,
       "equity_method_income": 21407000000,
       "profit_attributable_to_owners": 31870000000,
@@ -72,7 +72,7 @@
     },
     {
       "key": "IndustrialMaterials",
-      "label": null,
+      "label": "総合素材",
       "gross_profit": 175200000000,
       "equity_method_income": 43993000000,
       "profit_attributable_to_owners": 61983000000,
@@ -88,7 +88,7 @@
     },
     {
       "key": "NaturalGas",
-      "label": null,
+      "label": "天然ガス",
       "gross_profit": 140000000,
       "equity_method_income": 233173000000,
       "profit_attributable_to_owners": 170601000000,
@@ -104,7 +104,7 @@
     },
     {
       "key": "UrbanDevelopment",
-      "label": null,
+      "label": "複合都市開発",
       "gross_profit": 29967000000,
       "equity_method_income": 47891000000,
       "profit_attributable_to_owners": 123256000000,

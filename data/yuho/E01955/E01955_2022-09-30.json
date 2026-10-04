@@ -53,21 +53,21 @@
   "segments": [
     {
       "key": "ElectronTube",
-      "label": null,
+      "label": "電子管",
       "external_revenue": 80881000000,
       "intersegment_revenue": 1657000000,
       "operating_income": 32915000000
     },
     {
       "key": "ImagingAndMeasurementInstruments",
-      "label": null,
+      "label": "画像計測機器",
       "external_revenue": 26662000000,
       "intersegment_revenue": 19000000,
       "operating_income": 8236000000
     },
     {
       "key": "OptoSemiconductor",
-      "label": null,
+      "label": "光半導体",
       "external_revenue": 95554000000,
       "intersegment_revenue": 1258000000,
       "operating_income": 35230000000

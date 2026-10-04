@@ -54,14 +54,14 @@
   "segments": [
     {
       "key": "DirectSellingGroup",
-      "label": null,
+      "label": "訪販グループ",
       "external_revenue": 106821000000,
       "intersegment_revenue": 643000000,
       "operating_income": 4142000000
     },
     {
       "key": "FoodGroup",
-      "label": null,
+      "label": "フードグループ",
       "external_revenue": 58426000000,
       "intersegment_revenue": 10000000,
       "operating_income": 6916000000

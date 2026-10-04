@@ -54,7 +54,7 @@
   "segments": [
     {
       "key": "BoilerSalesBusiness",
-      "label": null,
+      "label": "機器販売事業",
       "external_revenue": 63122000000,
       "intersegment_revenue": 3403000000,
       "revenue": 66525000000,
@@ -62,7 +62,7 @@
     },
     {
       "key": "LaundryBusiness",
-      "label": null,
+      "label": "ランドリー事業",
       "external_revenue": 13112000000,
       "intersegment_revenue": 70000000,
       "revenue": 13182000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "MaintenanceBusiness",
-      "label": null,
+      "label": "メンテナンス事業",
       "external_revenue": 37012000000,
       "intersegment_revenue": 193000000,
       "revenue": 37205000000,
@@ -78,7 +78,7 @@
     },
     {
       "key": "OverseasBoilerSalesBusiness",
-      "label": null,
+      "label": "機器販売事業",
       "external_revenue": 22476000000,
       "intersegment_revenue": 261000000,
       "revenue": 22738000000,
@@ -86,7 +86,7 @@
     },
     {
       "key": "OverseasMaintenanceBusiness",
-      "label": null,
+      "label": "メンテナンス事業",
       "external_revenue": 7761000000,
       "intersegment_revenue": 82000000,
       "revenue": 7844000000,

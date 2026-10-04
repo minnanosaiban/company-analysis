@@ -58,28 +58,28 @@
     },
     {
       "key": "AmericasBusiness",
-      "label": null,
+      "label": "米州事業",
       "external_revenue": 70478000000,
       "intersegment_revenue": 8000000,
       "operating_income": 5153000000
     },
     {
       "key": "AsiaOceaniaBusiness",
-      "label": null,
+      "label": "アジア・オセアニア事業",
       "external_revenue": 50220000000,
       "intersegment_revenue": 48500000000,
       "operating_income": 8236000000
     },
     {
       "key": "ChinaBusiness",
-      "label": null,
+      "label": "中国大陸事業",
       "external_revenue": 66924000000,
       "intersegment_revenue": 18675000000,
       "operating_income": -3554000000
     },
     {
       "key": "EuropeBusiness",
-      "label": null,
+      "label": "欧州事業",
       "external_revenue": 4882000000,
       "intersegment_revenue": 4000000,
       "operating_income": -812000000

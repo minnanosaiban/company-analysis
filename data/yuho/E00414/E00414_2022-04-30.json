@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 6619000000,
       "intersegment_revenue": 2691000000,
       "operating_income": 605000000
     },
     {
       "key": "RestaurantBusiness",
-      "label": null,
+      "label": "飲食関連事業",
       "external_revenue": 30046000000,
       "intersegment_revenue": 14000000,
       "operating_income": 860000000
     },
     {
       "key": "TeaLeavesBeveragesBusiness",
-      "label": null,
+      "label": "リーフ・ドリンク関連事業",
       "external_revenue": 364103000000,
       "intersegment_revenue": 419000000,
       "operating_income": 17953000000

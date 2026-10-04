@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "GastrointestinalSolutions",
-      "label": null,
+      "label": "消化器内視鏡ソリューション",
       "external_revenue": 697359000000,
       "operating_income": 136359000000,
       "equity_method_income": -4437000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "SurgicalAndInterventionalSolutions",
-      "label": null,
+      "label": "サージカルインターベンション",
       "external_revenue": 313109000000,
       "operating_income": -14986000000,
       "equity_method_income": 737000000,

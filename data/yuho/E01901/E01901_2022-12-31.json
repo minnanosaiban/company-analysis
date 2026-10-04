@@ -53,31 +53,31 @@
   "segments": [
     {
       "key": "Automotive",
-      "label": null,
+      "label": "自動車",
       "external_revenue": 67524000000,
       "operating_income": -667000000
     },
     {
       "key": "MedicalDiagnostic",
-      "label": null,
+      "label": "医用",
       "external_revenue": 29753000000,
       "operating_income": -99000000
     },
     {
       "key": "ProcessAndEnvironmental",
-      "label": null,
+      "label": "環境・プロセス",
       "external_revenue": 22541000000,
       "operating_income": 2101000000
     },
     {
       "key": "Scientific",
-      "label": null,
+      "label": "科学",
       "external_revenue": 36239000000,
       "operating_income": 2503000000
     },
     {
       "key": "Semiconductor",
-      "label": null,
+      "label": "半導体",
       "external_revenue": 114075000000,
       "operating_income": 42005000000
     }

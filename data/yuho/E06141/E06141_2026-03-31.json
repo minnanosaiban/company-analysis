@@ -41,14 +41,14 @@
   "segments": [
     {
       "key": "DomesticInsuranceBusiness",
-      "label": null,
+      "label": "国内保険事業",
       "external_revenue": 8155625000000,
       "intersegment_revenue": 514005000000,
       "ordinary_income": 676269000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 79050000000,
       "intersegment_revenue": 392427000000,
       "ordinary_income": 340204000000,
@@ -56,7 +56,7 @@
     },
     {
       "key": "OverseasInsuranceBusiness",
-      "label": null,
+      "label": "海外保険事業",
       "external_revenue": 3523786000000,
       "intersegment_revenue": 35578000000,
       "ordinary_income": 112629000000,

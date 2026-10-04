@@ -51,7 +51,7 @@
     },
     {
       "key": "MarketsSubGroup",
-      "label": null,
+      "label": "市場営業",
       "ordinary_income": 968000000
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "key": "OtherGlobalMarketsGroup",
-      "label": null,
+      "label": "その他金融市場",
       "ordinary_income": -336000000
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "key": "Treasury",
-      "label": null,
+      "label": "トレジャリー",
       "ordinary_income": -12737000000
     }
   ],

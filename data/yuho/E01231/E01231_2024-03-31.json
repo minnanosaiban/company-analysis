@@ -51,7 +51,7 @@
   "segments": [
     {
       "key": "AdvancedMaterials",
-      "label": null,
+      "label": "素形材",
       "external_revenue": 283315000000,
       "intersegment_revenue": 14789000000,
       "ordinary_income": 3231000000,
@@ -59,7 +59,7 @@
     },
     {
       "key": "ConstructionMachinery",
-      "label": null,
+      "label": "建設機械",
       "external_revenue": 403952000000,
       "intersegment_revenue": 104000000,
       "ordinary_income": 9161000000,
@@ -67,13 +67,13 @@
     },
     {
       "key": "ElectricPower",
-      "label": null,
+      "label": "電力",
       "external_revenue": 315950000000,
       "ordinary_income": 85760000000
     },
     {
       "key": "Engineering",
-      "label": null,
+      "label": "エンジニアリング",
       "external_revenue": 168732000000,
       "intersegment_revenue": 1911000000,
       "ordinary_income": 12433000000,
@@ -81,7 +81,7 @@
     },
     {
       "key": "Machinery",
-      "label": null,
+      "label": "機械",
       "external_revenue": 222694000000,
       "intersegment_revenue": 11821000000,
       "ordinary_income": 29629000000,
@@ -89,7 +89,7 @@
     },
     {
       "key": "SteelAndAluminum",
-      "label": null,
+      "label": "鉄鋼アルミ",
       "external_revenue": 1045675000000,
       "intersegment_revenue": 37047000000,
       "ordinary_income": 16151000000,
@@ -97,7 +97,7 @@
     },
     {
       "key": "Welding",
-      "label": null,
+      "label": "溶接",
       "external_revenue": 92691000000,
       "intersegment_revenue": 838000000,
       "ordinary_income": 4906000000,

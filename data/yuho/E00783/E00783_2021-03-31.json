@@ -50,7 +50,7 @@
   "segments": [
     {
       "key": "GasBusinessInAsiaAndOceania",
-      "label": null,
+      "label": "アジア・オセアニアガス事業",
       "external_revenue": 102036000000,
       "intersegment_revenue": 2179000000,
       "revenue": 104215000000,
@@ -58,7 +58,7 @@
     },
     {
       "key": "GasBusinessInEurope",
-      "label": null,
+      "label": "欧州ガス事業",
       "external_revenue": 160035000000,
       "intersegment_revenue": 42000000,
       "revenue": 160077000000,
@@ -66,7 +66,7 @@
     },
     {
       "key": "GasBusinessInJapan",
-      "label": null,
+      "label": "国内ガス事業",
       "external_revenue": 341990000000,
       "intersegment_revenue": 13675000000,
       "revenue": 355665000000,
@@ -74,7 +74,7 @@
     },
     {
       "key": "GasBusinessInTheUnitedStates",
-      "label": null,
+      "label": "米国ガス事業",
       "external_revenue": 189994000000,
       "intersegment_revenue": 18182000000,
       "revenue": 208177000000,
@@ -82,7 +82,7 @@
     },
     {
       "key": "ThermosBusiness",
-      "label": null,
+      "label": "サーモス",
       "external_revenue": 23964000000,
       "intersegment_revenue": 25000000,
       "revenue": 23989000000,

@@ -55,28 +55,28 @@
   "segments": [
     {
       "key": "EmulsifiedAndFermentedIngredients",
-      "label": null,
+      "label": "乳化・発酵素材",
       "external_revenue": 91164000000,
       "intersegment_revenue": 6670000000,
       "operating_income": 1490000000
     },
     {
       "key": "IndustrialChocolate",
-      "label": null,
+      "label": "業務用チョコレート",
       "external_revenue": 228513000000,
       "intersegment_revenue": 2755000000,
       "operating_income": 4973000000
     },
     {
       "key": "SoyBasedIngredients",
-      "label": null,
+      "label": "大豆加工素材",
       "external_revenue": 34284000000,
       "intersegment_revenue": 132000000,
       "operating_income": 1277000000
     },
     {
       "key": "VegetableOilsAndFats",
-      "label": null,
+      "label": "植物性油脂",
       "external_revenue": 203448000000,
       "intersegment_revenue": 24563000000,
       "operating_income": 7021000000

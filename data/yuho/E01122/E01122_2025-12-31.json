@@ -48,21 +48,21 @@
   "segments": [
     {
       "key": "Automotive",
-      "label": null,
+      "label": "オートモーティブ",
       "external_revenue": 520324000000,
       "intersegment_revenue": 255000000,
       "operating_income": 29252000000
     },
     {
       "key": "Glass",
-      "label": null,
+      "label": "建築ガラス",
       "external_revenue": 438811000000,
       "intersegment_revenue": 2329000000,
       "operating_income": 17263000000
     },
     {
       "key": "Lifescience",
-      "label": null,
+      "label": "ライフサイエンス",
       "external_revenue": 129420000000,
       "intersegment_revenue": 3661000000,
       "operating_income": -22261000000

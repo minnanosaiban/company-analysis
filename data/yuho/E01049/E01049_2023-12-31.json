@@ -53,13 +53,13 @@
   "segments": [
     {
       "key": "CosmetariesBusiness",
-      "label": null,
+      "label": "コスメタリー事業",
       "external_revenue": 57656000000,
       "operating_income": 2941000000
     },
     {
       "key": "CosmeticsBusiness",
-      "label": null,
+      "label": "化粧品事業",
       "external_revenue": 240450000000,
       "operating_income": 17868000000
     }

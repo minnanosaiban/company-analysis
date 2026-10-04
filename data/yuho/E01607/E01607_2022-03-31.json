@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "ElectronicDevicesAndComponents",
-      "label": null,
+      "label": "電子機器",
       "external_revenue": 371023000000,
       "intersegment_revenue": 7771000000,
       "operating_income": 21561000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "MITSUMIBusiness",
-      "label": null,
+      "label": "ミツミ事業",
       "external_revenue": 429116000000,
       "intersegment_revenue": 25027000000,
       "operating_income": 41846000000,
@@ -69,7 +69,7 @@
     },
     {
       "key": "MachinedComponents",
-      "label": null,
+      "label": "機械加工品",
       "external_revenue": 177470000000,
       "intersegment_revenue": 6881000000,
       "operating_income": 45717000000,
@@ -77,7 +77,7 @@
     },
     {
       "key": "UShinBusiness",
-      "label": null,
+      "label": "ユーシン事業",
       "external_revenue": 145577000000,
       "intersegment_revenue": 220000000,
       "operating_income": 732000000,

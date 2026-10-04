@@ -53,35 +53,35 @@
   "segments": [
     {
       "key": "AsiaPacific",
-      "label": null,
+      "label": "AsiaPacific",
       "external_revenue": 290136000000,
       "intersegment_revenue": 1000000,
       "operating_income": 1042000000
     },
     {
       "key": "Career",
-      "label": null,
+      "label": "Career",
       "external_revenue": 73806000000,
       "intersegment_revenue": 1473000000,
       "operating_income": 7264000000
     },
     {
       "key": "ProfessionalOutsourcing",
-      "label": null,
+      "label": "Professional Outsourcing",
       "external_revenue": 107959000000,
       "intersegment_revenue": 13150000000,
       "operating_income": 6934000000
     },
     {
       "key": "Solution",
-      "label": null,
+      "label": "Solution",
       "external_revenue": 10501000000,
       "intersegment_revenue": 668000000,
       "operating_income": -3058000000
     },
     {
       "key": "Staffing",
-      "label": null,
+      "label": "Staffing",
       "external_revenue": 572314000000,
       "intersegment_revenue": 3428000000,
       "operating_income": 39359000000

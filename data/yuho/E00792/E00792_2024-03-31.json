@@ -54,7 +54,7 @@
   "segments": [
     {
       "key": "AgricultureAndFoods",
-      "label": null,
+      "label": "アグリ＆フーズ",
       "external_revenue": 162610000000,
       "intersegment_revenue": 775000000,
       "revenue": 163385000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "DigitalAndIndustry",
-      "label": null,
+      "label": "デジタル＆インダストリー",
       "external_revenue": 339410000000,
       "intersegment_revenue": 10808000000,
       "revenue": 350218000000,
@@ -74,7 +74,7 @@
     },
     {
       "key": "EnergySolutions",
-      "label": null,
+      "label": "エネルギーソリューション",
       "external_revenue": 66588000000,
       "intersegment_revenue": 4515000000,
       "revenue": 71103000000,
@@ -83,7 +83,7 @@
     },
     {
       "key": "HealthAndSafety",
-      "label": null,
+      "label": "ヘルス＆セーフティー",
       "external_revenue": 230865000000,
       "intersegment_revenue": 709000000,
       "revenue": 231574000000,
@@ -93,7 +93,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 225067000000,
       "intersegment_revenue": 34696000000,
       "revenue": 259763000000,

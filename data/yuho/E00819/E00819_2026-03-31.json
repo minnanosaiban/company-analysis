@@ -48,7 +48,7 @@
   "segments": [
     {
       "key": "HighPerformancePlastics",
-      "label": null,
+      "label": "高機能プラスチック",
       "external_revenue": 105490000000,
       "intersegment_revenue": 219000000,
       "revenue": 105710000000,
@@ -56,7 +56,7 @@
     },
     {
       "key": "QualityOfLifeProducts",
-      "label": null,
+      "label": "クオリティオブライフ関連製品",
       "external_revenue": 107189000000,
       "intersegment_revenue": 1000000,
       "revenue": 107191000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "SemiconductorMaterials",
-      "label": null,
+      "label": "半導体関連材料",
       "external_revenue": 106396000000,
       "intersegment_revenue": 1000000,
       "revenue": 106397000000,

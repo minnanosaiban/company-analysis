@@ -50,7 +50,7 @@
   "segments": [
     {
       "key": "Consumer",
-      "label": null,
+      "label": "コンシューマ",
       "external_revenue": 2872423000000,
       "intersegment_revenue": 10660000000,
       "revenue": 2883083000000,
@@ -58,7 +58,7 @@
     },
     {
       "key": "Distribution",
-      "label": null,
+      "label": "ディストリビューション",
       "external_revenue": 516636000000,
       "intersegment_revenue": 73401000000,
       "revenue": 590037000000,
@@ -66,7 +66,7 @@
     },
     {
       "key": "Enterprise",
-      "label": null,
+      "label": "エンタープライズ",
       "external_revenue": 732644000000,
       "intersegment_revenue": 17680000000,
       "revenue": 750324000000,
@@ -74,7 +74,7 @@
     },
     {
       "key": "FinancialBusiness",
-      "label": null,
+      "label": "ファイナンス",
       "external_revenue": 125816000000,
       "intersegment_revenue": 16503000000,
       "revenue": 142319000000,
@@ -82,7 +82,7 @@
     },
     {
       "key": "YahooJAPANLINE",
-      "label": null,
+      "label": "ヤフー LINE",
       "external_revenue": 1532998000000,
       "intersegment_revenue": 28689000000,
       "revenue": 1561687000000,

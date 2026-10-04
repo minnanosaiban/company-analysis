@@ -52,14 +52,14 @@
   "segments": [
     {
       "key": "Device",
-      "label": null,
+      "label": "デバイス事業",
       "external_revenue": 11892000000,
       "intersegment_revenue": 14257000000,
       "operating_income": 4733000000
     },
     {
       "key": "Medical",
-      "label": null,
+      "label": "メディカル事業",
       "external_revenue": 95654000000,
       "operating_income": 22664000000
     }

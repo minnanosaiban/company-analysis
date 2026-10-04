@@ -55,28 +55,28 @@
   "segments": [
     {
       "key": "HealthCareSolutionsUnit",
-      "label": null,
+      "label": "Health Care Solutions Unit",
       "external_revenue": 77284000000,
       "intersegment_revenue": 66000000,
       "operating_income": 13399000000
     },
     {
       "key": "MaterialSolutionsUnit",
-      "label": null,
+      "label": "Material Solutions Unit",
       "external_revenue": 342906000000,
       "intersegment_revenue": 218000000,
       "operating_income": 30961000000
     },
     {
       "key": "NutritionSolutionsUnit",
-      "label": null,
+      "label": "Nutrition Solutions Unit",
       "external_revenue": 194972000000,
       "intersegment_revenue": 50000000,
       "operating_income": 13072000000
     },
     {
       "key": "QualityOfLifeSolutionsUnit",
-      "label": null,
+      "label": "Quality of Life Solutions Unit",
       "external_revenue": 190984000000,
       "intersegment_revenue": 72000000,
       "operating_income": 20027000000

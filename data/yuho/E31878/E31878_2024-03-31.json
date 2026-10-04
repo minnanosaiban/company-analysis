@@ -49,13 +49,13 @@
   "segments": [
     {
       "key": "CloudService",
-      "label": null,
+      "label": "クラウド事業",
       "external_revenue": 32466000000,
       "operating_income": 4979000000
     },
     {
       "key": "HumanResource",
-      "label": null,
+      "label": "IT人材事業",
       "external_revenue": 5942000000,
       "intersegment_revenue": 10000000,
       "operating_income": 580000000

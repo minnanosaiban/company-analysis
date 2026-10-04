@@ -56,28 +56,28 @@
   "segments": [
     {
       "key": "FlexiblePackagingRelatedBusiness",
-      "label": null,
+      "label": "軟包装関連事業",
       "external_revenue": 115512000000,
       "intersegment_revenue": 670000000,
       "operating_income": 2987000000
     },
     {
       "key": "HeavyDutyPackagingRelatedBusiness",
-      "label": null,
+      "label": "重包装関連事業",
       "external_revenue": 45059000000,
       "intersegment_revenue": 2878000000,
       "operating_income": 1124000000
     },
     {
       "key": "OverseasBusiness",
-      "label": null,
+      "label": "海外関連事業",
       "external_revenue": 166312000000,
       "intersegment_revenue": 6664000000,
       "operating_income": 6009000000
     },
     {
       "key": "PaperboardAndPackagingRelatedBusiness",
-      "label": null,
+      "label": "板紙・紙加工関連事業",
       "external_revenue": 483851000000,
       "intersegment_revenue": 2255000000,
       "operating_income": 14314000000

@@ -32,7 +32,7 @@
   "segments": [
     {
       "key": "Infrastructure",
-      "label": null,
+      "label": "インフラ",
       "gross_profit": 71491000000,
       "equity_method_income": 10042000000,
       "profit_attributable_to_owners": 33283000000,
@@ -40,7 +40,7 @@
     },
     {
       "key": "LivingRelatedAndRealEstate",
-      "label": null,
+      "label": "生活・不動産",
       "gross_profit": 222652000000,
       "equity_method_income": 7903000000,
       "profit_attributable_to_owners": 44192000000,
@@ -56,7 +56,7 @@
     },
     {
       "key": "MetalProducts",
-      "label": null,
+      "label": "金属",
       "gross_profit": 140275000000,
       "equity_method_income": 8179000000,
       "profit_attributable_to_owners": 55197000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "MineralResourcesEnergyChemicalAndElectronics",
-      "label": null,
+      "label": "資源・化学品",
       "gross_profit": 271196000000,
       "equity_method_income": 107534000000,
       "profit_attributable_to_owners": 247318000000,

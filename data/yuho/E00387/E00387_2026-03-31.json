@@ -49,28 +49,28 @@
   "segments": [
     {
       "key": "KCC",
-      "label": null,
+      "label": "ケイシイシイ",
       "external_revenue": 22828000000,
       "intersegment_revenue": 356000000,
       "operating_income": 4833000000
     },
     {
       "key": "KotobukiseikaGroup",
-      "label": null,
+      "label": "寿製菓グループ",
       "external_revenue": 11461000000,
       "intersegment_revenue": 4837000000,
       "operating_income": 3823000000
     },
     {
       "key": "SalesSubsidiary",
-      "label": null,
+      "label": "販売子会社",
       "external_revenue": 7697000000,
       "intersegment_revenue": 106000000,
       "operating_income": 1089000000
     },
     {
       "key": "SucreyGroup",
-      "label": null,
+      "label": "シュクレイグループ",
       "external_revenue": 36120000000,
       "intersegment_revenue": 934000000,
       "operating_income": 7087000000

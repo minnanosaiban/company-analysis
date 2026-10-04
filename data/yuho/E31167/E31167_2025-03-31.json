@@ -52,13 +52,13 @@
   "segments": [
     {
       "key": "IntegratedCircuitElectronicDeviceAndOther",
-      "label": null,
+      "label": "集積回路及び電子デバイスその他事業",
       "external_revenue": 880242000000,
       "operating_income": 26328000000
     },
     {
       "key": "Network",
-      "label": null,
+      "label": "ネットワーク事業",
       "external_revenue": 153938000000,
       "intersegment_revenue": 5000000,
       "operating_income": 13320000000,

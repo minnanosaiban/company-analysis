@@ -57,7 +57,7 @@
   "segments": [
     {
       "key": "ConstructionAndRealEstateDivision",
-      "label": null,
+      "label": "建築・不動産事業",
       "external_revenue": 1238859000000,
       "intersegment_revenue": 1138000000,
       "ordinary_income": 147451000000,
@@ -65,7 +65,7 @@
     },
     {
       "key": "EnvironmentAndResourcesDivision",
-      "label": null,
+      "label": "資源環境事業",
       "external_revenue": 25619000000,
       "intersegment_revenue": 1331000000,
       "ordinary_income": 236000000,
@@ -73,14 +73,14 @@
     },
     {
       "key": "HousingBusiness",
-      "label": null,
+      "label": "住宅事業",
       "external_revenue": 541803000000,
       "intersegment_revenue": 497000000,
       "ordinary_income": 35173000000
     },
     {
       "key": "TimberAndBuildingMaterialsBusiness",
-      "label": null,
+      "label": "木材建材事業",
       "external_revenue": 231519000000,
       "intersegment_revenue": 21637000000,
       "ordinary_income": 10001000000,

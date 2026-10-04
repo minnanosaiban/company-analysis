@@ -52,14 +52,14 @@
   "segments": [
     {
       "key": "IndustrialMachineryProducts",
-      "label": null,
+      "label": "産業機械事業",
       "external_revenue": 171160000000,
       "intersegment_revenue": 1145000000,
       "operating_income": 17796000000
     },
     {
       "key": "RealEstateAndOtherBusinesses",
-      "label": null,
+      "label": "その他事業",
       "external_revenue": 2578000000,
       "intersegment_revenue": 1687000000,
       "operating_income": -26000000

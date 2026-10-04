@@ -55,13 +55,13 @@
   "segments": [
     {
       "key": "MeasurementEquipment",
-      "label": null,
+      "label": "計測機器",
       "external_revenue": 34436000000,
       "operating_income": 4628000000
     },
     {
       "key": "SemiconductorManufacturingDevice",
-      "label": null,
+      "label": "半導体製造装置",
       "external_revenue": 112365000000,
       "operating_income": 29866000000
     }

@@ -42,27 +42,27 @@
   "segments": [
     {
       "key": "CustomerRelationGroup",
-      "label": null,
+      "label": "カスタマーリレーショングループ",
       "ordinary_income": 553000000
     },
     {
       "key": "InstitutionalBankingGroup",
-      "label": null,
+      "label": "法人営業グループ",
       "ordinary_income": 5891000000
     },
     {
       "key": "InternationalBusinessGroup",
-      "label": null,
+      "label": "インターナショナルビジネスグループ",
       "ordinary_income": 10694000000
     },
     {
       "key": "MarketGroup",
-      "label": null,
+      "label": "マーケットグループ",
       "ordinary_income": 21108000000
     },
     {
       "key": "StructuredFinanceGroup",
-      "label": null,
+      "label": "ストラクチャードファイナンスグループ",
       "ordinary_income": 20264000000
     }
   ],

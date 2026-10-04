@@ -54,21 +54,21 @@
   "segments": [
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 145141000000,
       "intersegment_revenue": 23657000000,
       "operating_income": 14094000000
     },
     {
       "key": "NorthAmerica",
-      "label": null,
+      "label": "北米",
       "external_revenue": 53623000000,
       "intersegment_revenue": 3499000000,
       "operating_income": 2858000000
     },
     {
       "key": "RestOfWorld",
-      "label": null,
+      "label": "その他の地域",
       "external_revenue": 36334000000,
       "intersegment_revenue": 913000000,
       "operating_income": 2250000000

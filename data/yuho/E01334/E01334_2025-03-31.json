@@ -51,33 +51,33 @@
   "segments": [
     {
       "key": "AutomotiveProducts",
-      "label": null,
+      "label": "自動車事業部門",
       "external_revenue": 177055000000,
       "operating_income": 5821000000
     },
     {
       "key": "ElectronicsBusiness",
-      "label": null,
+      "label": "エレクトロニクス事業部門",
       "external_revenue": 185899000000,
       "intersegment_revenue": 552000000,
       "operating_income": 22902000000
     },
     {
       "key": "PowerSystems",
-      "label": null,
+      "label": "エネルギー事業部門",
       "external_revenue": 145201000000,
       "intersegment_revenue": 1232000000,
       "operating_income": 11943000000
     },
     {
       "key": "RealEstateBusinessUnit",
-      "label": null,
+      "label": "不動産事業部門",
       "external_revenue": 10823000000,
       "operating_income": 4855000000
     },
     {
       "key": "TelecommunicationSystems",
-      "label": null,
+      "label": "情報通信事業部門",
       "external_revenue": 451262000000,
       "intersegment_revenue": 153000000,
       "operating_income": 92167000000

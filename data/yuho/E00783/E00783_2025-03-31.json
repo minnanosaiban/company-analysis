@@ -50,7 +50,7 @@
   "segments": [
     {
       "key": "AsiaAndOceania",
-      "label": null,
+      "label": "アジア・オセアニア",
       "external_revenue": 176538000000,
       "intersegment_revenue": 3231000000,
       "revenue": 179770000000,
@@ -58,7 +58,7 @@
     },
     {
       "key": "Europe",
-      "label": null,
+      "label": "欧州",
       "external_revenue": 328601000000,
       "intersegment_revenue": 354000000,
       "revenue": 328955000000,
@@ -66,7 +66,7 @@
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 410009000000,
       "intersegment_revenue": 16887000000,
       "revenue": 426897000000,
@@ -74,7 +74,7 @@
     },
     {
       "key": "TheUnitedStates",
-      "label": null,
+      "label": "米国",
       "external_revenue": 360200000000,
       "intersegment_revenue": 25396000000,
       "revenue": 385597000000,
@@ -82,7 +82,7 @@
     },
     {
       "key": "Thermos",
-      "label": null,
+      "label": "サーモス",
       "external_revenue": 32593000000,
       "intersegment_revenue": 15000000,
       "revenue": 32608000000,

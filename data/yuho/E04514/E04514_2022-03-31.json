@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "GasSales",
-      "label": null,
+      "label": "ガス",
       "external_revenue": 1288618000000,
       "intersegment_revenue": 165048000000,
       "operating_income": 112309000000
@@ -67,21 +67,21 @@
     },
     {
       "key": "OtherEnergyBusiness",
-      "label": null,
+      "label": "エネルギー関連",
       "external_revenue": 278211000000,
       "intersegment_revenue": 53101000000,
       "operating_income": 12818000000
     },
     {
       "key": "Power",
-      "label": null,
+      "label": "電力",
       "external_revenue": 465066000000,
       "intersegment_revenue": 2738000000,
       "operating_income": 11117000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産",
       "external_revenue": 32194000000,
       "intersegment_revenue": 25767000000,
       "operating_income": 12532000000

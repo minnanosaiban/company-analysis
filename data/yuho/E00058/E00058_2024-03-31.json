@@ -52,34 +52,34 @@
   "segments": [
     {
       "key": "Construction",
-      "label": null,
+      "label": "建築事業",
       "external_revenue": 1102932000000,
       "intersegment_revenue": 1300000000,
       "operating_income": 53311000000
     },
     {
       "key": "Development",
-      "label": null,
+      "label": "開発事業等",
       "external_revenue": 81997000000,
       "intersegment_revenue": 3385000000,
       "operating_income": 18431000000
     },
     {
       "key": "DomesticAssociateCompanies",
-      "label": null,
+      "label": "国内関係会社",
       "external_revenue": 257540000000,
       "intersegment_revenue": 109883000000,
       "operating_income": 24174000000
     },
     {
       "key": "Engineering",
-      "label": null,
+      "label": "土木事業",
       "external_revenue": 363333000000,
       "operating_income": 23268000000
     },
     {
       "key": "OverseasAssociateCompanies",
-      "label": null,
+      "label": "海外関係会社",
       "external_revenue": 859371000000,
       "intersegment_revenue": 285000000,
       "operating_income": 16920000000

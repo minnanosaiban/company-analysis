@@ -51,28 +51,28 @@
   "segments": [
     {
       "key": "HotelAndResort",
-      "label": null,
+      "label": "ホテル・リゾート事業",
       "external_revenue": 82804000000,
       "intersegment_revenue": 7029000000,
       "operating_income": 754000000
     },
     {
       "key": "LifeService",
-      "label": null,
+      "label": "生活サービス事業",
       "external_revenue": 502155000000,
       "intersegment_revenue": 16655000000,
       "operating_income": 13111000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産事業",
       "external_revenue": 243156000000,
       "intersegment_revenue": 43428000000,
       "operating_income": 48703000000
     },
     {
       "key": "Transportation",
-      "label": null,
+      "label": "交通事業",
       "external_revenue": 209703000000,
       "intersegment_revenue": 3970000000,
       "operating_income": 32070000000

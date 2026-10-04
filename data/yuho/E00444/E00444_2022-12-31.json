@@ -51,7 +51,7 @@
   "segments": [
     {
       "key": "DomesticFarmingBusiness",
-      "label": null,
+      "label": "国内農事業",
       "external_revenue": 9570000000,
       "intersegment_revenue": 11000000,
       "revenue": 9582000000,
@@ -86,7 +86,7 @@
     },
     {
       "key": "ReconcilingItemsDomestic",
-      "label": null,
+      "label": "調整額",
       "intersegment_revenue": -11984000000,
       "revenue": -11984000000
     }

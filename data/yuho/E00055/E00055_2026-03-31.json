@@ -52,34 +52,34 @@
   "segments": [
     {
       "key": "DomesticBuildingConstruction",
-      "label": null,
+      "label": "国内建築",
       "external_revenue": 1138762000000,
       "intersegment_revenue": 26794000000,
       "operating_income": 103615000000
     },
     {
       "key": "DomesticCivilEngineering",
-      "label": null,
+      "label": "国内土木",
       "external_revenue": 426623000000,
       "intersegment_revenue": 16399000000,
       "operating_income": 40649000000
     },
     {
       "key": "OverseasBuildingConstruction",
-      "label": null,
+      "label": "海外建築",
       "external_revenue": 507992000000,
       "intersegment_revenue": 1520000000,
       "operating_income": 11415000000
     },
     {
       "key": "OverseasCivilEngineering",
-      "label": null,
+      "label": "海外土木",
       "external_revenue": 336000000000,
       "operating_income": 15238000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産",
       "external_revenue": 106798000000,
       "intersegment_revenue": 839000000,
       "operating_income": 19924000000

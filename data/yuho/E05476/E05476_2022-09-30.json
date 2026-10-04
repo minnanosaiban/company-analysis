@@ -50,14 +50,14 @@
   "segments": [
     {
       "key": "MoneyServiceBusiness",
-      "label": null,
+      "label": "金融関連事業",
       "external_revenue": 11402183000,
       "revenue": 11402183000,
       "operating_income": 2466696000
     },
     {
       "key": "PaymentEnhancementBusiness",
-      "label": null,
+      "label": "決済活性化事業",
       "external_revenue": 941650000,
       "intersegment_revenue": 1053000,
       "revenue": 942703000,
@@ -65,7 +65,7 @@
     },
     {
       "key": "PaymentProcessingBusiness",
-      "label": null,
+      "label": "決済代行事業",
       "external_revenue": 37954521000,
       "intersegment_revenue": 23555000,
       "revenue": 37978077000,

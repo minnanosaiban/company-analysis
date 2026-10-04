@@ -55,42 +55,42 @@
   "segments": [
     {
       "key": "Entertainment",
-      "label": null,
+      "label": "エンタテインメント",
       "external_revenue": 70766000000,
       "intersegment_revenue": 1522000000,
       "operating_income": 12622000000
     },
     {
       "key": "InformationAndCommunicationTechnology",
-      "label": null,
+      "label": "情報・通信",
       "external_revenue": 49092000000,
       "intersegment_revenue": 11262000000,
       "operating_income": 5917000000
     },
     {
       "key": "InternationalTransportation",
-      "label": null,
+      "label": "国際輸送",
       "external_revenue": 163204000000,
       "intersegment_revenue": 65000000,
       "operating_income": 8381000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産",
       "external_revenue": 272947000000,
       "intersegment_revenue": 9102000000,
       "operating_income": 27851000000
     },
     {
       "key": "Travel",
-      "label": null,
+      "label": "旅行",
       "external_revenue": 191023000000,
       "intersegment_revenue": 376000000,
       "operating_income": 15257000000
     },
     {
       "key": "UrbanTransportation",
-      "label": null,
+      "label": "都市交通",
       "external_revenue": 180663000000,
       "intersegment_revenue": 4918000000,
       "operating_income": 22435000000

@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "TakaraBioGroup",
-      "label": null,
+      "label": "タカラバイオグループ",
       "external_revenue": 78139000000,
       "intersegment_revenue": 2000000,
       "operating_income": 20541000000
     },
     {
       "key": "TakaraShuzo",
-      "label": null,
+      "label": "宝酒造",
       "external_revenue": 122116000000,
       "intersegment_revenue": 805000000,
       "operating_income": 4890000000
     },
     {
       "key": "TakaraShuzoInternationalGroup",
-      "label": null,
+      "label": "宝酒造インターナショナルグループ",
       "external_revenue": 137256000000,
       "intersegment_revenue": 226000000,
       "operating_income": 10821000000

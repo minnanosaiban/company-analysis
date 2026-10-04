@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "ATMOperationBusiness",
-      "label": null,
+      "label": "ATM運営事業",
       "external_revenue": 2842000000,
       "revenue": 2842000000,
       "operating_income": 919000000,
@@ -60,7 +60,7 @@
     },
     {
       "key": "NetworkServicesAndSIBusiness",
-      "label": null,
+      "label": "ネットワークサービス及びSI事業",
       "external_revenue": 249866000000,
       "intersegment_revenue": 104000000,
       "revenue": 249970000000,

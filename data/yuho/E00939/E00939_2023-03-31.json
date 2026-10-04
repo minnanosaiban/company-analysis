@@ -50,37 +50,37 @@
   "segments": [
     {
       "key": "Americas",
-      "label": null,
+      "label": "アメリカス",
       "external_revenue": 212742000000,
       "operating_income": 133420000000
     },
     {
       "key": "AsiaAndLatinAmerica",
-      "label": null,
+      "label": "アジア・ラテンアメリカ",
       "external_revenue": 49839000000,
       "operating_income": 22119000000
     },
     {
       "key": "China",
-      "label": null,
+      "label": "中国",
       "external_revenue": 110768000000,
       "operating_income": 55623000000
     },
     {
       "key": "EMEA",
-      "label": null,
+      "label": "EMEA",
       "external_revenue": 72159000000,
       "operating_income": 41553000000
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 215422000000,
       "operating_income": 67775000000
     },
     {
       "key": "OTCAndOthers",
-      "label": null,
+      "label": "一般用医薬品等",
       "external_revenue": 23505000000,
       "operating_income": 5106000000
     }

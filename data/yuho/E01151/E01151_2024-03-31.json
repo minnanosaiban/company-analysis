@@ -53,31 +53,31 @@
   "segments": [
     {
       "key": "AdvancedProducts",
-      "label": null,
+      "label": "高機能製品",
       "external_revenue": 42830000000,
       "operating_income": 9635000000
     },
     {
       "key": "AutomotiveParts",
-      "label": null,
+      "label": "自動車部品",
       "external_revenue": 50133000000,
       "operating_income": 3770000000
     },
     {
       "key": "BuildingMaterialsAndContracts",
-      "label": null,
+      "label": "建材",
       "external_revenue": 31699000000,
       "operating_income": 733000000
     },
     {
       "key": "EnergyAndIndustrialPlants",
-      "label": null,
+      "label": "プラント向け工事・販売",
       "external_revenue": 73518000000,
       "operating_income": 10580000000
     },
     {
       "key": "IndustrialProducts",
-      "label": null,
+      "label": "工業製品",
       "external_revenue": 51209000000,
       "intersegment_revenue": 10256000000,
       "operating_income": 10489000000

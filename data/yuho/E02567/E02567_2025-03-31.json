@@ -55,21 +55,21 @@
   "segments": [
     {
       "key": "Energy",
-      "label": null,
+      "label": "総合エネルギー事業",
       "external_revenue": 378782000000,
       "intersegment_revenue": 4934000000,
       "operating_income": 19526000000
     },
     {
       "key": "IndustrialGasesAndMachinery",
-      "label": null,
+      "label": "産業ガス・機械事業",
       "external_revenue": 271449000000,
       "intersegment_revenue": 3213000000,
       "operating_income": 17572000000
     },
     {
       "key": "Materials",
-      "label": null,
+      "label": "マテリアル事業",
       "external_revenue": 201685000000,
       "intersegment_revenue": 2081000000,
       "operating_income": 11748000000

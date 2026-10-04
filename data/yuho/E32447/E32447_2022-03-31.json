@@ -40,7 +40,7 @@
   "segments": [
     {
       "key": "Banking",
-      "label": null,
+      "label": "銀行業",
       "external_revenue": 125391000000,
       "intersegment_revenue": 1534000000,
       "ordinary_income": 32367000000

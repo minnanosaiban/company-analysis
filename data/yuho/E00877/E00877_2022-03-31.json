@@ -55,21 +55,21 @@
   "segments": [
     {
       "key": "HealthCare",
-      "label": null,
+      "label": "ヘルスケア",
       "external_revenue": 415883000000,
       "intersegment_revenue": 20000000,
       "operating_income": 52159000000
     },
     {
       "key": "Homes",
-      "label": null,
+      "label": "住宅",
       "external_revenue": 822449000000,
       "intersegment_revenue": 6677000000,
       "operating_income": 72918000000
     },
     {
       "key": "Material",
-      "label": null,
+      "label": "マテリアル",
       "external_revenue": 1210013000000,
       "intersegment_revenue": 7639000000,
       "operating_income": 105969000000

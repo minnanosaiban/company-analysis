@@ -51,25 +51,25 @@
   "segments": [
     {
       "key": "BloodAndCellTechnologiesCompany",
-      "label": null,
+      "label": "血液・細胞テクノロジーカンパニー",
       "external_revenue": 231037000000,
       "operating_income": 33635000000
     },
     {
       "key": "CardiacAndVascularCompany",
-      "label": null,
+      "label": "心臓血管カンパニー",
       "external_revenue": 676421000000,
       "operating_income": 163994000000
     },
     {
       "key": "MedicalCareSolutionsCompany",
-      "label": null,
+      "label": "メディカルケアソリューションズカンパニー",
       "external_revenue": 216138000000,
       "operating_income": 21568000000
     },
     {
       "key": "TerumoOrganTechnologies",
-      "label": null,
+      "label": "オーガンテクノロジーズ事業",
       "external_revenue": 7985000000,
       "operating_income": 1665000000
     }

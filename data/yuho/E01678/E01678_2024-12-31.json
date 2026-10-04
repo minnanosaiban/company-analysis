@@ -51,7 +51,7 @@
   "segments": [
     {
       "key": "China",
-      "label": null,
+      "label": "中国",
       "external_revenue": 62525000000,
       "intersegment_revenue": 3634000000,
       "revenue": 66160000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "Europe",
-      "label": null,
+      "label": "欧州",
       "external_revenue": 67599000000,
       "intersegment_revenue": 813000000,
       "revenue": 68413000000,
@@ -71,7 +71,7 @@
     },
     {
       "key": "Jaopan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 112905000000,
       "intersegment_revenue": 60752000000,
       "revenue": 173658000000,
@@ -82,7 +82,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 17972000000,
       "intersegment_revenue": 4643000000,
       "revenue": 22615000000,
@@ -92,7 +92,7 @@
     },
     {
       "key": "TheAmericas",
-      "label": null,
+      "label": "米州",
       "external_revenue": 91756000000,
       "intersegment_revenue": 189000000,
       "revenue": 91945000000,

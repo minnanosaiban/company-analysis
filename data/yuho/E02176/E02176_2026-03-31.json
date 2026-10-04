@@ -51,21 +51,21 @@
   "segments": [
     {
       "key": "ElectronicComponentsBusiness",
-      "label": null,
+      "label": "電子部品事業",
       "external_revenue": 345109000000,
       "intersegment_revenue": 18000000,
       "operating_income": 3967000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 25926000000,
       "intersegment_revenue": 732000000,
       "operating_income": 1137000000
     },
     {
       "key": "Seal",
-      "label": null,
+      "label": "シール事業",
       "external_revenue": 367397000000,
       "intersegment_revenue": 1918000000,
       "operating_income": 27860000000

@@ -54,28 +54,28 @@
   "segments": [
     {
       "key": "IndustrialProcesses",
-      "label": null,
+      "label": "Industrial Process事業",
       "external_revenue": 78925000000,
       "intersegment_revenue": 6000000,
       "operating_income": 9623000000
     },
     {
       "key": "LifeSciences",
-      "label": null,
+      "label": "Life Science事業",
       "external_revenue": 6108000000,
       "intersegment_revenue": 2000000,
       "operating_income": -1079000000
     },
     {
       "key": "PhotonicsSolutions",
-      "label": null,
+      "label": "Photonics Solution事業",
       "external_revenue": 10311000000,
       "intersegment_revenue": 0,
       "operating_income": -415000000
     },
     {
       "key": "VisualImaging",
-      "label": null,
+      "label": "Visual Imaging事業",
       "external_revenue": 80897000000,
       "intersegment_revenue": 9000000,
       "operating_income": 729000000

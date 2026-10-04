@@ -55,21 +55,21 @@
   "segments": [
     {
       "key": "CreditAndFinanceBusinessCustomerOrganizationManagementBusiness",
-      "label": null,
+      "label": "クレジット・金融・友の会業",
       "external_revenue": 18115000000,
       "intersegment_revenue": 12708000000,
       "operating_income": 3791000000
     },
     {
       "key": "DepartmentStoreBusiness",
-      "label": null,
+      "label": "百貨店業",
       "external_revenue": 413346000000,
       "intersegment_revenue": 2674000000,
       "operating_income": 20432000000
     },
     {
       "key": "RealEstateBusiness",
-      "label": null,
+      "label": "不動産業",
       "external_revenue": 17608000000,
       "intersegment_revenue": 2909000000,
       "operating_income": 4014000000

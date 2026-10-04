@@ -53,35 +53,35 @@
   "segments": [
     {
       "key": "BusinessSupport",
-      "label": null,
+      "label": "ビジネスサポート事業",
       "external_revenue": 10733000000,
       "intersegment_revenue": 7326000000,
       "operating_income": 1252000000
     },
     {
       "key": "Distribution",
-      "label": null,
+      "label": "物流事業",
       "external_revenue": 475833000000,
       "intersegment_revenue": 3972000000,
       "operating_income": 23748000000
     },
     {
       "key": "LifeSupport",
-      "label": null,
+      "label": "ライフサポート事業",
       "external_revenue": 38985000000,
       "intersegment_revenue": 147000000,
       "operating_income": 186000000
     },
     {
       "key": "Product",
-      "label": null,
+      "label": "プロダクト事業",
       "external_revenue": 10604000000,
       "intersegment_revenue": 6000000,
       "operating_income": -180000000
     },
     {
       "key": "TradingAndCommerce",
-      "label": null,
+      "label": "商事・貿易事業",
       "external_revenue": 159821000000,
       "intersegment_revenue": 15521000000,
       "operating_income": 2421000000

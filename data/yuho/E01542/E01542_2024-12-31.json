@@ -50,7 +50,7 @@
   "segments": [
     {
       "key": "BuildingServiceAndIndustrial",
-      "label": null,
+      "label": "建築・産業",
       "external_revenue": 238182000000,
       "intersegment_revenue": 1446000000,
       "revenue": 239628000000,
@@ -58,7 +58,7 @@
     },
     {
       "key": "Energy",
-      "label": null,
+      "label": "エネルギー",
       "external_revenue": 210434000000,
       "intersegment_revenue": 444000000,
       "revenue": 210879000000,
@@ -66,7 +66,7 @@
     },
     {
       "key": "Environmental",
-      "label": null,
+      "label": "環境",
       "external_revenue": 87438000000,
       "intersegment_revenue": 115000000,
       "revenue": 87554000000,
@@ -74,7 +74,7 @@
     },
     {
       "key": "PrecisionMachinery",
-      "label": null,
+      "label": "精密・電子事業",
       "external_revenue": 278378000000,
       "intersegment_revenue": 1000000,
       "revenue": 278379000000,
@@ -82,7 +82,7 @@
     },
     {
       "key": "WaterAndInfrastracture",
-      "label": null,
+      "label": "インフラ",
       "external_revenue": 51118000000,
       "intersegment_revenue": 272000000,
       "revenue": 51391000000,

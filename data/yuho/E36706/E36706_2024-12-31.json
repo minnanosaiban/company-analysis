@@ -55,7 +55,7 @@
   "segments": [
     {
       "key": "DistributionSupport",
-      "label": null,
+      "label": "物流サポート",
       "external_revenue": 305020000000,
       "intersegment_revenue": 115469000000,
       "revenue": 420489000000,
@@ -63,7 +63,7 @@
     },
     {
       "key": "EastAsia",
-      "label": null,
+      "label": "東アジア",
       "external_revenue": 161585000000,
       "intersegment_revenue": 12328000000,
       "revenue": 173913000000,
@@ -71,7 +71,7 @@
     },
     {
       "key": "Europe",
-      "label": null,
+      "label": "欧州",
       "external_revenue": 491505000000,
       "intersegment_revenue": 10252000000,
       "revenue": 501757000000,
@@ -79,7 +79,7 @@
     },
     {
       "key": "HeavyHaulageAndConstruction",
-      "label": null,
+      "label": "重量品建設",
       "external_revenue": 50021000000,
       "intersegment_revenue": 46000000,
       "revenue": 50068000000,
@@ -87,7 +87,7 @@
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 1228517000000,
       "intersegment_revenue": 33509000000,
       "revenue": 1262027000000,
@@ -95,7 +95,7 @@
     },
     {
       "key": "SecurityTransportation",
-      "label": null,
+      "label": "警備輸送",
       "external_revenue": 67851000000,
       "intersegment_revenue": 686000000,
       "revenue": 68538000000,
@@ -103,7 +103,7 @@
     },
     {
       "key": "SouthAsiaAndOceania",
-      "label": null,
+      "label": "南アジア・オセアニア",
       "external_revenue": 138752000000,
       "intersegment_revenue": 18902000000,
       "revenue": 157655000000,
@@ -111,7 +111,7 @@
     },
     {
       "key": "TheAmericas",
-      "label": null,
+      "label": "米州",
       "external_revenue": 134388000000,
       "intersegment_revenue": 18680000000,
       "revenue": 153068000000,

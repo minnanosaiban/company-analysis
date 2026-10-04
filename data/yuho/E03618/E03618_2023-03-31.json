@@ -42,13 +42,13 @@
   "segments": [
     {
       "key": "HokkaidoBank",
-      "label": null,
+      "label": "北海道銀行",
       "external_revenue": 75641000000,
       "intersegment_revenue": 1309000000
     },
     {
       "key": "HokurikuBank",
-      "label": null,
+      "label": "北陸銀行",
       "external_revenue": 96171000000,
       "intersegment_revenue": 1045000000
     }

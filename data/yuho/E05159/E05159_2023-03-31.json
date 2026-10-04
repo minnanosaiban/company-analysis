@@ -65,7 +65,7 @@
     },
     {
       "key": "InvestmentBusiness",
-      "label": null,
+      "label": "投資事業",
       "external_revenue": 36528000000,
       "intersegment_revenue": 156000000,
       "profit_before_tax": -16661000000,
@@ -73,7 +73,7 @@
     },
     {
       "key": "NonFinancialBusiness",
-      "label": null,
+      "label": "非金融事業",
       "external_revenue": 24248000000,
       "intersegment_revenue": 1990000000,
       "profit_before_tax": -3253000000,

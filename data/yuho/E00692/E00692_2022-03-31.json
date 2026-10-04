@@ -54,21 +54,21 @@
   "segments": [
     {
       "key": "Electronics",
-      "label": null,
+      "label": "エレクトロニクス事業分野",
       "external_revenue": 220589000000,
       "intersegment_revenue": 921000000,
       "operating_income": 30016000000
     },
     {
       "key": "InformationAndCommunication",
-      "label": null,
+      "label": "情報コミュニケーション事業分野",
       "external_revenue": 890839000000,
       "intersegment_revenue": 12665000000,
       "operating_income": 51231000000
     },
     {
       "key": "LivingAndIndustry",
-      "label": null,
+      "label": "生活・産業事業分野",
       "external_revenue": 436105000000,
       "intersegment_revenue": 8120000000,
       "operating_income": 28524000000

@@ -57,28 +57,28 @@
   "segments": [
     {
       "key": "Department",
-      "label": null,
+      "label": "百貨店事業",
       "external_revenue": 178336000000,
       "intersegment_revenue": 615000000,
       "operating_income": 21591000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 34598000000,
       "intersegment_revenue": 25541000000,
       "operating_income": -21000000
     },
     {
       "key": "ShoppingCenterBusiness",
-      "label": null,
+      "label": "商業施設事業",
       "external_revenue": 30330000000,
       "intersegment_revenue": 10496000000,
       "operating_income": 3655000000
     },
     {
       "key": "SupermarketBusiness",
-      "label": null,
+      "label": "食品事業",
       "external_revenue": 410155000000,
       "intersegment_revenue": 2654000000,
       "operating_income": 7925000000

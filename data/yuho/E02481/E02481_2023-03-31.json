@@ -50,28 +50,28 @@
   "segments": [
     {
       "key": "AmusementBusiness",
-      "label": null,
+      "label": "アミューズメント事業",
       "external_revenue": 103172000000,
       "intersegment_revenue": 1429000000,
       "operating_income": 6038000000
     },
     {
       "key": "DigitalBusiness",
-      "label": null,
+      "label": "デジタル事業",
       "external_revenue": 381146000000,
       "intersegment_revenue": 4535000000,
       "operating_income": 49339000000
     },
     {
       "key": "IPProductionBusiness",
-      "label": null,
+      "label": "ＩＰプロデュース事業",
       "external_revenue": 66300000000,
       "intersegment_revenue": 15448000000,
       "operating_income": 10645000000
     },
     {
       "key": "ToysAndHobbyBusiness",
-      "label": null,
+      "label": "トイホビー事業",
       "external_revenue": 432705000000,
       "intersegment_revenue": 14786000000,
       "operating_income": 59538000000

@@ -44,27 +44,27 @@
   "segments": [
     {
       "key": "InternationalBusiness",
-      "label": null,
+      "label": "海外保険事業",
       "equity_method_income": 9066000000,
       "profit_before_tax": 686309000000,
       "profit_attributable_to_owners": 502750000000
     },
     {
       "key": "JapanLifeBusiness",
-      "label": null,
+      "label": "国内生命保険事業",
       "profit_before_tax": -282137000000,
       "profit_attributable_to_owners": -204860000000
     },
     {
       "key": "JapanPCBusiness",
-      "label": null,
+      "label": "国内損害保険事業",
       "equity_method_income": 535000000,
       "profit_before_tax": 325173000000,
       "profit_attributable_to_owners": 237541000000
     },
     {
       "key": "SolutionAndOtherBusiness",
-      "label": null,
+      "label": "ソリューション・その他事業",
       "equity_method_income": -1291000000,
       "profit_before_tax": 20466000000,
       "profit_attributable_to_owners": 14515000000

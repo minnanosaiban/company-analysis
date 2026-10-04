@@ -55,7 +55,7 @@
   "segments": [
     {
       "key": "Food",
-      "label": null,
+      "label": "食品",
       "external_revenue": 547418000000,
       "intersegment_revenue": 242000000,
       "operating_income": 45807000000

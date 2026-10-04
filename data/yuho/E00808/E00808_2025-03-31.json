@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "BasicMaterialsAndPolymers",
-      "label": null,
+      "label": "ベーシックマテリアルズ＆ポリマーズ",
       "external_revenue": 972448000000,
       "intersegment_revenue": 34818000000,
       "revenue": 1007266000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "IndustrialGases",
-      "label": null,
+      "label": "産業ガス",
       "external_revenue": 1301105000000,
       "intersegment_revenue": 6920000000,
       "revenue": 1308025000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "MMAAndDerivatives",
-      "label": null,
+      "label": "ＭＭＡ＆デリバティブズ",
       "external_revenue": 402119000000,
       "intersegment_revenue": 14276000000,
       "revenue": 416395000000,
@@ -79,7 +79,7 @@
     },
     {
       "key": "Pharma",
-      "label": null,
+      "label": "ファーマ",
       "external_revenue": 460328000000,
       "intersegment_revenue": 92000000,
       "revenue": 460420000000,
@@ -88,7 +88,7 @@
     },
     {
       "key": "SpecialtyMaterials",
-      "label": null,
+      "label": "スペシャリティマテリアルズ",
       "external_revenue": 1081338000000,
       "intersegment_revenue": 10276000000,
       "revenue": 1091614000000,

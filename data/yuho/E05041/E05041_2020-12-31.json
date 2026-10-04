@@ -54,34 +54,34 @@
   "segments": [
     {
       "key": "Cryptocurrency",
-      "label": null,
+      "label": "暗号資産事業",
       "external_revenue": 6723000000,
       "intersegment_revenue": 7000000,
       "operating_income": 769000000
     },
     {
       "key": "Incubation",
-      "label": null,
+      "label": "インキュベーション事業",
       "external_revenue": 1001000000,
       "operating_income": 102000000
     },
     {
       "key": "InternetFinance",
-      "label": null,
+      "label": "インターネット金融事業",
       "external_revenue": 30860000000,
       "intersegment_revenue": -7000000,
       "operating_income": 10617000000
     },
     {
       "key": "InternetInfrastructure",
-      "label": null,
+      "label": "インターネットインフラ事業",
       "external_revenue": 130438000000,
       "intersegment_revenue": 835000000,
       "operating_income": 16287000000
     },
     {
       "key": "OnlineAdvertisingAndMedia",
-      "label": null,
+      "label": "インターネット広告・メディア事業",
       "external_revenue": 40629000000,
       "intersegment_revenue": 6233000000,
       "operating_income": 422000000

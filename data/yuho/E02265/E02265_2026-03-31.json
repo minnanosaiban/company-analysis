@@ -49,28 +49,28 @@
   "segments": [
     {
       "key": "AircraftEquipment",
-      "label": null,
+      "label": "航空機器",
       "external_revenue": 43371000000,
       "intersegment_revenue": 8000000,
       "operating_income": 8220000000
     },
     {
       "key": "IndustrialEquipment",
-      "label": null,
+      "label": "産業機器",
       "external_revenue": 71523000000,
       "intersegment_revenue": 69000000,
       "operating_income": 10595000000
     },
     {
       "key": "MeasurementEquipment",
-      "label": null,
+      "label": "計測機器",
       "external_revenue": 364908000000,
       "intersegment_revenue": 53000000,
       "operating_income": 52578000000
     },
     {
       "key": "MedicalEquipment",
-      "label": null,
+      "label": "医用機器",
       "external_revenue": 73794000000,
       "intersegment_revenue": 27000000,
       "operating_income": 4871000000

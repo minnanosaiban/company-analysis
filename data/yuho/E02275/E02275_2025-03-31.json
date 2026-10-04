@@ -56,31 +56,31 @@
   "segments": [
     {
       "key": "DigitalProducts",
-      "label": null,
+      "label": "デジタルプロダクツ",
       "operating_income": 28741000000,
       "assets": 405661000000
     },
     {
       "key": "DigitalServices",
-      "label": null,
+      "label": "デジタルサービス",
       "operating_income": 32298000000,
       "assets": 1202682000000
     },
     {
       "key": "GraphicCommunications",
-      "label": null,
+      "label": "グラフィックコミュニケーションズ",
       "operating_income": 23159000000,
       "assets": 180835000000
     },
     {
       "key": "IndustrialSolutions",
-      "label": null,
+      "label": "インダストリアルソリューションズ",
       "operating_income": -1821000000,
       "assets": 81525000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "operating_income": -5597000000,
       "assets": 49541000000
     }

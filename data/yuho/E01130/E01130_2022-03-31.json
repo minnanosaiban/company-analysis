@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "Cement",
-      "label": null,
+      "label": "セメント",
       "external_revenue": 455975000000,
       "intersegment_revenue": 7238000000,
       "operating_income": 24188000000,
@@ -60,7 +60,7 @@
     },
     {
       "key": "ConstructionMaterialsAndConstructionEngineering",
-      "label": null,
+      "label": "建材・建築土木",
       "external_revenue": 63570000000,
       "intersegment_revenue": 1526000000,
       "operating_income": 3493000000,
@@ -68,7 +68,7 @@
     },
     {
       "key": "EnvironmentalBusiness",
-      "label": null,
+      "label": "環境事業",
       "external_revenue": 68875000000,
       "intersegment_revenue": 3440000000,
       "operating_income": 6647000000,
@@ -76,7 +76,7 @@
     },
     {
       "key": "Resource",
-      "label": null,
+      "label": "資源",
       "external_revenue": 58640000000,
       "intersegment_revenue": 18542000000,
       "operating_income": 6034000000,

@@ -56,28 +56,28 @@
   "segments": [
     {
       "key": "Hotel",
-      "label": null,
+      "label": "ホテル業",
       "external_revenue": 18684000000,
       "intersegment_revenue": 481000000,
       "operating_income": -12203000000
     },
     {
       "key": "Merchandising",
-      "label": null,
+      "label": "流通業",
       "external_revenue": 94860000000,
       "intersegment_revenue": 5000000,
       "operating_income": 1728000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産業",
       "external_revenue": 52609000000,
       "intersegment_revenue": 3802000000,
       "operating_income": 15376000000
     },
     {
       "key": "Transportation",
-      "label": null,
+      "label": "運輸業",
       "external_revenue": 32302000000,
       "intersegment_revenue": 577000000,
       "operating_income": -1991000000

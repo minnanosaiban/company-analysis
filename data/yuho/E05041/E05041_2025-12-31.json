@@ -54,30 +54,30 @@
   "segments": [
     {
       "key": "Cryptocurrency",
-      "label": null,
+      "label": "暗号資産事業",
       "external_revenue": 8315000000
     },
     {
       "key": "InternetFinance",
-      "label": null,
+      "label": "インターネット金融事業",
       "external_revenue": 39370000000,
       "intersegment_revenue": 40000000
     },
     {
       "key": "InternetInfrastructure",
-      "label": null,
+      "label": "インターネットインフラ事業",
       "external_revenue": 174026000000,
       "intersegment_revenue": 1681000000
     },
     {
       "key": "InternetSecurities",
-      "label": null,
+      "label": "インターネットセキュリティ事業",
       "external_revenue": 21360000000,
       "intersegment_revenue": 607000000
     },
     {
       "key": "OnlineAdvertisingAndMedia",
-      "label": null,
+      "label": "インターネット広告・メディア事業",
       "external_revenue": 32113000000,
       "intersegment_revenue": 2895000000
     }

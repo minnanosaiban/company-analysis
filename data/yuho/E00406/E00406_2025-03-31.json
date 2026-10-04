@@ -53,26 +53,26 @@
   "segments": [
     {
       "key": "AsiaAndOceaniaFoodAndBeverages",
-      "label": null,
+      "label": "アジア・オセアニア",
       "external_revenue": 134803000000,
       "operating_income": 10794000000
     },
     {
       "key": "EuropeFoodAndBeverages",
-      "label": null,
+      "label": "ヨーロッパ",
       "external_revenue": 12130000000,
       "operating_income": 143000000
     },
     {
       "key": "JapanFoodAndBeverages",
-      "label": null,
+      "label": "日本",
       "external_revenue": 233847000000,
       "intersegment_revenue": 9136000000,
       "operating_income": 37464000000
     },
     {
       "key": "TheAmericasFoodAndBeverages",
-      "label": null,
+      "label": "米州",
       "external_revenue": 91822000000,
       "operating_income": 25769000000
     }

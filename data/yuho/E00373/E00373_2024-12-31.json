@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "DairyBusiness",
-      "label": null,
+      "label": "乳業事業",
       "external_revenue": 56077000000,
       "operating_income": -6368000000
     },

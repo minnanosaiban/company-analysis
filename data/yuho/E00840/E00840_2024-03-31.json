@@ -51,7 +51,7 @@
   "segments": [
     {
       "key": "BasicGreenMaterials",
-      "label": null,
+      "label": "ベーシック＆グリーン・マテリアルズ",
       "external_revenue": 681781000000,
       "intersegment_revenue": 109209000000,
       "revenue": 790990000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "ICTSolutions",
-      "label": null,
+      "label": "ICTソリューション",
       "external_revenue": 237497000000,
       "intersegment_revenue": 6265000000,
       "revenue": 243762000000,
@@ -71,7 +71,7 @@
     },
     {
       "key": "LifeHealthcareSolutions",
-      "label": null,
+      "label": "ライフ＆ヘルスケア・ソリューション",
       "external_revenue": 271702000000,
       "intersegment_revenue": 3990000000,
       "revenue": 275692000000,
@@ -81,7 +81,7 @@
     },
     {
       "key": "MobilitySolutions",
-      "label": null,
+      "label": "モビリティソリューション",
       "external_revenue": 543978000000,
       "intersegment_revenue": 3670000000,
       "revenue": 547648000000,

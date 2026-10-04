@@ -56,35 +56,35 @@
   "segments": [
     {
       "key": "AdvancedMaterialsAndProcessing",
-      "label": null,
+      "label": "加工材料",
       "external_revenue": 210627000000,
       "intersegment_revenue": 783000000,
       "operating_income": 6684000000
     },
     {
       "key": "ElectronicsAndEnergy",
-      "label": null,
+      "label": "電子・エネルギー",
       "external_revenue": 161315000000,
       "intersegment_revenue": 2221000000,
       "operating_income": 12302000000
     },
     {
       "key": "FunctionalMaterials",
-      "label": null,
+      "label": "機能素材",
       "external_revenue": 153746000000,
       "intersegment_revenue": 1215000000,
       "operating_income": 9213000000
     },
     {
       "key": "LifeAndHealthcare",
-      "label": null,
+      "label": "生活関連",
       "external_revenue": 287079000000,
       "intersegment_revenue": 491000000,
       "operating_income": 3423000000
     },
     {
       "key": "Mobility",
-      "label": null,
+      "label": "モビリティ",
       "external_revenue": 132091000000,
       "intersegment_revenue": 2028000000,
       "operating_income": 4238000000

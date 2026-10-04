@@ -50,12 +50,12 @@
   "segments": [
     {
       "key": "FinTech",
-      "label": null,
+      "label": "フィンテック",
       "operating_income": 42364000000
     },
     {
       "key": "Retail",
-      "label": null,
+      "label": "小売",
       "operating_income": 6960000000
     }
   ],

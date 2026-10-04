@@ -53,31 +53,31 @@
   "segments": [
     {
       "key": "AutomotiveBatteries",
-      "label": null,
+      "label": "自動車電池",
       "external_revenue": 372518000000,
       "intersegment_revenue": 4734000000
     },
     {
       "key": "AutomotiveLithiumIonBatteries",
-      "label": null,
+      "label": "車載用リチウムイオン電池",
       "external_revenue": 89928000000,
       "intersegment_revenue": 13607000000
     },
     {
       "key": "DomesticOperations",
-      "label": null,
+      "label": "国内",
       "external_revenue": 108006000000,
       "intersegment_revenue": 1609000000
     },
     {
       "key": "IndustrialBatteriesAndPowerSupplies",
-      "label": null,
+      "label": "産業電池電源",
       "external_revenue": 124093000000,
       "intersegment_revenue": 15183000000
     },
     {
       "key": "OverseasOperations",
-      "label": null,
+      "label": "海外",
       "external_revenue": 264511000000,
       "intersegment_revenue": 3125000000
     }

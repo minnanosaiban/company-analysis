@@ -54,14 +54,14 @@
   "segments": [
     {
       "key": "BeautyCare",
-      "label": null,
+      "label": "ビューティケア事業",
       "external_revenue": 165060000000,
       "intersegment_revenue": 124000000,
       "operating_income": 14926000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産事業",
       "external_revenue": 2214000000,
       "intersegment_revenue": 478000000,
       "operating_income": 76000000

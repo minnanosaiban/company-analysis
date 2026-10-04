@@ -54,19 +54,19 @@
   "segments": [
     {
       "key": "AircraftBusinessAndOthers",
-      "label": null,
+      "label": "航機その他",
       "external_revenue": 6274000000,
       "operating_income": -2504000000
     },
     {
       "key": "IndustrialAutomationAndControl",
-      "label": null,
+      "label": "制御",
       "external_revenue": 362408000000,
       "operating_income": 29753000000
     },
     {
       "key": "TestAndMeasurement",
-      "label": null,
+      "label": "測定器",
       "external_revenue": 21218000000,
       "operating_income": 3419000000
     }

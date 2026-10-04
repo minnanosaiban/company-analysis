@@ -53,19 +53,19 @@
   "segments": [
     {
       "key": "IndustrialEquipment",
-      "label": null,
+      "label": "産業機器事業",
       "external_revenue": 48131000000,
       "operating_income": 19363000000
     },
     {
       "key": "MedicalEquipment",
-      "label": null,
+      "label": "医用機器事業",
       "external_revenue": 14926000000,
       "operating_income": 64000000
     },
     {
       "key": "ScientificAndMeasurementInstruments",
-      "label": null,
+      "label": "理科学・計測機器事業",
       "external_revenue": 116295000000,
       "operating_income": 13069000000
     }

@@ -51,49 +51,49 @@
   "segments": [
     {
       "key": "Lantrovision",
-      "label": null,
+      "label": "ラントロビジョン",
       "external_revenue": 25233000000,
       "intersegment_revenue": 259000000,
       "operating_income": 1603000000
     },
     {
       "key": "MIRAITONE",
-      "label": null,
+      "label": "ミライト・ワン",
       "external_revenue": 289637000000,
       "intersegment_revenue": 692000000,
       "operating_income": 12778000000
     },
     {
       "key": "MIRAITONESYSTEMS",
-      "label": null,
+      "label": "ミライト・ワン・システムズ",
       "external_revenue": 21722000000,
       "intersegment_revenue": 3643000000,
       "operating_income": 1181000000
     },
     {
       "key": "SOLCOM",
-      "label": null,
+      "label": "ソルコム",
       "external_revenue": 33884000000,
       "intersegment_revenue": 49000000,
       "operating_income": 1101000000
     },
     {
       "key": "SeibuConstruction",
-      "label": null,
+      "label": "西武建設",
       "external_revenue": 51126000000,
       "intersegment_revenue": 498000000,
       "operating_income": 563000000
     },
     {
       "key": "Shikokutsuken",
-      "label": null,
+      "label": "四国通建",
       "external_revenue": 24093000000,
       "intersegment_revenue": 129000000,
       "operating_income": 2339000000
     },
     {
       "key": "TTK",
-      "label": null,
+      "label": "TTK",
       "external_revenue": 38290000000,
       "intersegment_revenue": 148000000,
       "operating_income": 2816000000

@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "DiscreteSemiconductorDevices",
-      "label": null,
+      "label": "半導体素子",
       "external_revenue": 201948000000,
       "intersegment_revenue": 4243000000,
       "operating_income": 12964000000
     },
     {
       "key": "ICs",
-      "label": null,
+      "label": "ＬＳＩ",
       "external_revenue": 207222000000,
       "intersegment_revenue": 1726000000,
       "operating_income": 21269000000
     },
     {
       "key": "Modules",
-      "label": null,
+      "label": "モジュール",
       "external_revenue": 32908000000,
       "intersegment_revenue": 70000000,
       "operating_income": 2005000000

@@ -53,35 +53,35 @@
   "segments": [
     {
       "key": "Condominiums",
-      "label": null,
+      "label": "マンション事業",
       "external_revenue": 68810000000,
       "intersegment_revenue": 4412000000,
       "operating_income": 8047000000
     },
     {
       "key": "Others",
-      "label": null,
+      "label": "その他",
       "external_revenue": 151111000000,
       "intersegment_revenue": 150000000,
       "operating_income": 15743000000
     },
     {
       "key": "PressanceCorporationCoLtd",
-      "label": null,
+      "label": "プレサンスコーポレーション",
       "external_revenue": 226755000000,
       "intersegment_revenue": 561000000,
       "operating_income": 28720000000
     },
     {
       "key": "PropertyResales",
-      "label": null,
+      "label": "収益不動産事業",
       "external_revenue": 218420000000,
       "intersegment_revenue": 209000000,
       "operating_income": 23196000000
     },
     {
       "key": "SingleFamilyHomesRelatedBusiness",
-      "label": null,
+      "label": "戸建関連事業",
       "external_revenue": 671339000000,
       "intersegment_revenue": 5032000000,
       "operating_income": 69507000000

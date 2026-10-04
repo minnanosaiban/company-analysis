@@ -54,42 +54,42 @@
   "segments": [
     {
       "key": "HighPerformanceUrethans",
-      "label": null,
+      "label": "高機能ウレタン",
       "external_revenue": 46130000000,
       "intersegment_revenue": 419000000,
       "operating_income": -548000000
     },
     {
       "key": "Machinery",
-      "label": null,
+      "label": "機械",
       "external_revenue": 68087000000,
       "intersegment_revenue": 327000000,
       "operating_income": 6242000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 48137000000,
       "intersegment_revenue": -13654000000,
       "operating_income": 1916000000
     },
     {
       "key": "Pharmaceutical",
-      "label": null,
+      "label": "医薬",
       "external_revenue": 20640000000,
       "intersegment_revenue": 364000000,
       "operating_income": -1255000000
     },
     {
       "key": "PolymersAndChemicals",
-      "label": null,
+      "label": "樹脂・化成品",
       "external_revenue": 228419000000,
       "intersegment_revenue": 22818000000,
       "operating_income": 8189000000
     },
     {
       "key": "SpecialtyProducts",
-      "label": null,
+      "label": "機能品",
       "external_revenue": 50930000000,
       "intersegment_revenue": 10970000000,
       "operating_income": 9758000000

@@ -55,35 +55,35 @@
   "segments": [
     {
       "key": "FibersAndTextiles",
-      "label": null,
+      "label": "繊維",
       "external_revenue": 40872000000,
       "intersegment_revenue": 13536000000,
       "operating_income": 2155000000
     },
     {
       "key": "FunctionalMaterials",
-      "label": null,
+      "label": "機能材料",
       "external_revenue": 106650000000,
       "intersegment_revenue": 18330000000,
       "operating_income": 2994000000
     },
     {
       "key": "Isoprene",
-      "label": null,
+      "label": "イソプレン",
       "external_revenue": 26943000000,
       "intersegment_revenue": 23447000000,
       "operating_income": 3808000000
     },
     {
       "key": "Trading",
-      "label": null,
+      "label": "トレーディング",
       "external_revenue": 122012000000,
       "intersegment_revenue": 2426000000,
       "operating_income": 3606000000
     },
     {
       "key": "VinylAcetate",
-      "label": null,
+      "label": "ビニルアセテート",
       "external_revenue": 215702000000,
       "intersegment_revenue": 41412000000,
       "operating_income": 40779000000

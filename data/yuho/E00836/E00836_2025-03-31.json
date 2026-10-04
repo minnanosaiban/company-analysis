@@ -53,21 +53,21 @@
   "segments": [
     {
       "key": "FineChemicalsBusinessUnit",
-      "label": null,
+      "label": "ファインケミカルズ事業領域",
       "external_revenue": 66206000000,
       "intersegment_revenue": 196000000,
       "operating_income": 9899000000
     },
     {
       "key": "LifeScienceBusinessUnit",
-      "label": null,
+      "label": "ライフサイエンス事業領域",
       "external_revenue": 65001000000,
       "intersegment_revenue": 0,
       "operating_income": 6354000000
     },
     {
       "key": "MobilityAndImagingBusinessUnit",
-      "label": null,
+      "label": "モビリティ＆イメージング事業領域",
       "external_revenue": 91376000000,
       "operating_income": 13311000000
     }

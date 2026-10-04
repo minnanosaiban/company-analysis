@@ -53,21 +53,21 @@
   "segments": [
     {
       "key": "ImagingEquipmentBusiness",
-      "label": null,
+      "label": "映像装置事業",
       "external_revenue": 51328000000,
       "intersegment_revenue": 4000000,
       "operating_income": -642000000
     },
     {
       "key": "LightSourcesBusiness",
-      "label": null,
+      "label": "光源事業",
       "external_revenue": 61813000000,
       "intersegment_revenue": 11000000,
       "operating_income": 9020000000
     },
     {
       "key": "OpticalEquipmentBusiness",
-      "label": null,
+      "label": "光学装置事業",
       "external_revenue": 57794000000,
       "intersegment_revenue": 10000000,
       "operating_income": 7160000000

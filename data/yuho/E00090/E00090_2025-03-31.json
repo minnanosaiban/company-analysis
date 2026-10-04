@@ -50,27 +50,27 @@
   "segments": [
     {
       "key": "ConstructionRelatedBusiness",
-      "label": null,
+      "label": "建設関連事業",
       "external_revenue": 735141000000,
       "intersegment_revenue": 61527000000,
       "operating_income": 53473000000
     },
     {
       "key": "OverseasRelatedBusiness",
-      "label": null,
+      "label": "海外関連事業",
       "external_revenue": 3466000000,
       "operating_income": -5663000000
     },
     {
       "key": "RealEstateRelatedBusiness",
-      "label": null,
+      "label": "不動産関連事業",
       "external_revenue": 174252000000,
       "intersegment_revenue": 474000000,
       "operating_income": 24004000000
     },
     {
       "key": "ServiceRelatedBusiness",
-      "label": null,
+      "label": "サービス関連事業",
       "external_revenue": 264494000000,
       "intersegment_revenue": 11875000000,
       "operating_income": 18053000000

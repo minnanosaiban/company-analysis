@@ -53,21 +53,21 @@
   "segments": [
     {
       "key": "CocokaraFineGroup",
-      "label": null,
+      "label": "ココカラファイングループ",
       "external_revenue": 375995000000,
       "intersegment_revenue": 56000000,
       "operating_income": 19347000000
     },
     {
       "key": "ManagementBusiness",
-      "label": null,
+      "label": "管理サポート事業",
       "external_revenue": 3202000000,
       "intersegment_revenue": 562597000000,
       "operating_income": 5099000000
     },
     {
       "key": "MatsumotoKiyoshiGroup",
-      "label": null,
+      "label": "マツモトキヨシグループ",
       "external_revenue": 572049000000,
       "intersegment_revenue": 485000000,
       "operating_income": 41797000000

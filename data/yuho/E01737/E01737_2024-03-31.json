@@ -50,7 +50,7 @@
   "segments": [
     {
       "key": "AutomotiveSystems",
-      "label": null,
+      "label": "オートモティブシステム",
       "external_revenue": 1160008000000,
       "intersegment_revenue": 4376000000,
       "revenue": 1164384000000,
@@ -79,7 +79,7 @@
     },
     {
       "key": "GreenEnergyAndMobility",
-      "label": null,
+      "label": "グリーンエナジー＆モビリティ",
       "external_revenue": 2980675000000,
       "intersegment_revenue": 71627000000,
       "revenue": 3052302000000,
@@ -89,7 +89,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 267395000000,
       "intersegment_revenue": 240401000000,
       "revenue": 507796000000,

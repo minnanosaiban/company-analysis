@@ -49,7 +49,7 @@
   "segments": [
     {
       "key": "ChemicalsAndMaterials",
-      "label": null,
+      "label": "ケミカル＆マテリアル",
       "external_revenue": 239835000000,
       "intersegment_revenue": 18125000000,
       "revenue": 257961000000,
@@ -58,7 +58,7 @@
     },
     {
       "key": "Engineering",
-      "label": null,
+      "label": "エンジニアリング",
       "external_revenue": 357517000000,
       "intersegment_revenue": 36936000000,
       "revenue": 394453000000,
@@ -67,7 +67,7 @@
     },
     {
       "key": "SteelManufacturing",
-      "label": null,
+      "label": "製鉄",
       "external_revenue": 9173227000000,
       "intersegment_revenue": 48477000000,
       "revenue": 9221705000000,
@@ -76,7 +76,7 @@
     },
     {
       "key": "SystemSolution",
-      "label": null,
+      "label": "システムソリューション",
       "external_revenue": 292636000000,
       "intersegment_revenue": 90257000000,
       "revenue": 382893000000,

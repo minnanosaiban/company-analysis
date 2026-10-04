@@ -53,27 +53,27 @@
   "segments": [
     {
       "key": "EthicalPharmaceuticalsWholesalingBusiness",
-      "label": null,
+      "label": "医療用医薬品等卸売事業",
       "external_revenue": 2521906000000,
       "intersegment_revenue": 18026000000,
       "operating_income": 33091000000
     },
     {
       "key": "ManufacturingBusiness",
-      "label": null,
+      "label": "医薬品等製造事業",
       "external_revenue": 37594000000,
       "intersegment_revenue": 15146000000,
       "operating_income": 1894000000
     },
     {
       "key": "MedicalRelatedBusiness",
-      "label": null,
+      "label": "医療関連事業",
       "external_revenue": 36654000000,
       "operating_income": 713000000
     },
     {
       "key": "SelfMedicationProductsWholesalingBusiness",
-      "label": null,
+      "label": "セルフメディケーション卸売事業",
       "external_revenue": 262344000000,
       "intersegment_revenue": 498000000,
       "operating_income": 2683000000

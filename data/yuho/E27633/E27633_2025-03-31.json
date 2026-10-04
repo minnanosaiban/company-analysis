@@ -50,28 +50,28 @@
   "segments": [
     {
       "key": "PropertyManagementAndOperation",
-      "label": null,
+      "label": "管理運営",
       "external_revenue": 351524000000,
       "intersegment_revenue": 14319000000,
       "operating_income": 25026000000
     },
     {
       "key": "RealEstateAgents",
-      "label": null,
+      "label": "不動産流通",
       "external_revenue": 343704000000,
       "intersegment_revenue": 1716000000,
       "operating_income": 50791000000
     },
     {
       "key": "StrategicInvestment",
-      "label": null,
+      "label": "戦略投資",
       "external_revenue": 108952000000,
       "intersegment_revenue": 1857000000,
       "operating_income": 5154000000
     },
     {
       "key": "UrbanDevelopment",
-      "label": null,
+      "label": "都市開発",
       "external_revenue": 346118000000,
       "intersegment_revenue": 2722000000,
       "operating_income": 70544000000

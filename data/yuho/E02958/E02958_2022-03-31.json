@@ -32,7 +32,7 @@
   "segments": [
     {
       "key": "AerospaceAndTransportationProject",
-      "label": null,
+      "label": "航空産業・交通プロジェクト",
       "external_revenue": 70020000000,
       "intersegment_revenue": 10000000,
       "gross_profit": 16157000000,
@@ -71,7 +71,7 @@
     },
     {
       "key": "InfrastructureAndHealthcare",
-      "label": null,
+      "label": "インフラ・ヘルスケア",
       "external_revenue": 61794000000,
       "intersegment_revenue": 3220000000,
       "gross_profit": 18999000000,

@@ -54,21 +54,21 @@
   "segments": [
     {
       "key": "FunctionalChemicals",
-      "label": null,
+      "label": "機能化学品事業",
       "external_revenue": 77152000000,
       "intersegment_revenue": 143000000,
       "operating_income": 11501000000
     },
     {
       "key": "Pharmaceuticals",
-      "label": null,
+      "label": "医薬事業",
       "external_revenue": 52083000000,
       "intersegment_revenue": 0,
       "operating_income": 8645000000
     },
     {
       "key": "SafetySystems",
-      "label": null,
+      "label": "セイフティシステムズ事業",
       "external_revenue": 46112000000,
       "operating_income": 6306000000
     }

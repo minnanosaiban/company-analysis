@@ -51,35 +51,35 @@
   "segments": [
     {
       "key": "DisplayDevice",
-      "label": null,
+      "label": "ディスプレイデバイス",
       "external_revenue": 736224000000,
       "intersegment_revenue": 23729000000,
       "operating_income": -66482000000
     },
     {
       "key": "ElectronicDevice",
-      "label": null,
+      "label": "エレクトロニックデバイス",
       "external_revenue": 446560000000,
       "intersegment_revenue": 29028000000,
       "operating_income": 14799000000
     },
     {
       "key": "ICT",
-      "label": null,
+      "label": "ＩＣＴ",
       "external_revenue": 311351000000,
       "intersegment_revenue": 14521000000,
       "operating_income": -5530000000
     },
     {
       "key": "KEcosystem",
-      "label": null,
+      "label": "８Ｋエコシステム",
       "external_revenue": 585428000000,
       "intersegment_revenue": 6404000000,
       "operating_income": 13421000000
     },
     {
       "key": "SmartLife",
-      "label": null,
+      "label": "スマートライフ",
       "external_revenue": 468552000000,
       "intersegment_revenue": 191000000,
       "operating_income": 28209000000

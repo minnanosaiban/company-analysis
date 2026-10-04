@@ -50,14 +50,14 @@
   "segments": [
     {
       "key": "ConstructionBusinessOfTheCorporation",
-      "label": null,
+      "label": "当社建設事業",
       "external_revenue": 1155684000000,
       "intersegment_revenue": 30426000000,
       "operating_income": 56762000000
     },
     {
       "key": "RealEstateBusinessOfTheCorporation",
-      "label": null,
+      "label": "当社投資開発事業",
       "external_revenue": 83102000000,
       "intersegment_revenue": 243000000,
       "operating_income": 47831000000

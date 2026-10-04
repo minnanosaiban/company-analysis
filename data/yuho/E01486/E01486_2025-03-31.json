@@ -51,7 +51,7 @@
   "segments": [
     {
       "key": "MetalworkingMachineTools",
-      "label": null,
+      "label": "金属工作機械",
       "external_revenue": 65213000000,
       "revenue": 65213000000,
       "operating_income": 6899000000,
@@ -59,7 +59,7 @@
     },
     {
       "key": "MetalworkingMachinery",
-      "label": null,
+      "label": "金属加工機械",
       "external_revenue": 330201000000,
       "revenue": 330201000000,
       "operating_income": 40396000000,

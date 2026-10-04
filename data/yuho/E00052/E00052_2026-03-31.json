@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "BuildingConstruction",
-      "label": null,
+      "label": "建築",
       "external_revenue": 1248588000000,
       "intersegment_revenue": 25882000000,
       "operating_income": 78370000000
     },
     {
       "key": "CivilEngineering",
-      "label": null,
+      "label": "土木",
       "external_revenue": 679740000000,
       "intersegment_revenue": 40486000000,
       "operating_income": 95557000000
     },
     {
       "key": "RealEstateDevelopment",
-      "label": null,
+      "label": "開発",
       "external_revenue": 144174000000,
       "intersegment_revenue": 10094000000,
       "operating_income": 23952000000

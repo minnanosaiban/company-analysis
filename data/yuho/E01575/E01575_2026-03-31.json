@@ -52,14 +52,14 @@
   "segments": [
     {
       "key": "Engineering",
-      "label": null,
+      "label": "総合エンジニアリング",
       "external_revenue": 679588000000,
       "intersegment_revenue": 6000000,
       "operating_income": 33641000000
     },
     {
       "key": "FunctionalMaterialsManufacturing",
-      "label": null,
+      "label": "機能材製造",
       "external_revenue": 56995000000,
       "intersegment_revenue": 10000000,
       "operating_income": 7676000000

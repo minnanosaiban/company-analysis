@@ -54,19 +54,19 @@
   "segments": [
     {
       "key": "GeneralUseConsumableProductsBusiness",
-      "label": null,
+      "label": "一般用消費財事業",
       "external_revenue": 223227000000,
       "intersegment_revenue": 38533000000
     },
     {
       "key": "IndustrialProductsBusiness",
-      "label": null,
+      "label": "産業用品事業",
       "external_revenue": 38161000000,
       "intersegment_revenue": 17011000000
     },
     {
       "key": "OverseasBusiness",
-      "label": null,
+      "label": "海外事業",
       "external_revenue": 150255000000,
       "intersegment_revenue": 14676000000
     }

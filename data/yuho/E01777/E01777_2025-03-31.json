@@ -54,7 +54,7 @@
     },
     {
       "key": "FinancialServices",
-      "label": null,
+      "label": "金融",
       "operating_income": 130528000000,
       "equity_method_income": 64000000
     },
@@ -78,7 +78,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "operating_income": -17996000000,
       "equity_method_income": -12673000000
     },

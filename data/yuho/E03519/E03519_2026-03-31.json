@@ -53,28 +53,28 @@
   "segments": [
     {
       "key": "AndCompany",
-      "label": null,
+      "label": "アンドカンパニー",
       "external_revenue": 12947000000,
       "intersegment_revenue": 0,
       "operating_income": 200000000
     },
     {
       "key": "CocokaraFineGroup",
-      "label": null,
+      "label": "ココカラファイングループ",
       "external_revenue": 389926000000,
       "intersegment_revenue": 50000000,
       "operating_income": 23456000000
     },
     {
       "key": "ManagementBusiness",
-      "label": null,
+      "label": "管理サポート事業",
       "external_revenue": 3534000000,
       "intersegment_revenue": 680050000000,
       "operating_income": 17137000000
     },
     {
       "key": "MatsumotoKiyoshiGroup",
-      "label": null,
+      "label": "マツモトキヨシグループ",
       "external_revenue": 711030000000,
       "intersegment_revenue": 382000000,
       "operating_income": 60818000000

@@ -56,7 +56,7 @@
   "segments": [
     {
       "key": "JapanSushiroBusiness",
-      "label": null,
+      "label": "国内スシロー事業",
       "external_revenue": 217990000000,
       "intersegment_revenue": 68000000,
       "revenue": 218058000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "KyotaruBusiness",
-      "label": null,
+      "label": "京樽事業",
       "external_revenue": 21072000000,
       "intersegment_revenue": 339000000,
       "revenue": 21411000000,
@@ -72,14 +72,14 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 3941000000,
       "revenue": 3941000000,
       "operating_income": -593000000
     },
     {
       "key": "OverseasSushiroBusiness",
-      "label": null,
+      "label": "海外スシロー事業",
       "external_revenue": 38298000000,
       "revenue": 38298000000,
       "operating_income": 2191000000

@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "ICTMaterials",
-      "label": null,
+      "label": "情報通信材料",
       "external_revenue": 260885000000,
       "intersegment_revenue": 4227000000,
       "operating_income": 25085000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "MetalsAndRecycling",
-      "label": null,
+      "label": "基礎材料",
       "external_revenue": 304066000000,
       "intersegment_revenue": 2438000000,
       "operating_income": 74517000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "SemiconductorMaterials",
-      "label": null,
+      "label": "半導体材料",
       "external_revenue": 147428000000,
       "intersegment_revenue": 613000000,
       "operating_income": 26738000000,

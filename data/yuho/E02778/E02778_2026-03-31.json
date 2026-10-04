@@ -51,25 +51,25 @@
   "segments": [
     {
       "key": "AIComputing",
-      "label": null,
+      "label": "AIコンピューティング事業",
       "external_revenue": 640309000000,
       "profit_before_tax": -137266000000
     },
     {
       "key": "HoldingCompanyInvestmentBusiness",
-      "label": null,
+      "label": "持株会社投資事業",
       "profit_before_tax": -472082000000
     },
     {
       "key": "SoftBank",
-      "label": null,
+      "label": "ソフトバンク事業",
       "external_revenue": 7033969000000,
       "intersegment_revenue": 6906000000,
       "profit_before_tax": 965002000000
     },
     {
       "key": "SoftBankVisionFundsBusiness",
-      "label": null,
+      "label": "ソフトバンク・ビジョン・ファンド事業",
       "profit_before_tax": 6444601000000
     }
   ],

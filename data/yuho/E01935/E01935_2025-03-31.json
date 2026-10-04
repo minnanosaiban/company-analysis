@@ -52,27 +52,27 @@
   "segments": [
     {
       "key": "Consumer",
-      "label": null,
+      "label": "コンシューマ",
       "external_revenue": 82097000000,
       "operating_income": 2164000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 7140000000,
       "intersegment_revenue": 5457000000,
       "operating_income": -1627000000
     },
     {
       "key": "System",
-      "label": null,
+      "label": "システム",
       "external_revenue": 6393000000,
       "intersegment_revenue": 46000000,
       "operating_income": -394000000
     },
     {
       "key": "Watch",
-      "label": null,
+      "label": "時計",
       "external_revenue": 166127000000,
       "operating_income": 20269000000
     }

@@ -48,7 +48,7 @@
   "segments": [
     {
       "key": "BusinessPlatform",
-      "label": null,
+      "label": "ビジネス・プラットフォーム",
       "external_revenue": 310029000000,
       "intersegment_revenue": 119291000000,
       "operating_income": 39930000000
@@ -76,7 +76,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 161304000000,
       "intersegment_revenue": 674768000000,
       "operating_income": 31474000000

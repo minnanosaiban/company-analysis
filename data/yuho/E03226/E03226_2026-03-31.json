@@ -50,14 +50,14 @@
   "segments": [
     {
       "key": "DiscountStore",
-      "label": null,
+      "label": "ディスカウントストア事業",
       "external_revenue": 364108000000,
       "intersegment_revenue": 13000000,
       "operating_income": 19350000000
     },
     {
       "key": "DrugStore",
-      "label": null,
+      "label": "ドラッグストア事業",
       "external_revenue": 478404000000,
       "intersegment_revenue": 60975000000,
       "operating_income": 27481000000

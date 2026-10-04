@@ -51,14 +51,14 @@
   "segments": [
     {
       "key": "FlourMilling",
-      "label": null,
+      "label": "製粉",
       "external_revenue": 419782000000,
       "intersegment_revenue": 19240000000,
       "operating_income": 17618000000
     },
     {
       "key": "ProcessedFood",
-      "label": null,
+      "label": "食品",
       "external_revenue": 187988000000,
       "intersegment_revenue": 1731000000,
       "operating_income": 6037000000

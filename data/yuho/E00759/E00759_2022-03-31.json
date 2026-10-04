@@ -51,42 +51,42 @@
   "segments": [
     {
       "key": "Agrochemicals",
-      "label": null,
+      "label": "農業化学品事業",
       "external_revenue": 57965000000,
       "intersegment_revenue": 7853000000,
       "operating_income": 18127000000
     },
     {
       "key": "Chemicals",
-      "label": null,
+      "label": "化学品事業",
       "external_revenue": 26032000000,
       "intersegment_revenue": 11615000000,
       "operating_income": 3787000000
     },
     {
       "key": "Medicines",
-      "label": null,
+      "label": "ヘルスケア事業",
       "external_revenue": 6540000000,
       "intersegment_revenue": 49000000,
       "operating_income": 2813000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 10877000000,
       "intersegment_revenue": 12717000000,
       "operating_income": 692000000
     },
     {
       "key": "PerformanceMaterials",
-      "label": null,
+      "label": "機能性材料事業",
       "external_revenue": 69664000000,
       "intersegment_revenue": 12000000000,
       "operating_income": 27621000000
     },
     {
       "key": "Trading",
-      "label": null,
+      "label": "卸売事業",
       "external_revenue": 59644000000,
       "intersegment_revenue": 20792000000,
       "operating_income": 2903000000

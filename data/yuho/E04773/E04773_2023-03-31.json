@@ -55,42 +55,42 @@
   "segments": [
     {
       "key": "BPOICT",
-      "label": null,
+      "label": "BPO-ICT",
       "external_revenue": 128082000000,
       "intersegment_revenue": 10789000000,
       "operating_income": 11643000000
     },
     {
       "key": "FireProtectionServices",
-      "label": null,
+      "label": "防災",
       "external_revenue": 145662000000,
       "intersegment_revenue": 3124000000,
       "operating_income": 11497000000
     },
     {
       "key": "GeospatialInformationServices",
-      "label": null,
+      "label": "地理空間情報サービス",
       "external_revenue": 62085000000,
       "intersegment_revenue": 226000000,
       "operating_income": 6781000000
     },
     {
       "key": "InsuranceServices",
-      "label": null,
+      "label": "保険",
       "external_revenue": 55560000000,
       "intersegment_revenue": 3012000000,
       "operating_income": 1037000000
     },
     {
       "key": "MedicalServices",
-      "label": null,
+      "label": "メディカルサービス",
       "external_revenue": 77623000000,
       "intersegment_revenue": 239000000,
       "operating_income": 5873000000
     },
     {
       "key": "SecurityServices",
-      "label": null,
+      "label": "セキュリティサービス",
       "external_revenue": 583338000000,
       "intersegment_revenue": 11988000000,
       "operating_income": 111501000000

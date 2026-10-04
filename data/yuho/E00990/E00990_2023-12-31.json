@@ -56,37 +56,37 @@
   "segments": [
     {
       "key": "AmericasBusiness",
-      "label": null,
+      "label": "米州事業",
       "external_revenue": 110294000000,
       "intersegment_revenue": 5558000000
     },
     {
       "key": "AsiaPacificBusiness",
-      "label": null,
+      "label": "アジアパシフィック事業",
       "external_revenue": 67283000000,
       "intersegment_revenue": 4286000000
     },
     {
       "key": "ChinaBusiness",
-      "label": null,
+      "label": "中国事業",
       "external_revenue": 247921000000,
       "intersegment_revenue": 3750000000
     },
     {
       "key": "EMEABusiness",
-      "label": null,
+      "label": "欧州事業",
       "external_revenue": 116949000000,
       "intersegment_revenue": 6778000000
     },
     {
       "key": "JapanBusiness",
-      "label": null,
+      "label": "日本事業",
       "external_revenue": 259900000000,
       "intersegment_revenue": 4847000000
     },
     {
       "key": "TravelRetailBusiness",
-      "label": null,
+      "label": "トラベルリテール事業",
       "external_revenue": 132525000000,
       "intersegment_revenue": 243000000
     }

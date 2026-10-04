@@ -70,7 +70,7 @@
     },
     {
       "key": "GreenEnergyAndMobility",
-      "label": null,
+      "label": "グリーンエナジー＆モビリティ",
       "external_revenue": 3849255000000,
       "intersegment_revenue": 66253000000,
       "revenue": 3915508000000,
@@ -80,7 +80,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 270915000000,
       "intersegment_revenue": 226602000000,
       "revenue": 497517000000,

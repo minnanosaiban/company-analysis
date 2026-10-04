@@ -62,7 +62,7 @@
     },
     {
       "key": "Investment",
-      "label": null,
+      "label": "投資部門",
       "external_revenue": 19392000000,
       "intersegment_revenue": -2946000000,
       "ordinary_income": 13068000000,
@@ -70,14 +70,14 @@
     },
     {
       "key": "Retail",
-      "label": null,
+      "label": "リテール部門",
       "external_revenue": 140526000000,
       "intersegment_revenue": 23809000000,
       "ordinary_income": 25886000000
     },
     {
       "key": "Wholesale",
-      "label": null,
+      "label": "ホールセール部門",
       "external_revenue": 160535000000,
       "intersegment_revenue": 356000000,
       "ordinary_income": 2822000000,

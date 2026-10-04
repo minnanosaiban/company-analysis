@@ -56,7 +56,7 @@
   "segments": [
     {
       "key": "Enterprise",
-      "label": null,
+      "label": "エンタープライズ",
       "external_revenue": 614369000000,
       "intersegment_revenue": 38704000000,
       "revenue": 653073000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "Global",
-      "label": null,
+      "label": "グローバル",
       "external_revenue": 586336000000,
       "intersegment_revenue": 564000000,
       "revenue": 586900000000,
@@ -72,7 +72,7 @@
     },
     {
       "key": "NetworkServices",
-      "label": null,
+      "label": "ネットワークサービス",
       "external_revenue": 543400000000,
       "intersegment_revenue": 7044000000,
       "revenue": 550444000000,
@@ -80,7 +80,7 @@
     },
     {
       "key": "PublicInfrastructure",
-      "label": null,
+      "label": "社会基盤",
       "external_revenue": 649662000000,
       "intersegment_revenue": 2529000000,
       "revenue": 652191000000,
@@ -88,7 +88,7 @@
     },
     {
       "key": "PublicSolutions",
-      "label": null,
+      "label": "社会公共",
       "external_revenue": 456687000000,
       "intersegment_revenue": 13694000000,
       "revenue": 470381000000,

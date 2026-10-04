@@ -57,21 +57,21 @@
   "segments": [
     {
       "key": "Foods",
-      "label": null,
+      "label": "食品",
       "external_revenue": 426409000000,
       "intersegment_revenue": 264000000,
       "operating_income": 19852000000
     },
     {
       "key": "Logistics",
-      "label": null,
+      "label": "低温物流",
       "external_revenue": 281985000000,
       "intersegment_revenue": 19006000000,
       "operating_income": 18583000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産",
       "external_revenue": 3342000000,
       "intersegment_revenue": 1657000000,
       "operating_income": 1896000000

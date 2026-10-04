@@ -57,35 +57,35 @@
   "segments": [
     {
       "key": "Logistics",
-      "label": null,
+      "label": "低温物流",
       "external_revenue": 226710000000,
       "intersegment_revenue": 17497000000,
       "operating_income": 15147000000
     },
     {
       "key": "MarineProducts",
-      "label": null,
+      "label": "水産",
       "external_revenue": 68903000000,
       "intersegment_revenue": 91000000,
       "operating_income": 951000000
     },
     {
       "key": "MeatAndPoultryProducts",
-      "label": null,
+      "label": "畜産",
       "external_revenue": 82975000000,
       "intersegment_revenue": 2779000000,
       "operating_income": 959000000
     },
     {
       "key": "ProcessedFoods",
-      "label": null,
+      "label": "加工食品",
       "external_revenue": 275398000000,
       "intersegment_revenue": 299000000,
       "operating_income": 13962000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産",
       "external_revenue": 3043000000,
       "intersegment_revenue": 1489000000,
       "operating_income": 1798000000

@@ -54,34 +54,34 @@
   "segments": [
     {
       "key": "DiskDriveSuspension",
-      "label": null,
+      "label": "DDS",
       "external_revenue": 126753000000,
       "operating_income": 26058000000
     },
     {
       "key": "IndustrialMachineryAndEquipmentAndOtherOperations",
-      "label": null,
+      "label": "産業機器ほか",
       "external_revenue": 124535000000,
       "intersegment_revenue": 16593000000,
       "operating_income": 7294000000
     },
     {
       "key": "PrecisionSpringsAndComponents",
-      "label": null,
+      "label": "精密部品",
       "external_revenue": 105612000000,
       "intersegment_revenue": 2751000000,
       "operating_income": 3651000000
     },
     {
       "key": "Seating",
-      "label": null,
+      "label": "シート",
       "external_revenue": 292561000000,
       "intersegment_revenue": 1676000000,
       "operating_income": 8052000000
     },
     {
       "key": "SuspensionSprings",
-      "label": null,
+      "label": "懸架ばね",
       "external_revenue": 167417000000,
       "intersegment_revenue": 1820000000,
       "operating_income": 727000000

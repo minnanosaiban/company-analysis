@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "IndustrialAndOtherProducts",
-      "label": null,
+      "label": "産業品他",
       "external_revenue": 39812000000,
       "intersegment_revenue": 1405000000,
       "revenue": 41217000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "Sports",
-      "label": null,
+      "label": "スポーツ",
       "external_revenue": 125650000000,
       "intersegment_revenue": 134000000,
       "revenue": 125784000000,
@@ -69,7 +69,7 @@
     },
     {
       "key": "Tires",
-      "label": null,
+      "label": "タイヤ",
       "external_revenue": 1046394000000,
       "intersegment_revenue": 1303000000,
       "revenue": 1047697000000,

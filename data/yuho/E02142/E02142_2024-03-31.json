@@ -54,14 +54,14 @@
   "segments": [
     {
       "key": "Automobile",
-      "label": null,
+      "label": "自動車事業",
       "external_revenue": 11582863000000,
       "intersegment_revenue": 199653000000,
       "operating_income": 221574000000
     },
     {
       "key": "SalesFinancing",
-      "label": null,
+      "label": "販売金融事業",
       "external_revenue": 1102853000000,
       "intersegment_revenue": 58925000000,
       "operating_income": 308718000000

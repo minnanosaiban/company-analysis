@@ -57,21 +57,21 @@
   "segments": [
     {
       "key": "ColorAndDisplay",
-      "label": null,
+      "label": "カラー＆ディスプレイ",
       "external_revenue": 194094000000,
       "intersegment_revenue": 33174000000,
       "operating_income": -8889000000
     },
     {
       "key": "FunctionalProducts",
-      "label": null,
+      "label": "ファンクショナルプロダクツ",
       "external_revenue": 302096000000,
       "intersegment_revenue": 3822000000,
       "operating_income": 15448000000
     },
     {
       "key": "PackagingAndGraphic",
-      "label": null,
+      "label": "パッケージング＆グラフィック",
       "external_revenue": 541942000000,
       "operating_income": 21970000000
     }

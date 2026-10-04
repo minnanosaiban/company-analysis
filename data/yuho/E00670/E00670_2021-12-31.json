@@ -74,7 +74,7 @@
     },
     {
       "key": "LifestyleField",
-      "label": null,
+      "label": "ライフスタイル領域",
       "external_revenue": 73307000000,
       "intersegment_revenue": 18483000000,
       "operating_income": 7077000000
@@ -88,7 +88,7 @@
     },
     {
       "key": "WorkstyleField",
-      "label": null,
+      "label": "ワークスタイル領域",
       "external_revenue": 246625000000,
       "intersegment_revenue": 11880000000,
       "operating_income": 20336000000

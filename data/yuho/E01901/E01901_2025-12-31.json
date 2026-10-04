@@ -54,19 +54,19 @@
   "segments": [
     {
       "key": "BioAndHealthcare",
-      "label": null,
+      "label": "バイオ・ヘルスケア",
       "external_revenue": 42173000000,
       "operating_income": -894000000
     },
     {
       "key": "EnergyAndEnvironment",
-      "label": null,
+      "label": "エネルギー・環境",
       "external_revenue": 134407000000,
       "operating_income": 9417000000
     },
     {
       "key": "MaterialsAndSemiconductor",
-      "label": null,
+      "label": "先端材料・半導体",
       "external_revenue": 156500000000,
       "operating_income": 44517000000
     }

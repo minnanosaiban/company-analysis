@@ -53,14 +53,14 @@
   "segments": [
     {
       "key": "MBMultipleBusiness",
-      "label": null,
+      "label": "MB",
       "external_revenue": 101885000000,
       "intersegment_revenue": 103000000,
       "revenue": 101988000000
     },
     {
       "key": "Tires",
-      "label": null,
+      "label": "タイヤ",
       "external_revenue": 874863000000,
       "intersegment_revenue": 1196000000,
       "revenue": 876059000000

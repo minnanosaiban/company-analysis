@@ -54,14 +54,14 @@
   "segments": [
     {
       "key": "RestaurantBusiness",
-      "label": null,
+      "label": "レストラン",
       "external_revenue": 701731000000,
       "intersegment_revenue": 3671000000,
       "operating_income": 24028000000
     },
     {
       "key": "RetailBusiness",
-      "label": null,
+      "label": "小売",
       "external_revenue": 78232000000,
       "intersegment_revenue": 473000000,
       "operating_income": -2294000000

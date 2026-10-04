@@ -54,25 +54,25 @@
   "segments": [
     {
       "key": "AmusementMarket",
-      "label": null,
+      "label": "遊技市場",
       "external_revenue": 15139000000,
       "operating_income": 1624000000
     },
     {
       "key": "FinancialMarket",
-      "label": null,
+      "label": "金融市場",
       "external_revenue": 36248000000,
       "operating_income": 152000000
     },
     {
       "key": "OverseasMarket",
-      "label": null,
+      "label": "海外市場",
       "external_revenue": 155902000000,
       "operating_income": 436000000
     },
     {
       "key": "RetailAndTransportationMarket",
-      "label": null,
+      "label": "流通・交通市場",
       "external_revenue": 45595000000,
       "operating_income": -571000000
     }

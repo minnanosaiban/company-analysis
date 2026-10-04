@@ -55,28 +55,28 @@
   "segments": [
     {
       "key": "AgriBioAndFoods",
-      "label": null,
+      "label": "自然産業事業",
       "external_revenue": 28986000000,
       "intersegment_revenue": 40000000,
       "operating_income": 567000000
     },
     {
       "key": "Energy",
-      "label": null,
+      "label": "総合エネルギー事業",
       "external_revenue": 393720000000,
       "intersegment_revenue": 5403000000,
       "operating_income": 14434000000
     },
     {
       "key": "IndustrialGasesAndMachinery",
-      "label": null,
+      "label": "産業ガス・機械事業",
       "external_revenue": 240403000000,
       "intersegment_revenue": 5476000000,
       "operating_income": 16561000000
     },
     {
       "key": "Materials",
-      "label": null,
+      "label": "マテリアル事業",
       "external_revenue": 238453000000,
       "intersegment_revenue": 2238000000,
       "operating_income": 12536000000

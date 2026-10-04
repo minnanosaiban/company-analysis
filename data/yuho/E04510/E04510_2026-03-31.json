@@ -48,28 +48,28 @@
   "segments": [
     {
       "key": "ElectricPowerRelated",
-      "label": null,
+      "label": "電力周辺関連事業",
       "external_revenue": 49638000000,
       "intersegment_revenue": 40281000000,
       "ordinary_income": 16989000000
     },
     {
       "key": "OtherBusinesses",
-      "label": null,
+      "label": "その他の事業",
       "external_revenue": 15009000000,
       "intersegment_revenue": 992000000,
       "ordinary_income": 417000000
     },
     {
       "key": "Overseas",
-      "label": null,
+      "label": "海外事業",
       "external_revenue": 227896000000,
       "ordinary_income": 94856000000,
       "equity_method_income": 65308000000
     },
     {
       "key": "PowerGeneration",
-      "label": null,
+      "label": "発電事業",
       "external_revenue": 840445000000,
       "intersegment_revenue": 25179000000,
       "ordinary_income": 45351000000,
@@ -77,7 +77,7 @@
     },
     {
       "key": "TransmissionandTransformation",
-      "label": null,
+      "label": "送変電事業",
       "external_revenue": 49270000000,
       "intersegment_revenue": 583000000,
       "ordinary_income": 1776000000

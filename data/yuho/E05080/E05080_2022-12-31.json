@@ -42,19 +42,19 @@
   "segments": [
     {
       "key": "FinTech",
-      "label": null,
+      "label": "フィンテック",
       "external_revenue": 651944000000,
       "operating_income": 89840000000
     },
     {
       "key": "InternetServices",
-      "label": null,
+      "label": "インターネットサービス",
       "external_revenue": 1103807000000,
       "operating_income": 64630000000
     },
     {
       "key": "Mobile",
-      "label": null,
+      "label": "モバイル",
       "external_revenue": 350734000000,
       "operating_income": -479257000000
     }

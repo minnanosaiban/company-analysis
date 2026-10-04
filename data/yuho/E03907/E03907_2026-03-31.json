@@ -52,35 +52,35 @@
   "segments": [
     {
       "key": "Housing",
-      "label": null,
+      "label": "ハウジング",
       "external_revenue": 188702000000,
       "intersegment_revenue": 203000000,
       "operating_income": 13420000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 13205000000,
       "intersegment_revenue": 4711000000,
       "operating_income": 5452000000
     },
     {
       "key": "RealEstateLeasing",
-      "label": null,
+      "label": "不動産賃貸",
       "external_revenue": 458075000000,
       "intersegment_revenue": 2561000000,
       "operating_income": 210181000000
     },
     {
       "key": "RealEstateSelling",
-      "label": null,
+      "label": "不動産販売",
       "external_revenue": 323174000000,
       "intersegment_revenue": 859000000,
       "operating_income": 76223000000
     },
     {
       "key": "Step",
-      "label": null,
+      "label": "ステップ",
       "external_revenue": 74607000000,
       "intersegment_revenue": 752000000,
       "operating_income": 23601000000

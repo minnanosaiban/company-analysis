@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "AccessSolutions",
-      "label": null,
+      "label": "アクセスソリューションズ",
       "external_revenue": 332249000000,
       "intersegment_revenue": 450000000,
       "operating_income": 17087000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "PrecisionTechnologies",
-      "label": null,
+      "label": "プレシジョンテクノロジーズ",
       "external_revenue": 281151000000,
       "intersegment_revenue": 7880000000,
       "operating_income": 62245000000,
@@ -69,7 +69,7 @@
     },
     {
       "key": "SemiconductorAndElectronics",
-      "label": null,
+      "label": "セミコンダクタ＆エレクトロニクス",
       "external_revenue": 590263000000,
       "intersegment_revenue": 5980000000,
       "operating_income": 26669000000,

@@ -53,28 +53,28 @@
   "segments": [
     {
       "key": "Chemicals",
-      "label": null,
+      "label": "ケミカル",
       "external_revenue": 527825000000,
       "intersegment_revenue": 14318000000,
       "operating_income": 24910000000
     },
     {
       "key": "InnovationEnablingMaterials",
-      "label": null,
+      "label": "イノベーション材料",
       "external_revenue": 141081000000,
       "intersegment_revenue": 6432000000,
       "operating_income": 10126000000
     },
     {
       "key": "Mobility",
-      "label": null,
+      "label": "モビリティ",
       "external_revenue": 180626000000,
       "intersegment_revenue": 209000000,
       "operating_income": -735000000
     },
     {
       "key": "SemiconductorAndElectronicMaterials",
-      "label": null,
+      "label": "半導体・電子材料",
       "external_revenue": 427171000000,
       "intersegment_revenue": 5358000000,
       "operating_income": 45533000000

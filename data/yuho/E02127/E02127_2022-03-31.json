@@ -50,14 +50,14 @@
   "segments": [
     {
       "key": "AerospaceSystems",
-      "label": null,
+      "label": "航空宇宙システム事業",
       "external_revenue": 298212000000,
       "intersegment_revenue": 10123000000,
       "revenue": 308335000000
     },
     {
       "key": "EnergySolutionAndMarine",
-      "label": null,
+      "label": "エネルギーソリューション＆マリン事業",
       "external_revenue": 297306000000,
       "intersegment_revenue": 15936000000,
       "revenue": 313243000000,
@@ -65,7 +65,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 78070000000,
       "intersegment_revenue": 20164000000,
       "revenue": 98234000000,
@@ -73,7 +73,7 @@
     },
     {
       "key": "PowersportsAndEngine",
-      "label": null,
+      "label": "パワースポーツ＆エンジン事業",
       "external_revenue": 447927000000,
       "intersegment_revenue": 845000000,
       "revenue": 448773000000,
@@ -81,7 +81,7 @@
     },
     {
       "key": "PrecisionMachineryAndRobot",
-      "label": null,
+      "label": "精密機械・ロボット事業",
       "external_revenue": 252678000000,
       "intersegment_revenue": 19746000000,
       "revenue": 272425000000,
@@ -89,7 +89,7 @@
     },
     {
       "key": "RollingStock",
-      "label": null,
+      "label": "車両事業",
       "external_revenue": 126684000000,
       "intersegment_revenue": 33000000,
       "revenue": 126718000000,

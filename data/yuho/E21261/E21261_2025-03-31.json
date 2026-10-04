@@ -55,7 +55,7 @@
   "segments": [
     {
       "key": "AsiaPacific",
-      "label": null,
+      "label": "AsiaPacific",
       "external_revenue": 476103000000,
       "revenue": 476103000000,
       "operating_income": 11704000000,
@@ -63,7 +63,7 @@
     },
     {
       "key": "BPO",
-      "label": null,
+      "label": "BPO",
       "external_revenue": 108954000000,
       "intersegment_revenue": 8278000000,
       "revenue": 117233000000,
@@ -72,7 +72,7 @@
     },
     {
       "key": "Career",
-      "label": null,
+      "label": "Career",
       "external_revenue": 142404000000,
       "intersegment_revenue": 2241000000,
       "revenue": 144645000000,
@@ -81,7 +81,7 @@
     },
     {
       "key": "Staffing",
-      "label": null,
+      "label": "Staffing",
       "external_revenue": 595729000000,
       "intersegment_revenue": 6709000000,
       "revenue": 602438000000,
@@ -90,7 +90,7 @@
     },
     {
       "key": "Technology",
-      "label": null,
+      "label": "Technology",
       "external_revenue": 103976000000,
       "intersegment_revenue": 10728000000,
       "revenue": 114705000000,

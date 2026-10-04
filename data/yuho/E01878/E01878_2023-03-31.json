@@ -54,19 +54,19 @@
   "segments": [
     {
       "key": "IndustrialAutomationAndControl",
-      "label": null,
+      "label": "制御",
       "external_revenue": 427569000000,
       "operating_income": 41081000000
     },
     {
       "key": "NewBussinessesOther",
-      "label": null,
+      "label": "新事業他",
       "external_revenue": 3844000000,
       "operating_income": -1304000000
     },
     {
       "key": "TestAndMeasurement",
-      "label": null,
+      "label": "測定器",
       "external_revenue": 25065000000,
       "operating_income": 4632000000
     }

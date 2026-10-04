@@ -56,35 +56,35 @@
   "segments": [
     {
       "key": "Automobility",
-      "label": null,
+      "label": "オートモビリティ",
       "external_revenue": 337165000000,
       "intersegment_revenue": 923000000,
       "equity_method_income": 531000000
     },
     {
       "key": "EnvironmentalInfrastructure",
-      "label": null,
+      "label": "環境インフラ",
       "external_revenue": 59655000000,
       "intersegment_revenue": 0,
       "equity_method_income": -4000000
     },
     {
       "key": "EquipmentLeasing",
-      "label": null,
+      "label": "国内リース",
       "external_revenue": 458612000000,
       "intersegment_revenue": 367000000,
       "equity_method_income": 9076000000
     },
     {
       "key": "InternationalBusiness",
-      "label": null,
+      "label": "国際",
       "external_revenue": 177392000000,
       "intersegment_revenue": 163000000,
       "equity_method_income": 680000000
     },
     {
       "key": "SpecialtyFinancing",
-      "label": null,
+      "label": "スペシャルティ",
       "external_revenue": 312184000000,
       "intersegment_revenue": 190000000,
       "equity_method_income": 6655000000

@@ -46,7 +46,7 @@
   "segments": [
     {
       "key": "AutomobileBusiness",
-      "label": null,
+      "label": "四輪事業",
       "external_revenue": 13863362000000,
       "intersegment_revenue": 303548000000,
       "revenue": 14166910000000,
@@ -56,7 +56,7 @@
     },
     {
       "key": "FinancialServicesBusiness",
-      "label": null,
+      "label": "金融サービス事業",
       "external_revenue": 3529484000000,
       "intersegment_revenue": 3259000000,
       "revenue": 3532743000000,
@@ -65,7 +65,7 @@
     },
     {
       "key": "MotorcycleBusiness",
-      "label": null,
+      "label": "二輪事業",
       "external_revenue": 4018837000000,
       "revenue": 4018837000000,
       "operating_income": 731926000000,
@@ -74,7 +74,7 @@
     },
     {
       "key": "PowerProductAndOtherBusinesses",
-      "label": null,
+      "label": "パワープロダクツ事業及びその他の事業",
       "external_revenue": 384927000000,
       "intersegment_revenue": 35449000000,
       "revenue": 420376000000,

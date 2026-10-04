@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "GreenEnergyAndChemicalsBusinessSector",
-      "label": null,
+      "label": "グリーン・エネルギー＆ケミカル事業部門",
       "external_revenue": 313392000000,
       "intersegment_revenue": 9806000000,
       "ordinary_income": 20516000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "SpecialtyChemicalsBusinessSector",
-      "label": null,
+      "label": "機能化学品事業部門",
       "external_revenue": 443728000000,
       "intersegment_revenue": 454000000,
       "ordinary_income": 43922000000,

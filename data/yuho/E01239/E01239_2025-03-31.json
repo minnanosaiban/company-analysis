@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "AutomobilePartsAndIndustrialMachineParts",
-      "label": null,
+      "label": "自動車部品・産業機械部品",
       "external_revenue": 113031000000,
       "intersegment_revenue": 33931000000,
       "revenue": 146963000000,
@@ -62,7 +62,7 @@
     },
     {
       "key": "Engineering",
-      "label": null,
+      "label": "エンジニアリング",
       "external_revenue": 24067000000,
       "intersegment_revenue": 585000000,
       "revenue": 24653000000,
@@ -71,7 +71,7 @@
     },
     {
       "key": "FunctionalMaterialAndMagneticMaterial",
-      "label": null,
+      "label": "機能材料・磁性材料",
       "external_revenue": 200863000000,
       "intersegment_revenue": 18927000000,
       "revenue": 219791000000,
@@ -80,7 +80,7 @@
     },
     {
       "key": "LogisticsAndService",
-      "label": null,
+      "label": "流通・サービス",
       "external_revenue": 26820000000,
       "intersegment_revenue": 20078000000,
       "revenue": 46898000000,
@@ -89,7 +89,7 @@
     },
     {
       "key": "SpecialtySteel",
-      "label": null,
+      "label": "特殊鋼鋼材",
       "external_revenue": 210162000000,
       "intersegment_revenue": 70616000000,
       "revenue": 280778000000,

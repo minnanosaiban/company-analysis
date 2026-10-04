@@ -54,28 +54,28 @@
   "segments": [
     {
       "key": "Ft",
-      "label": null,
+      "label": "ＦＴ",
       "external_revenue": 25766000000,
       "intersegment_revenue": 422000000,
       "operating_income": -1840000000
     },
     {
       "key": "Ga",
-      "label": null,
+      "label": "ＧＡ",
       "external_revenue": 45332000000,
       "intersegment_revenue": 277000000,
       "operating_income": 3397000000
     },
     {
       "key": "Pe",
-      "label": null,
+      "label": "ＰＥ",
       "external_revenue": 16735000000,
       "intersegment_revenue": 99000000,
       "operating_income": 3358000000
     },
     {
       "key": "Spe",
-      "label": null,
+      "label": "ＳＰＥ",
       "external_revenue": 370934000000,
       "operating_income": 76950000000
     }

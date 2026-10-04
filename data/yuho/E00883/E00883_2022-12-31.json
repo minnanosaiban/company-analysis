@@ -56,38 +56,38 @@
   "segments": [
     {
       "key": "ChemicalBusiness",
-      "label": null,
+      "label": "ケミカル事業",
       "external_revenue": 357756000000,
       "intersegment_revenue": 44745000000,
       "operating_income": 29516000000
     },
     {
       "key": "ConsumerProductsBusiness",
-      "label": null,
+      "label": "コンシューマープロダクツ事業",
       "external_revenue": 1193303000000,
       "operating_income": 79341000000
     },
     {
       "key": "CosmeticsBusiness",
-      "label": null,
+      "label": "化粧品事業",
       "external_revenue": 251472000000,
       "operating_income": 14086000000
     },
     {
       "key": "HealthAndBeautyCareBusiness",
-      "label": null,
+      "label": "ヘルス＆ビューティケア事業",
       "external_revenue": 369549000000,
       "operating_income": 34596000000
     },
     {
       "key": "HygieneAndLivingCareBusiness",
-      "label": null,
+      "label": "ハイジーン＆リビングケア事業",
       "external_revenue": 516548000000,
       "operating_income": 30674000000
     },
     {
       "key": "LifeCareBusiness",
-      "label": null,
+      "label": "ライフケア事業",
       "external_revenue": 55734000000,
       "operating_income": -15000000
     }

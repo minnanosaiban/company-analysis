@@ -53,21 +53,21 @@
   "segments": [
     {
       "key": "DomesticParking",
-      "label": null,
+      "label": "駐車場事業国内",
       "external_revenue": 176704000000,
       "intersegment_revenue": 5598000000,
       "operating_income": 39956000000
     },
     {
       "key": "Mobility",
-      "label": null,
+      "label": "モビリティ事業",
       "external_revenue": 111796000000,
       "intersegment_revenue": 262000000,
       "operating_income": 17488000000
     },
     {
       "key": "OverseasParking",
-      "label": null,
+      "label": "駐車場事業海外",
       "external_revenue": 82411000000,
       "operating_income": -967000000
     }

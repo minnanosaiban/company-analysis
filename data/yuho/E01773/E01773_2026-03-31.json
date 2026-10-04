@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "DisplayDevice",
-      "label": null,
+      "label": "ディスプレイデバイス",
       "external_revenue": 419126000000,
       "intersegment_revenue": 4378000000,
       "operating_income": -18277000000
     },
     {
       "key": "SmartLife",
-      "label": null,
+      "label": "スマートライフ",
       "external_revenue": 597488000000,
       "intersegment_revenue": 509000000,
       "operating_income": 28456000000
     },
     {
       "key": "SmartWorkplace",
-      "label": null,
+      "label": "スマートワークプレイス",
       "external_revenue": 832271000000,
       "intersegment_revenue": 1551000000,
       "operating_income": 57597000000

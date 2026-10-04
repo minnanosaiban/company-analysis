@@ -55,27 +55,27 @@
   "segments": [
     {
       "key": "EngineeringPlastics",
-      "label": null,
+      "label": "エンジニアリングプラスチック事業",
       "external_revenue": 212267000000,
       "intersegment_revenue": 264000000,
       "operating_income": 22110000000
     },
     {
       "key": "MedicalHealthcare",
-      "label": null,
+      "label": "メディカル・ヘルスケア事業",
       "external_revenue": 19494000000,
       "intersegment_revenue": 527000000,
       "operating_income": 2439000000
     },
     {
       "key": "Safety",
-      "label": null,
+      "label": "セイフティ事業",
       "external_revenue": 69455000000,
       "operating_income": 2583000000
     },
     {
       "key": "Smart",
-      "label": null,
+      "label": "スマート事業",
       "external_revenue": 32490000000,
       "intersegment_revenue": 640000000,
       "operating_income": 4035000000

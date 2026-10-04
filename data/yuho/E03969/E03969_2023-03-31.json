@@ -54,21 +54,21 @@
   "segments": [
     {
       "key": "HotelRestaurantsAndOthers",
-      "label": null,
+      "label": "ホテルレストラン等事業",
       "external_revenue": 89747000000,
       "intersegment_revenue": 3019000000,
       "operating_income": 4167000000
     },
     {
       "key": "Medical",
-      "label": null,
+      "label": "メディカル事業",
       "external_revenue": 44422000000,
       "intersegment_revenue": 395000000,
       "operating_income": 6053000000
     },
     {
       "key": "MembershipFee",
-      "label": null,
+      "label": "会員権事業",
       "external_revenue": 34945000000,
       "intersegment_revenue": 39000000,
       "operating_income": 11182000000

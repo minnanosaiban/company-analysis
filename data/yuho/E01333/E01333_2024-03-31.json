@@ -55,35 +55,35 @@
   "segments": [
     {
       "key": "Automotive",
-      "label": null,
+      "label": "自動車関連事業",
       "external_revenue": 2593472000000,
       "intersegment_revenue": 2932000000,
       "operating_income": 144674000000
     },
     {
       "key": "Electronics",
-      "label": null,
+      "label": "エレクトロニクス関連事業",
       "external_revenue": 308383000000,
       "intersegment_revenue": 48095000000,
       "operating_income": 29297000000
     },
     {
       "key": "EnvironmentAndEnergy",
-      "label": null,
+      "label": "環境エネルギー関連事業",
       "external_revenue": 949182000000,
       "intersegment_revenue": 30795000000,
       "operating_income": 42890000000
     },
     {
       "key": "IndustrialMaterialsAndOthers",
-      "label": null,
+      "label": "産業素材関連事業他",
       "external_revenue": 349117000000,
       "intersegment_revenue": 15068000000,
       "operating_income": 21067000000
     },
     {
       "key": "Infocommunications",
-      "label": null,
+      "label": "情報通信関連事業",
       "external_revenue": 202660000000,
       "intersegment_revenue": 3414000000,
       "operating_income": -11552000000

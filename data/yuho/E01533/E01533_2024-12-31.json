@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "EnergyAndLifeline",
-      "label": null,
+      "label": "エネルギー アンド ライフライン",
       "external_revenue": 181976000000,
       "intersegment_revenue": 1219000000,
       "operating_income": 3766000000
@@ -81,7 +81,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 6230000000,
       "intersegment_revenue": 3553000000,
       "operating_income": 2037000000

@@ -51,14 +51,14 @@
   "segments": [
     {
       "key": "DrugDiscoveryAndDevelopmentBusiness",
-      "label": null,
+      "label": "創薬開発事業",
       "external_revenue": 15406109000,
       "revenue": 15406109000,
       "operating_income": 9179911000
     },
     {
       "key": "RadiopharmaceuticalsBusiness",
-      "label": null,
+      "label": "放射性医薬品事業",
       "external_revenue": 11446321000,
       "intersegment_revenue": 27182000,
       "revenue": 11473503000,

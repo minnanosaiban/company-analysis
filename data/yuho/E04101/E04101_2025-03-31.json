@@ -54,42 +54,42 @@
   "segments": [
     {
       "key": "AviationAndRelatedServices",
-      "label": null,
+      "label": "航空関連サービス事業",
       "external_revenue": 29729000000,
       "intersegment_revenue": 52000000,
       "operating_income": 2266000000
     },
     {
       "key": "Distribution",
-      "label": null,
+      "label": "流通事業",
       "external_revenue": 65529000000,
       "intersegment_revenue": 3583000000,
       "operating_income": -1292000000
     },
     {
       "key": "LeisureAndServices",
-      "label": null,
+      "label": "レジャー・サービス事業",
       "external_revenue": 102057000000,
       "intersegment_revenue": 625000000,
       "operating_income": 2546000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産事業",
       "external_revenue": 116408000000,
       "intersegment_revenue": 12620000000,
       "operating_income": 18947000000
     },
     {
       "key": "Traffic",
-      "label": null,
+      "label": "交通事業",
       "external_revenue": 156942000000,
       "intersegment_revenue": 2882000000,
       "operating_income": 19602000000
     },
     {
       "key": "Transport",
-      "label": null,
+      "label": "運送事業",
       "external_revenue": 179757000000,
       "intersegment_revenue": 425000000,
       "operating_income": -3721000000

@@ -54,7 +54,7 @@
   "segments": [
     {
       "key": "CarbonFiberCompositeMaterials",
-      "label": null,
+      "label": "炭素繊維複合材料事業",
       "external_revenue": 290478000000,
       "intersegment_revenue": 830000000,
       "revenue": 291308000000,
@@ -63,7 +63,7 @@
     },
     {
       "key": "EnvironmentAndEngineering",
-      "label": null,
+      "label": "環境・エンジニアリング事業",
       "external_revenue": 244086000000,
       "intersegment_revenue": 52145000000,
       "revenue": 296231000000,
@@ -72,7 +72,7 @@
     },
     {
       "key": "FibersAndTextiles",
-      "label": null,
+      "label": "繊維事業",
       "external_revenue": 974790000000,
       "intersegment_revenue": 1785000000,
       "revenue": 976575000000,
@@ -81,7 +81,7 @@
     },
     {
       "key": "LifeScience",
-      "label": null,
+      "label": "ライフサイエンス事業",
       "external_revenue": 52234000000,
       "revenue": 52234000000,
       "operating_income": -1343000000,
@@ -89,7 +89,7 @@
     },
     {
       "key": "PerformanceChemicals",
-      "label": null,
+      "label": "機能化成品事業",
       "external_revenue": 886079000000,
       "intersegment_revenue": 17493000000,
       "revenue": 903572000000,

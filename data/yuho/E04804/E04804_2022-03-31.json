@@ -47,14 +47,14 @@
   "segments": [
     {
       "key": "RecruitingPlacementBusinessForEngineers",
-      "label": null,
+      "label": "エンジニア紹介事業",
       "external_revenue": 1438000000,
       "intersegment_revenue": 91000000,
       "operating_income": 474000000
     },
     {
       "key": "TemporaryStaffingBusiness",
-      "label": null,
+      "label": "エンジニアリングソリューション事業",
       "external_revenue": 105702000000,
       "intersegment_revenue": 13000000,
       "operating_income": 12343000000

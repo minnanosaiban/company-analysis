@@ -50,14 +50,14 @@
   "segments": [
     {
       "key": "VacuumApplicationBusiness",
-      "label": null,
+      "label": "真空応用事業",
       "external_revenue": 41162000000,
       "intersegment_revenue": 2137000000,
       "operating_income": 2930000000
     },
     {
       "key": "VacuumEquipmentBusiness",
-      "label": null,
+      "label": "真空機器事業",
       "external_revenue": 200098000000,
       "intersegment_revenue": 3934000000,
       "operating_income": 27129000000

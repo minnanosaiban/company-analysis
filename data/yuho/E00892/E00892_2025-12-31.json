@@ -52,14 +52,14 @@
   "segments": [
     {
       "key": "AOC",
-      "label": null,
+      "label": "AOC",
       "external_revenue": 157282000000,
       "revenue": 157282000000,
       "operating_income": 48585000000
     },
     {
       "key": "Americas",
-      "label": null,
+      "label": "米州",
       "external_revenue": 118952000000,
       "intersegment_revenue": 96000000,
       "revenue": 119049000000,
@@ -67,7 +67,7 @@
     },
     {
       "key": "DuluxGroup",
-      "label": null,
+      "label": "DuluxGroup",
       "external_revenue": 405173000000,
       "intersegment_revenue": 534000000,
       "revenue": 405708000000,
@@ -75,7 +75,7 @@
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 205360000000,
       "intersegment_revenue": 21041000000,
       "revenue": 226402000000,
@@ -83,7 +83,7 @@
     },
     {
       "key": "NIPSEA",
-      "label": null,
+      "label": "NIPSEA",
       "external_revenue": 887462000000,
       "intersegment_revenue": 15508000000,
       "revenue": 902971000000,

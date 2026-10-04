@@ -55,48 +55,48 @@
   "segments": [
     {
       "key": "ArchitecturalCivilEngineering",
-      "label": null,
+      "label": "建築・土木事業",
       "external_revenue": 298344000000,
       "intersegment_revenue": 3949000000,
       "operating_income": 22049000000
     },
     {
       "key": "CustomDetachedHouses",
-      "label": null,
+      "label": "戸建住宅事業",
       "external_revenue": 478799000000,
       "intersegment_revenue": 153000000,
       "operating_income": 48035000000
     },
     {
       "key": "Development",
-      "label": null,
+      "label": "開発事業",
       "external_revenue": 670240000000,
       "intersegment_revenue": 11748000000,
       "operating_income": 94970000000
     },
     {
       "key": "Overseas",
-      "label": null,
+      "label": "国際事業",
       "external_revenue": 1286358000000,
       "operating_income": 39102000000
     },
     {
       "key": "Remodeling",
-      "label": null,
+      "label": "リフォーム事業",
       "external_revenue": 186719000000,
       "intersegment_revenue": 1238000000,
       "operating_income": 27966000000
     },
     {
       "key": "RentalHousingAndCommercialBuildings",
-      "label": null,
+      "label": "賃貸・事業用建物事業",
       "external_revenue": 558082000000,
       "intersegment_revenue": 6730000000,
       "operating_income": 87826000000
     },
     {
       "key": "RentalHousingManagement",
-      "label": null,
+      "label": "賃貸住宅管理事業",
       "external_revenue": 707428000000,
       "intersegment_revenue": 5193000000,
       "operating_income": 68996000000

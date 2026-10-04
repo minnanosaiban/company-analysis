@@ -51,26 +51,26 @@
   "segments": [
     {
       "key": "Arm",
-      "label": null,
+      "label": "AIコンピューティング",
       "external_revenue": 590168000000,
       "intersegment_revenue": 22179000000,
       "profit_before_tax": 47667000000
     },
     {
       "key": "HoldingCompanyInvestmentBusiness",
-      "label": null,
+      "label": "持株会社投資事業",
       "profit_before_tax": 794251000000
     },
     {
       "key": "SoftBank",
-      "label": null,
+      "label": "ソフトバンク事業",
       "external_revenue": 6541357000000,
       "intersegment_revenue": 2918000000,
       "profit_before_tax": 906309000000
     },
     {
       "key": "SoftBankVisionFundsBusiness",
-      "label": null,
+      "label": "ソフトバンク・ビジョン・ファンド事業",
       "profit_before_tax": -115018000000
     }
   ],

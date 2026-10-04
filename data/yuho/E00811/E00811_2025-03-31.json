@@ -49,7 +49,7 @@
   "segments": [
     {
       "key": "Materials",
-      "label": null,
+      "label": "マテリアルズ",
       "external_revenue": 294092000000,
       "intersegment_revenue": 16737000000,
       "revenue": 310829000000,
@@ -58,7 +58,7 @@
     },
     {
       "key": "Solutions",
-      "label": null,
+      "label": "ソリューションズ",
       "external_revenue": 115254000000,
       "intersegment_revenue": 2842000000,
       "revenue": 118096000000,

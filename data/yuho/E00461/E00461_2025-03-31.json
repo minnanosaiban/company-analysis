@@ -52,41 +52,41 @@
   "segments": [
     {
       "key": "ColdStorage",
-      "label": null,
+      "label": "冷蔵事業",
       "external_revenue": 25367000000,
       "intersegment_revenue": 1155000000,
       "operating_income": 2274000000
     },
     {
       "key": "DomesticInstantNoodles",
-      "label": null,
+      "label": "国内即席麺事業",
       "external_revenue": 103033000000,
       "intersegment_revenue": 99000000,
       "operating_income": 9824000000
     },
     {
       "key": "FrozenAndRefrigeratedFoods",
-      "label": null,
+      "label": "低温食品事業",
       "external_revenue": 59831000000,
       "intersegment_revenue": 11000000,
       "operating_income": 8044000000
     },
     {
       "key": "OverseasInstantNoodles",
-      "label": null,
+      "label": "海外即席麺事業",
       "external_revenue": 229276000000,
       "operating_income": 54412000000
     },
     {
       "key": "ProcessedFoods",
-      "label": null,
+      "label": "加工食品事業",
       "external_revenue": 22151000000,
       "intersegment_revenue": 1000000,
       "operating_income": 27000000
     },
     {
       "key": "Seafood",
-      "label": null,
+      "label": "水産食品事業",
       "external_revenue": 30333000000,
       "intersegment_revenue": 1137000000,
       "operating_income": 854000000

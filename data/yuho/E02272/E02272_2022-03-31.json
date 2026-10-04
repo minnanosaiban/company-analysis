@@ -54,7 +54,7 @@
   "segments": [
     {
       "key": "EndoscopicSolutions",
-      "label": null,
+      "label": "内視鏡",
       "external_revenue": 461547000000,
       "operating_income": 133204000000,
       "equity_method_income": 1539000000,
@@ -62,7 +62,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 12990000000,
       "intersegment_revenue": 373000000,
       "operating_income": -2018000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "TherapeuticSolutions",
-      "label": null,
+      "label": "治療機器",
       "external_revenue": 275586000000,
       "operating_income": 60826000000,
       "equity_method_income": -47000000,

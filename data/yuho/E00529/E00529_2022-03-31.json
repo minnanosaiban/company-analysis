@@ -50,14 +50,14 @@
   "segments": [
     {
       "key": "FiberBusiness",
-      "label": null,
+      "label": "繊維事業",
       "external_revenue": 58289000000,
       "intersegment_revenue": 202000000,
       "operating_income": 1617000000
     },
     {
       "key": "ITInfrastructureDistributionBusiness",
-      "label": null,
+      "label": "ＩＴインフラ流通事業",
       "external_revenue": 691281000000,
       "intersegment_revenue": 233000000,
       "operating_income": 21651000000

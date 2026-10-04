@@ -50,21 +50,21 @@
   "segments": [
     {
       "key": "AdvancedAutomationBusiness",
-      "label": null,
+      "label": "アドバンスオートメーション事業",
       "external_revenue": 93214000000,
       "intersegment_revenue": 1061000000,
       "operating_income": 13236000000
     },
     {
       "key": "BuildingAutomationBusiness",
-      "label": null,
+      "label": "ビルディングオートメーション事業",
       "external_revenue": 119383000000,
       "intersegment_revenue": 381000000,
       "operating_income": 13862000000
     },
     {
       "key": "LifeAutomationBusiness",
-      "label": null,
+      "label": "ライフオートメーション事業",
       "external_revenue": 43900000000,
       "intersegment_revenue": 337000000,
       "operating_income": 1151000000

@@ -51,42 +51,42 @@
   "segments": [
     {
       "key": "ArchitecturalDesignAndEngineeringAndRealEstateServicesBusiness",
-      "label": null,
+      "label": "設計監理・不動産サービス事業",
       "external_revenue": 74541000000,
       "intersegment_revenue": 13871000000,
       "operating_income": 12614000000
     },
     {
       "key": "CommercialPropertyBusiness",
-      "label": null,
+      "label": "コマーシャル不動産事業",
       "external_revenue": 608987000000,
       "intersegment_revenue": 7972000000,
       "operating_income": 135677000000
     },
     {
       "key": "InternationalBusiness",
-      "label": null,
+      "label": "海外事業",
       "external_revenue": 199402000000,
       "intersegment_revenue": -548000000,
       "operating_income": 57111000000
     },
     {
       "key": "InvestmentManagement",
-      "label": null,
+      "label": "投資マネジメント事業",
       "external_revenue": 34503000000,
       "intersegment_revenue": 2497000000,
       "operating_income": 1435000000
     },
     {
       "key": "MarunouchiPropertyBusiness",
-      "label": null,
+      "label": "丸の内事業",
       "external_revenue": 377358000000,
       "intersegment_revenue": 31638000000,
       "operating_income": 97534000000
     },
     {
       "key": "ResidentialBusiness",
-      "label": null,
+      "label": "住宅事業",
       "external_revenue": 450557000000,
       "intersegment_revenue": 3323000000,
       "operating_income": 57287000000

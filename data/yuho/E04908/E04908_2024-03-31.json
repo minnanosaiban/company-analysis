@@ -52,35 +52,35 @@
   "segments": [
     {
       "key": "Construction",
-      "label": null,
+      "label": "デベロップメント",
       "external_revenue": 1653000000,
       "intersegment_revenue": 1969000000,
       "operating_income": 340000000
     },
     {
       "key": "ContractedServices",
-      "label": null,
+      "label": "総合ビルマネジメント",
       "external_revenue": 7784000000,
       "intersegment_revenue": 14819000000,
       "operating_income": 824000000
     },
     {
       "key": "Dormitories",
-      "label": null,
+      "label": "寮",
       "external_revenue": 52062000000,
       "intersegment_revenue": 240000000,
       "operating_income": 5881000000
     },
     {
       "key": "FoodServices",
-      "label": null,
+      "label": "フーズ",
       "external_revenue": 1651000000,
       "intersegment_revenue": 9452000000,
       "operating_income": 208000000
     },
     {
       "key": "Hotels",
-      "label": null,
+      "label": "ホテル",
       "external_revenue": 125433000000,
       "intersegment_revenue": 136000000,
       "operating_income": 14843000000

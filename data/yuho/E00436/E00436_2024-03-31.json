@@ -47,14 +47,14 @@
   "segments": [
     {
       "key": "FrozenFoods",
-      "label": null,
+      "label": "冷凍食品",
       "external_revenue": 281870000000,
       "intersegment_revenue": 152000000,
       "assets": 209982000000
     },
     {
       "key": "HealthcareAndOthers",
-      "label": null,
+      "label": "ヘルスケア等",
       "external_revenue": 294564000000,
       "intersegment_revenue": 3689000000,
       "equity_method_income": -71000000,
@@ -62,7 +62,7 @@
     },
     {
       "key": "SeasoningsAndFoods",
-      "label": null,
+      "label": "調味料・食品",
       "external_revenue": 846977000000,
       "intersegment_revenue": 7399000000,
       "equity_method_income": 1518000000,

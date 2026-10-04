@@ -51,34 +51,34 @@
   "segments": [
     {
       "key": "AssetValueAddedBusiness",
-      "label": null,
+      "label": "アセットバリューアッド事業",
       "external_revenue": 26808000000,
       "intersegment_revenue": 287000000,
       "operating_income": 7479000000
     },
     {
       "key": "BuildingConstruction",
-      "label": null,
+      "label": "建築事業",
       "external_revenue": 193154000000,
       "intersegment_revenue": 227000000,
       "operating_income": 6421000000
     },
     {
       "key": "CivilEngineering",
-      "label": null,
+      "label": "土木事業",
       "external_revenue": 107994000000,
       "operating_income": 8839000000
     },
     {
       "key": "InternationalBusiness",
-      "label": null,
+      "label": "国際事業",
       "external_revenue": 38317000000,
       "intersegment_revenue": 8181000000,
       "operating_income": -802000000
     },
     {
       "key": "RegionalEnvironmentalSolutionsBusiness",
-      "label": null,
+      "label": "地域環境ソリューション事業",
       "external_revenue": 535000000,
       "operating_income": -734000000
     }

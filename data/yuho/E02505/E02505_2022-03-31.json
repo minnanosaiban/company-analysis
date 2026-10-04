@@ -41,7 +41,7 @@
     },
     {
       "key": "Automotive",
-      "label": null,
+      "label": "自動車",
       "external_revenue": 685596000000,
       "intersegment_revenue": 1337000000,
       "gross_profit": 96569000000,
@@ -51,7 +51,7 @@
     },
     {
       "key": "ChemicalsAndElectronics",
-      "label": null,
+      "label": "化学品・エレクトロニクス",
       "external_revenue": 1898098000000,
       "intersegment_revenue": 4717000000,
       "gross_profit": 133853000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "FoodAndConsumerServices",
-      "label": null,
+      "label": "食料・生活産業",
       "external_revenue": 591155000000,
       "intersegment_revenue": 618000000,
       "gross_profit": 47212000000,
@@ -71,7 +71,7 @@
     },
     {
       "key": "GlobalPartsAndLogistics",
-      "label": null,
+      "label": "グローバル部品・ロジスティクス",
       "external_revenue": 922677000000,
       "intersegment_revenue": 31078000000,
       "gross_profit": 81431000000,
@@ -81,7 +81,7 @@
     },
     {
       "key": "MachineryEnergyAndProject",
-      "label": null,
+      "label": "機械・エネルギー・プラントプロジェクト",
       "external_revenue": 689864000000,
       "intersegment_revenue": 3400000000,
       "gross_profit": 72637000000,
@@ -91,7 +91,7 @@
     },
     {
       "key": "Metals",
-      "label": null,
+      "label": "金属",
       "external_revenue": 2101644000000,
       "intersegment_revenue": 2993000000,
       "gross_profit": 133113000000,

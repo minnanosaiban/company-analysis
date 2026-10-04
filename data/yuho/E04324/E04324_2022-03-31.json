@@ -55,14 +55,14 @@
   "segments": [
     {
       "key": "Logistics",
-      "label": null,
+      "label": "物流事業",
       "external_revenue": 286945000000,
       "intersegment_revenue": 3593000000,
       "operating_income": 10996000000
     },
     {
       "key": "PlantEngineeringAndMaintenance",
-      "label": null,
+      "label": "機工事業",
       "external_revenue": 242851000000,
       "intersegment_revenue": 2999000000,
       "operating_income": 22163000000

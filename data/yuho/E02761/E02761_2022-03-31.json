@@ -48,19 +48,19 @@
   "segments": [
     {
       "key": "ElectricalEquipmentAndMaterialsDivision",
-      "label": null,
+      "label": "電設資材事業",
       "external_revenue": 193923000000,
       "intersegment_revenue": 2382000000
     },
     {
       "key": "IndustrialSolutionsDivision",
-      "label": null,
+      "label": "産業機器事業",
       "external_revenue": 33876000000,
       "intersegment_revenue": 855000000
     },
     {
       "key": "ProprietaryProductsDivision",
-      "label": null,
+      "label": "自社製品事業",
       "external_revenue": 61271000000,
       "intersegment_revenue": 3878000000
     }

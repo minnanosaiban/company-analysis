@@ -50,28 +50,28 @@
   "segments": [
     {
       "key": "TheHealthcareRelatedServicesBusiness",
-      "label": null,
+      "label": "医療関連サービス等事業",
       "external_revenue": 39431000000,
       "intersegment_revenue": 189260000000,
       "operating_income": 2018000000
     },
     {
       "key": "TheInsurancePharmacyBusiness",
-      "label": null,
+      "label": "保険薬局事業",
       "external_revenue": 87718000000,
       "intersegment_revenue": 23000000,
       "operating_income": 2034000000
     },
     {
       "key": "ThePharmaceuticalDistributionBusiness",
-      "label": null,
+      "label": "医薬品卸売事業",
       "external_revenue": 2177030000000,
       "intersegment_revenue": 49888000000,
       "operating_income": 27050000000
     },
     {
       "key": "ThePharmaceuticalManufacturingBusiness",
-      "label": null,
+      "label": "医薬品製造事業",
       "external_revenue": 10648000000,
       "intersegment_revenue": 33734000000,
       "operating_income": 1221000000

@@ -54,14 +54,14 @@
   "segments": [
     {
       "key": "Engineering",
-      "label": null,
+      "label": "エンジニアリング",
       "external_revenue": 22406000000,
       "operating_income": 547000000,
       "equity_method_income": -160000000
     },
     {
       "key": "Machinery",
-      "label": null,
+      "label": "機械",
       "external_revenue": 174211000000,
       "intersegment_revenue": 490000000,
       "operating_income": 8374000000,
@@ -69,13 +69,13 @@
     },
     {
       "key": "OceanDevelopment",
-      "label": null,
+      "label": "海洋開発",
       "operating_income": 2311000000,
       "equity_method_income": 2311000000
     },
     {
       "key": "Ship",
-      "label": null,
+      "label": "船舶",
       "external_revenue": 6598000000,
       "intersegment_revenue": 32000000,
       "operating_income": 83000000,

@@ -52,14 +52,14 @@
   "segments": [
     {
       "key": "MediaAndContent",
-      "label": null,
+      "label": "メディア・コンテンツ事業",
       "external_revenue": 349876000000,
       "intersegment_revenue": 1012000000,
       "operating_income": -30835000000
     },
     {
       "key": "UrbanDevelopmentHotelsAndResorts",
-      "label": null,
+      "label": "都市開発・観光事業",
       "external_revenue": 192859000000,
       "intersegment_revenue": 636000000,
       "operating_income": 25185000000

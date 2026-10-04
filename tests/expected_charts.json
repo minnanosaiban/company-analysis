@@ -569,15 +569,15 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Transportation",
+      "交通業",
       29517000000.0
      ],
      [
-      "Real Estate",
+      "不動産業",
       15473000000.0
      ],
      [
-      "Living Services",
+      "生活サービス業",
       7658000000.0
      ]
     ],
@@ -588,15 +588,15 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Transportation",
+      "交通業",
       29517000000.0
      ],
      [
-      "Real Estate",
+      "不動産業",
       15473000000.0
      ],
      [
-      "Living Services",
+      "生活サービス業",
       7658000000.0
      ]
     ],
@@ -607,15 +607,15 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Transportation",
+      "交通業",
       26495000000.0
      ],
      [
-      "Real Estate",
+      "不動産業",
       15852000000.0
      ],
      [
-      "Living Services",
+      "生活サービス業",
       9062000000.0
      ]
     ],
@@ -626,15 +626,15 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Transportation",
+      "交通業",
       26495000000.0
      ],
      [
-      "Real Estate",
+      "不動産業",
       15852000000.0
      ],
      [
-      "Living Services",
+      "生活サービス業",
       9062000000.0
      ]
     ],
@@ -647,19 +647,19 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Engineering",
+      "エンジニアリング",
       40383000000.0
      ],
      [
-      "Specialty",
+      "機能商品",
       39933000000.0
      ],
      [
-      "Petrochemical",
+      "石油化学",
       9716000000.0
      ],
      [
-      "Chlor Alkali",
+      "クロル・アルカリ",
       1915000000.0
      ]
     ],
@@ -670,19 +670,19 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Engineering",
+      "エンジニアリング",
       40383000000.0
      ],
      [
-      "Specialty",
+      "機能商品",
       39933000000.0
      ],
      [
-      "Petrochemical",
+      "石油化学",
       9716000000.0
      ],
      [
-      "Chlor Alkali",
+      "クロル・アルカリ",
       1915000000.0
      ]
     ],
@@ -693,19 +693,19 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Specialty",
+      "機能商品",
       38628000000.0
      ],
      [
-      "Engineering",
+      "エンジニアリング",
       33638000000.0
      ],
      [
-      "Petrochemical",
+      "石油化学",
       14280000000.0
      ],
      [
-      "Chlor Alkali",
+      "クロル・アルカリ",
       9469000000.0
      ]
     ],
@@ -716,19 +716,19 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Specialty",
+      "機能商品",
       38628000000.0
      ],
      [
-      "Engineering",
+      "エンジニアリング",
       33638000000.0
      ],
      [
-      "Petrochemical",
+      "石油化学",
       14280000000.0
      ],
      [
-      "Chlor Alkali",
+      "クロル・アルカリ",
       9469000000.0
      ]
     ],
@@ -827,11 +827,11 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Multi Pin Connectors",
+      "多極コネクタ",
       36767000000.0
      ],
      [
-      "Coaxial Connectors",
+      "同軸コネクタ",
       5875000000.0
      ]
     ],
@@ -842,11 +842,11 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Multi Pin Connectors",
+      "多極コネクタ",
       36767000000.0
      ],
      [
-      "Coaxial Connectors",
+      "同軸コネクタ",
       5875000000.0
      ]
     ],
@@ -857,11 +857,11 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Multi Pin Connectors",
+      "多極コネクタ",
       39391000000.0
      ],
      [
-      "Coaxial Connectors",
+      "同軸コネクタ",
       3378000000.0
      ]
     ],
@@ -872,11 +872,11 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Multi Pin Connectors",
+      "多極コネクタ",
       39391000000.0
      ],
      [
-      "Coaxial Connectors",
+      "同軸コネクタ",
       3378000000.0
      ]
     ],
@@ -889,19 +889,19 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Marine Propulsion Systems",
+      "舶用推進システム",
       14474000000.0
      ],
      [
-      "Logistics Systems",
+      "物流システム",
       13939000000.0
      ],
      [
-      "New Business Development",
+      "成長事業推進",
       8772000000.0
      ],
      [
-      "Peripheral Businesses",
+      "周辺サービス",
       826000000.0
      ]
     ],
@@ -912,19 +912,19 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Marine Propulsion Systems",
+      "舶用推進システム",
       14474000000.0
      ],
      [
-      "Logistics Systems",
+      "物流システム",
       13939000000.0
      ],
      [
-      "New Business Development",
+      "成長事業推進",
       8772000000.0
      ],
      [
-      "Peripheral Businesses",
+      "周辺サービス",
       826000000.0
      ]
     ],
@@ -935,25 +935,25 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Marine Propulsion Systems",
+      "舶用推進システム",
       7476000000.0
      ],
      [
-      "New Business Development",
+      "成長事業推進",
       6831000000.0
      ],
      [
-      "Logistics Systems",
+      "物流システム",
       5954000000.0
      ],
      [
-      "Ocean Development",
+      "海洋開発",
       3757000000.0
      ]
     ],
     "negatives": [
      [
-      "Peripheral Businesses",
+      "周辺サービス",
       -1615000000.0
      ]
     ]
@@ -963,25 +963,25 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Marine Propulsion Systems",
+      "舶用推進システム",
       7476000000.0
      ],
      [
-      "New Business Development",
+      "成長事業推進",
       6831000000.0
      ],
      [
-      "Logistics Systems",
+      "物流システム",
       5954000000.0
      ],
      [
-      "Ocean Development",
+      "海洋開発",
       3757000000.0
      ]
     ],
     "negatives": [
      [
-      "Peripheral Businesses",
+      "周辺サービス",
       -1615000000.0
      ]
     ]
@@ -993,33 +993,33 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Global Prepared Food",
+      "グローバル中食",
       27376000000.0
      ],
      [
-      "Global Hamazushi",
+      "グローバルはま寿司",
       26771000000.0
      ],
      [
-      "Restaurant",
+      "レストラン",
       12998000000.0
      ],
      [
-      "Global Sukiya",
+      "グローバルすき家",
       9317000000.0
      ],
      [
-      "Global Fastfood",
+      "グローバルファストフード",
       3310000000.0
      ],
      [
-      "Headoffice And Support",
+      "本社・サポート",
       2780000000.0
      ]
     ],
     "negatives": [
      [
-      "Retail",
+      "小売",
       -1025000000.0
      ]
     ]
@@ -1029,33 +1029,33 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Global Prepared Food",
+      "グローバル中食",
       27376000000.0
      ],
      [
-      "Global Hamazushi",
+      "グローバルはま寿司",
       26771000000.0
      ],
      [
-      "Restaurant",
+      "レストラン",
       12998000000.0
      ],
      [
-      "Global Sukiya",
+      "グローバルすき家",
       9317000000.0
      ],
      [
-      "Global Fastfood",
+      "グローバルファストフード",
       3310000000.0
      ],
      [
-      "Headoffice And Support",
+      "本社・サポート",
       2780000000.0
      ]
     ],
     "negatives": [
      [
-      "Retail",
+      "小売",
       -1025000000.0
      ]
     ]
@@ -1065,29 +1065,29 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Global Fastfood",
+      "グローバルファストフード",
       29150000000.0
      ],
      [
-      "Global Sukiya",
+      "グローバルすき家",
       24508000000.0
      ],
      [
-      "Global Hamazushi",
+      "グローバルはま寿司",
       21352000000.0
      ],
      [
-      "Restaurant",
+      "レストラン",
       11393000000.0
      ]
     ],
     "negatives": [
      [
-      "Headoffice And Support",
+      "本社・サポート",
       -7418000000.0
      ],
      [
-      "Retail",
+      "小売",
       -1794000000.0
      ]
     ]
@@ -1097,29 +1097,29 @@
     "metric": "operating_income",
     "rows": [
      [
-      "Global Fastfood",
+      "グローバルファストフード",
       29150000000.0
      ],
      [
-      "Global Sukiya",
+      "グローバルすき家",
       24508000000.0
      ],
      [
-      "Global Hamazushi",
+      "グローバルはま寿司",
       21352000000.0
      ],
      [
-      "Restaurant",
+      "レストラン",
       11393000000.0
      ]
     ],
     "negatives": [
      [
-      "Headoffice And Support",
+      "本社・サポート",
       -7418000000.0
      ],
      [
-      "Retail",
+      "小売",
       -1794000000.0
      ]
     ]
@@ -1457,7 +1457,7 @@
      ]
     ],
     [
-     "Infrastructure And Healthcare",
+     "インフラ・ヘルスケア",
      [
       6624000000,
       7644000000,
@@ -1467,7 +1467,7 @@
      ]
     ],
     [
-     "Aerospace And Transportation Project",
+     "航空産業・交通プロジェクト",
      [
       4687000000,
       6960000000,
@@ -1721,7 +1721,7 @@
      ]
     ],
     [
-     "Metals",
+     "金属",
      [
       158219000000,
       68677000000,
@@ -1731,7 +1731,7 @@
      ]
     ],
     [
-     "Energy",
+     "エネルギー",
      [
       477451000000,
       50973000000,
@@ -1931,7 +1931,7 @@
    ],
    "series": [
     [
-     "Transportation",
+     "交通業",
      [
       -5491000000,
       8463000000,
@@ -1941,7 +1941,7 @@
      ]
     ],
     [
-     "Real Estate",
+     "不動産業",
      [
       18570000000,
       18047000000,
@@ -1951,7 +1951,7 @@
      ]
     ],
     [
-     "Living Services",
+     "生活サービス業",
      [
       null,
       null,
@@ -1961,7 +1961,7 @@
      ]
     ],
     [
-     "Merchandising",
+     "流通業",
      [
       1695000000,
       866000000,
@@ -1980,23 +1980,7 @@
    ],
    "series": [
     [
-     "Living Services",
-     [
-      null,
-      9062000000,
-      7658000000
-     ]
-    ],
-    [
-     "Merchandising",
-     [
-      1936000000,
-      null,
-      null
-     ]
-    ],
-    [
-     "Real Estate",
+     "不動産業",
      [
       17190000000,
       15852000000,
@@ -2004,11 +1988,27 @@
      ]
     ],
     [
-     "Transportation",
+     "交通業",
      [
       25571000000,
       26495000000,
       29517000000
+     ]
+    ],
+    [
+     "流通業",
+     [
+      1936000000,
+      null,
+      null
+     ]
+    ],
+    [
+     "生活サービス業",
+     [
+      null,
+      9062000000,
+      7658000000
      ]
     ]
    ]

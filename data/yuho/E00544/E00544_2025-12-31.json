@@ -52,49 +52,49 @@
   "segments": [
     {
       "key": "AutomobileBrakes",
-      "label": null,
+      "label": "ブレーキ",
       "external_revenue": 57795000000,
       "intersegment_revenue": 12000000,
       "operating_income": 3385000000
     },
     {
       "key": "Chemicals",
-      "label": null,
+      "label": "化学品",
       "external_revenue": 9736000000,
       "intersegment_revenue": 395000000,
       "operating_income": -56000000
     },
     {
       "key": "ElectronicsMicrodevice",
-      "label": null,
+      "label": "マイクロデバイス",
       "external_revenue": 62400000000,
       "intersegment_revenue": 640000000,
       "operating_income": -5505000000
     },
     {
       "key": "ElectronicsWirelessAndCommunications",
-      "label": null,
+      "label": "無線・通信",
       "external_revenue": 251837000000,
       "intersegment_revenue": 395000000,
       "operating_income": 17668000000
     },
     {
       "key": "PrecisionInstruments",
-      "label": null,
+      "label": "精密機器",
       "external_revenue": 55442000000,
       "intersegment_revenue": 136000000,
       "operating_income": 2976000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産",
       "external_revenue": 17939000000,
       "intersegment_revenue": 1486000000,
       "operating_income": 12667000000
     },
     {
       "key": "Textiles",
-      "label": null,
+      "label": "繊維",
       "external_revenue": 33345000000,
       "intersegment_revenue": 43000000,
       "operating_income": 98000000

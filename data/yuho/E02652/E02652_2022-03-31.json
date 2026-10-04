@@ -48,12 +48,12 @@
   "segments": [
     {
       "key": "FlatPanelDisplayProductionEquipment",
-      "label": null,
+      "label": "ＦＰＤ製造装置",
       "external_revenue": 59830000000
     },
     {
       "key": "SemiconductorProductionEquipment",
-      "label": null,
+      "label": "半導体製造装置",
       "external_revenue": 1943843000000
     }
   ],

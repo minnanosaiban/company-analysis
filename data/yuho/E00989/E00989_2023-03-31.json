@@ -54,28 +54,28 @@
   "segments": [
     {
       "key": "DigitalWorkplaceBusiness",
-      "label": null,
+      "label": "デジタルワークプレイス事業",
       "external_revenue": 600279000000,
       "intersegment_revenue": 4144000000,
       "operating_income": 9262000000
     },
     {
       "key": "HealthcareBusiness",
-      "label": null,
+      "label": "ヘルスケア事業",
       "external_revenue": 137841000000,
       "intersegment_revenue": 666000000,
       "operating_income": -112230000000
     },
     {
       "key": "IndustryBusiness",
-      "label": null,
+      "label": "インダストリー事業",
       "external_revenue": 137547000000,
       "intersegment_revenue": 6000000000,
       "operating_income": 10806000000
     },
     {
       "key": "ProfessionalPrintBusiness",
-      "label": null,
+      "label": "プロフェッショナルプリント事業",
       "external_revenue": 252604000000,
       "intersegment_revenue": 135000000,
       "operating_income": 16637000000

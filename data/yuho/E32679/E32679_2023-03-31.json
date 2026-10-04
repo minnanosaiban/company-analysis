@@ -52,35 +52,35 @@
   "segments": [
     {
       "key": "BusinessServices",
-      "label": null,
+      "label": "ビジネスサービス",
       "external_revenue": 40376000000,
       "intersegment_revenue": 33111000000,
       "operating_income": 3486000000
     },
     {
       "key": "Construction",
-      "label": null,
+      "label": "建設",
       "external_revenue": 36056000000,
       "intersegment_revenue": 52313000000,
       "operating_income": 5442000000
     },
     {
       "key": "RealEstateAndHotels",
-      "label": null,
+      "label": "不動産・ホテル",
       "external_revenue": 118769000000,
       "intersegment_revenue": 4340000000,
       "operating_income": 22107000000
     },
     {
       "key": "RetailAndRestaurant",
-      "label": null,
+      "label": "流通・外食",
       "external_revenue": 54480000000,
       "intersegment_revenue": 300000000,
       "operating_income": 1410000000
     },
     {
       "key": "Transportation",
-      "label": null,
+      "label": "運輸サービス",
       "external_revenue": 133559000000,
       "intersegment_revenue": 4759000000,
       "operating_income": 2522000000

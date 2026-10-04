@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "EnergyAndFunctionalMaterials",
-      "label": null,
+      "label": "エネルギー・機能材料",
       "external_revenue": 342460000000,
       "intersegment_revenue": 17473000000,
       "revenue": 359933000000,
@@ -62,7 +62,7 @@
     },
     {
       "key": "EssentialChemicalsAndPlastics",
-      "label": null,
+      "label": "エッセンシャルケミカルズ",
       "external_revenue": 852916000000,
       "intersegment_revenue": 5694000000,
       "revenue": 858610000000,
@@ -72,7 +72,7 @@
     },
     {
       "key": "HealthAndAgricultureRelated",
-      "label": null,
+      "label": "健康・農業関連事業",
       "external_revenue": 598390000000,
       "intersegment_revenue": 5654000000,
       "revenue": 604044000000,
@@ -82,7 +82,7 @@
     },
     {
       "key": "InformationElectronicChemistry",
-      "label": null,
+      "label": "情報電子化学",
       "external_revenue": 431219000000,
       "intersegment_revenue": 465000000,
       "revenue": 431684000000,
@@ -92,7 +92,7 @@
     },
     {
       "key": "MedicalProducts",
-      "label": null,
+      "label": "医薬品",
       "external_revenue": 584873000000,
       "intersegment_revenue": 15000000,
       "revenue": 584888000000,

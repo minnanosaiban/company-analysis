@@ -49,28 +49,28 @@
   "segments": [
     {
       "key": "ChlorAlkali",
-      "label": null,
+      "label": "クロル・アルカリ",
       "external_revenue": 345967000000,
       "intersegment_revenue": 44094000000,
       "operating_income": 1915000000
     },
     {
       "key": "Engineering",
-      "label": null,
+      "label": "エンジニアリング",
       "external_revenue": 186412000000,
       "intersegment_revenue": 16912000000,
       "operating_income": 40383000000
     },
     {
       "key": "Petrochemical",
-      "label": null,
+      "label": "石油化学",
       "external_revenue": 169740000000,
       "intersegment_revenue": 129074000000,
       "operating_income": 9716000000
     },
     {
       "key": "Specialty",
-      "label": null,
+      "label": "機能商品",
       "external_revenue": 272858000000,
       "intersegment_revenue": 21358000000,
       "operating_income": 39933000000

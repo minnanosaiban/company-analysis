@@ -56,27 +56,27 @@
   "segments": [
     {
       "key": "DigitalProducts",
-      "label": null,
+      "label": "デジタルプロダクツ",
       "assets": 446654000000
     },
     {
       "key": "DigitalServices",
-      "label": null,
+      "label": "デジタルサービス",
       "assets": 1323991000000
     },
     {
       "key": "GraphicCommunications",
-      "label": null,
+      "label": "グラフィックコミュニケーションズ",
       "assets": 177830000000
     },
     {
       "key": "IndustrialSolutions",
-      "label": null,
+      "label": "インダストリアルソリューションズ",
       "assets": 88280000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "assets": 45098000000
     }
   ],

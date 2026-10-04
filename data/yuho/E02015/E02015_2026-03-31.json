@@ -54,35 +54,35 @@
   "segments": [
     {
       "key": "APRHQ",
-      "label": null,
+      "label": "AP統括",
       "external_revenue": 40581000000,
       "intersegment_revenue": 50000000,
       "operating_income": 3707000000
     },
     {
       "key": "AmericasRHQ",
-      "label": null,
+      "label": "米州統括",
       "external_revenue": 130456000000,
       "intersegment_revenue": 25000000,
       "operating_income": 8507000000
     },
     {
       "key": "ChinaRHQ",
-      "label": null,
+      "label": "中国統括",
       "external_revenue": 89296000000,
       "intersegment_revenue": 323000000,
       "operating_income": 9343000000
     },
     {
       "key": "EMEARHQ",
-      "label": null,
+      "label": "EMEA統括",
       "external_revenue": 152110000000,
       "intersegment_revenue": 786000000,
       "operating_income": 9904000000
     },
     {
       "key": "Headquarter",
-      "label": null,
+      "label": "本社統括",
       "external_revenue": 87562000000,
       "intersegment_revenue": 130449000000,
       "operating_income": 17771000000

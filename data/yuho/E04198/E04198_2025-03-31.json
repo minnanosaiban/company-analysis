@@ -51,27 +51,27 @@
   "segments": [
     {
       "key": "LeasingForRealEstateServices",
-      "label": null,
+      "label": "不動産賃貸事業",
       "external_revenue": 2354000000,
       "operating_income": 1731000000
     },
     {
       "key": "MerchandiseSales",
-      "label": null,
+      "label": "物品販売事業",
       "external_revenue": 38780000000,
       "intersegment_revenue": 15218000000,
       "operating_income": 1169000000
     },
     {
       "key": "TransportationServices",
-      "label": null,
+      "label": "輸送事業",
       "external_revenue": 554126000000,
       "intersegment_revenue": 2305000000,
       "operating_income": 20743000000
     },
     {
       "key": "VehicleSales",
-      "label": null,
+      "label": "自動車販売事業",
       "external_revenue": 115328000000,
       "intersegment_revenue": 10153000000,
       "operating_income": 7161000000

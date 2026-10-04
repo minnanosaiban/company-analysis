@@ -54,20 +54,20 @@
   "segments": [
     {
       "key": "AutomotivePartsAndComponents",
-      "label": null,
+      "label": "自動車部品",
       "external_revenue": 51218000000,
       "ordinary_income": -849000000
     },
     {
       "key": "EngineeredMaterialsSector",
-      "label": null,
+      "label": "機能材料",
       "external_revenue": 319553000000,
       "intersegment_revenue": 8894000000,
       "ordinary_income": 66542000000
     },
     {
       "key": "MetalsSector",
-      "label": null,
+      "label": "金属",
       "external_revenue": 290230000000,
       "intersegment_revenue": 86459000000,
       "ordinary_income": 75085000000,
@@ -75,7 +75,7 @@
     },
     {
       "key": "OtherBusinessSector",
-      "label": null,
+      "label": "その他の事業",
       "external_revenue": 98595000000,
       "intersegment_revenue": 37892000000,
       "ordinary_income": 3993000000,

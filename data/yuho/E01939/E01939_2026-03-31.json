@@ -50,14 +50,14 @@
   "segments": [
     {
       "key": "CoaxialConnectors",
-      "label": null,
+      "label": "同軸コネクタ",
       "external_revenue": 18338000000,
       "revenue": 18338000000,
       "operating_income": 5875000000
     },
     {
       "key": "MultiPinConnectors",
-      "label": null,
+      "label": "多極コネクタ",
       "external_revenue": 185814000000,
       "revenue": 185814000000,
       "operating_income": 36767000000

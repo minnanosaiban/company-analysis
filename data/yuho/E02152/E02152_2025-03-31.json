@@ -49,7 +49,7 @@
   "segments": [
     {
       "key": "Aerospace",
-      "label": null,
+      "label": "航空宇宙",
       "external_revenue": 111584000000,
       "revenue": 111584000000,
       "operating_income": -19642000000,
@@ -57,7 +57,7 @@
     },
     {
       "key": "Automobiles",
-      "label": null,
+      "label": "自動車",
       "external_revenue": 4569035000000,
       "intersegment_revenue": 2124000000,
       "revenue": 4571159000000,

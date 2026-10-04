@@ -40,7 +40,7 @@
   "segments": [
     {
       "key": "Banking",
-      "label": null,
+      "label": "銀行業",
       "external_revenue": 142513000000,
       "intersegment_revenue": 972000000,
       "ordinary_income": 33810000000,
@@ -48,7 +48,7 @@
     },
     {
       "key": "Leasing",
-      "label": null,
+      "label": "リース業",
       "external_revenue": 29386000000,
       "intersegment_revenue": 359000000,
       "ordinary_income": 1649000000

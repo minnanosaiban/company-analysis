@@ -49,21 +49,21 @@
   "segments": [
     {
       "key": "AnimalHealthProductsAndFoodProcessingRawMaterialsWholesaleAndRelatedBusiness",
-      "label": null,
+      "label": "動物用医薬品・食品加工原材料卸売等関連事業",
       "external_revenue": 114020000000,
       "intersegment_revenue": 2000000,
       "operating_income": 2727000000
     },
     {
       "key": "CosmeticsDailyNecessitiesAndOTCPharmaceuticalWholesaleBusiness",
-      "label": null,
+      "label": "化粧品・日用品、一般用医薬品卸売事業",
       "external_revenue": 1151659000000,
       "intersegment_revenue": 306000000,
       "operating_income": 27172000000
     },
     {
       "key": "PrescriptionPharmaceuticalWholesaleBusiness",
-      "label": null,
+      "label": "医療用医薬品等卸売事業",
       "external_revenue": 2293052000000,
       "intersegment_revenue": 2742000000,
       "operating_income": 17471000000

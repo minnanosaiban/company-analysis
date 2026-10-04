@@ -53,35 +53,35 @@
   "segments": [
     {
       "key": "HotelAndLeisure",
-      "label": null,
+      "label": "ホテル・レジャー",
       "external_revenue": 292520000000,
       "intersegment_revenue": 118000000,
       "operating_income": 9152000000
     },
     {
       "key": "InternationalLogistics",
-      "label": null,
+      "label": "国際物流",
       "external_revenue": 709920000000,
       "intersegment_revenue": 934000000,
       "operating_income": 23317000000
     },
     {
       "key": "MerchandiseSales",
-      "label": null,
+      "label": "流通",
       "external_revenue": 201706000000,
       "intersegment_revenue": 1031000000,
       "operating_income": 2704000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産",
       "external_revenue": 139032000000,
       "intersegment_revenue": 24798000000,
       "operating_income": 16024000000
     },
     {
       "key": "Transportation",
-      "label": null,
+      "label": "運輸",
       "external_revenue": 184582000000,
       "intersegment_revenue": 7154000000,
       "operating_income": 13069000000

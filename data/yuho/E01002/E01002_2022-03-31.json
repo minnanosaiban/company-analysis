@@ -55,28 +55,28 @@
   "segments": [
     {
       "key": "Machinery",
-      "label": null,
+      "label": "機械",
       "external_revenue": 95579000000,
       "intersegment_revenue": 1408000000,
       "operating_income": 5130000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 64191000000,
       "intersegment_revenue": -9949000000,
       "operating_income": 3548000000
     },
     {
       "key": "PolymersAndChemicals",
-      "label": null,
+      "label": "樹脂・化成品",
       "external_revenue": 233921000000,
       "intersegment_revenue": 26123000000,
       "operating_income": 23516000000
     },
     {
       "key": "SpecialtyProducts",
-      "label": null,
+      "label": "機能品",
       "external_revenue": 47694000000,
       "intersegment_revenue": 13093000000,
       "operating_income": 11627000000

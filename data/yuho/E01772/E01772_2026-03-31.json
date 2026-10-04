@@ -53,42 +53,42 @@
   "segments": [
     {
       "key": "Connect",
-      "label": null,
+      "label": "コネクト",
       "external_revenue": 1320662000000,
       "intersegment_revenue": 59650000000,
       "operating_income": 100096000000
     },
     {
       "key": "ElectricWorks",
-      "label": null,
+      "label": "エレクトリックワークス",
       "external_revenue": 1080561000000,
       "intersegment_revenue": 80036000000,
       "operating_income": 57675000000
     },
     {
       "key": "Energy",
-      "label": null,
+      "label": "エナジー",
       "external_revenue": 940964000000,
       "intersegment_revenue": 43281000000,
       "operating_income": 69795000000
     },
     {
       "key": "HVACAndCC",
-      "label": null,
+      "label": "HVAC ＆ CC",
       "external_revenue": 1149617000000,
       "intersegment_revenue": 162802000000,
       "operating_income": 23149000000
     },
     {
       "key": "Industry",
-      "label": null,
+      "label": "インダストリー",
       "external_revenue": 1117517000000,
       "intersegment_revenue": 49751000000,
       "operating_income": 40457000000
     },
     {
       "key": "SmartLife",
-      "label": null,
+      "label": "スマートライフ",
       "external_revenue": 1250161000000,
       "intersegment_revenue": 124032000000,
       "operating_income": -37342000000

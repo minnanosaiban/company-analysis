@@ -50,7 +50,7 @@
   "segments": [
     {
       "key": "AgencySales",
-      "label": null,
+      "label": "取次販売",
       "external_revenue": 108885000000,
       "intersegment_revenue": 111000000,
       "revenue": 108996000000,
@@ -58,7 +58,7 @@
     },
     {
       "key": "CorporateServices",
-      "label": null,
+      "label": "法人サービス",
       "external_revenue": 267981000000,
       "intersegment_revenue": 1681000000,
       "revenue": 269663000000,
@@ -66,7 +66,7 @@
     },
     {
       "key": "PersonalService",
-      "label": null,
+      "label": "個人サービス",
       "external_revenue": 225081000000,
       "intersegment_revenue": 1091000000,
       "revenue": 226172000000,

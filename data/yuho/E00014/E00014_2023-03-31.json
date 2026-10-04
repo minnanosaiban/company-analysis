@@ -54,7 +54,7 @@
   "segments": [
     {
       "key": "Fine",
-      "label": null,
+      "label": "ファイン事業",
       "external_revenue": 25116000000,
       "intersegment_revenue": 326000000,
       "operating_income": 1725000000,
@@ -62,7 +62,7 @@
     },
     {
       "key": "Grocery",
-      "label": null,
+      "label": "食品事業",
       "external_revenue": 382048000000,
       "intersegment_revenue": 1158000000,
       "operating_income": 11426000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "Logistics",
-      "label": null,
+      "label": "物流事業",
       "external_revenue": 15488000000,
       "intersegment_revenue": 11483000000,
       "operating_income": 1594000000,
@@ -78,7 +78,7 @@
     },
     {
       "key": "MarineProducts",
-      "label": null,
+      "label": "水産事業",
       "external_revenue": 328335000000,
       "intersegment_revenue": 17563000000,
       "operating_income": 18579000000,

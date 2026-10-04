@@ -56,14 +56,14 @@
   "segments": [
     {
       "key": "POWERSYSTEM",
-      "label": null,
+      "label": "パワーシステム事業",
       "external_revenue": 22235000000,
       "intersegment_revenue": 228000000,
       "operating_income": 548000000
     },
     {
       "key": "SemiconductorDevice",
-      "label": null,
+      "label": "半導体デバイス事業",
       "external_revenue": 137981000000,
       "intersegment_revenue": 444000000,
       "operating_income": 6805000000

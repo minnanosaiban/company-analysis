@@ -55,21 +55,21 @@
   "segments": [
     {
       "key": "AutoAuction",
-      "label": null,
+      "label": "オートオークション",
       "external_revenue": 75066000000,
       "intersegment_revenue": 307000000,
       "operating_income": 47414000000
     },
     {
       "key": "Recycling",
-      "label": null,
+      "label": "リサイクル",
       "external_revenue": 10526000000,
       "intersegment_revenue": 2000000,
       "operating_income": 1164000000
     },
     {
       "key": "UsedVehicleSalesPurchases",
-      "label": null,
+      "label": "中古自動車等買取販売",
       "external_revenue": 11431000000,
       "operating_income": 331000000
     }

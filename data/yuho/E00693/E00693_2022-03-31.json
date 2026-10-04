@@ -55,27 +55,27 @@
   "segments": [
     {
       "key": "Beverages",
-      "label": null,
+      "label": "飲料",
       "external_revenue": 49694000000,
       "intersegment_revenue": 6000000,
       "operating_income": 690000000
     },
     {
       "key": "Electronics",
-      "label": null,
+      "label": "エレクトロニクス",
       "external_revenue": 211094000000,
       "operating_income": 46480000000
     },
     {
       "key": "InformationCommunication",
-      "label": null,
+      "label": "情報コミュニケーション",
       "external_revenue": 696910000000,
       "intersegment_revenue": 2087000000,
       "operating_income": 27616000000
     },
     {
       "key": "LifestyleAndIndustrialSupplies",
-      "label": null,
+      "label": "生活・産業",
       "external_revenue": 386447000000,
       "intersegment_revenue": 582000000,
       "operating_income": 13625000000

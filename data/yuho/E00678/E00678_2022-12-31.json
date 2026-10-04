@@ -47,7 +47,7 @@
   "segments": [
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 7802000000,
       "intersegment_revenue": 187000000,
       "operating_income": 351000000

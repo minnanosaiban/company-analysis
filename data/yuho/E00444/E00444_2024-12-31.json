@@ -76,7 +76,7 @@
     },
     {
       "key": "ReconcilingItemsDomestic",
-      "label": null,
+      "label": "調整額",
       "intersegment_revenue": -20007000000,
       "revenue": -20007000000
     }

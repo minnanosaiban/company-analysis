@@ -52,25 +52,25 @@
   "segments": [
     {
       "key": "Amusement",
-      "label": null,
+      "label": "アミューズメント事業",
       "operating_income": 5938000000,
       "assets": 58142000000
     },
     {
       "key": "DigitalEntertainment",
-      "label": null,
+      "label": "デジタルエンタテインメント事業",
       "operating_income": 98935000000,
       "assets": 329682000000
     },
     {
       "key": "GamingAndSystems",
-      "label": null,
+      "label": "ゲーミング＆システム事業",
       "operating_income": 7359000000,
       "assets": 49133000000
     },
     {
       "key": "Sports",
-      "label": null,
+      "label": "スポーツ事業",
       "operating_income": 2231000000,
       "assets": 49200000000
     }

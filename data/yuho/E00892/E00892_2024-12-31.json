@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "Americas",
-      "label": null,
+      "label": "米州",
       "external_revenue": 122702000000,
       "intersegment_revenue": 48000000,
       "revenue": 122751000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "DuluxGroup",
-      "label": null,
+      "label": "DuluxGroup",
       "external_revenue": 398534000000,
       "intersegment_revenue": 376000000,
       "revenue": 398911000000,
@@ -69,7 +69,7 @@
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 203112000000,
       "intersegment_revenue": 19871000000,
       "revenue": 222983000000,
@@ -77,7 +77,7 @@
     },
     {
       "key": "NIPSEA",
-      "label": null,
+      "label": "NIPSEA",
       "external_revenue": 914370000000,
       "intersegment_revenue": 8738000000,
       "revenue": 923109000000,

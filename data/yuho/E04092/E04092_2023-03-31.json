@@ -48,35 +48,35 @@
   "segments": [
     {
       "key": "Leisure",
-      "label": null,
+      "label": "レジャー・サービス業",
       "external_revenue": 49825000000,
       "intersegment_revenue": 2926000000,
       "operating_income": -2173000000
     },
     {
       "key": "MerchandiseSales",
-      "label": null,
+      "label": "流通業",
       "external_revenue": 100961000000,
       "intersegment_revenue": 1871000000,
       "operating_income": 3925000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 36709000000,
       "intersegment_revenue": 28002000000,
       "operating_income": 4478000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産業",
       "external_revenue": 50098000000,
       "intersegment_revenue": 2742000000,
       "operating_income": 12090000000
     },
     {
       "key": "Transportation",
-      "label": null,
+      "label": "交通業",
       "external_revenue": 109538000000,
       "intersegment_revenue": 1654000000,
       "operating_income": 3929000000

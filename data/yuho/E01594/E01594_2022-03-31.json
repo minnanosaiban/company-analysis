@@ -53,7 +53,7 @@
   "segments": [
     {
       "key": "Domino",
-      "label": null,
+      "label": "ドミノ",
       "external_revenue": 84731000000,
       "revenue": 84731000000,
       "operating_income": 5162000000
@@ -67,7 +67,7 @@
     },
     {
       "key": "NetworkAndContents",
-      "label": null,
+      "label": "ネットワーク・アンド・コンテンツ",
       "external_revenue": 29552000000,
       "revenue": 29552000000,
       "operating_income": -2700000000
@@ -81,7 +81,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 11119000000,
       "intersegment_revenue": 13680000000,
       "revenue": 24800000000,

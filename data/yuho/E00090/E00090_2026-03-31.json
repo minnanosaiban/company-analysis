@@ -49,27 +49,27 @@
   "segments": [
     {
       "key": "CondominiumManagementAndOperationBusiness",
-      "label": null,
+      "label": "管理運営事業",
       "external_revenue": 158525000000,
       "intersegment_revenue": 6900000000,
       "operating_income": 8214000000
     },
     {
       "key": "ConstructionRelatedBusiness",
-      "label": null,
+      "label": "建設関連事業",
       "external_revenue": 820088000000,
       "intersegment_revenue": 80780000000,
       "operating_income": 68536000000
     },
     {
       "key": "OverseasBusiness",
-      "label": null,
+      "label": "海外事業",
       "external_revenue": 4314000000,
       "operating_income": -6081000000
     },
     {
       "key": "RealEstateRelatedBusiness",
-      "label": null,
+      "label": "不動産関連事業",
       "external_revenue": 290209000000,
       "intersegment_revenue": 2995000000,
       "operating_income": 35579000000

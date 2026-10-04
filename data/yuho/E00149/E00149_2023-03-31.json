@@ -49,14 +49,14 @@
   "segments": [
     {
       "key": "EquipmentManufacturingAndSales",
-      "label": null,
+      "label": "設備機器の製造・販売事業",
       "external_revenue": 6722000000,
       "intersegment_revenue": 515000000,
       "operating_income": 304000000
     },
     {
       "key": "EquipmentWork",
-      "label": null,
+      "label": "設備工事事業",
       "external_revenue": 332017000000,
       "intersegment_revenue": 0,
       "operating_income": 14950000000

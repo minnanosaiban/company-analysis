@@ -55,14 +55,14 @@
   "segments": [
     {
       "key": "Healthcare",
-      "label": null,
+      "label": "ヘルスケア",
       "external_revenue": 144700000000,
       "intersegment_revenue": 64000000,
       "operating_income": 7327000000
     },
     {
       "key": "Material",
-      "label": null,
+      "label": "マテリアル",
       "external_revenue": 439690000000,
       "intersegment_revenue": 10323000000,
       "operating_income": -6163000000

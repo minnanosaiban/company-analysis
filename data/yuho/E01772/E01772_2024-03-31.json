@@ -53,35 +53,35 @@
   "segments": [
     {
       "key": "Automotive",
-      "label": null,
+      "label": "オートモーティブ",
       "external_revenue": 1480482000000,
       "intersegment_revenue": 11439000000,
       "operating_income": 42752000000
     },
     {
       "key": "Connect",
-      "label": null,
+      "label": "コネクト",
       "external_revenue": 1116005000000,
       "intersegment_revenue": 86798000000,
       "operating_income": 40408000000
     },
     {
       "key": "Energy",
-      "label": null,
+      "label": "エナジー",
       "external_revenue": 867306000000,
       "intersegment_revenue": 48632000000,
       "operating_income": 88809000000
     },
     {
       "key": "Industry",
-      "label": null,
+      "label": "インダストリー",
       "external_revenue": 838676000000,
       "intersegment_revenue": 203910000000,
       "operating_income": 31147000000
     },
     {
       "key": "Lifestyle",
-      "label": null,
+      "label": "くらし事業",
       "external_revenue": 3288615000000,
       "intersegment_revenue": 205738000000,
       "operating_income": 121559000000

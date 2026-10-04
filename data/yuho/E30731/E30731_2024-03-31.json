@@ -53,35 +53,35 @@
   "segments": [
     {
       "key": "AnimationFilm",
-      "label": null,
+      "label": "アニメ・実写映像",
       "external_revenue": 44999000000,
       "intersegment_revenue": 1060000000,
       "operating_income": 4574000000
     },
     {
       "key": "EducationEdTechBusiness",
-      "label": null,
+      "label": "教育・EdTech",
       "external_revenue": 13383000000,
       "intersegment_revenue": 7000000,
       "operating_income": 1727000000
     },
     {
       "key": "Game",
-      "label": null,
+      "label": "ゲーム",
       "external_revenue": 25177000000,
       "intersegment_revenue": 173000000,
       "operating_income": 7950000000
     },
     {
       "key": "PublicationIPCreation",
-      "label": null,
+      "label": "出版・IP創出",
       "external_revenue": 139842000000,
       "intersegment_revenue": 2125000000,
       "operating_income": 10360000000
     },
     {
       "key": "WebServices",
-      "label": null,
+      "label": "Webサービス",
       "external_revenue": 21140000000,
       "intersegment_revenue": 259000000,
       "operating_income": 362000000

@@ -50,49 +50,49 @@
   "segments": [
     {
       "key": "AgencySales",
-      "label": null,
+      "label": "取次販売",
       "external_revenue": 98493000000,
       "revenue": 98493000000,
       "operating_income": 12799000000
     },
     {
       "key": "Beverage",
-      "label": null,
+      "label": "飲料",
       "external_revenue": 85314000000,
       "revenue": 85314000000,
       "operating_income": 9695000000
     },
     {
       "key": "Communication",
-      "label": null,
+      "label": "通信",
       "external_revenue": 127540000000,
       "revenue": 127540000000,
       "operating_income": 29383000000
     },
     {
       "key": "ElectricityAndGas",
-      "label": null,
+      "label": "電気・ガス",
       "external_revenue": 319571000000,
       "revenue": 319571000000,
       "operating_income": 35848000000
     },
     {
       "key": "Finance",
-      "label": null,
+      "label": "金融",
       "external_revenue": 45526000000,
       "revenue": 45526000000,
       "operating_income": 22086000000
     },
     {
       "key": "Insurance",
-      "label": null,
+      "label": "保険",
       "external_revenue": 31478000000,
       "revenue": 31478000000,
       "operating_income": 9368000000
     },
     {
       "key": "Solution",
-      "label": null,
+      "label": "ソリューション",
       "external_revenue": 26866000000,
       "revenue": 26866000000,
       "operating_income": 3790000000

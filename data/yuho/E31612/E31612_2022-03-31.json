@@ -40,28 +40,28 @@
   "segments": [
     {
       "key": "Leasing",
-      "label": null,
+      "label": "リース業",
       "external_revenue": 37190000000,
       "intersegment_revenue": 1655000000,
       "ordinary_income": 1315000000
     },
     {
       "key": "TheHigoBankBank",
-      "label": null,
+      "label": "肥後銀行",
       "external_revenue": 78759000000,
       "intersegment_revenue": 4039000000,
       "ordinary_income": 16880000000
     },
     {
       "key": "TheKagoshimaBankBank",
-      "label": null,
+      "label": "鹿児島銀行",
       "external_revenue": 66363000000,
       "intersegment_revenue": 1519000000,
       "ordinary_income": 10970000000
     },
     {
       "key": "TotalBank",
-      "label": null,
+      "label": "小計",
       "external_revenue": 145123000000,
       "intersegment_revenue": 5558000000,
       "ordinary_income": 27850000000

@@ -54,7 +54,7 @@
   "segments": [
     {
       "key": "ARNESTONECORPORATION",
-      "label": null,
+      "label": "アーネストワングループ",
       "external_revenue": 292298000000,
       "intersegment_revenue": 1015000000,
       "revenue": 293313000000,
@@ -63,7 +63,7 @@
     },
     {
       "key": "HAJIMECONSTRUCTION",
-      "label": null,
+      "label": "一建設グループ",
       "external_revenue": 392324000000,
       "intersegment_revenue": 387000000,
       "revenue": 392712000000,
@@ -72,7 +72,7 @@
     },
     {
       "key": "IDHOMECO",
-      "label": null,
+      "label": "アイディホームグループ",
       "external_revenue": 63675000000,
       "intersegment_revenue": 339000000,
       "revenue": 64015000000,
@@ -81,7 +81,7 @@
     },
     {
       "key": "IidaSangyoCONSTRUCTION",
-      "label": null,
+      "label": "飯田産業グループ",
       "external_revenue": 293962000000,
       "intersegment_revenue": 1287000000,
       "revenue": 295250000000,
@@ -90,7 +90,7 @@
     },
     {
       "key": "TACTHOMECO",
-      "label": null,
+      "label": "タクトホームグループ",
       "external_revenue": 220741000000,
       "intersegment_revenue": 2331000000,
       "revenue": 223073000000,
@@ -99,7 +99,7 @@
     },
     {
       "key": "TOUEIHOMECORPORATION",
-      "label": null,
+      "label": "東栄住宅グループ",
       "external_revenue": 212121000000,
       "intersegment_revenue": 826000000,
       "revenue": 212947000000,

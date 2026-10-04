@@ -52,35 +52,35 @@
   "segments": [
     {
       "key": "CompleteWork",
-      "label": null,
+      "label": "完成工事",
       "external_revenue": 212165000000,
       "intersegment_revenue": 1418000000,
       "operating_income": 21421000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 8835000000,
       "intersegment_revenue": 1227000000,
       "operating_income": 1181000000
     },
     {
       "key": "RealEstateDistribution",
-      "label": null,
+      "label": "不動産流通",
       "external_revenue": 73995000000,
       "intersegment_revenue": 1111000000,
       "operating_income": 20030000000
     },
     {
       "key": "RealEstateLeasing",
-      "label": null,
+      "label": "不動産賃貸",
       "external_revenue": 422955000000,
       "intersegment_revenue": 2413000000,
       "operating_income": 165693000000
     },
     {
       "key": "RealEstateSelling",
-      "label": null,
+      "label": "不動産販売",
       "external_revenue": 221952000000,
       "intersegment_revenue": 124000000,
       "operating_income": 53928000000

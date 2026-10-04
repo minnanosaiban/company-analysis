@@ -49,14 +49,14 @@
   "segments": [
     {
       "key": "HRTech",
-      "label": null,
+      "label": "HR Tech",
       "external_revenue": 41791000000,
       "intersegment_revenue": 149000000,
       "operating_income": 10631000000
     },
     {
       "key": "Incubation",
-      "label": null,
+      "label": "Incubation",
       "external_revenue": 2002000000,
       "intersegment_revenue": 78000000,
       "operating_income": -1649000000

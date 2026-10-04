@@ -51,7 +51,7 @@
   "segments": [
     {
       "key": "Agri",
-      "label": null,
+      "label": "農",
       "external_revenue": 10189000000,
       "revenue": 10189000000,
       "assets": 6422000000,
@@ -59,7 +59,7 @@
     },
     {
       "key": "Domestic",
-      "label": null,
+      "label": "国内事業",
       "external_revenue": 145468000000,
       "revenue": 145468000000,
       "assets": 169443000000,
@@ -84,7 +84,7 @@
     },
     {
       "key": "ProcessedFoods",
-      "label": null,
+      "label": "加工食品",
       "external_revenue": 134495000000,
       "revenue": 134495000000,
       "assets": 156450000000,
@@ -92,7 +92,7 @@
     },
     {
       "key": "ReconcilingItemsDomestic",
-      "label": null,
+      "label": "調整額",
       "intersegment_revenue": -3000000,
       "revenue": -3000000
     }

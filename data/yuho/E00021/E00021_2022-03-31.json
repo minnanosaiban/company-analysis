@@ -54,7 +54,7 @@
   "segments": [
     {
       "key": "AdvancedProducts",
-      "label": null,
+      "label": "高機能製品",
       "external_revenue": 469117000000,
       "intersegment_revenue": 16822000000,
       "ordinary_income": 16931000000,
@@ -62,7 +62,7 @@
     },
     {
       "key": "Environment",
-      "label": null,
+      "label": "環境・エネルギー事業",
       "external_revenue": 17028000000,
       "intersegment_revenue": 842000000,
       "ordinary_income": 3894000000,
@@ -70,14 +70,14 @@
     },
     {
       "key": "MetalWorkingSolutions",
-      "label": null,
+      "label": "加工事業",
       "external_revenue": 128162000000,
       "intersegment_revenue": 4448000000,
       "ordinary_income": 14522000000
     },
     {
       "key": "Metals",
-      "label": null,
+      "label": "金属事業",
       "external_revenue": 774847000000,
       "intersegment_revenue": 222324000000,
       "ordinary_income": 50230000000,

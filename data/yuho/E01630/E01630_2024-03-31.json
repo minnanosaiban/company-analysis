@@ -51,19 +51,19 @@
   "segments": [
     {
       "key": "BloodAndCellTechnologiesCompany",
-      "label": null,
+      "label": "血液・細胞テクノロジーカンパニー",
       "external_revenue": 168328000000,
       "operating_income": 16394000000
     },
     {
       "key": "CardiacAndVascularCompany",
-      "label": null,
+      "label": "心臓血管カンパニー",
       "external_revenue": 555716000000,
       "operating_income": 123850000000
     },
     {
       "key": "MedicalCareSolutionsCompany",
-      "label": null,
+      "label": "メディカルケアソリューションズカンパニー",
       "external_revenue": 197569000000,
       "operating_income": 19789000000
     }

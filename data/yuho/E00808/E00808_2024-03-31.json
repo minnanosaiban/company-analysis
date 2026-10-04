@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "BasicMaterials",
-      "label": null,
+      "label": "ベーシックマテリアルズ",
       "external_revenue": 1008615000000,
       "intersegment_revenue": 39844000000,
       "revenue": 1048459000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "HealthCare",
-      "label": null,
+      "label": "ヘルスケア",
       "external_revenue": 437230000000,
       "intersegment_revenue": 138000000,
       "revenue": 437368000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "IndustrialGases",
-      "label": null,
+      "label": "産業ガス",
       "external_revenue": 1246877000000,
       "intersegment_revenue": 8204000000,
       "revenue": 1255081000000,
@@ -79,7 +79,7 @@
     },
     {
       "key": "MMA",
-      "label": null,
+      "label": "MMA",
       "external_revenue": 281584000000,
       "intersegment_revenue": 10750000000,
       "revenue": 292334000000,
@@ -88,7 +88,7 @@
     },
     {
       "key": "SpecialtyMaterials",
-      "label": null,
+      "label": "スペシャリティマテリアルズ",
       "external_revenue": 1172885000000,
       "intersegment_revenue": 52351000000,
       "revenue": 1225236000000,

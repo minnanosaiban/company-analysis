@@ -52,35 +52,35 @@
   "segments": [
     {
       "key": "EngineeringFillingAndLogisticsBusinesses",
-      "label": null,
+      "label": "エンジニアリング・充填・物流事業",
       "external_revenue": 146407000000,
       "intersegment_revenue": 50377000000,
       "operating_income": -9728000000
     },
     {
       "key": "FunctionalMaterialsRelatedBusiness",
-      "label": null,
+      "label": "機能材料関連事業",
       "external_revenue": 51866000000,
       "intersegment_revenue": 75000000,
       "operating_income": 6097000000
     },
     {
       "key": "PackagingBusiness",
-      "label": null,
+      "label": "包装容器事業",
       "external_revenue": 602447000000,
       "intersegment_revenue": 5460000000,
       "operating_income": 27005000000
     },
     {
       "key": "PropertyRelatedBusiness",
-      "label": null,
+      "label": "不動産関連事業",
       "external_revenue": 8080000000,
       "intersegment_revenue": 1578000000,
       "operating_income": 4550000000
     },
     {
       "key": "SteelPlateRelatedBusiness",
-      "label": null,
+      "label": "鋼板関連事業",
       "external_revenue": 89987000000,
       "intersegment_revenue": 22383000000,
       "operating_income": 7694000000

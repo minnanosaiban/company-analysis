@@ -50,14 +50,14 @@
   "segments": [
     {
       "key": "AutomotiveBusiness",
-      "label": null,
+      "label": "自動車",
       "external_revenue": 401677000000,
       "operating_income": 16096000000,
       "equity_method_income": 4001000000
     },
     {
       "key": "IndustrialMachineryBusiness",
-      "label": null,
+      "label": "産業機械",
       "external_revenue": 361478000000,
       "operating_income": 13944000000,
       "equity_method_income": 867000000

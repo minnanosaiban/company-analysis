@@ -51,20 +51,20 @@
   "segments": [
     {
       "key": "BuildingConstruction",
-      "label": null,
+      "label": "建築事業",
       "external_revenue": 178526000000,
       "intersegment_revenue": 0,
       "operating_income": 13331000000
     },
     {
       "key": "CivilEngineering",
-      "label": null,
+      "label": "土木事業",
       "external_revenue": 131928000000,
       "operating_income": 15824000000
     },
     {
       "key": "ConsolidatedSubsidiaries",
-      "label": null,
+      "label": "グループ事業",
       "external_revenue": 24776000000,
       "intersegment_revenue": 61483000000,
       "operating_income": 2489000000

@@ -60,21 +60,21 @@
     },
     {
       "key": "PowerElectronicsEnergy",
-      "label": null,
+      "label": "パワエレ エネルギー",
       "external_revenue": 227415000000,
       "intersegment_revenue": 3556000000,
       "operating_income": 21217000000
     },
     {
       "key": "PowerElectronicsIndustry",
-      "label": null,
+      "label": "パワエレ インダストリー",
       "external_revenue": 308625000000,
       "intersegment_revenue": 15523000000,
       "operating_income": 23823000000
     },
     {
       "key": "PowerGeneration",
-      "label": null,
+      "label": "発電プラント",
       "external_revenue": 78487000000,
       "intersegment_revenue": 75000000,
       "operating_income": 3124000000

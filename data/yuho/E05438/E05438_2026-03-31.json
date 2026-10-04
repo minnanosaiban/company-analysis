@@ -56,21 +56,21 @@
   "segments": [
     {
       "key": "Finance",
-      "label": null,
+      "label": "ファイナンス",
       "external_revenue": 45571000000,
       "intersegment_revenue": 10158000000,
       "operating_income": 1086000000
     },
     {
       "key": "LeaseAndInstallmentSales",
-      "label": null,
+      "label": "リース及び割賦",
       "external_revenue": 677005000000,
       "intersegment_revenue": 634000000,
       "operating_income": 44627000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 66093000000,
       "intersegment_revenue": 2984000000,
       "operating_income": 11179000000

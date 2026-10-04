@@ -54,26 +54,26 @@
   "segments": [
     {
       "key": "DomesticBusiness",
-      "label": null,
+      "label": "国内事業",
       "external_revenue": 388935000000,
       "intersegment_revenue": 0,
       "operating_income": 39715000000
     },
     {
       "key": "EastAsiaBusiness",
-      "label": null,
+      "label": "東アジア事業",
       "external_revenue": 194559000000,
       "operating_income": 35529000000
     },
     {
       "key": "EastSouthAsiaAndOceaniaBusiness",
-      "label": null,
+      "label": "東南アジア・オセアニア事業",
       "external_revenue": 39138000000,
       "operating_income": 4599000000
     },
     {
       "key": "EuropeAndUSBusiness",
-      "label": null,
+      "label": "欧米事業",
       "external_revenue": 39043000000,
       "operating_income": 5506000000
     }

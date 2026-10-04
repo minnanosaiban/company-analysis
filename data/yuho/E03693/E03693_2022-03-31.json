@@ -56,26 +56,26 @@
   "segments": [
     {
       "key": "GuaranteeBusiness",
-      "label": null,
+      "label": "信用保証事業",
       "external_revenue": 62861000000,
       "operating_income": 23991000000
     },
     {
       "key": "LoanAndCreditCardBusiness",
-      "label": null,
+      "label": "ローン・クレジットカード事業",
       "external_revenue": 142296000000,
       "intersegment_revenue": 5000000,
       "operating_income": -8879000000
     },
     {
       "key": "LoanServicingBusiness",
-      "label": null,
+      "label": "債権管理回収事業",
       "external_revenue": 5662000000,
       "operating_income": 1641000000
     },
     {
       "key": "OverseasFinance",
-      "label": null,
+      "label": "海外金融事業",
       "external_revenue": 51262000000,
       "intersegment_revenue": -23000000,
       "operating_income": 18347000000

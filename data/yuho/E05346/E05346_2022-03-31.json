@@ -56,7 +56,7 @@
   "segments": [
     {
       "key": "EquipmentLeasing",
-      "label": null,
+      "label": "国内リース",
       "external_revenue": 512256000000,
       "intersegment_revenue": 435000000,
       "ordinary_income": 33939000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "InternationalBusiness",
-      "label": null,
+      "label": "国際",
       "external_revenue": 116749000000,
       "intersegment_revenue": 65000000,
       "ordinary_income": 18987000000,
@@ -72,14 +72,14 @@
     },
     {
       "key": "MobilityAndFleetManagement",
-      "label": null,
+      "label": "国内オート",
       "external_revenue": 341169000000,
       "intersegment_revenue": 928000000,
       "ordinary_income": 19227000000
     },
     {
       "key": "SpecialtyFinancing",
-      "label": null,
+      "label": "スペシャルティ",
       "external_revenue": 306952000000,
       "intersegment_revenue": 155000000,
       "ordinary_income": 29498000000,

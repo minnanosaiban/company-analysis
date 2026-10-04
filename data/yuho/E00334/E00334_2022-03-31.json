@@ -55,7 +55,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 10631000000,
       "intersegment_revenue": 3178000000,
       "operating_income": -1569000000,
@@ -63,7 +63,7 @@
     },
     {
       "key": "OverseasBusinessDivision",
-      "label": null,
+      "label": "海外事業本部",
       "external_revenue": 142799000000,
       "intersegment_revenue": 124824000000,
       "operating_income": 2409000000,

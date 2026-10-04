@@ -56,7 +56,7 @@
   "segments": [
     {
       "key": "OutsourcingBusiness",
-      "label": null,
+      "label": "アウトソーシング事業",
       "external_revenue": 80769000000,
       "intersegment_revenue": 509000000,
       "revenue": 81278000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "ResidentialProperty",
-      "label": null,
+      "label": "賃貸管理事業",
       "external_revenue": 52956000000,
       "intersegment_revenue": 377000000,
       "revenue": 53333000000,
@@ -72,7 +72,7 @@
     },
     {
       "key": "TourismBusiness",
-      "label": null,
+      "label": "観光事業",
       "external_revenue": 16399000000,
       "intersegment_revenue": 76000000,
       "revenue": 16476000000,

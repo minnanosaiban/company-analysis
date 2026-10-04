@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "OtherProximateServices",
-      "label": null,
+      "label": "その他近接サービス",
       "external_revenue": 5382000000,
       "intersegment_revenue": 686000000,
       "operating_income": 545000000
     },
     {
       "key": "SoftwareDevelopmentRelatedServices",
-      "label": null,
+      "label": "ソフトウェア開発関連サービス",
       "external_revenue": 17665000000,
       "intersegment_revenue": 2218000000,
       "operating_income": 1139000000
     },
     {
       "key": "SoftwareTestingRelatedServices",
-      "label": null,
+      "label": "ソフトウェアテスト関連サービス",
       "external_revenue": 41824000000,
       "intersegment_revenue": 68000000,
       "operating_income": 9431000000

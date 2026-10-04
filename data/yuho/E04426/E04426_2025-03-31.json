@@ -50,7 +50,7 @@
   "segments": [
     {
       "key": "Consumer",
-      "label": null,
+      "label": "コンシューマ",
       "external_revenue": 2933387000000,
       "intersegment_revenue": 19489000000,
       "revenue": 2952876000000,
@@ -58,7 +58,7 @@
     },
     {
       "key": "Distribution",
-      "label": null,
+      "label": "ディストリビューション",
       "external_revenue": 705700000000,
       "intersegment_revenue": 183804000000,
       "revenue": 889504000000,
@@ -66,7 +66,7 @@
     },
     {
       "key": "Enterprise",
-      "label": null,
+      "label": "エンタープライズ",
       "external_revenue": 888160000000,
       "intersegment_revenue": 34247000000,
       "revenue": 922407000000,
@@ -74,7 +74,7 @@
     },
     {
       "key": "Financial",
-      "label": null,
+      "label": "ファイナンス",
       "external_revenue": 255887000000,
       "intersegment_revenue": 21394000000,
       "revenue": 277281000000,
@@ -82,7 +82,7 @@
     },
     {
       "key": "MediaEC",
-      "label": null,
+      "label": "メディア・EC",
       "external_revenue": 1649946000000,
       "intersegment_revenue": 28132000000,
       "revenue": 1678078000000,

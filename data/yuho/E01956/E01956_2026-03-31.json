@@ -51,25 +51,25 @@
   "segments": [
     {
       "key": "ArcadeGame",
-      "label": null,
+      "label": "アーケードゲーム事業",
       "operating_income": 6779000000,
       "assets": 38043000000
     },
     {
       "key": "DigitalEntertainment",
-      "label": null,
+      "label": "デジタルエンタテインメント事業",
       "operating_income": 136006000000,
       "assets": 389935000000
     },
     {
       "key": "GamingAndSystems",
-      "label": null,
+      "label": "ゲーミング＆システム事業",
       "operating_income": 3650000000,
       "assets": 58113000000
     },
     {
       "key": "Sports",
-      "label": null,
+      "label": "スポーツ事業",
       "operating_income": 3411000000,
       "assets": 50836000000
     }

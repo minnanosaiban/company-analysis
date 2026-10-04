@@ -50,21 +50,21 @@
   "segments": [
     {
       "key": "AssetService",
-      "label": null,
+      "label": "アセットサービス",
       "external_revenue": 54742000000,
       "intersegment_revenue": 5464000000,
       "operating_income": 11537000000
     },
     {
       "key": "CommercialProperties",
-      "label": null,
+      "label": "ビル",
       "external_revenue": 176573000000,
       "intersegment_revenue": 999000000,
       "operating_income": 41399000000
     },
     {
       "key": "Residential",
-      "label": null,
+      "label": "住宅",
       "external_revenue": 211481000000,
       "intersegment_revenue": 600000000,
       "operating_income": 38150000000

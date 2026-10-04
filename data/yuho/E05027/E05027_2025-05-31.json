@@ -43,19 +43,19 @@
   "segments": [
     {
       "key": "CloudAndLicense",
-      "label": null,
+      "label": "クラウド＆ライセンス",
       "external_revenue": 223030000000,
       "operating_income": 85673000000
     },
     {
       "key": "HardwareSystems",
-      "label": null,
+      "label": "ハードウェア・システムズ",
       "external_revenue": 15590000000,
       "operating_income": 569000000
     },
     {
       "key": "Services",
-      "label": null,
+      "label": "サービス",
       "external_revenue": 24890000000,
       "operating_income": 5844000000
     }

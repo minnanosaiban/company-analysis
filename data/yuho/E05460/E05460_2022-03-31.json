@@ -49,7 +49,7 @@
   "segments": [
     {
       "key": "GameBusiness",
-      "label": null,
+      "label": "ゲーム事業",
       "external_revenue": 74681000000,
       "intersegment_revenue": 16000000,
       "revenue": 74697000000,
@@ -57,21 +57,21 @@
     },
     {
       "key": "HealthcareAndMedicalBusiness",
-      "label": null,
+      "label": "ヘルスケア・メディカル事業",
       "external_revenue": 3000000000,
       "revenue": 3000000000,
       "operating_income": -624000000
     },
     {
       "key": "LiveStreamingBusiness",
-      "label": null,
+      "label": "ライブストリーミング事業",
       "external_revenue": 34664000000,
       "revenue": 34664000000,
       "operating_income": 3484000000
     },
     {
       "key": "NewBusinessesAndOthers",
-      "label": null,
+      "label": "新規事業・その他",
       "external_revenue": 3838000000,
       "intersegment_revenue": 12000000,
       "revenue": 3850000000,
@@ -79,7 +79,7 @@
     },
     {
       "key": "SportsBusiness",
-      "label": null,
+      "label": "スポーツ事業",
       "external_revenue": 14686000000,
       "intersegment_revenue": 26000000,
       "revenue": 14712000000,

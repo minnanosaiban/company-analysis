@@ -48,7 +48,7 @@
   "segments": [
     {
       "key": "DomesticConstruction",
-      "label": null,
+      "label": "国内建設",
       "external_revenue": 80273000000,
       "intersegment_revenue": 2000000,
       "operating_income": 17231000000

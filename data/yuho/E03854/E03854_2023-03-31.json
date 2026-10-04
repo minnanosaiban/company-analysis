@@ -42,36 +42,36 @@
   "segments": [
     {
       "key": "AioiNissayDowaInsuranceCoLtd",
-      "label": null,
+      "label": "あいおいニッセイ同和損保",
       "external_revenue": 1285513000000,
       "intersegment_revenue": 50044000000
     },
     {
       "key": "MitsuiDirectGeneralInsuranceCoLtd",
-      "label": null,
+      "label": "三井ダイレクト損保",
       "external_revenue": 34616000000,
       "intersegment_revenue": -86000000
     },
     {
       "key": "MitsuiSumitomoAioiLifeInsuranceCoLtd",
-      "label": null,
+      "label": "三井住友海上あいおい生命",
       "external_revenue": 487124000000
     },
     {
       "key": "MitsuiSumitomoInsuranceCoLtd",
-      "label": null,
+      "label": "三井住友海上",
       "external_revenue": 1566066000000,
       "intersegment_revenue": 63765000000
     },
     {
       "key": "MitsuiSumitomoPrimaryLifeInsuranceCoLtd",
-      "label": null,
+      "label": "三井住友海上プライマリー生命",
       "external_revenue": 1229193000000,
       "intersegment_revenue": -8772000000
     },
     {
       "key": "OverseasInsuranceSubsidiary",
-      "label": null,
+      "label": "海外保険子会社",
       "external_revenue": 1075183000000,
       "intersegment_revenue": -113606000000,
       "equity_method_income": 7297000000

@@ -56,7 +56,7 @@
   "segments": [
     {
       "key": "Business",
-      "label": null,
+      "label": "ビジネス",
       "external_revenue": 1160933000000,
       "intersegment_revenue": 238854000000,
       "operating_income": 233048000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "Personal",
-      "label": null,
+      "label": "パーソナル",
       "external_revenue": 4733192000000,
       "intersegment_revenue": 62426000000,
       "operating_income": 877144000000,

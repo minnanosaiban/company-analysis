@@ -47,7 +47,7 @@
   "segments": [
     {
       "key": "ElectricPower",
-      "label": null,
+      "label": "電気事業",
       "external_revenue": 1417902000000,
       "intersegment_revenue": 2394000000,
       "ordinary_income": 54591000000,
@@ -55,21 +55,21 @@
     },
     {
       "key": "ElectricPowerRelated",
-      "label": null,
+      "label": "電力周辺関連事業",
       "external_revenue": 119203000000,
       "intersegment_revenue": 202534000000,
       "ordinary_income": 92831000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他の事業",
       "external_revenue": 27260000000,
       "intersegment_revenue": 2062000000,
       "ordinary_income": 1805000000
     },
     {
       "key": "Overseas",
-      "label": null,
+      "label": "海外事業",
       "external_revenue": 277555000000,
       "ordinary_income": 22692000000,
       "equity_method_income": 9562000000

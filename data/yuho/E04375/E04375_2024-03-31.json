@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "Lifestyle",
-      "label": null,
+      "label": "ライフスタイル事業",
       "external_revenue": 89903000000,
       "intersegment_revenue": 25000000,
       "operating_income": 4178000000,
@@ -60,7 +60,7 @@
     },
     {
       "key": "MediaAndContents",
-      "label": null,
+      "label": "メディア・コンテンツ事業",
       "external_revenue": 287854000000,
       "intersegment_revenue": 636000000,
       "operating_income": 3927000000,
@@ -68,7 +68,7 @@
     },
     {
       "key": "RealEstateAndOthers",
-      "label": null,
+      "label": "不動産・その他事業",
       "external_revenue": 16552000000,
       "intersegment_revenue": 3626000000,
       "operating_income": 7066000000,

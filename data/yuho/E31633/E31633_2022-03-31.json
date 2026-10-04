@@ -53,14 +53,14 @@
   "segments": [
     {
       "key": "ElectronicMaterialsAndComponents",
-      "label": null,
+      "label": "電子材料部品",
       "external_revenue": 46662000000,
       "intersegment_revenue": 532000000,
       "operating_income": 15304000000
     },
     {
       "key": "OpticalMaterialsAndComponents",
-      "label": null,
+      "label": "光学材料部品",
       "external_revenue": 49049000000,
       "intersegment_revenue": 109000000,
       "operating_income": 13127000000

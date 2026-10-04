@@ -53,21 +53,21 @@
   "segments": [
     {
       "key": "GroceryManufacturing",
-      "label": null,
+      "label": "食料品製造",
       "external_revenue": 217578000000,
       "intersegment_revenue": 14000000,
       "operating_income": 19862000000
     },
     {
       "key": "GroceryWholesale",
-      "label": null,
+      "label": "食料卸売",
       "external_revenue": 8690000000,
       "intersegment_revenue": 289000000,
       "operating_income": 1441000000
     },
     {
       "key": "RealEstateAndService",
-      "label": null,
+      "label": "不動産及びサービス",
       "external_revenue": 1870000000,
       "intersegment_revenue": 2000000,
       "operating_income": 801000000

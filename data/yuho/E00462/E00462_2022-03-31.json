@@ -54,35 +54,35 @@
   "segments": [
     {
       "key": "FoodRestaurant",
-      "label": null,
+      "label": "外食事業",
       "external_revenue": 45310000000,
       "intersegment_revenue": 112000000,
       "operating_income": 1502000000
     },
     {
       "key": "HealthyFood",
-      "label": null,
+      "label": "健康食品事業",
       "external_revenue": 14131000000,
       "intersegment_revenue": 302000000,
       "operating_income": -138000000
     },
     {
       "key": "OtherFoodsRelated",
-      "label": null,
+      "label": "その他食品関連事業",
       "external_revenue": 42156000000,
       "intersegment_revenue": 3415000000,
       "operating_income": 1480000000
     },
     {
       "key": "OverseasFoodProducts",
-      "label": null,
+      "label": "海外食品事業",
       "external_revenue": 38976000000,
       "intersegment_revenue": 134000000,
       "operating_income": 5250000000
     },
     {
       "key": "SpicesAndProcessedFood",
-      "label": null,
+      "label": "香辛・調味加工食品事業",
       "external_revenue": 112714000000,
       "intersegment_revenue": 4708000000,
       "operating_income": 12628000000

@@ -55,32 +55,32 @@
   "segments": [
     {
       "key": "Building",
-      "label": null,
+      "label": "建築事業",
       "external_revenue": 273698000000,
       "intersegment_revenue": 1676000000
     },
     {
       "key": "CivilEngineering",
-      "label": null,
+      "label": "土木事業",
       "external_revenue": 162425000000,
       "intersegment_revenue": 14000000,
       "equity_method_income": 18000000
     },
     {
       "key": "InfrastructureManagement",
-      "label": null,
+      "label": "インフラ運営事業",
       "external_revenue": 18373000000,
       "equity_method_income": 192000000
     },
     {
       "key": "Machinery",
-      "label": null,
+      "label": "機械事業",
       "external_revenue": 39770000000,
       "intersegment_revenue": 2133000000
     },
     {
       "key": "RoadPaving",
-      "label": null,
+      "label": "舗装事業",
       "external_revenue": 251782000000,
       "intersegment_revenue": 4436000000
     }

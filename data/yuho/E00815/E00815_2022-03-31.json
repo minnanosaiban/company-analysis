@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "BasicChemicalsBusinessSector",
-      "label": null,
+      "label": "基礎化学品事業部門",
       "external_revenue": 419959000000,
       "intersegment_revenue": 5383000000,
       "ordinary_income": 30083000000,
@@ -60,7 +60,7 @@
     },
     {
       "key": "SpecialtyChemicalsBusinessSector",
-      "label": null,
+      "label": "機能化学品事業部門",
       "external_revenue": 285419000000,
       "intersegment_revenue": 98000000,
       "ordinary_income": 45433000000,

@@ -57,7 +57,7 @@
   "segments": [
     {
       "key": "FiberAndProductsConverting",
-      "label": null,
+      "label": "繊維・製品",
       "external_revenue": 351923000000,
       "intersegment_revenue": 2264000000,
       "revenue": 354187000000,
@@ -66,7 +66,7 @@
     },
     {
       "key": "Helthcare",
-      "label": null,
+      "label": "ヘルスケア",
       "external_revenue": 136973000000,
       "intersegment_revenue": 4000000,
       "revenue": 136977000000,
@@ -75,7 +75,7 @@
     },
     {
       "key": "Materials",
-      "label": null,
+      "label": "マテリアル",
       "external_revenue": 459317000000,
       "intersegment_revenue": 10735000000,
       "revenue": 470052000000,

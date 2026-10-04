@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "Merchandising",
-      "label": null,
+      "label": "流通業",
       "external_revenue": 86299000000,
       "intersegment_revenue": 1217000000,
       "operating_income": 1936000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産業",
       "external_revenue": 72384000000,
       "intersegment_revenue": 7008000000,
       "operating_income": 17190000000
     },
     {
       "key": "Transportation",
-      "label": null,
+      "label": "交通業",
       "external_revenue": 168247000000,
       "intersegment_revenue": 2056000000,
       "operating_income": 25571000000

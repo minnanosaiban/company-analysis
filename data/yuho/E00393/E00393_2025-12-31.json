@@ -56,7 +56,7 @@
   "segments": [
     {
       "key": "AlcoholicBeverages",
-      "label": null,
+      "label": "酒類",
       "external_revenue": 400244000000,
       "intersegment_revenue": 8819000000,
       "revenue": 409064000000,
@@ -65,7 +65,7 @@
     },
     {
       "key": "FoodAndSoftDrinks",
-      "label": null,
+      "label": "食品飲料",
       "external_revenue": 106609000000,
       "intersegment_revenue": 241000000,
       "revenue": 106849000000,

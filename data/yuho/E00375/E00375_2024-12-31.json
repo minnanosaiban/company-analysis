@@ -53,21 +53,21 @@
   "segments": [
     {
       "key": "FoodBusiness",
-      "label": null,
+      "label": "食品事業",
       "external_revenue": 1153504000000,
       "intersegment_revenue": 15008000000,
       "operating_income": 49796000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 14783000000,
       "intersegment_revenue": 47707000000,
       "operating_income": 3017000000
     },
     {
       "key": "RetailBusiness",
-      "label": null,
+      "label": "流通事業",
       "external_revenue": 76200000000,
       "intersegment_revenue": 9401000000,
       "operating_income": -1235000000

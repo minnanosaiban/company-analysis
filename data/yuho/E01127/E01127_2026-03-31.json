@@ -52,41 +52,41 @@
   "segments": [
     {
       "key": "Cement",
-      "label": null,
+      "label": "セメント",
       "external_revenue": 158799000000,
       "intersegment_revenue": 4318000000,
       "operating_income": 5495000000
     },
     {
       "key": "ConstructionMaterials",
-      "label": null,
+      "label": "建材",
       "external_revenue": 23020000000,
       "intersegment_revenue": 2138000000,
       "operating_income": 1480000000
     },
     {
       "key": "MineralProducts",
-      "label": null,
+      "label": "鉱産品",
       "external_revenue": 17505000000,
       "intersegment_revenue": 3482000000,
       "operating_income": 2986000000
     },
     {
       "key": "NewMaterials",
-      "label": null,
+      "label": "新材料",
       "external_revenue": 18074000000,
       "operating_income": 2479000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 3553000000,
       "intersegment_revenue": 5016000000,
       "operating_income": 1393000000
     },
     {
       "key": "Photoelectron",
-      "label": null,
+      "label": "光電子",
       "external_revenue": 2732000000,
       "operating_income": -56000000
     }

@@ -52,14 +52,14 @@
   "segments": [
     {
       "key": "Ceramics",
-      "label": null,
+      "label": "セラミック",
       "external_revenue": 89930000000,
       "intersegment_revenue": 84000000,
       "operating_income": 6129000000
     },
     {
       "key": "Electronics",
-      "label": null,
+      "label": "電子",
       "external_revenue": 250708000000,
       "operating_income": 60647000000
     }

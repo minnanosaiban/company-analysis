@@ -56,7 +56,7 @@
     },
     {
       "key": "FinancialServices",
-      "label": null,
+      "label": "金融",
       "external_revenue": 1524811000000,
       "intersegment_revenue": 9018000000,
       "operating_income": 150111000000
@@ -87,7 +87,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 82264000000,
       "intersegment_revenue": 16519000000,
       "operating_income": 17981000000,

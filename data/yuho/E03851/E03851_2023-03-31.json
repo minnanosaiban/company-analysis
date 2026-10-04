@@ -38,20 +38,20 @@
   "segments": [
     {
       "key": "DaidoLifeInsurance",
-      "label": null,
+      "label": "大同生命保険株式会社",
       "external_revenue": 1232218000000,
       "intersegment_revenue": 823000000,
       "ordinary_income": 84079000000
     },
     {
       "key": "TAndDFinancialLifeInsurance",
-      "label": null,
+      "label": "Ｔ＆Ｄフィナンシャル生命保険",
       "external_revenue": 980991000000,
       "ordinary_income": 11054000000
     },
     {
       "key": "TAndDUnitedCapitalConsolidated",
-      "label": null,
+      "label": "Ｔ＆Ｄユナイテッドキャピタル（連結）",
       "external_revenue": 2318000000,
       "intersegment_revenue": 137000000,
       "ordinary_income": -213261000000,
@@ -59,7 +59,7 @@
     },
     {
       "key": "TaiyoLifeInsurance",
-      "label": null,
+      "label": "太陽生命保険",
       "external_revenue": 960026000000,
       "intersegment_revenue": 1316000000,
       "ordinary_income": 48144000000

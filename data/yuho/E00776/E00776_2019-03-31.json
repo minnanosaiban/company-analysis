@@ -60,35 +60,35 @@
     },
     {
       "key": "ElectronicsAndFunctionalMaterialsBusiness",
-      "label": null,
+      "label": "電子・機能材料事業",
       "external_revenue": 226098000000,
       "intersegment_revenue": 8588000000,
       "operating_income": 66993000000
     },
     {
       "key": "PVCChlorAlkaliBusiness",
-      "label": null,
+      "label": "塩ビ・化成品事業",
       "external_revenue": 524270000000,
       "intersegment_revenue": 3564000000,
       "operating_income": 106521000000
     },
     {
       "key": "SemiconductorSiliconBusiness",
-      "label": null,
+      "label": "半導体シリコン事業",
       "external_revenue": 380349000000,
       "intersegment_revenue": 48000000,
       "operating_income": 131998000000
     },
     {
       "key": "SiliconesBusiness",
-      "label": null,
+      "label": "シリコーン事業",
       "external_revenue": 233383000000,
       "intersegment_revenue": 7103000000,
       "operating_income": 58546000000
     },
     {
       "key": "SpecialtyChemicalsBusiness",
-      "label": null,
+      "label": "機能性化学品事業",
       "external_revenue": 121143000000,
       "intersegment_revenue": 21132000000,
       "operating_income": 26603000000

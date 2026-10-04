@@ -56,14 +56,14 @@
   "segments": [
     {
       "key": "AirConditioningAndRefrigerationEquipment",
-      "label": null,
+      "label": "空調・冷凍機事業",
       "external_revenue": 2828499000000,
       "intersegment_revenue": 2167000000,
       "operating_income": 282404000000
     },
     {
       "key": "Chemicals",
-      "label": null,
+      "label": "化学事業",
       "external_revenue": 212424000000,
       "intersegment_revenue": 12222000000,
       "operating_income": 27301000000

@@ -53,41 +53,41 @@
   "segments": [
     {
       "key": "Construction",
-      "label": null,
+      "label": "建築",
       "external_revenue": 293168000000,
       "intersegment_revenue": 11456000000,
       "operating_income": 7823000000
     },
     {
       "key": "DomesticAssociateCompanies",
-      "label": null,
+      "label": "国内グループ会社",
       "external_revenue": 38726000000,
       "intersegment_revenue": 6480000000,
       "operating_income": 1913000000
     },
     {
       "key": "DomesticRealEstateInvestmentAndDevelopmentBusiness",
-      "label": null,
+      "label": "国内投資開発",
       "external_revenue": 20683000000,
       "intersegment_revenue": 810000000,
       "operating_income": 4057000000
     },
     {
       "key": "Engineering",
-      "label": null,
+      "label": "土木",
       "external_revenue": 145959000000,
       "intersegment_revenue": 1996000000,
       "operating_income": 11912000000
     },
     {
       "key": "EnvironmentEnergy",
-      "label": null,
+      "label": "環境・エネルギー",
       "external_revenue": 687000000,
       "operating_income": -897000000
     },
     {
       "key": "OverseasInvestmentDevelopment",
-      "label": null,
+      "label": "海外投資開発",
       "external_revenue": 2283000000,
       "operating_income": 705000000
     }

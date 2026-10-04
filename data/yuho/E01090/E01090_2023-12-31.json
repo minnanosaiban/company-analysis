@@ -51,13 +51,13 @@
   "segments": [
     {
       "key": "AutomotivePartsBusiness",
-      "label": null,
+      "label": "自動車部品事業",
       "external_revenue": 47374000000,
       "operating_income": 178000000
     },
     {
       "key": "TireBusiness",
-      "label": null,
+      "label": "タイヤ事業",
       "external_revenue": 505438000000,
       "operating_income": 76725000000
     }

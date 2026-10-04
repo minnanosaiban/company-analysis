@@ -51,21 +51,21 @@
   "segments": [
     {
       "key": "ExplosiveAndPropulsion",
-      "label": null,
+      "label": "化薬事業",
       "external_revenue": 61675000000,
       "intersegment_revenue": 17000000,
       "operating_income": 7979000000
     },
     {
       "key": "FunctionalChemicals",
-      "label": null,
+      "label": "機能化学品事業",
       "external_revenue": 145751000000,
       "intersegment_revenue": 4655000000,
       "operating_income": 26846000000
     },
     {
       "key": "PharmaceuticalsMedicalsAndHealth",
-      "label": null,
+      "label": "医薬・医療・健康事業",
       "external_revenue": 49931000000,
       "intersegment_revenue": 1091000000,
       "operating_income": 15816000000

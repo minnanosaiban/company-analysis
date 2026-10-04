@@ -55,28 +55,28 @@
   "segments": [
     {
       "key": "AutomotiveProductsAndMaterials",
-      "label": null,
+      "label": "電装エレクトロニクス",
       "external_revenue": 756170000000,
       "intersegment_revenue": 8896000000,
       "operating_income": 33887000000
     },
     {
       "key": "FunctionalProducts",
-      "label": null,
+      "label": "機能製品",
       "external_revenue": 150804000000,
       "intersegment_revenue": 10285000000,
       "operating_income": 15379000000
     },
     {
       "key": "Infrastructure",
-      "label": null,
+      "label": "インフラ",
       "external_revenue": 363941000000,
       "intersegment_revenue": 6914000000,
       "operating_income": 21439000000
     },
     {
       "key": "ServiceAndDevelopmentsEtc",
-      "label": null,
+      "label": "サービス・開発等",
       "external_revenue": 36644000000,
       "intersegment_revenue": 5564000000,
       "operating_income": -6703000000

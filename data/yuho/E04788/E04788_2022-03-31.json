@@ -55,42 +55,42 @@
   "segments": [
     {
       "key": "Aviation",
-      "label": null,
+      "label": "航空",
       "external_revenue": 156526000000
     },
     {
       "key": "CustomerSolutionsUnit",
-      "label": null,
+      "label": "カスタマーソリューション",
       "external_revenue": 1135650000000,
       "intersegment_revenue": 1461000000
     },
     {
       "key": "EnvironmentEnergyAndInfrastructureBusiness",
-      "label": null,
+      "label": "環境エネルギー",
       "external_revenue": 50519000000,
       "intersegment_revenue": 4000000
     },
     {
       "key": "Logistics",
-      "label": null,
+      "label": "ロジスティクス",
       "external_revenue": 50938000000,
       "intersegment_revenue": 24000000
     },
     {
       "key": "Mobility",
-      "label": null,
+      "label": "モビリティ",
       "external_revenue": 55019000000,
       "intersegment_revenue": 89000000
     },
     {
       "key": "OverseasRegionsUnit",
-      "label": null,
+      "label": "海外地域",
       "external_revenue": 268268000000,
       "intersegment_revenue": 32000000
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産",
       "external_revenue": 48984000000,
       "intersegment_revenue": 92000000
     }

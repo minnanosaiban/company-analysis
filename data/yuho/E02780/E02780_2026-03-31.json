@@ -50,35 +50,35 @@
   "segments": [
     {
       "key": "TheCommunityHealthcareAndNursingCareSupportBusiness",
-      "label": null,
+      "label": "地域医療介護支援事業",
       "external_revenue": 93922000000,
       "intersegment_revenue": 14000000,
       "operating_income": 1549000000
     },
     {
       "key": "TheHealthcareProductDevelopmentBusiness",
-      "label": null,
+      "label": "ヘルスケア製品開発事業",
       "external_revenue": 11933000000,
       "intersegment_revenue": 39702000000,
       "operating_income": 830000000
     },
     {
       "key": "TheHealthcareRelatedServicesBusiness",
-      "label": null,
+      "label": "医療関連サービス等事業",
       "external_revenue": 24629000000,
       "intersegment_revenue": 18335000000,
       "operating_income": 1276000000
     },
     {
       "key": "ThePharmaceuticalDistributionBusiness",
-      "label": null,
+      "label": "医薬品卸売事業",
       "external_revenue": 2349386000000,
       "intersegment_revenue": 51626000000,
       "operating_income": 31467000000
     },
     {
       "key": "TheSpecialtyDrugContractDistributionBusiness",
-      "label": null,
+      "label": "スペシャリティ医薬品流通受託事業",
       "external_revenue": 6775000000,
       "intersegment_revenue": 429325000000,
       "operating_income": 1155000000

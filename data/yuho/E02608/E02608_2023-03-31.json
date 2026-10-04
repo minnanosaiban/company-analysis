@@ -56,21 +56,21 @@
   "segments": [
     {
       "key": "DispensingPharmacy",
-      "label": null,
+      "label": "調剤薬局事業",
       "external_revenue": 92337000000,
       "intersegment_revenue": 8000000,
       "operating_income": 2431000000
     },
     {
       "key": "MedicalProductsManufacturingAndSales",
-      "label": null,
+      "label": "医薬品製造販売事業",
       "external_revenue": 2105000000,
       "intersegment_revenue": 7839000000,
       "operating_income": 864000000
     },
     {
       "key": "MedicalProductsRetail",
-      "label": null,
+      "label": "医薬品卸売事業",
       "external_revenue": 1289136000000,
       "intersegment_revenue": 47630000000,
       "operating_income": 10443000000

@@ -44,27 +44,27 @@
   "segments": [
     {
       "key": "AssetManagementCompany",
-      "label": null,
+      "label": "アセットマネジメントカンパニー",
       "equity_method_income": 241000000
     },
     {
       "key": "CorporateAndInstitutionalCompany",
-      "label": null,
+      "label": "大企業・金融・公共法人カンパニー",
       "equity_method_income": 6376000000
     },
     {
       "key": "GlobalCorporateCompany",
-      "label": null,
+      "label": "グローバルコーポレートカンパニー",
       "equity_method_income": 22781000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "equity_method_income": -472000000
     },
     {
       "key": "RetailAndBusinessBankingCompany",
-      "label": null,
+      "label": "リテール・事業法人カンパニー",
       "equity_method_income": -17036000000
     }
   ],

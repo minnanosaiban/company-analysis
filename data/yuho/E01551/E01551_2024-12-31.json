@@ -49,31 +49,31 @@
   "segments": [
     {
       "key": "CFI",
-      "label": null,
+      "label": "CFI",
       "external_revenue": 25886000000,
       "intersegment_revenue": 4518000000
     },
     {
       "key": "Contec",
-      "label": null,
+      "label": "コンテック",
       "external_revenue": 16982000000,
       "intersegment_revenue": 3214000000
     },
     {
       "key": "DAIFUKU",
-      "label": null,
+      "label": "ダイフク",
       "external_revenue": 188097000000,
       "intersegment_revenue": 28687000000
     },
     {
       "key": "DNA",
-      "label": null,
+      "label": "DNA",
       "external_revenue": 172484000000,
       "intersegment_revenue": 2191000000
     },
     {
       "key": "DSA",
-      "label": null,
+      "label": "DSA",
       "external_revenue": 53379000000,
       "intersegment_revenue": 790000000
     }

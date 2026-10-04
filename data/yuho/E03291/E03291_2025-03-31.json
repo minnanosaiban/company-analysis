@@ -54,42 +54,42 @@
   "segments": [
     {
       "key": "GlobalFastfood",
-      "label": null,
+      "label": "グローバルファストフード",
       "external_revenue": 314125000000,
       "intersegment_revenue": 13000000,
       "operating_income": 29150000000
     },
     {
       "key": "GlobalHamazushi",
-      "label": null,
+      "label": "グローバルはま寿司",
       "external_revenue": 248495000000,
       "intersegment_revenue": 91000000,
       "operating_income": 21352000000
     },
     {
       "key": "GlobalSukiya",
-      "label": null,
+      "label": "グローバルすき家",
       "external_revenue": 295757000000,
       "intersegment_revenue": 304000000,
       "operating_income": 24508000000
     },
     {
       "key": "HeadofficeAndSupport",
-      "label": null,
+      "label": "本社・サポート",
       "external_revenue": 4887000000,
       "intersegment_revenue": 408001000000,
       "operating_income": -7418000000
     },
     {
       "key": "Restaurant",
-      "label": null,
+      "label": "レストラン",
       "external_revenue": 156085000000,
       "intersegment_revenue": 254000000,
       "operating_income": 11393000000
     },
     {
       "key": "Retail",
-      "label": null,
+      "label": "小売",
       "external_revenue": 76032000000,
       "intersegment_revenue": 773000000,
       "operating_income": -1794000000

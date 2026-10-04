@@ -52,28 +52,28 @@
   "segments": [
     {
       "key": "GU",
-      "label": null,
+      "label": "ジーユー事業",
       "revenue": 330701000000,
       "operating_income": 30506000000,
       "profit_before_tax": 31948000000
     },
     {
       "key": "GlobalBrands",
-      "label": null,
+      "label": "グローバルブランド事業",
       "revenue": 131542000000,
       "operating_income": -950000000,
       "profit_before_tax": -1487000000
     },
     {
       "key": "UNIQLOInternational",
-      "label": null,
+      "label": "海外ユニクロ事業",
       "revenue": 1910289000000,
       "operating_income": 309319000000,
       "profit_before_tax": 309026000000
     },
     {
       "key": "UNIQLOJAPAN",
-      "label": null,
+      "label": "国内ユニクロ事業",
       "revenue": 1026096000000,
       "operating_income": 184451000000,
       "profit_before_tax": 187125000000

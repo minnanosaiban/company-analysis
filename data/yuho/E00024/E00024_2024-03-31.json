@@ -56,14 +56,14 @@
   "segments": [
     {
       "key": "EngineeredMaterialsSector",
-      "label": null,
+      "label": "機能材料",
       "external_revenue": 118568000000,
       "intersegment_revenue": 5517000000,
       "ordinary_income": 16419000000
     },
     {
       "key": "MetalsSector",
-      "label": null,
+      "label": "金属",
       "external_revenue": 211026000000,
       "intersegment_revenue": 35776000000,
       "ordinary_income": 16071000000,
@@ -71,14 +71,14 @@
     },
     {
       "key": "Mobility",
-      "label": null,
+      "label": "モビリティ",
       "external_revenue": 216837000000,
       "intersegment_revenue": 1514000000,
       "ordinary_income": 11282000000
     },
     {
       "key": "OtherBusinessSector",
-      "label": null,
+      "label": "その他の事業",
       "external_revenue": 84671000000,
       "intersegment_revenue": 28714000000,
       "ordinary_income": 3173000000,

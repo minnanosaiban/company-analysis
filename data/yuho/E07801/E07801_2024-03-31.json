@@ -54,7 +54,7 @@
   "segments": [
     {
       "key": "HRTechnology",
-      "label": null,
+      "label": "HRテクノロジー",
       "external_revenue": 1009421000000,
       "intersegment_revenue": 2398000000,
       "revenue": 1011820000000,
@@ -62,7 +62,7 @@
     },
     {
       "key": "MatchingAndSolutions",
-      "label": null,
+      "label": "マッチング＆ソリューション",
       "external_revenue": 797032000000,
       "intersegment_revenue": 10810000000,
       "revenue": 807842000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "Staffing",
-      "label": null,
+      "label": "人材派遣",
       "external_revenue": 1607694000000,
       "intersegment_revenue": 26544000000,
       "revenue": 1634239000000,

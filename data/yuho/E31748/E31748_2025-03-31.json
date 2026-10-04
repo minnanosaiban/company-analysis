@@ -42,7 +42,7 @@
   "segments": [
     {
       "key": "BankingBusiness",
-      "label": null,
+      "label": "銀行業",
       "external_revenue": 2520180000000,
       "intersegment_revenue": 1715000000,
       "ordinary_income": 584377000000,
@@ -50,7 +50,7 @@
     },
     {
       "key": "InternationalLogisticsBusinesses",
-      "label": null,
+      "label": "国際物流事業",
       "external_revenue": 512313000000,
       "intersegment_revenue": 534000000,
       "ordinary_income": 4699000000,
@@ -58,7 +58,7 @@
     },
     {
       "key": "LifeInsuranceBusiness",
-      "label": null,
+      "label": "生命保険業",
       "external_revenue": 6161134000000,
       "intersegment_revenue": 3832000000,
       "ordinary_income": 169813000000,
@@ -66,7 +66,7 @@
     },
     {
       "key": "PostOfficeBusiness",
-      "label": null,
+      "label": "郵便局窓口事業",
       "external_revenue": 51603000000,
       "intersegment_revenue": 958594000000,
       "ordinary_income": 24155000000,
@@ -74,7 +74,7 @@
     },
     {
       "key": "PostalAndLogisticsBusinesses",
-      "label": null,
+      "label": "郵便・物流事業",
       "external_revenue": 2052022000000,
       "intersegment_revenue": 36459000000,
       "ordinary_income": -32220000000,
@@ -82,7 +82,7 @@
     },
     {
       "key": "RealEstateBusiness",
-      "label": null,
+      "label": "不動産事業",
       "external_revenue": 78639000000,
       "intersegment_revenue": 3031000000,
       "ordinary_income": 12366000000

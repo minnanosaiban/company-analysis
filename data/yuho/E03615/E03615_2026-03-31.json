@@ -44,27 +44,27 @@
   "segments": [
     {
       "key": "AMC",
-      "label": null,
+      "label": "ＡＭＣ",
       "equity_method_income": -1895000000
     },
     {
       "key": "CIBC",
-      "label": null,
+      "label": "ＣＩＢＣ",
       "equity_method_income": 11920000000
     },
     {
       "key": "GCIBC",
-      "label": null,
+      "label": "ＧＣＩＢＣ",
       "equity_method_income": 26817000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "equity_method_income": 3712000000
     },
     {
       "key": "RBC",
-      "label": null,
+      "label": "ＲＢＣ",
       "equity_method_income": 11712000000
     }
   ],

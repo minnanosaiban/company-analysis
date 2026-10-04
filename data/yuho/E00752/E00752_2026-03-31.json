@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "AdvancedMedicalSolutions",
-      "label": null,
+      "label": "アドバンストメディカルソリューション",
       "external_revenue": 58601000000,
       "intersegment_revenue": 13812000000,
       "revenue": 72413000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "AgroAndLifeSolutions",
-      "label": null,
+      "label": "アグロ＆ライフソリューション",
       "external_revenue": 519256000000,
       "intersegment_revenue": 1094000000,
       "revenue": 520350000000,
@@ -71,7 +71,7 @@
     },
     {
       "key": "EssentialAndGreenMaterials",
-      "label": null,
+      "label": "エッセンシャル＆グリーンマテリアルズ",
       "external_revenue": 678800000000,
       "intersegment_revenue": 4576000000,
       "revenue": 683376000000,
@@ -81,7 +81,7 @@
     },
     {
       "key": "ICTAndMobilitySolutions",
-      "label": null,
+      "label": "ICT＆モビリティソリューション",
       "external_revenue": 574162000000,
       "intersegment_revenue": 968000000,
       "revenue": 575130000000,
@@ -90,7 +90,7 @@
     },
     {
       "key": "SumitomoPharma",
-      "label": null,
+      "label": "住友ファーマ",
       "external_revenue": 451933000000,
       "intersegment_revenue": 1361000000,
       "revenue": 453294000000,

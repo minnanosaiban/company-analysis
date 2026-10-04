@@ -54,21 +54,21 @@
   "segments": [
     {
       "key": "Chemicals",
-      "label": null,
+      "label": "化学品事業",
       "external_revenue": 204130000000,
       "intersegment_revenue": 150000000,
       "operating_income": 23699000000
     },
     {
       "key": "FoodProducts",
-      "label": null,
+      "label": "食品事業",
       "external_revenue": 84012000000,
       "intersegment_revenue": 323000000,
       "operating_income": 4111000000
     },
     {
       "key": "Lifesciemce",
-      "label": null,
+      "label": "ライフサイエンス事業",
       "external_revenue": 103021000000,
       "intersegment_revenue": 11000000,
       "operating_income": 5907000000

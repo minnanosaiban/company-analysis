@@ -54,42 +54,42 @@
   "segments": [
     {
       "key": "CommercialFacilities",
-      "label": null,
+      "label": "商業施設",
       "external_revenue": 1283062000000,
       "intersegment_revenue": 7130000000,
       "operating_income": 162492000000
     },
     {
       "key": "Condominiums",
-      "label": null,
+      "label": "マンション",
       "external_revenue": 271502000000,
       "intersegment_revenue": 8120000000,
       "operating_income": 5993000000
     },
     {
       "key": "EnvironmentAndEnergy",
-      "label": null,
+      "label": "環境エネルギー",
       "external_revenue": 87009000000,
       "intersegment_revenue": 46127000000,
       "operating_income": 13835000000
     },
     {
       "key": "LogisticsBusinessAndCorporateFacilities",
-      "label": null,
+      "label": "事業施設",
       "external_revenue": 1146215000000,
       "intersegment_revenue": 43593000000,
       "operating_income": 127645000000
     },
     {
       "key": "RentalHousing",
-      "label": null,
+      "label": "賃貸住宅",
       "external_revenue": 1426094000000,
       "intersegment_revenue": 3178000000,
       "operating_income": 141142000000
     },
     {
       "key": "SingleFamilyHouses",
-      "label": null,
+      "label": "戸建住宅",
       "external_revenue": 1334831000000,
       "intersegment_revenue": 7421000000,
       "operating_income": 155696000000

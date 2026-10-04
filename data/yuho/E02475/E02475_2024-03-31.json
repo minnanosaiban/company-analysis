@@ -54,7 +54,7 @@
   "segments": [
     {
       "key": "EntertainmentContentsBusiness",
-      "label": null,
+      "label": "エンタテインメントコンテンツ事業",
       "external_revenue": 318005000000,
       "intersegment_revenue": 338000000,
       "ordinary_income": 30781000000,
@@ -62,7 +62,7 @@
     },
     {
       "key": "PachislotAndPachinkoMachines",
-      "label": null,
+      "label": "遊技機事業",
       "external_revenue": 135969000000,
       "intersegment_revenue": 892000000,
       "ordinary_income": 41877000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "ResortBusiness",
-      "label": null,
+      "label": "リゾート事業",
       "external_revenue": 12356000000,
       "intersegment_revenue": 33000000,
       "ordinary_income": 18000000,

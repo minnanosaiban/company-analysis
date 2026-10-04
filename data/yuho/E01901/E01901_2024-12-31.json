@@ -53,31 +53,31 @@
   "segments": [
     {
       "key": "AutomotiveTestSystems",
-      "label": null,
+      "label": "自動車",
       "external_revenue": 93498000000,
       "operating_income": 1493000000
     },
     {
       "key": "MedicalDiagnosticInstrumentsAndSystems",
-      "label": null,
+      "label": "医用",
       "external_revenue": 33706000000,
       "operating_income": -150000000
     },
     {
       "key": "ProcessAndEnvironmentalInstrumentsAndSystems",
-      "label": null,
+      "label": "環境・プロセス",
       "external_revenue": 28194000000,
       "operating_income": 1835000000
     },
     {
       "key": "ScientificInstrumentsAndSystems",
-      "label": null,
+      "label": "科学",
       "external_revenue": 41503000000,
       "operating_income": 982000000
     },
     {
       "key": "SemiconductorInstrumentsAndSystems",
-      "label": null,
+      "label": "半導体",
       "external_revenue": 120466000000,
       "operating_income": 44178000000
     }

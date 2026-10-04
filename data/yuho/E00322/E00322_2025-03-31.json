@@ -51,56 +51,56 @@
   "segments": [
     {
       "key": "COMSYSJOHOSYSTEMGroup",
-      "label": null,
+      "label": "コムシス情報システムグループ",
       "external_revenue": 17802000000,
       "intersegment_revenue": 2499000000,
       "operating_income": 1738000000
     },
     {
       "key": "HokurikuDenwaKoujiGroup",
-      "label": null,
+      "label": "北陸電話工事グループ",
       "external_revenue": 18262000000,
       "intersegment_revenue": 405000000,
       "operating_income": 1450000000
     },
     {
       "key": "NDSGroup",
-      "label": null,
+      "label": "ＮＤＳグループ",
       "external_revenue": 87011000000,
       "intersegment_revenue": 611000000,
       "operating_income": 5607000000
     },
     {
       "key": "NipponCOMSYSGroup",
-      "label": null,
+      "label": "日本コムシスグループ",
       "external_revenue": 310138000000,
       "intersegment_revenue": 6765000000,
       "operating_income": 23672000000
     },
     {
       "key": "SANWACOMSYSEngineeringGroup",
-      "label": null,
+      "label": "サンワコムシスエンジニアリンググループ",
       "external_revenue": 40021000000,
       "intersegment_revenue": 1148000000,
       "operating_income": 1642000000
     },
     {
       "key": "SYSKENGroup",
-      "label": null,
+      "label": "ＳＹＳＫＥＮグループ",
       "external_revenue": 33684000000,
       "intersegment_revenue": 1001000000,
       "operating_income": 1597000000
     },
     {
       "key": "TOSYSGroup",
-      "label": null,
+      "label": "ＴＯＳＹＳグループ",
       "external_revenue": 36218000000,
       "intersegment_revenue": 1023000000,
       "operating_income": 2634000000
     },
     {
       "key": "TSUKENGroup",
-      "label": null,
+      "label": "つうけんグループ",
       "external_revenue": 69642000000,
       "intersegment_revenue": 4637000000,
       "operating_income": 7275000000

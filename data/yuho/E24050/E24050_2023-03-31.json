@@ -32,7 +32,7 @@
   "segments": [
     {
       "key": "Energy",
-      "label": null,
+      "label": "エネルギー",
       "external_revenue": 12706468000000,
       "intersegment_revenue": 4495000000,
       "operating_income": 50973000000,
@@ -41,7 +41,7 @@
     },
     {
       "key": "Metals",
-      "label": null,
+      "label": "金属",
       "external_revenue": 1635428000000,
       "intersegment_revenue": 2398000000,
       "operating_income": 68677000000,

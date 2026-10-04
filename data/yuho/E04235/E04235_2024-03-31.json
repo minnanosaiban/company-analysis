@@ -54,14 +54,14 @@
   "segments": [
     {
       "key": "AirCargoTransportation",
-      "label": null,
+      "label": "航空運送事業",
       "external_revenue": 154560000000,
       "intersegment_revenue": 6625000000,
       "ordinary_income": 5758000000
     },
     {
       "key": "BulkShipping",
-      "label": null,
+      "label": "不定期専用船事業",
       "external_revenue": 1230737000000,
       "intersegment_revenue": 916000000,
       "ordinary_income": 170296000000,
@@ -69,7 +69,7 @@
     },
     {
       "key": "LinerTrade",
-      "label": null,
+      "label": "定期船事業",
       "external_revenue": 186593000000,
       "intersegment_revenue": 5759000000,
       "ordinary_income": 67891000000,
@@ -77,7 +77,7 @@
     },
     {
       "key": "Logistics",
-      "label": null,
+      "label": "物流事業",
       "external_revenue": 699296000000,
       "intersegment_revenue": 3002000000,
       "ordinary_income": 25950000000,
@@ -85,7 +85,7 @@
     },
     {
       "key": "Others",
-      "label": null,
+      "label": "その他事業",
       "external_revenue": 112923000000,
       "intersegment_revenue": 106680000000,
       "ordinary_income": 2033000000,
@@ -93,7 +93,7 @@
     },
     {
       "key": "RealEstate",
-      "label": null,
+      "label": "不動産業",
       "external_revenue": 3127000000,
       "ordinary_income": 1593000000,
       "equity_method_income": 199000000

@@ -53,19 +53,19 @@
   "segments": [
     {
       "key": "AmusementEquipments",
-      "label": null,
+      "label": "アミューズメント機器",
       "external_revenue": 9020000000,
       "operating_income": 4117000000
     },
     {
       "key": "ArcadeOperations",
-      "label": null,
+      "label": "アミューズメント施設",
       "external_revenue": 19343000000,
       "operating_income": 1868000000
     },
     {
       "key": "DegitalContents",
-      "label": null,
+      "label": "デジタルコンテンツ",
       "external_revenue": 119841000000,
       "operating_income": 59831000000
     }

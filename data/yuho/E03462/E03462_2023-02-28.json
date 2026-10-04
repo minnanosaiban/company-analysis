@@ -57,7 +57,7 @@
   "segments": [
     {
       "key": "DepartmentStoreAndSpecialityStoreOperations",
-      "label": null,
+      "label": "百貨店・専門店事業",
       "external_revenue": 460564000000,
       "intersegment_revenue": 3174000000,
       "operating_income": 3434000000
@@ -78,7 +78,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 9068000000,
       "intersegment_revenue": 16976000000,
       "operating_income": -466000000

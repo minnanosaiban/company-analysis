@@ -52,14 +52,14 @@
   "segments": [
     {
       "key": "Elastomer",
-      "label": null,
+      "label": "エラストマー素材事業",
       "external_revenue": 232469000000,
       "intersegment_revenue": 4090000000,
       "operating_income": 10931000000
     },
     {
       "key": "SpecialtyMaterial",
-      "label": null,
+      "label": "高機能材料事業",
       "external_revenue": 121551000000,
       "intersegment_revenue": 66000000,
       "operating_income": 17560000000

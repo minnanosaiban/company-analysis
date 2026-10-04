@@ -56,21 +56,21 @@
   "segments": [
     {
       "key": "MedicalTreatmentRelated",
-      "label": null,
+      "label": "医療関連",
       "external_revenue": 523615000000,
       "intersegment_revenue": 7313000000,
       "operating_income": 52338000000
     },
     {
       "key": "MedicineRelated",
-      "label": null,
+      "label": "医薬関連",
       "external_revenue": 81107000000,
       "intersegment_revenue": 60593000000,
       "operating_income": 12096000000
     },
     {
       "key": "PharmaPackaging",
-      "label": null,
+      "label": "ファーマパッケージング",
       "external_revenue": 54687000000,
       "intersegment_revenue": 7326000000,
       "operating_income": -1585000000

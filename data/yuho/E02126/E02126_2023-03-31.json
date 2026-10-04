@@ -49,14 +49,14 @@
   "segments": [
     {
       "key": "AircraftDefenseAndSpace",
-      "label": null,
+      "label": "航空・防衛・宇宙",
       "external_revenue": 617994000000,
       "intersegment_revenue": 1448000000,
       "revenue": 619442000000
     },
     {
       "key": "EnergySystems",
-      "label": null,
+      "label": "エナジー",
       "external_revenue": 1731444000000,
       "intersegment_revenue": 7231000000,
       "revenue": 1738676000000,
@@ -64,7 +64,7 @@
     },
     {
       "key": "LogisticsThermalAndDriveSystems",
-      "label": null,
+      "label": "物流・冷熱・ドライブシステム",
       "external_revenue": 1199695000000,
       "intersegment_revenue": 4081000000,
       "revenue": 1203776000000,
@@ -72,7 +72,7 @@
     },
     {
       "key": "PlantsAndInfrastructureSystems",
-      "label": null,
+      "label": "プラント・インフラ",
       "external_revenue": 638689000000,
       "intersegment_revenue": 36976000000,
       "revenue": 675665000000,

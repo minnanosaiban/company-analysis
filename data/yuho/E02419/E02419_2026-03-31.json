@@ -46,19 +46,19 @@
   "segments": [
     {
       "key": "BallBearingSupplySystemsBusiness",
-      "label": null,
+      "label": "補給機器関連事業",
       "external_revenue": 15537000000,
       "operating_income": 1106000000
     },
     {
       "key": "PachinkoMachinesBusiness",
-      "label": null,
+      "label": "パチンコ機関連事業",
       "external_revenue": 119809000000,
       "operating_income": 49386000000
     },
     {
       "key": "PachislotMachinesBusiness",
-      "label": null,
+      "label": "パチスロ機関連事業",
       "external_revenue": 43435000000,
       "operating_income": 18924000000
     }

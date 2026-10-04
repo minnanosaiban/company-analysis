@@ -51,19 +51,19 @@
   "segments": [
     {
       "key": "DispensingPharmacy",
-      "label": null,
+      "label": "ファーマシー事業",
       "external_revenue": 283111000000,
       "ordinary_income": 25082000000
     },
     {
       "key": "DrugAndCosmeticStore",
-      "label": null,
+      "label": "リテール事業",
       "external_revenue": 20558000000,
       "ordinary_income": -1764000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 12576000000,
       "intersegment_revenue": 100000000,
       "ordinary_income": -146000000

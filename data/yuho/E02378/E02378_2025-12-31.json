@@ -56,46 +56,46 @@
   "segments": [
     {
       "key": "Europe",
-      "label": null,
+      "label": "欧州地域",
       "external_revenue": 225805000000,
       "operating_income": 36746000000
     },
     {
       "key": "GreaterChina",
-      "label": null,
+      "label": "中華圏地域",
       "external_revenue": 120236000000,
       "intersegment_revenue": 277000000,
       "operating_income": 25099000000
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本地域",
       "external_revenue": 156385000000,
       "intersegment_revenue": 47851000000,
       "operating_income": 44734000000
     },
     {
       "key": "NorthAmerica",
-      "label": null,
+      "label": "北米地域",
       "external_revenue": 141192000000,
       "operating_income": 16018000000
     },
     {
       "key": "Oceania",
-      "label": null,
+      "label": "オセアニア地域",
       "external_revenue": 49649000000,
       "operating_income": 7927000000
     },
     {
       "key": "OtherAreas",
-      "label": null,
+      "label": "その他地域",
       "external_revenue": 52077000000,
       "intersegment_revenue": 0,
       "operating_income": 8107000000
     },
     {
       "key": "SouthEastAndSouthAsian",
-      "label": null,
+      "label": "東南・南アジア地域",
       "external_revenue": 49745000000,
       "intersegment_revenue": 35000000,
       "operating_income": 10946000000

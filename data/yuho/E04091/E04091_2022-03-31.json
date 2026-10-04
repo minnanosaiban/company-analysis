@@ -71,7 +71,7 @@
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 5001000000,
       "intersegment_revenue": 2860000000,
       "operating_income": 340000000

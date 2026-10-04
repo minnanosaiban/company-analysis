@@ -53,21 +53,21 @@
   "segments": [
     {
       "key": "MarugameSeimenSegment",
-      "label": null,
+      "label": "丸亀製麺",
       "external_revenue": 128142000000,
       "revenue": 128142000000,
       "operating_income": 20896000000
     },
     {
       "key": "OthersSegment",
-      "label": null,
+      "label": "国内その他",
       "external_revenue": 35412000000,
       "revenue": 35412000000,
       "operating_income": 4447000000
     },
     {
       "key": "OverseasSegment",
-      "label": null,
+      "label": "海外事業",
       "external_revenue": 104674000000,
       "revenue": 104674000000,
       "operating_income": 2524000000

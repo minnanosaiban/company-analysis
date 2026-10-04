@@ -52,21 +52,21 @@
   "segments": [
     {
       "key": "ContentMediaBusiness",
-      "label": null,
+      "label": "コンテンツ・メディア事業",
       "external_revenue": 452656000000,
       "intersegment_revenue": 231000000,
       "operating_income": 67114000000
     },
     {
       "key": "RealEstateRelatedBusiness",
-      "label": null,
+      "label": "不動産関連事業",
       "external_revenue": 4560000000,
       "intersegment_revenue": 6994000000,
       "operating_income": 4136000000
     },
     {
       "key": "WellnessBusiness",
-      "label": null,
+      "label": "ウェルネス事業",
       "external_revenue": 27202000000,
       "intersegment_revenue": 463000000,
       "operating_income": -72000000

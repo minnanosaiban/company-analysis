@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "CybersecurityAndOtherITSolutionsBusiness",
-      "label": null,
+      "label": "サイバーセキュリティ及びその他ITソリューション事業",
       "external_revenue": 174150000000,
       "intersegment_revenue": 79000000,
       "operating_income": 17213000000,
@@ -60,7 +60,7 @@
     },
     {
       "key": "IntegratedCircuitElectronicDeviceAndOther",
-      "label": null,
+      "label": "集積回路及び電子デバイスその他事業",
       "external_revenue": 1040045000000,
       "operating_income": 24735000000
     }

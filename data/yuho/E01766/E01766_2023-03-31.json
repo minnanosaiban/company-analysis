@@ -49,7 +49,7 @@
   "segments": [
     {
       "key": "DeviceSolutions",
-      "label": null,
+      "label": "デバイスソリューション",
       "external_revenue": 368345000000,
       "intersegment_revenue": 14336000000,
       "revenue": 382681000000,
@@ -57,7 +57,7 @@
     },
     {
       "key": "TechnologySolutions",
-      "label": null,
+      "label": "テクノロジーソリューション",
       "external_revenue": 3156810000000,
       "intersegment_revenue": 19735000000,
       "revenue": 3176545000000,

@@ -56,21 +56,21 @@
   "segments": [
     {
       "key": "AsiaBusiness",
-      "label": null,
+      "label": "アジア事業",
       "external_revenue": 85140000000,
       "intersegment_revenue": 129000000,
       "operating_income": 146000000
     },
     {
       "key": "JapanBusiness",
-      "label": null,
+      "label": "国内事業",
       "external_revenue": 1763062000000,
       "intersegment_revenue": 12662000000,
       "operating_income": 136606000000
     },
     {
       "key": "NorthAmericaBusiness",
-      "label": null,
+      "label": "北米事業",
       "external_revenue": 246875000000,
       "operating_income": 3442000000
     }

@@ -52,7 +52,7 @@
   "segments": [
     {
       "key": "AlcoholicBeverages",
-      "label": null,
+      "label": "酒類",
       "external_revenue": 1081694000000,
       "intersegment_revenue": 2319000000,
       "revenue": 1084013000000,
@@ -61,7 +61,7 @@
     },
     {
       "key": "HealthScience",
-      "label": null,
+      "label": "ヘルスサイエンス",
       "external_revenue": 175256000000,
       "intersegment_revenue": 4217000000,
       "revenue": 179473000000,
@@ -70,7 +70,7 @@
     },
     {
       "key": "NonAlcoholicBeverages",
-      "label": null,
+      "label": "飲料",
       "external_revenue": 564871000000,
       "intersegment_revenue": 2967000000,
       "revenue": 567837000000,
@@ -79,7 +79,7 @@
     },
     {
       "key": "Pharmaceuticals",
-      "label": null,
+      "label": "医薬",
       "external_revenue": 495295000000,
       "intersegment_revenue": 264000000,
       "revenue": 495558000000,

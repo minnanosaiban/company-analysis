@@ -53,14 +53,14 @@
   "segments": [
     {
       "key": "Food",
-      "label": null,
+      "label": "食品",
       "external_revenue": 941470000000,
       "intersegment_revenue": 1408000000,
       "operating_income": 68746000000
     },
     {
       "key": "Pharmaceuticals",
-      "label": null,
+      "label": "医薬品",
       "external_revenue": 232218000000,
       "intersegment_revenue": 26000000,
       "operating_income": 30463000000

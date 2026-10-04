@@ -56,28 +56,28 @@
   "segments": [
     {
       "key": "AppliedElectronicProductsBisiness",
-      "label": null,
+      "label": "電子応用製品事業",
       "external_revenue": 52879000000,
       "intersegment_revenue": 59690000000,
       "operating_income": 9302000000
     },
     {
       "key": "AutomotiveEquipmentBusiness",
-      "label": null,
+      "label": "自動車機器事業",
       "external_revenue": 445215000000,
       "intersegment_revenue": 1923000000,
       "operating_income": 44937000000
     },
     {
       "key": "ElectricComponentsBusiness",
-      "label": null,
+      "label": "コンポーネンツ事業",
       "external_revenue": 20356000000,
       "intersegment_revenue": 18967000000,
       "operating_income": 2884000000
     },
     {
       "key": "Other",
-      "label": null,
+      "label": "その他",
       "external_revenue": 4000000,
       "intersegment_revenue": 3203000000,
       "operating_income": 122000000

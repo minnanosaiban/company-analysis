@@ -52,28 +52,28 @@
   "segments": [
     {
       "key": "DispensingPharmacy",
-      "label": null,
+      "label": "調剤薬局事業",
       "external_revenue": 33468000000,
       "intersegment_revenue": 122000000,
       "operating_income": 3426000000
     },
     {
       "key": "LifeCare",
-      "label": null,
+      "label": "ライフケア事業",
       "external_revenue": 36674000000,
       "intersegment_revenue": 82000000,
       "operating_income": 2189000000
     },
     {
       "key": "MedicalSupplies",
-      "label": null,
+      "label": "メディカルサプライ事業",
       "external_revenue": 474919000000,
       "intersegment_revenue": 2721000000,
       "operating_income": 6970000000
     },
     {
       "key": "TotalPackProduce",
-      "label": null,
+      "label": "トータルパックプロデュース事業",
       "external_revenue": 133167000000,
       "intersegment_revenue": 4264000000,
       "operating_income": 12017000000

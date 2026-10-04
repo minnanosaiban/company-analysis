@@ -54,19 +54,19 @@
   "segments": [
     {
       "key": "SystemSolution",
-      "label": null,
+      "label": "システムソリューション",
       "external_revenue": 183361000000,
       "operating_income": 6256000000
     },
     {
       "key": "Telecommunication",
-      "label": null,
+      "label": "通信キャリア",
       "external_revenue": 253494000000,
       "operating_income": 16829000000
     },
     {
       "key": "UrbanInfrastracture",
-      "label": null,
+      "label": "都市インフラ",
       "external_revenue": 177239000000,
       "operating_income": 11035000000
     }

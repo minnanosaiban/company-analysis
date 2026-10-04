@@ -49,31 +49,31 @@
   "segments": [
     {
       "key": "Americas",
-      "label": null,
+      "label": "アメリカス",
       "external_revenue": 300440000000,
       "operating_income": 174375000000
     },
     {
       "key": "China",
-      "label": null,
+      "label": "中国",
       "external_revenue": 130745000000,
       "operating_income": 59312000000
     },
     {
       "key": "EMEA",
-      "label": null,
+      "label": "EMEA",
       "external_revenue": 81532000000,
       "operating_income": 30412000000
     },
     {
       "key": "EastAsiaGlobalSouth",
-      "label": null,
+      "label": "イーストアジア・グローバルサウス",
       "external_revenue": 68823000000,
       "operating_income": 30245000000
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 229238000000,
       "operating_income": 72979000000
     }

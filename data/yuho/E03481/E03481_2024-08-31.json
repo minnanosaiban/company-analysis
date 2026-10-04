@@ -55,14 +55,14 @@
   "segments": [
     {
       "key": "BSDigitalBroadcasting",
-      "label": null,
+      "label": "ＢＳデジタル放送事業",
       "external_revenue": 11296000000,
       "intersegment_revenue": 61000000,
       "ordinary_income": 2073000000
     },
     {
       "key": "MerchandiseSales",
-      "label": null,
+      "label": "物品販売事業",
       "external_revenue": 909694000000,
       "intersegment_revenue": 54000000,
       "ordinary_income": 24490000000,

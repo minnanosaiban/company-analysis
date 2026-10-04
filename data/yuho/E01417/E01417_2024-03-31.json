@@ -48,41 +48,41 @@
   "segments": [
     {
       "key": "America",
-      "label": null,
+      "label": "アメリカ",
       "external_revenue": 57875000000,
       "operating_income": -1197000000
     },
     {
       "key": "Australia",
-      "label": null,
+      "label": "オーストラリア",
       "external_revenue": 30338000000,
       "intersegment_revenue": 90000000,
       "operating_income": 1245000000
     },
     {
       "key": "China",
-      "label": null,
+      "label": "中国",
       "external_revenue": 71886000000,
       "intersegment_revenue": 2126000000,
       "operating_income": 12146000000
     },
     {
       "key": "Indonesia",
-      "label": null,
+      "label": "インドネシア",
       "external_revenue": 14913000000,
       "intersegment_revenue": 495000000,
       "operating_income": 2745000000
     },
     {
       "key": "Japan",
-      "label": null,
+      "label": "日本",
       "external_revenue": 192354000000,
       "intersegment_revenue": 29735000000,
       "operating_income": 17965000000
     },
     {
       "key": "Korea",
-      "label": null,
+      "label": "韓国",
       "external_revenue": 31874000000,
       "intersegment_revenue": 880000000,
       "operating_income": 16000000
