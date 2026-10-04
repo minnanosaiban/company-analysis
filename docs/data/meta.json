@@ -1,0 +1,27 @@
+{
+  "updated": "2026-10-04",
+  "companies": 497,
+  "source": "EDINET（金融庁）有価証券報告書",
+  "fields": [
+    "net_sales",
+    "ordinary_revenue",
+    "net_revenue",
+    "operating_income",
+    "ordinary_income",
+    "profit_before_tax",
+    "net_income",
+    "gross_profit",
+    "eps",
+    "dps",
+    "bps",
+    "roe",
+    "per",
+    "equity_ratio",
+    "net_assets",
+    "total_assets",
+    "operating_cf",
+    "investing_cf",
+    "financing_cf",
+    "cash_end"
+  ]
+}

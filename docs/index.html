@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>企業分析 ― 有価証券報告書の可視化</title>
+<meta name="description" content="東証の主要企業（約500社）の有価証券報告書（EDINET）をもとに、企業を探し、セグメント・財務指標・キャッシュフローを比べられます。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<header id="site-header">
+  <a class="brand" href="#/">企業分析</a>
+  <nav id="nav" aria-label="ページ"></nav>
+</header>
+
+<main id="app" aria-live="polite">
+  <p class="loading">読み込み中…</p>
+  <noscript><p>このページの表示には JavaScript が必要です。</p></noscript>
+</main>
+
+<!-- 出典・加工の明記（EDINET 利用規約／公共データ利用規約 第1.0版の条件）。JS が動かなくても、埋め込み表示でも、必ず出す。 -->
+<footer id="site-footer">
+  <p>
+    <b>出典</b>：<a href="https://disclosure2.edinet-fsa.go.jp/" target="_blank" rel="noopener">EDINET閲覧（提出）サイト</a>、
+    <a href="https://www.digital.go.jp/resources/open_data/public_data_license_v1.0" target="_blank" rel="noopener">公共データ利用規約（第1.0版）</a>
+  </p>
+  <p>
+    <b>加工</b>：金融庁 EDINET の有価証券報告書（XBRL）から、minnanosaiban が必要な項目を抽出・変換し、集計・分類・図表化しています。
+    政府が作成した情報そのものではなく、元の提出書類と異なる場合があります。投資の助言ではありません。正確な内容は各社の有価証券報告書で確認してください。
+  </p>
+  <p class="footer-links">
+    <a href="https://minnanosaiban.github.io/tomo/blog/" target="_blank" rel="noopener">解説ブログ（株価分析の連載）</a>
+    <a href="https://github.com/minnanosaiban/company-analysis" target="_blank" rel="noopener">GitHub（コードとデータ）</a>
+  </p>
+</footer>
+
+<script type="module" src="assets/app.js"></script>
+</body>
+</html>
