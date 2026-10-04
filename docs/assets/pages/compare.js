@@ -109,6 +109,9 @@ export async function render(root, ctx) {
     ['02-05_segment_analysis', 'セグメント分析', '連結に埋もれた強い事業を、セグメントで探す回'],
     ['02-06_segment_core_stocks', 'コングロマリット・ディスカウント', '総合商社・ＥＮＥＯＳを、セグメントで読み解く回'],
     ['02-08_enterprise_value', 'EVで見る「会社の値段」', '株価に借金を足した会社の値段を、営業CF・FCFと見比べる回'],
+    ['03-01_similar_earnings_search', 'コサイン類似度', '「似ている決算」を数値で検索する回（丸紅と総合商社）'],
+    ['03-02_knn_prediction', 'K-NN 分類', '似た決算群から外れた個別ショックを検出する回'],
+    ['03-03_earnings_clustering', 'K-means クラスタリング', '決算の型を機械学習で分け、ＥＮＥＯＳの位置づけを見る回'],
   ];
   const rel = document.createElement('section');
   rel.innerHTML = `<h3 class="bar-title" style="margin-top:2rem">連載記事で、数値の読み方を知る</h3>
