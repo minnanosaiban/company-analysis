@@ -72,8 +72,8 @@ export async function render(root, ctx) {
   });
 
   // ── 表
-  const head = companies.map((c, i) => `<th><span style="color:${COLORS[i]}">●</span> <a href="${ctx.link('trend', { tc: c.e })}">${esc(c.n)}</a>
-    <span class="sec">${esc(c.s)}・${esc(c.i)}<br>FY ${ym(cmp[i].fy)}・${esc(cmp[i].std)}</span></th>`).join('');
+  const head = companies.map((c, i) => `<th><span style="color:${COLORS[i]}">●</span> ${esc(c.n)}
+    <span class="sec">${esc(c.s)}・${esc(c.i)}<br>FY ${ym(cmp[i].fy)}・${esc(cmp[i].std)}<br><a href="${ctx.link('trend', { tc: c.e })}">推移を見る →</a></span></th>`).join('');
   let lastGroup = '';
   const body = COMPARE_ROWS.map((m) => {
     const vals = cmp.map((c) => c.values[m.key]);
@@ -90,8 +90,13 @@ export async function render(root, ctx) {
   const tbl = document.createElement('section');
   tbl.innerHTML = `<h3 class="bar-title" style="margin-top:2rem">数値の比較（最新期）</h3>
     <div class="table-wrap"><table class="data compare"><thead><tr><th class="l sticky-col">指標</th>${head}</tr></thead><tbody>${body}${patternRow}</tbody></table></div>
-    <p class="muted small">売上の前期比は、前期の有価証券報告書が公開データにあり、同じ区分の収益で比べられるときだけ表示します。
-      「推移を見る」は、会社名のリンクから、財務の推移ページへ進めます。</p>`;
+    <p class="muted small">売上の前期比は、前期の有価証券報告書が公開データにあり、同じ区分の収益で比べられるときだけ表示します。</p>
+    <h3 class="bar-title" style="margin-top:2rem">次に見る</h3>
+    <ul>
+      <li><a href="${ctx.link('trend', { tc: codes.join(',') })}">この${codes.length}社の財務の推移を、重ねて見る →</a></li>
+      <li><a href="${ctx.link('valuation', { m: 'co', co: codes.join(','), x: 'roe', y: 'per', lab: '1' })}">ROE と PER の散布図で、この${codes.length}社の位置を見る →</a></li>
+      <li><a href="${ctx.link('', {})}">条件から、比べる会社を探し直す →</a></li>
+    </ul>`;
   out.appendChild(tbl);
 
   // ── 関連する連載記事（ブログ）
@@ -103,8 +108,8 @@ export async function render(root, ctx) {
     ['02-06_segment_core_stocks', 'コングロマリット・ディスカウント', '総合商社・ＥＮＥＯＳを、セグメントで読み解く回'],
   ];
   const rel = document.createElement('section');
-  rel.innerHTML = `<h3 class="bar-title" style="margin-top:2rem">関連する連載記事</h3>
-    <p class="muted small">この表の見方（利益率・ROE・自己資本比率など）や、会社どうしの比べ方は、ブログ連載「株価分析」で扱っています。</p>
-    <ul>${articles.map(([slug, t, d]) => `<li><a href="${BLOG}${slug}/" target="_blank" rel="noopener">${esc(t)}</a><span class="muted small">　${esc(d)}</span></li>`).join('')}</ul>`;
+  rel.innerHTML = `<h3 class="bar-title" style="margin-top:2rem">連載記事で、数値の読み方を知る</h3>
+    <p class="muted small">利益率・ROE・自己資本比率の見方や、会社どうしの比べ方を、ブログ連載「株価分析」で解説しています。</p>
+    <ul>${articles.map(([slug, t, d]) => `<li><a href="${BLOG}${slug}/" target="_blank" rel="noopener">「${esc(t)}」を読む →</a><span class="muted small">　${esc(d)}</span></li>`).join('')}</ul>`;
   out.appendChild(rel);
 }
