@@ -1,6 +1,6 @@
 // 図に渡すデータの組み立て（画面・ECharts に依存しない。テストできる部分）。
 // tests/make_expected_charts.py の Python の基準実装と同じ計算にそろえる（tests/charts.test.mjs で照合）。
-import { isNum } from './fields.js?v=58accaa9d1';
+import { isNum } from './fields.js?v=f2e57d7edf';
 
 /** 昇順にした配列の q 分位点（線形補間）。 */
 export function quantile(sorted, q) {

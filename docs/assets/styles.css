@@ -51,16 +51,19 @@ p { margin: .6rem 0; }
 /* ヘッダ・ナビ */
 #site-header {
   position: sticky; top: 0; z-index: 10;
-  display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;
+  display: flex; align-items: center; gap: .1rem 1.5rem; flex-wrap: wrap;
   padding: .6rem 1.2rem;
   background: var(--bg);
   box-shadow: var(--shadow);
 }
 .brand { font-size: 1.1rem; color: var(--fg); font-weight: 500; }
 .brand:hover { text-decoration: none; }
-#nav { display: flex; gap: .2rem; flex-wrap: wrap; }
+#nav { display: flex; gap: .1rem; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; min-width: 0; }
+#nav::-webkit-scrollbar { display: none; }
+/* ブランドと同じ行に収まらない幅では、ナビを次の行にして、1行のまま全部見せる */
+@media (max-width: 1179px) { #nav { flex: 1 1 100%; } }
 #nav a {
-  padding: .35rem .8rem; border-radius: 999px; color: var(--muted); font-size: .92rem;
+  padding: .35rem .55rem; border-radius: 999px; color: var(--muted); font-size: .9rem;
 }
 #nav a:hover { background: var(--surface); text-decoration: none; }
 #nav a[aria-current="page"] { background: var(--surface-2); color: var(--fg); }
@@ -197,8 +200,3 @@ input[type="text"], input[type="search"], input[type="number"], select { min-hei
 /* 開閉の見出し・並べ替えの見出し */
 .panel > summary { display: flex; align-items: center; min-height: 44px; list-style: none; }
 table.data th[data-sort] { height: 44px; }
-/* 狭い画面: ナビは1行の横スクロールにして、固定ヘッダが画面を占めすぎないようにする */
-@media (max-width: 800px) {
-  #nav { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
-  #nav::-webkit-scrollbar { display: none; }
-}
