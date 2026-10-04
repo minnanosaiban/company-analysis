@@ -27,7 +27,8 @@
     "cash_end": 22801000000,
     "equity_ratio": 0.35,
     "roe": 0.101,
-    "per": 11.95
+    "per": 11.95,
+    "net_sales": 529609000000
   },
   "segments": [],
   "_source": {

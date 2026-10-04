@@ -24,7 +24,8 @@
     "total_assets": 3477382000000,
     "bps": 4461.46,
     "cash_end": 210045000000,
-    "equity_ratio": 0.245
+    "equity_ratio": 0.245,
+    "net_sales": 920046000000
   },
   "segments": [],
   "_source": {

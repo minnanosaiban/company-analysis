@@ -25,7 +25,8 @@
     "bps": 1109.14,
     "cash_end": 70820000000,
     "equity_ratio": 0.366,
-    "roe": -0.078
+    "roe": -0.078,
+    "net_sales": 295729000000
   },
   "segments": [],
   "_source": {

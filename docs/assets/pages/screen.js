@@ -183,7 +183,7 @@ function renderResults(el, ctx, filtered, targetCount, offset) {
         <span class="muted small">${((pg - 1) * PAGE_SIZE + 1).toLocaleString()}〜${Math.min(pg * PAGE_SIZE, sorted.length).toLocaleString()}件 ／ ${sorted.length.toLocaleString()}件（${pg}/${pages}ページ）</span>
         <button class="btn" data-pg="${pg + 1}" ${pg >= pages ? 'disabled' : ''}>次へ →</button>
       </div>
-      <p class="muted small">「売上」は、売上を持たない業種（銀行・保険・証券など）では空欄です。「個別」は、連結財務諸表を作らない会社で、連結の会社とは基準が異なります。
+      <p class="muted small">「売上」は、売上高・売上収益・営業収益のいずれかです。売上を持たない業種（銀行・保険・証券など）では空欄です。「個別」は、連結財務諸表を作らない会社で、連結の会社とは基準が異なります。
         見出しをクリックすると並べ替えられます。</p>`
       : '<div class="empty">条件に合う会社がありません。条件をゆるめるか、対象の会社を広げてください。</div>'}`;
 

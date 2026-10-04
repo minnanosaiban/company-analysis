@@ -42,7 +42,8 @@
     "trade_payables": 55644000000,
     "goodwill": 5689000000,
     "treasury_stock": -20774000000,
-    "noncontrolling_interests": 129008000000
+    "noncontrolling_interests": 129008000000,
+    "net_sales": 1182260000000
   },
   "segments": [
     {

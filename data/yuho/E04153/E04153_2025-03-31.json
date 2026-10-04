@@ -40,7 +40,8 @@
     "trade_payables": 1002000000,
     "ppe": 1543577000000,
     "intangible_assets": 101200000000,
-    "investment_securities": 5240000000
+    "investment_securities": 5240000000,
+    "net_sales": 407832000000
   },
   "segments": [
     {

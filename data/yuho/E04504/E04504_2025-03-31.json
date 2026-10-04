@@ -41,7 +41,8 @@
     "inventories": 85892000000,
     "trade_payables": 117709000000,
     "treasury_stock": -39588000000,
-    "noncontrolling_interests": -1670000000
+    "noncontrolling_interests": -1670000000,
+    "net_sales": 1529218000000
   },
   "segments": [
     {

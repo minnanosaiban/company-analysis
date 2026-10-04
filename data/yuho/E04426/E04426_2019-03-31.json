@@ -26,7 +26,8 @@
     "operating_cf": 965526000000,
     "investing_cf": -586272000000,
     "financing_cf": -429158000000,
-    "cash_end": 938388000000
+    "cash_end": 938388000000,
+    "net_sales": 4656815000000
   },
   "segments": [],
   "_source": {
