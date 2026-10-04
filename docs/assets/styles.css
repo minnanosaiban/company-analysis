@@ -180,25 +180,25 @@ body.embed #app { padding-top: 1rem; }
 select { max-width: 100%; }
 .ctl-row > div { max-width: 100%; }
 
-/* タップしやすさ: スマホ・タブレット（狭い画面、またはタッチ操作）では、押す所を 44px 以上にする */
-@media (max-width: 800px), (pointer: coarse) {
-  .btn, #nav a, .suggest li button { min-height: 44px; }
-  .btn { display: inline-flex; align-items: center; justify-content: center; }
-  .btn.link { padding: .2rem .6rem; }
-  #nav a { display: inline-flex; align-items: center; white-space: nowrap; }
-  /* ナビは1行の横スクロールにして、固定ヘッダが画面を占めすぎないようにする */
+/* タップしやすさ: 押す所は、画面の幅・操作の種類によらず 44px 以上にする */
+.btn, #nav a, .suggest li button { min-height: 44px; }
+.btn { display: inline-flex; align-items: center; justify-content: center; }
+.btn.link { padding: .2rem .6rem; }
+#nav a { display: inline-flex; align-items: center; white-space: nowrap; }
+.suggest li button { display: flex; align-items: center; }
+input[type="text"], input[type="search"], input[type="number"], select { min-height: 44px; }
+.check { min-height: 44px; }
+.check input { width: 1.15rem; height: 1.15rem; }
+.ind-grid { gap: 0 .8rem; }
+/* チップの「×」は、見た目を変えずに、押せる範囲だけ広げる */
+.chips { gap: .6rem; }
+.chip button { position: relative; }
+.chip button::after { content: ''; position: absolute; inset: -14px -10px; }
+/* 開閉の見出し・並べ替えの見出し */
+.panel > summary { display: flex; align-items: center; min-height: 44px; list-style: none; }
+table.data th[data-sort] { height: 44px; }
+/* 狭い画面: ナビは1行の横スクロールにして、固定ヘッダが画面を占めすぎないようにする */
+@media (max-width: 800px) {
   #nav { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
   #nav::-webkit-scrollbar { display: none; }
-  .suggest li button { display: flex; align-items: center; }
-  input[type="text"], input[type="search"], input[type="number"], select { min-height: 44px; }
-  .check { min-height: 44px; }
-  .check input { width: 1.15rem; height: 1.15rem; }
-  .ind-grid { gap: 0 .8rem; }
-  /* チップの「×」は、見た目を変えずに、押せる範囲だけ広げる */
-  .chips { gap: .6rem; }
-  .chip button { position: relative; }
-  .chip button::after { content: ''; position: absolute; inset: -14px -10px; }
-  /* 開閉の見出し・並べ替えの見出し */
-  .panel > summary { display: flex; align-items: center; min-height: 44px; list-style: none; }
-  table.data th[data-sort] { height: 44px; }
 }
